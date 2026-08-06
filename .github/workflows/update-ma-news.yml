@@ -1,0 +1,35 @@
+name: Update M&A news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test M&A headline filter
+        run: python scripts/test_news_filter.py
+      - name: Fetch recent M&A headlines
+        run: python scripts/update_news.py
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated-deals.js
+          if git diff --cached --quiet; then
+            echo "No news changes to commit."
+          else
+            git commit -m "chore: refresh M&A news"
+            git push
+          fi
