@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-516dedf21ffd",
+    "id": "news-4d8c8a4bf0fd",
     "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T11:53:41+00:00",
-    "acquirer": "Prologis to",
-    "target": "U.K.’s Segro",
-    "headline": "Prologis to Buy U.K.’s Segro for $18.8 Billion",
-    "valueBillions": 18.8,
+    "publishedISO": "2026-08-07T13:39:53+00:00",
+    "acquirer": "Carlyle",
+    "target": "Minority Ownership of Prime Capital Financial",
+    "headline": "Carlyle Acquires Minority Ownership of Prime Capital Financial",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Prologis to Buy U.K.’s Segro for $18.8 Billion WSJ",
+    "sourceName": "planadviser",
+    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,82 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0NKYllDTVpqNkIyeGU5N2hnR1JqOVVMRHVkVmhkVXNKcXRJYllCTUhURGpGTVRUOUNXeVN3aGpWd05XbG43LU1HRVAxRXA3aE5SajdPWUhZZGZvRURSU1o2NDVaTzB5Y3Q3UzlSX3RIendOTXJ1OG5MWDRPczFnVTdXY2g0UjMtSDFZd2k0N1FlQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5946a21b07a1",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T11:51:00+00:00",
-    "acquirer": "Dream Finders to",
-    "target": "Beazer",
-    "headline": "Dream Finders to Buy Beazer for $915 Million",
-    "valueBillions": 0.915,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Dream Finders to Buy Beazer for $915 Million WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXZULTd2UUdvc19vTE1qZmZjbXlTZ2xCcF9RdXBiTlZiOHBDWnZDMVNsYjZUX1lpYVpXZTZaMERTeVFYNTd4MXlyRktDRWZfenRhQWkzcHVxTE1TUHJCY3ViejZyeUJlTjFMRmlRSkJmWmZRbTdHOU96S3lRNFR0aUotVjg2MFN1U2F5UndkMTY?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHcyZnZQejJSdkttdGxzcWszVUlpYzdMMzY4eVhYNWpETXNKZHpHb0FzTV9JcVZma3dTU2lsSnRmMkY2V3lGSkJPOUdRSG03ak9OTC1MRWphcEMxMG9tVkdNNmpWS3RaZHQzcVB5UU1Ccm5sLXUySzNsdkVPMEJGcDd5WE9mRl95WHpPTjFJUTVlM2lXa2c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3216dcffabd5",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T22:33:13+00:00",
-    "acquirer": "Acentra",
-    "target": "Maryland healthcare IT company, gaining 500 employees",
-    "headline": "Acentra acquires Maryland healthcare IT company, gaining 500 employees",
+    "id": "news-4407cfd079f4",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T02:24:49+00:00",
+    "acquirer": "Deadline to",
+    "target": "Tickets",
+    "headline": "Deadline to Buy Tickets for Texas Tech Game is Aug. 10",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Virginia Business",
-    "summary": "Acentra acquires Maryland healthcare IT company, gaining 500 employees Virginia Business",
+    "sourceName": "Abilene Christian Athletics",
+    "summary": "Deadline to Buy Tickets for Texas Tech Game is Aug. 10 Abilene Christian Athletics",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +183,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHgyR0RxVURRQ3d4LS1uTmlnZ293VHlnSXRIemttUXdjMXRVdHlnSDlkZkVNU3FjQmVOQTgxdGFNTDJ2T2thQm4tZG5QdFJBWUY1cC1GUmRaUE9NSDd1ZTlOMWZELTF3OGMzZWdhcHdLR0lVTUtSUFVkX0hkczU0WlFpaURKaWZFZnZiT2VkcndLTGdCMk16MUZUWHlqaWh5?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVFTZEVoZTJqX203ZHFkTTRCYnFzQ2o5ZjZnVTdwODB6cjBkd1lWT2swRUlLMG5PY3VpbG56aFAtWjJwVWJZMy14X2l0QkdIZEVYSllvN29GVDkyTWZrQURRQ2FPaE1CdXlhOVlPQjNZckk1Wjd2QVFLUXFRd1VHUElXdkZGd18ydUxjRkowOUE2cWxhbmF1OGtRY3g2eVk?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c87ef3878c1e",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T22:57:00+00:00",
+    "acquirer": "Nielsen to",
+    "target": "DoubleVerify",
+    "headline": "Nielsen to Buy DoubleVerify",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Nielsen to Buy DoubleVerify WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ec0t1Z0hYcEZuSzhlUkFmZkNaZjJxSkFwdkdhY29yYk9FQ0d1NXQwLXgtTzg2S255WTNNb2w4Nk9wcXUyWHJkejFtX1Y0clE4dkoyYnBBeGFNSGhQdlpqbzhiSFJFbmZEeERhSENhNG9YQ2tONTNVY3o3cw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-64df09d17677",
+    "id": "news-3216dcffabd5",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T22:23:25+00:00",
-    "acquirer": "Jim Cramer highlights 5 investing themes — and the stocks to",
-    "target": "for each",
-    "headline": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each",
+    "publishedISO": "2026-08-06T22:33:13+00:00",
+    "acquirer": "Acentra",
+    "target": "Maryland healthcare IT company, gaining 500 employees",
+    "headline": "Acentra acquires Maryland healthcare IT company, gaining 500 employees",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each CNBC",
+    "sourceName": "Virginia Business",
+    "summary": "Acentra acquires Maryland healthcare IT company, gaining 500 employees Virginia Business",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0M3YXhGbEQ1a2owUHBYMHpPX1FkYzhYNjVnRWRLNWRUb19aVHg0dkt6NWw1NXlPSU5WNExwMUV3TG00TmhrV3dtTEJLQmF4OW5vNUNQb2FINGJ5UkdUSkFuSnJHeWVDMzF4ZzJKTURLUll1czNWVHlkNVUzRjU3RFR4WlRVYk3SAYwBQVVfeXFMTlRmdmppRkx3N093a09OaHhBQkNDU25GREtvejFfaktNQkVhamZVUDlneWwxQ05PUXN4S2I2VHhMaGNtVFRoVzM2TEwxM0V0SjE1NE91V1I1RWZsZVNwVFRGY3hIbHZqTTVQMFJOb1g4Y2ttaUxZSkxpTVlVbWVLX3NvNGFyQVQ2bzVLcHk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHgyR0RxVURRQ3d4LS1uTmlnZ293VHlnSXRIemttUXdjMXRVdHlnSDlkZkVNU3FjQmVOQTgxdGFNTDJ2T2thQm4tZG5QdFJBWUY1cC1GUmRaUE9NSDd1ZTlOMWZELTF3OGMzZWdhcHdLR0lVTUtSUFVkX0hkczU0WlFpaURKaWZFZnZiT2VkcndLTGdCMk16MUZUWHlqaWh5?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-5be924762168",
+    "id": "news-dcf28a633c7b",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T17:04:00+00:00",
-    "acquirer": "The Farmer's Dog",
-    "target": "Woof, Extending Its Reach Beyond the Bowl",
-    "headline": "The Farmer's Dog Acquires Woof, Extending Its Reach Beyond the Bowl",
+    "publishedISO": "2026-08-06T20:54:41+00:00",
+    "acquirer": "Nielsen to",
+    "target": "DoubleVerify, Creating a Leading, Independent Media Intelligence Platform",
+    "headline": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "The Farmer's Dog Acquires Woof, Extending Its Reach Beyond the Bowl PR Newswire",
+    "sourceName": "Nielsen",
+    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform Nielsen",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWNjVG1SVDNoUGxxV0ljRDVxVnFHYzVhcWNXWFhZQ3dUZmhtNFlDbXk1WlQ1RFJ4RDNiaVc3d1JEd3NzUGdLcF82QzBEd1ptdkZSaTM0UUllOEdZcHozTDQ4RHJfM2NmOHVXVlpfQmwzenNGNFBfRDhoQ3NhaHF6TUNuR2R1VHhGMGRjU1pKdUtUQlFRcmVXMC1vVzdkRVBhNjV3UlpLWWtxWjV5bkxGYWhtX3JTU3E5S2tEa1hR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3ZqVVptQTJvc29ZV0pfdGNhZmxfcFROZ1hHY2RYOTFaal8zZFRNc3R1MTNpUUJwV0pmY0JLa0lCUmIyM2VsSFJWZ3RnbHBYWmIwdktTeXJmZUdZR3VSaTlhU3BzM0dEa19JM0RkTVNmcjNvNlphS1lzWkZGZUpzWG9XSXNYUlg3VWJhR0VGM21mN3pLS2FkRFRILUtURFZlMDhCb3RWQjNFVWZkWGx2YjhkTjVlVkVTX3RyWW1LRmo?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d8222cd1e337",
+    "id": "news-5be924762168",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T15:47:52+00:00",
-    "acquirer": "Tarsus Pharmaceuticals to",
-    "target": "Alkeus Pharmaceuticals",
-    "headline": "Tarsus Pharmaceuticals to Acquire Alkeus Pharmaceuticals",
+    "publishedISO": "2026-08-06T17:04:00+00:00",
+    "acquirer": "The Farmer's Dog",
+    "target": "Woof, Extending Its Reach Beyond the Bowl",
+    "headline": "The Farmer's Dog Acquires Woof, Extending Its Reach Beyond the Bowl",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Eyewire+",
-    "summary": "Tarsus Pharmaceuticals to Acquire Alkeus Pharmaceuticals Eyewire+",
+    "sourceName": "PR Newswire",
+    "summary": "The Farmer's Dog Acquires Woof, Extending Its Reach Beyond the Bowl PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnBOWUVOOEhTVktiY2hLVXBmTHVqelo2dHNqZE9UTTVjdGNBYkpGcS1IRlFfYzNpVFU4eTdwa0ZiZUVKYWJPRy0xWXVJeW15NG5PeTk2ZGNTNzRxdTk1MWlRVEYtRmZKa1JycXNucGl2MVB0SGhkYVVudzYta3pOV1l6WGtxZ0FDdVE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWNjVG1SVDNoUGxxV0ljRDVxVnFHYzVhcWNXWFhZQ3dUZmhtNFlDbXk1WlQ1RFJ4RDNiaVc3d1JEd3NzUGdLcF82QzBEd1ptdkZSaTM0UUllOEdZcHozTDQ4RHJfM2NmOHVXVlpfQmwzenNGNFBfRDhoQ3NhaHF6TUNuR2R1VHhGMGRjU1pKdUtUQlFRcmVXMC1vVzdkRVBhNjV3UlpLWWtxWjV5bkxGYWhtX3JTU3E5S2tEa1hR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,6 +751,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-8a1fe0bba191",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T04:00:00+00:00",
+    "acquirer": "Meridia",
+    "target": "a Landmark Flex Living Asset in Madrid from Bain Capital-led Consortium",
+    "headline": "Meridia Acquires a Landmark Flex Living Asset in Madrid from Bain Capital-led Consortium",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bain Capital",
+    "summary": "Meridia Acquires a Landmark Flex Living Asset in Madrid from Bain Capital-led Consortium Bain Capital",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX01hdWhGNnV1Q1p4NEF4MnpMLVdpbm8xYXB1YXc1YUtEZVdzMVA1UG5BbnlqdW9GVm1mLUNBVURxR2ZxU1NRM2lvaldBSzNwR1JBNUdVcGRBVjlyVTVyS0JxekNiMzh6cndzOHI0SVpYV3V2aU13YWVtZ3FjNTM2YVBTS215RmFYWmJHdTdZNm9XNTVuSnhrYm9GQm5jV3BDSFh2ZTZET05mX1puQUtLTQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-37e331723075",
     "date": "August 5, 2026",
     "publishedISO": "2026-08-05T21:02:21+00:00",
@@ -901,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-0a8815c9a6f6",
+    "date": "August 5, 2026",
+    "publishedISO": "2026-08-05T11:20:00+00:00",
+    "acquirer": "Hinge Health to",
+    "target": "Cylinder Health",
+    "headline": "Hinge Health to acquire Cylinder Health in a $105M deal to expand into gastrointestinal care",
+    "valueBillions": 0.105,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Healthcare",
+    "summary": "Hinge Health to acquire Cylinder Health in a $105M deal to expand into gastrointestinal care Fierce Healthcare",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObm1qWWNnUDdDV0VRSmFnZEN0MVNpbFB0dnkxQ2hPRE5uWExiQzVzSzlvdExuemtoZHN0akJYZUpZNGhOWXVDcDhnOEY1dEE1dnc2emRLTFZTeHVnN1dYQ2tfZ05rdVNPTkhKY0RzcDdhQzR4YkVKZE1GRjNKQ3d6aTQ3VFY4OHVrZ3NiMTYxd29aQTVMdm52a2ZtT3gtREViRFBPR3dza2gzMjJ5QzdaRGtnU280MGhzZGJhOUM5RQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-09a8e28b8e37",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T20:05:00+00:00",
@@ -1009,6 +1159,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3hTZXV6Wk5vNUZOeFJSY0J2d0Rqd1p3cUJOR2R6UldRSUd5TkZ5TDZnYzRMUzk2Nm11M1U3c3ZFNnVWVlJGS3dFdzdmZ2JNc25VY1VJRjhZN0g4MGNCOG80UC1xNmJTMnBZUnJkenFfTWlfNmJBNFkweWZOR1ZOZDFWOWlEOC1nRG9TZTIxWlhoTEVieE9JcEVReDA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-cf5e462b91ec",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T14:39:34+00:00",
+    "acquirer": "Bending Spoons",
+    "target": "Airtable",
+    "headline": "Bending Spoons agrees to buy Airtable",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "Bending Spoons agrees to buy Airtable Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qaHdsZ1ZyVlh5UHFVUnhOYzVjSnBaOUhhNGFCaGRoWjR5RGpfdjhPVEZ2ajNvLThXSDF5bU81OEtwQmQ3U29HYVEweFk0QmQ2emdLajQ5Z3lxLXo5TzU1VDlpYzNVZUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,81 +1876,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a7ce653bb38f",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T10:45:00+00:00",
-    "acquirer": "Brookfield",
-    "target": "Oaktree",
-    "headline": "Brookfield Completes Acquisition of Oaktree",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Brookfield Completes Acquisition of Oaktree Yahoo Finance",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONllCeU5Xcm9fS1Q0RmFrclgtaWZmcjY3aWN3WUZaaGY5U3c4RzRQb2FEWHhQSTdfX2tNVXY0R2JqYkRkM3ZMYjRvODJXNGMyaFlLeVVvYlhEUVVuODdVZ2pIYzlTZFdDRXRDek1uUkNvYTRXLWU2djRBZ1VrSGdUbVJ0anczLWlNSVRVMlF6anJCS2l3NjA4WHM2OTZLWURpaWhyMllBUkM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-e29461d5caef",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T06:54:34+00:00",
@@ -1965,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Prysmian",
-    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider Prysmian",
+    "sourceName": "prysmian.com",
+    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider prysmian.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NU9PNWFkWXBCU3lvSXRLTlE0d3N1UUdzLVdVV0JXUDNtYVlZN0t6ZzBfSDMxVEVsRlBuUFpfNnhscjBpUl90S1NlNHdzUDd0MEV2VDk5aDJNaVBwRjRubk8ySk9IdlRnVU5wZldXb1V5V0RyMnRsRg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6ff89ab27b1f",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T17:11:46+00:00",
-    "acquirer": "Schneider Electric to",
-    "target": "Grid Resilience Solutions Provider AiDASH",
-    "headline": "Schneider Electric to Acquire Grid Resilience Solutions Provider AiDASH for $350 Million",
-    "valueBillions": 0.35,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ESG Today",
-    "summary": "Schneider Electric to Acquire Grid Resilience Solutions Provider AiDASH for $350 Million ESG Today",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVURPMW5ZVmZhRXhKX2xXTkl4d0ItMXpERkpKQ2dSRUpKQW40a0lwbmkzbDEzcG1vQnhsVG1qMTlhd3BULVNYTmlCLURyRW9ueXA2RDN0MHBhWThyMTJNRXFaMXNIU0ZlSFJyNTlqaVROQ21yTGpzSVVaV0N1OVNpby1ZRlNIanJ3T2RMTDFvWFNvVTRuaVBFaElJR210cFAtR2pERE5TUDdYOWlKQUt6Rg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6eed61134cde",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T15:25:35+00:00",
-    "acquirer": "Couche-Tard to",
-    "target": "Poland's Zabka",
-    "headline": "Couche-Tard to buy Poland's Zabka for $8.7 billion in biggest-ever deal",
-    "valueBillions": 8.7,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Couche-Tard to buy Poland's Zabka for $8.7 billion in biggest-ever deal Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWldfUzZRRi1pWnRLaWp5aWdvdEU0NVJmUVF5MjdTUEU0VUh5QzFFNVItZGxFTmQ3SVVJTGRhM1RKSXJTa2E2OWFnLWlRTmRqRk4tVGNiaDdMN05qZTRRX1hwaG9NdkxxTHF5OGFhR0RvY1E1OWhtODN3MkhxOTlLXy0tWm5HdTBSdjl2WEF3X0NmNV9NM2pkbk1kd1B0MVY2WF9rZTNGSkNJQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
