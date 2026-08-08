@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-4d8c8a4bf0fd",
     "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T13:39:53+00:00",
+    "publishedISO": "2026-08-07T16:17:19+00:00",
     "acquirer": "Carlyle",
     "target": "Minority Ownership of Prime Capital Financial",
     "headline": "Carlyle Acquires Minority Ownership of Prime Capital Financial",
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "planadviser",
-    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser",
+    "sourceName": "planadviser.com",
+    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -189,81 +189,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c87ef3878c1e",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T22:57:00+00:00",
-    "acquirer": "Nielsen to",
-    "target": "DoubleVerify",
-    "headline": "Nielsen to Buy DoubleVerify",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Nielsen to Buy DoubleVerify WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ec0t1Z0hYcEZuSzhlUkFmZkNaZjJxSkFwdkdhY29yYk9FQ0d1NXQwLXgtTzg2S255WTNNb2w4Nk9wcXUyWHJkejFtX1Y0clE4dkoyYnBBeGFNSGhQdlpqbzhiSFJFbmZEeERhSENhNG9YQ2tONTNVY3o3cw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
       },
       {
         "stage": "Terms verified",
@@ -601,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f1f7d55dd3ce",
+    "id": "news-0edb844af53b",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T13:00:00+00:00",
-    "acquirer": "Emerson",
-    "target": "Glue Inc. to Accelerate AI-Driven Test & Measurement Innovation",
-    "headline": "Emerson Acquires Glue Inc. to Accelerate AI-Driven Test & Measurement Innovation",
+    "publishedISO": "2026-08-06T14:43:00+00:00",
+    "acquirer": "AXA XL to",
+    "target": "S-RM, a global corporate intelligence and cyber security consultancy",
+    "headline": "AXA XL to acquire S-RM, a global corporate intelligence and cyber security consultancy",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -616,7 +541,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "PR Newswire",
-    "summary": "Emerson Acquires Glue Inc. to Accelerate AI-Driven Test & Measurement Innovation PR Newswire",
+    "summary": "AXA XL to acquire S-RM, a global corporate intelligence and cyber security consultancy PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnNJaGpadkxSaVVZQnJ1bUF4YnVKUTd2Y0dpeVN4ZC1GcUh1NHp2XzZMZEFWdVB6VF81TnVIOTBVTWVIemhXd2tHTlMwRk9vQU9pSzg0d3dHUDAxajBHeENJZ0pOXzdEZVlBa1VjMHBRdElZUExFSzVBMkZmWEVxaloxc1h0bGw4UThJS2Vick5yOERlaF9CMVpqRVJPUmxDY08wcXBJUl9fRndXWVV2QjExaUJzVWJ3NDhBVlMxV0lLb2k4Y0d3bzVxNzhmSXc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZG0yQXZYMmw3MUJtb0JUeHJicjFGdWdvRjNZRU9GTUpGQnJGbXRYMnBkcjZSY0gyMGR2MGpYbExWTjV1b2NXbkdpbzNLYjFabjFESE8wQlRCV2ZqMGR0dmI4cmZjaG9RN2VOanBUSWxUUERsSmdEUzB0bmRvY1JLVHdKMklrb1gzWFJoZUZEcEVlVUE0ajFnVV9yQVJtTEtlWUs3TnBSMml0cjFYRF9pREpEUldWZDliSklTSHk4YTB3LWc3cDVZM1o5bzktNnBfRGZ2bEozTFQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -676,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1c8f3b27b4ac",
+    "id": "news-f1f7d55dd3ce",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T12:30:00+00:00",
-    "acquirer": "Lummus Technology",
-    "target": "Shell's Environmental Catalysts and Systems Assets in Strategic Portfolio Move",
-    "headline": "Lummus Technology Acquires Shell's Environmental Catalysts and Systems Assets in Strategic Portfolio Move",
+    "publishedISO": "2026-08-06T13:00:00+00:00",
+    "acquirer": "Emerson",
+    "target": "Glue Inc. to Accelerate AI-Driven Test & Measurement Innovation",
+    "headline": "Emerson Acquires Glue Inc. to Accelerate AI-Driven Test & Measurement Innovation",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -691,7 +616,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "PR Newswire",
-    "summary": "Lummus Technology Acquires Shell's Environmental Catalysts and Systems Assets in Strategic Portfolio Move PR Newswire",
+    "summary": "Emerson Acquires Glue Inc. to Accelerate AI-Driven Test & Measurement Innovation PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdTVrcjlVTm8xcnRPUzFyTG12b0JHM3dlWUNLZWlaYnJjRDFkdmlUR3VBZUFQcFdiMVFoZk05c2FiZy1iYk5qZjMzWnYxS2QyQ3BUamlHeUp1UTY2LUV5Tml4REJPa3BqOHRSODJUM1lWUjQzbGpZNGNpX1lUbGt2TllLTEpnUTlPR2xNNHV4aWVmQTNfR292ZF9LTTBOMXFCVDdLQmptc1ZobFI3bFJNZWlSRW51anRpOEdSZzlVUV84TDBMM0QzMzlTOUhyaTktekgtVnNRcXF4ZThYSDMzc2Y2R21jT1k1S3BtYy1pODJ3Zw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnNJaGpadkxSaVVZQnJ1bUF4YnVKUTd2Y0dpeVN4ZC1GcUh1NHp2XzZMZEFWdVB6VF81TnVIOTBVTWVIemhXd2tHTlMwRk9vQU9pSzg0d3dHUDAxajBHeENJZ0pOXzdEZVlBa1VjMHBRdElZUExFSzVBMkZmWEVxaloxc1h0bGw4UThJS2Vick5yOERlaF9CMVpqRVJPUmxDY08wcXBJUl9fRndXWVV2QjExaUJzVWJ3NDhBVlMxV0lLb2k4Y0d3bzVxNzhmSXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1009,6 +934,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObm1qWWNnUDdDV0VRSmFnZEN0MVNpbFB0dnkxQ2hPRE5uWExiQzVzSzlvdExuemtoZHN0akJYZUpZNGhOWXVDcDhnOEY1dEE1dnc2emRLTFZTeHVnN1dYQ2tfZ05rdVNPTkhKY0RzcDdhQzR4YkVKZE1GRjNKQ3d6aTQ3VFY4OHVrZ3NiMTYxd29aQTVMdm52a2ZtT3gtREViRFBPR3dza2gzMjJ5QzdaRGtnU280MGhzZGJhOUM5RQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-39e7407ccc5b",
+    "date": "August 5, 2026",
+    "publishedISO": "2026-08-05T10:45:00+00:00",
+    "acquirer": "Veritas Capital to",
+    "target": "Trinity Consultants",
+    "headline": "Veritas Capital to Acquire Trinity Consultants",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "Veritas Capital to Acquire Trinity Consultants Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlJiT29KRTdTai00eE8zU1Fkb3FhaTVBS19XZ0RDWU90N1dIQUQ0S1ZWR2h3RHFiQ0lHU2FNM2JveEFlY2g2VHY2Y2lkbmVocW90Z2ljcUdOT3doQzAxWU5iVEVIR1htSHU5WTh0UExFWEI0d24yZzQ2WEN6UVRtU1ZsQWlsUG9aTi1zN1RTalJORXlDOUhkS2tkSHFaREozU1lHbG13?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,6 +1501,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-516dedf21ffd",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T06:40:00+00:00",
+    "acquirer": "Prologis to",
+    "target": "U.K.’s Segro",
+    "headline": "Prologis to Buy U.K.’s Segro for $18.8 Billion",
+    "valueBillions": 18.8,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Prologis to Buy U.K.’s Segro for $18.8 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0NKYllDTVpqNkIyeGU5N2hnR1JqOVVMRHVkVmhkVXNKcXRJYllCTUhURGpGTVRUOUNXeVN3aGpWd05XbG43LU1HRVAxRXA3aE5SajdPWUhZZGZvRURSU1o2NDVaTzB5Y3Q3UzlSX3RIendOTXJ1OG5MWDRPczFnVTdXY2g0UjMtSDFZd2k0N1FlQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3dbd980fb9ff",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T15:45:00+00:00",
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams cnbc.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "prysmian.com",
-    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider prysmian.com",
+    "sourceName": "Prysmian",
+    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider Prysmian",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8a0cc4132276",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T19:22:00+00:00",
-    "acquirer": "Exclusive | KKR Near Deal to",
-    "target": "Integer Holdings",
-    "headline": "Exclusive | KKR Near Deal to Buy Integer Holdings",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | KKR Near Deal to Buy Integer Holdings WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NU9PNWFkWXBCU3lvSXRLTlE0d3N1UUdzLVdVV0JXUDNtYVlZN0t6ZzBfSDMxVEVsRlBuUFpfNnhscjBpUl90S1NlNHdzUDd0MEV2VDk5aDJNaVBwRjRubk8ySk9IdlRnVU5wZldXb1V5V0RyMnRsRg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
       },
       {
         "stage": "Terms verified",
