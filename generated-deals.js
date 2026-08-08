@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-b7a5598a0bcd",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T16:42:48+00:00",
+    "acquirer": "Nielsen to",
+    "target": "DoubleVerify",
+    "headline": "Nielsen to Acquire DoubleVerify for $2.15 Billion",
+    "valueBillions": 2.15,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "TVTechnology",
+    "summary": "Nielsen to Acquire DoubleVerify for $2.15 Billion TVTechnology",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW9fSlExakhnSjhJLS05WjlROHdiMHdTN3JLY01pQkRXZThiTnlmVGpGb0JMNDY1WC1aQkQ4N2ZPRldkVW9jWnJXeEJLZUJja1dYSDBuNFJZSnZtRnM4WDBNY0RXVk5iQjZneWpKUExMbVNHWHItYlJrdVp1cUIyR0tZamFBR1hkZjNmbXQxRXFZZUU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-4d8c8a4bf0fd",
     "date": "August 7, 2026",
     "publishedISO": "2026-08-07T16:17:19+00:00",
@@ -15,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "planadviser.com",
-    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser.com",
+    "sourceName": "planadviser",
+    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-13cfde86d69d",
+    "id": "news-64df09d17677",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T22:20:49+00:00",
-    "acquirer": "Biogen",
-    "target": "RayThera Inc.",
-    "headline": "Biogen Completes Acquisition of RayThera Inc.",
+    "publishedISO": "2026-08-06T22:23:25+00:00",
+    "acquirer": "Jim Cramer highlights 5 investing themes — and the stocks to",
+    "target": "for each",
+    "headline": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Biogen",
-    "summary": "Biogen Completes Acquisition of RayThera Inc. Biogen",
+    "sourceName": "CNBC",
+    "summary": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3F0NmVxZmRiQ21CSFlCU0ZiQWxtdEtSd1lwQXVQR2ZnQms5VmNmaWF3YnNkek1ULXhGZ0dqR2RfQ2dtVnd6Zy03ZEt4LVFQLTdsZVZfQTlmUkItMFhDSzhJWUhZQlZGOFNNZGU4ZHFsdm5yR0p5Q2FNNnUwOTJXQ3JTcFlXRWdnUGZwRmdnN3hsTTRTOHIxZ2wwTU8xS3pLRHMxT0praHk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0M3YXhGbEQ1a2owUHBYMHpPX1FkYzhYNjVnRWRLNWRUb19aVHg0dkt6NWw1NXlPSU5WNExwMUV3TG00TmhrV3dtTEJLQmF4OW5vNUNQb2FINGJ5UkdUSkFuSnJHeWVDMzF4ZzJKTURLUll1czNWVHlkNVUzRjU3RFR4WlRVYk3SAYwBQVVfeXFMTlRmdmppRkx3N093a09OaHhBQkNDU25GREtvejFfaktNQkVhamZVUDlneWwxQ05PUXN4S2I2VHhMaGNtVFRoVzM2TEwxM0V0SjE1NE91V1I1RWZsZVNwVFRGY3hIbHZqTTVQMFJOb1g4Y2ttaUxZSkxpTVlVbWVLX3NvNGFyQVQ2bzVLcHk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Nielsen",
-    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform Nielsen",
+    "sourceName": "nielsen.com",
+    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform nielsen.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -526,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0edb844af53b",
+    "id": "news-5ce0920f0346",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T14:43:00+00:00",
-    "acquirer": "AXA XL to",
-    "target": "S-RM, a global corporate intelligence and cyber security consultancy",
-    "headline": "AXA XL to acquire S-RM, a global corporate intelligence and cyber security consultancy",
+    "publishedISO": "2026-08-06T13:22:07+00:00",
+    "acquirer": "Beeline",
+    "target": "Blockchain Home Equity Partner TYTL",
+    "headline": "Beeline Moves To Acquire Blockchain Home Equity Partner TYTL",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "AXA XL to acquire S-RM, a global corporate intelligence and cyber security consultancy PR Newswire",
+    "sourceName": "National Mortgage Professional",
+    "summary": "Beeline Moves To Acquire Blockchain Home Equity Partner TYTL National Mortgage Professional",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZG0yQXZYMmw3MUJtb0JUeHJicjFGdWdvRjNZRU9GTUpGQnJGbXRYMnBkcjZSY0gyMGR2MGpYbExWTjV1b2NXbkdpbzNLYjFabjFESE8wQlRCV2ZqMGR0dmI4cmZjaG9RN2VOanBUSWxUUERsSmdEUzB0bmRvY1JLVHdKMklrb1gzWFJoZUZEcEVlVUE0ajFnVV9yQVJtTEtlWUs3TnBSMml0cjFYRF9pREpEUldWZDliSklTSHk4YTB3LWc3cDVZM1o5bzktNnBfRGZ2bEozTFQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0preWRwbmNOOTlsT2g3Q1NiLWRoREdMQzh0Slc0ZjJfYXBkMmNUalZ6bUtzNnBVWW12TXlNSjlQeEVFbkZEUHVfVGRmTWtiOGhQWVBuRGdHbTlBWnZUTFZNTmRJXzEtVVhKblhUQk1uSGFXb3VKLU1HU1R4LVVsX01LaDFjTU80bDJwT0lJNXVCQ2gyVTNmZ0tEaVJoUnhOZGZWQVpn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,81 +1501,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a8de8a40a691",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T11:00:00+00:00",
-    "acquirer": "The Hartford To",
-    "target": "Equitable’s Employee Benefits Business",
-    "headline": "The Hartford To Acquire Equitable’s Employee Benefits Business",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "The Hartford To Acquire Equitable’s Employee Benefits Business Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWTVqRjZqM3R0ZDA2OEZ0MTFNcDMzVDIwRTlQNUw3aUJfRUtuNVZTMXVzaTE4eDlxSExOMTA4RzhjejNrQ1hFNDZoQTVxbThSTC00aGxkaVF4UnhGMVZvWG5UTU5TN1ptaTRmT1cyRm94N2tabGJqSElFdjhJN0JWZ0RYX295V2RjdTZhUTJTQ0NSbWRTUk1aUDNFV3hxdHVJNER4YklPZlFfWDR2LXZNT0swa2FqWnBSbUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-516dedf21ffd",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T06:40:00+00:00",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Prysmian",
-    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider Prysmian",
+    "sourceName": "prysmian.com",
+    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider prysmian.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
