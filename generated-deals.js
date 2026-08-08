@@ -151,6 +151,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5946a21b07a1",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T11:51:00+00:00",
+    "acquirer": "Dream Finders to",
+    "target": "Beazer",
+    "headline": "Dream Finders to Buy Beazer for $915 Million",
+    "valueBillions": 0.915,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Dream Finders to Buy Beazer for $915 Million WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXZULTd2UUdvc19vTE1qZmZjbXlTZ2xCcF9RdXBiTlZiOHBDWnZDMVNsYjZUX1lpYVpXZTZaMERTeVFYNTd4MXlyRktDRWZfenRhQWkzcHVxTE1TUHJCY3ViejZyeUJlTjFMRmlRSkJmWmZRbTdHOU96S3lRNFR0aUotVjg2MFN1U2F5UndkMTY?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0fc4712d1c9f",
     "date": "August 7, 2026",
     "publishedISO": "2026-08-07T10:40:32+00:00",
@@ -184,6 +259,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZzVvazB5ZmJxbk1NMHlpS2RIWGtiN3ZlUFVTYkl2cWNhTjA3YUN4YV9yUG5ocUtkcDFxR3Nic1FHNFBMT0tMajZaZjIzNnB4Wmk5TjlJazFma21IRVFkX1phX2lUMDY0SUMxU3JGMEZjM205VktwN29IaGlrMURnQkVBcjlFWGNBcmVhLXpRemFKeEpHc3NrZ3ZDYmtJaG93bGk2S2FveloyM1FkVktNNnY2emZfbUhpSmJycV9hX3dpckdsMUloNjlKUFE3NmNNSGZucG1tdWhXVTR0N2o2YktB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d31f9a34bdaa",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T03:27:40+00:00",
+    "acquirer": "iRhythm to",
+    "target": "VitalConnect",
+    "headline": "iRhythm to buy VitalConnect for $287.5M after Street-beating Q2",
+    "valueBillions": 0.287,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MassDevice",
+    "summary": "iRhythm to buy VitalConnect for $287.5M after Street-beating Q2 MassDevice",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ2lrQ1dlWTBKbUhLLWtqLV83YWFtUVM3VGdrUXlZeHlWMEZ3ajF5WHRETi04Mks2a011X2F4akhKUmJBa3NfRTZJLXlBZmtwWmllR2NHTnlLZVZFR3B5R3FGWWRENXJMNFhlcTZGN0VzTzRrcXloYXU2UkM1NHBoQjhScnRVSUhQWHgyYjl2RVR1dGxO?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-64df09d17677",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T22:23:25+00:00",
-    "acquirer": "Jim Cramer highlights 5 investing themes — and the stocks to",
-    "target": "for each",
-    "headline": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0M3YXhGbEQ1a2owUHBYMHpPX1FkYzhYNjVnRWRLNWRUb19aVHg0dkt6NWw1NXlPSU5WNExwMUV3TG00TmhrV3dtTEJLQmF4OW5vNUNQb2FINGJ5UkdUSkFuSnJHeWVDMzF4ZzJKTURLUll1czNWVHlkNVUzRjU3RFR4WlRVYk3SAYwBQVVfeXFMTlRmdmppRkx3N093a09OaHhBQkNDU25GREtvejFfaktNQkVhamZVUDlneWwxQ05PUXN4S2I2VHhMaGNtVFRoVzM2TEwxM0V0SjE1NE91V1I1RWZsZVNwVFRGY3hIbHZqTTVQMFJOb1g4Y2ttaUxZSkxpTVlVbWVLX3NvNGFyQVQ2bzVLcHk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-dcf28a633c7b",
     "date": "August 6, 2026",
     "publishedISO": "2026-08-06T20:54:41+00:00",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nielsen.com",
-    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform nielsen.com",
+    "sourceName": "Nielsen",
+    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform Nielsen",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1501,81 +1576,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-516dedf21ffd",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T06:40:00+00:00",
-    "acquirer": "Prologis to",
-    "target": "U.K.’s Segro",
-    "headline": "Prologis to Buy U.K.’s Segro for $18.8 Billion",
-    "valueBillions": 18.8,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Prologis to Buy U.K.’s Segro for $18.8 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0NKYllDTVpqNkIyeGU5N2hnR1JqOVVMRHVkVmhkVXNKcXRJYllCTUhURGpGTVRUOUNXeVN3aGpWd05XbG43LU1HRVAxRXA3aE5SajdPWUhZZGZvRURSU1o2NDVaTzB5Y3Q3UzlSX3RIendOTXJ1OG5MWDRPczFnVTdXY2g0UjMtSDFZd2k0N1FlQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-3dbd980fb9ff",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T15:45:00+00:00",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "prysmian.com",
-    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider prysmian.com",
+    "sourceName": "Prysmian",
+    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider Prysmian",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
