@@ -151,6 +151,156 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-8741d2ef2b62",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T16:13:58+00:00",
+    "acquirer": "How BC Partners is using losses to",
+    "target": "companies",
+    "headline": "How BC Partners is using losses to buy companies",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "How BC Partners is using losses to buy companies Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pd3RCMDc2dU9WMGNqY3Q4M1lSd2F1Xy03VGR3NGVLZEh3V0RwTFFzY0syemFOOEdzbEpHZVJ4LTRlYzYyMnRoUVJjV1Bob2JGcTVOZDBZejFRdDdNNzR1S3lmWmdCMFBueXViYndhOA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b3a89f5e480a",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T15:43:15+00:00",
+    "acquirer": "Arko Corp. Subsidiary",
+    "target": "U.S. Petroleum Partners",
+    "headline": "Arko Corp. Subsidiary Acquires U.S. Petroleum Partners",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NACS",
+    "summary": "Arko Corp. Subsidiary Acquires U.S. Petroleum Partners NACS",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUFEaDFlV0hzUndKSm5iRTh4RnBuYnlHS1BUaGwzQ2FQVG9iZGFEU2RxV1RXUnMwSGR1UWlfdl9nZkt5dllFY3NEME1tMkVSTXNNbk5TTW5kcHJjQWFhbWFPNFhldmxLalRsbXZ0NkE4M3VGZkRUT0NQb2s5Y0M2VzB5d0J3RVBkbllfbE9vd09ZM3dURXBROElZMVpRaDdTOFBXSWtBRmhSRWF0c3RXaWV3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5946a21b07a1",
     "date": "August 7, 2026",
     "publishedISO": "2026-08-07T11:51:00+00:00",
@@ -259,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZzVvazB5ZmJxbk1NMHlpS2RIWGtiN3ZlUFVTYkl2cWNhTjA3YUN4YV9yUG5ocUtkcDFxR3Nic1FHNFBMT0tMajZaZjIzNnB4Wmk5TjlJazFma21IRVFkX1phX2lUMDY0SUMxU3JGMEZjM205VktwN29IaGlrMURnQkVBcjlFWGNBcmVhLXpRemFKeEpHc3NrZ3ZDYmtJaG93bGk2S2FveloyM1FkVktNNnY2emZfbUhpSmJycV9hX3dpckdsMUloNjlKUFE3NmNNSGZucG1tdWhXVTR0N2o2YktB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d31f9a34bdaa",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T03:27:40+00:00",
-    "acquirer": "iRhythm to",
-    "target": "VitalConnect",
-    "headline": "iRhythm to buy VitalConnect for $287.5M after Street-beating Q2",
-    "valueBillions": 0.287,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MassDevice",
-    "summary": "iRhythm to buy VitalConnect for $287.5M after Street-beating Q2 MassDevice",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ2lrQ1dlWTBKbUhLLWtqLV83YWFtUVM3VGdrUXlZeHlWMEZ3ajF5WHRETi04Mks2a011X2F4akhKUmJBa3NfRTZJLXlBZmtwWmllR2NHTnlLZVZFR3B5R3FGWWRENXJMNFhlcTZGN0VzTzRrcXloYXU2UkM1NHBoQjhScnRVSUhQWHgyYjl2RVR1dGxO?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -634,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWNjVG1SVDNoUGxxV0ljRDVxVnFHYzVhcWNXWFhZQ3dUZmhtNFlDbXk1WlQ1RFJ4RDNiaVc3d1JEd3NzUGdLcF82QzBEd1ptdkZSaTM0UUllOEdZcHozTDQ4RHJfM2NmOHVXVlpfQmwzenNGNFBfRDhoQ3NhaHF6TUNuR2R1VHhGMGRjU1pKdUtUQlFRcmVXMC1vVzdkRVBhNjV3UlpLWWtxWjV5bkxGYWhtX3JTU3E5S2tEa1hR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5ce0920f0346",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T13:22:07+00:00",
-    "acquirer": "Beeline",
-    "target": "Blockchain Home Equity Partner TYTL",
-    "headline": "Beeline Moves To Acquire Blockchain Home Equity Partner TYTL",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "National Mortgage Professional",
-    "summary": "Beeline Moves To Acquire Blockchain Home Equity Partner TYTL National Mortgage Professional",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0preWRwbmNOOTlsT2g3Q1NiLWRoREdMQzh0Slc0ZjJfYXBkMmNUalZ6bUtzNnBVWW12TXlNSjlQeEVFbkZEUHVfVGRmTWtiOGhQWVBuRGdHbTlBWnZUTFZNTmRJXzEtVVhKblhUQk1uSGFXb3VKLU1HU1R4LVVsX01LaDFjTU80bDJwT0lJNXVCQ2gyVTNmZ0tEaVJoUnhOZGZWQVpn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
