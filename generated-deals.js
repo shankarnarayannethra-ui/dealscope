@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-7b6d93b5bdbf",
-    "date": "August 8, 2026",
-    "publishedISO": "2026-08-08T19:34:07+00:00",
-    "acquirer": "P&G",
-    "target": "Supplements Maker",
-    "headline": "P&G Agrees to Buy Supplements Maker for $3.8 Billion",
-    "valueBillions": 3.8,
+    "id": "news-081ce660849c",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T16:28:42+00:00",
+    "acquirer": "Harrow",
+    "target": "global rights to Tyrvaya",
+    "headline": "Harrow acquires global rights to Tyrvaya",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion WSJ",
+    "sourceName": "Optometry Times",
+    "summary": "Harrow acquires global rights to Tyrvaya Optometry Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3hTZXV6Wk5vNUZOeFJSY0J2d0Rqd1p3cUJOR2R6UldRSUd5TkZ5TDZnYzRMUzk2Nm11M1U3c3ZFNnVWVlJGS3dFdzdmZ2JNc25VY1VJRjhZN0g4MGNCOG80UC1xNmJTMnBZUnJkenFfTWlfNmJBNFkweWZOR1ZOZDFWOWlEOC1nRG9TZTIxWlhoTEVieE9JcEVReDA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnpqTDZMR3JUbnl5NGFrTGtvQmNqVU92bHNNbDZvYkpNRUNEUFVNZm9SNnpjcGRJWUhJLTk0dHBYX1d6UlJWdXBTOVpVTTNOaXN5czJmSzJkTUxmRlpFMWRuZ05TSnROSFB5ZVc1cWQyWk5sTTF0WEdTR2RhTk5qMHp3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 8, 2026"
+        "date": "Aug 7, 2026"
       },
       {
         "stage": "Terms verified",
@@ -151,81 +151,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b3a89f5e480a",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T15:43:15+00:00",
-    "acquirer": "Arko Corp. Subsidiary",
-    "target": "U.S. Petroleum Partners",
-    "headline": "Arko Corp. Subsidiary Acquires U.S. Petroleum Partners",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "convenience.org",
-    "summary": "Arko Corp. Subsidiary Acquires U.S. Petroleum Partners convenience.org",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUFEaDFlV0hzUndKSm5iRTh4RnBuYnlHS1BUaGwzQ2FQVG9iZGFEU2RxV1RXUnMwSGR1UWlfdl9nZkt5dllFY3NEME1tMkVSTXNNbk5TTW5kcHJjQWFhbWFPNFhldmxLalRsbXZ0NkE4M3VGZkRUT0NQb2s5Y0M2VzB5d0J3RVBkbllfbE9vd09ZM3dURXBROElZMVpRaDdTOFBXSWtBRmhSRWF0c3RXaWV3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-5946a21b07a1",
     "date": "August 7, 2026",
     "publishedISO": "2026-08-07T11:51:00+00:00",
@@ -240,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Dream Finders to Buy Beazer for $915 Million WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Dream Finders to Buy Beazer for $915 Million wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0fc4712d1c9f",
+    "id": "news-d73632862c6e",
     "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T10:40:32+00:00",
-    "acquirer": "Tragic Search Prompts Swanton Police to",
-    "target": "Off-Road Bikes DLA Disposition Services",
-    "headline": "Tragic Search Prompts Swanton Police to Acquire Off-Road Bikes DLA Disposition Services",
+    "publishedISO": "2026-08-07T11:26:21+00:00",
+    "acquirer": "Dream Finders to",
+    "target": "Beazer Homes in $2.2-billion deal",
+    "headline": "Dream Finders to buy Beazer Homes in $2.2-billion deal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "dla.mil",
-    "summary": "Tragic Search Prompts Swanton Police to Acquire Off-Road Bikes DLA Disposition Services dla.mil",
+    "sourceName": "Reuters",
+    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZzVvazB5ZmJxbk1NMHlpS2RIWGtiN3ZlUFVTYkl2cWNhTjA3YUN4YV9yUG5ocUtkcDFxR3Nic1FHNFBMT0tMajZaZjIzNnB4Wmk5TjlJazFma21IRVFkX1phX2lUMDY0SUMxU3JGMEZjM205VktwN29IaGlrMURnQkVBcjlFWGNBcmVhLXpRemFKeEpHc3NrZ3ZDYmtJaG93bGk2S2FveloyM1FkVktNNnY2emZfbUhpSmJycV9hX3dpckdsMUloNjlKUFE3NmNNSGZucG1tdWhXVTR0N2o2YktB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2x2eWs1RThmWlo2QjRKSjZVM2VSQ21xU2hVVS11dzZYWDhYcVc2Y1FXSzRFYXhHb0tzR19wODQ4TU5tdEFjU09HUDM4aFJILUhxNmFKU2pOMHdyTVJ5V3BtWFBTWkFmVjV4dVBzVXBVcGNHLUJmaVd5OExfa2tDOWIzMTJJT3ZuLTROQkY5c3NadU1uMng5SlRSS2Y?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -414,6 +339,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c87ef3878c1e",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T22:57:00+00:00",
+    "acquirer": "Nielsen to",
+    "target": "DoubleVerify",
+    "headline": "Nielsen to Buy DoubleVerify",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "wsj.com",
+    "summary": "Nielsen to Buy DoubleVerify wsj.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ec0t1Z0hYcEZuSzhlUkFmZkNaZjJxSkFwdkdhY29yYk9FQ0d1NXQwLXgtTzg2S255WTNNb2w4Nk9wcXUyWHJkejFtX1Y0clE4dkoyYnBBeGFNSGhQdlpqbzhiSFJFbmZEeERhSENhNG9YQ2tONTNVY3o3cw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
       },
       {
         "stage": "Terms verified",
@@ -601,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8741d2ef2b62",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T20:14:36+00:00",
-    "acquirer": "How BC Partners is using losses to",
-    "target": "companies",
-    "headline": "How BC Partners is using losses to buy companies",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "How BC Partners is using losses to buy companies Axios",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pd3RCMDc2dU9WMGNqY3Q4M1lSd2F1Xy03VGR3NGVLZEh3V0RwTFFzY0syemFOOEdzbEpHZVJ4LTRlYzYyMnRoUVJjV1Bob2JGcTVOZDBZejFRdDdNNzR1S3lmWmdCMFBueXViYndhOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-5be924762168",
     "date": "August 6, 2026",
     "publishedISO": "2026-08-06T17:04:00+00:00",
@@ -784,6 +709,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnNJaGpadkxSaVVZQnJ1bUF4YnVKUTd2Y0dpeVN4ZC1GcUh1NHp2XzZMZEFWdVB6VF81TnVIOTBVTWVIemhXd2tHTlMwRk9vQU9pSzg0d3dHUDAxajBHeENJZ0pOXzdEZVlBa1VjMHBRdElZUExFSzVBMkZmWEVxaloxc1h0bGw4UThJS2Vick5yOERlaF9CMVpqRVJPUmxDY08wcXBJUl9fRndXWVV2QjExaUJzVWJ3NDhBVlMxV0lLb2k4Y0d3bzVxNzhmSXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-034f347bd118",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T10:45:00+00:00",
+    "acquirer": "Veritas Capital to",
+    "target": "Saber Power Services",
+    "headline": "Veritas Capital to Acquire Saber Power Services",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "Veritas Capital to Acquire Saber Power Services Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0RtLXBmb0d3S2dnRFRWWkRkWGhmNGlMdFBEaVhyNGZYOC1rbGpvVWRqT1cxZmFwNThfYWV5b2NmbERZdGF4OTI1SE9qR1J2SXg4Z1hpcHZCeVJNaUxEY3c4YndYenh2dDM5bmtwTEJwaERYaFNtbkFmSkkxWU9ydXVibG80ZWdyRHFNX1F2QlRrc3Q2eHVTTmlEbF9jTmtTRHVpZnZwbw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,6 +1201,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-087701cc898c",
+    "date": "August 5, 2026",
+    "publishedISO": "2026-08-05T06:07:33+00:00",
+    "acquirer": "AllianzGI accelerates growth path in AP with agreement to",
+    "target": "UOB Asset Management",
+    "headline": "AllianzGI accelerates growth path in AP with agreement to acquire UOB Asset Management",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "allianzgi.com",
+    "summary": "AllianzGI accelerates growth path in AP with agreement to acquire UOB Asset Management allianzgi.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPREVPSDBuVWo1SHNJT3BTWmkzenVwc1JyWTlGWUljU19xNFhVb0lRSUs1V0g1UlhfYk1Oc3hHaEpLWUZrUTVCUHVhN001aFRyR0ZzM25fanZkRDhHbVRlRmlnQXRWR0RnV0p4R0thbXh2YklPUTYzQ2ZzaFBtWk9teFJubVN4Z21LbldvdXh3VXZmUGNRakpQXzVhRVpiS3ZCcVFISDg5bk5UMUpFZnl0ZWV4Y2xYbzVSR2ZHU1B6R3gzNzF5b2RjWTBFcC1kMUJmb1Rj?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-09a8e28b8e37",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T20:05:00+00:00",
@@ -1276,13 +1351,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cf5e462b91ec",
+    "id": "news-7b6d93b5bdbf",
     "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T14:39:34+00:00",
-    "acquirer": "Bending Spoons",
-    "target": "Airtable",
-    "headline": "Bending Spoons agrees to buy Airtable",
-    "valueBillions": null,
+    "publishedISO": "2026-08-04T16:53:00+00:00",
+    "acquirer": "P&G",
+    "target": "Supplements Maker",
+    "headline": "P&G Agrees to Buy Supplements Maker for $3.8 Billion",
+    "valueBillions": 3.8,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1290,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Axios",
-    "summary": "Bending Spoons agrees to buy Airtable Axios",
+    "sourceName": "wsj.com",
+    "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,7 +1383,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qaHdsZ1ZyVlh5UHFVUnhOYzVjSnBaOUhhNGFCaGRoWjR5RGpfdjhPVEZ2ajNvLThXSDF5bU81OEtwQmQ3U29HYVEweFk0QmQ2emdLajQ5Z3lxLXo5TzU1VDlpYzNVZUE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3hTZXV6Wk5vNUZOeFJSY0J2d0Rqd1p3cUJOR2R6UldRSUd5TkZ5TDZnYzRMUzk2Nm11M1U3c3ZFNnVWVlJGS3dFdzdmZ2JNc25VY1VJRjhZN0g4MGNCOG80UC1xNmJTMnBZUnJkenFfTWlfNmJBNFkweWZOR1ZOZDFWOWlEOC1nRG9TZTIxWlhoTEVieE9JcEVReDA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-510ecd89a22a",
+    "id": "news-cf5e462b91ec",
     "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T11:30:56+00:00",
-    "acquirer": "Bending Spoons to",
+    "publishedISO": "2026-08-04T14:39:34+00:00",
+    "acquirer": "Bending Spoons",
     "target": "Airtable",
-    "headline": "Bending Spoons to buy Airtable for $1.28B",
+    "headline": "Bending Spoons agrees to buy Airtable",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Bending Spoons to buy Airtable for $1.28B TechCrunch",
+    "sourceName": "Axios",
+    "summary": "Bending Spoons agrees to buy Airtable Axios",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEFhQ25HR2RDZkphVHFmTkNVMmxXZ1FiRFNpX2lRRmpJUkpaRFhzQUdoSWo1Rks4M3d3OFpCQkFRUVppd0k3X25YdkZ4U01Yd0ZFS1JhMHJ0ZEJDT2dxLXB6dWNyQ1RWU3plQ3F6bUVtZThJa0FFUXpxU3lHVi1CSw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qaHdsZ1ZyVlh5UHFVUnhOYzVjSnBaOUhhNGFCaGRoWjR5RGpfdjhPVEZ2ajNvLThXSDF5bU81OEtwQmQ3U29HYVEweFk0QmQ2emdLajQ5Z3lxLXo5TzU1VDlpYzNVZUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Long Island Business News",
-    "summary": "Long Island firm acquires Queens retail complex for $56M Long Island Business News",
+    "sourceName": "libn.com",
+    "summary": "Long Island firm acquires Queens retail complex for $56M libn.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Visa to Buy Fraud Defense Platform BioCatch in $2.4 Billion Deal WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Visa to Buy Fraud Defense Platform BioCatch in $2.4 Billion Deal wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "KKR to Buy Integer Holdings for $4.3 Billion in Cash WSJ",
+    "sourceName": "wsj.com",
+    "summary": "KKR to Buy Integer Holdings for $4.3 Billion in Cash wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1759,81 +1834,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bXQ4eGVhbVBxUl9QZkQ5TXp5UlBlQXBzeE0yb2tNTkxQOXM2cjhGMkFUUUE5Qmt1YjBaLTU1VDNwS1pXN0daa1Zuck5zd2xReVlXeFN0SXJQTVNMdkZmS2ExNVFYdmNUa3BKa3lJS1hiX09QdGI4NWxoSdIBgAFBVV95cUxOSzgzZGdnWVhZajdLeGM3REVSWFRaOFllSUlaSDQ4NlBVVk05MEFWNVJMTjU1WG8yaUxjeHpFYlpJbEVWUkZyZ3pDMHVmSEFvME5MRFZtMi1Pb3Vqa1FqaEhsc3EtdFg4MFROeGNka1ZTckJmRFZ6Y3JRYUp6Si1FRw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ccacb389c01f",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T13:35:00+00:00",
-    "acquirer": "Visa",
-    "target": "Israeli fraud prevention company BioCatch",
-    "headline": "Visa acquires Israeli fraud prevention company BioCatch for $2.4 billion",
-    "valueBillions": 2.4,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "calcalistech.com",
-    "summary": "Visa acquires Israeli fraud prevention company BioCatch for $2.4 billion calcalistech.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03U20wVnhlaXlDOXRWb2RFYllEeDJSU0M2Um5uM1VRV2lzcXZKcXB4dGpKSEFBWDM0Z09FMU1uNW5nVWJ3cnBYS3pmRzlXUW9XeHRjUnVrS2MxbkYzNVUwekVfMDJiLTV3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
