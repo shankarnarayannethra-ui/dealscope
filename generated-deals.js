@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-b7a5598a0bcd",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T16:42:48+00:00",
-    "acquirer": "Nielsen to",
-    "target": "DoubleVerify",
-    "headline": "Nielsen to Acquire DoubleVerify for $2.15 Billion",
-    "valueBillions": 2.15,
+    "id": "news-7b6d93b5bdbf",
+    "date": "August 8, 2026",
+    "publishedISO": "2026-08-08T19:34:07+00:00",
+    "acquirer": "P&G",
+    "target": "Supplements Maker",
+    "headline": "P&G Agrees to Buy Supplements Maker for $3.8 Billion",
+    "valueBillions": 3.8,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "TVTechnology",
-    "summary": "Nielsen to Acquire DoubleVerify for $2.15 Billion TVTechnology",
+    "sourceName": "WSJ",
+    "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW9fSlExakhnSjhJLS05WjlROHdiMHdTN3JLY01pQkRXZThiTnlmVGpGb0JMNDY1WC1aQkQ4N2ZPRldkVW9jWnJXeEJLZUJja1dYSDBuNFJZSnZtRnM4WDBNY0RXVk5iQjZneWpKUExMbVNHWHItYlJrdVp1cUIyR0tZamFBR1hkZjNmbXQxRXFZZUU?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3hTZXV6Wk5vNUZOeFJSY0J2d0Rqd1p3cUJOR2R6UldRSUd5TkZ5TDZnYzRMUzk2Nm11M1U3c3ZFNnVWVlJGS3dFdzdmZ2JNc25VY1VJRjhZN0g4MGNCOG80UC1xNmJTMnBZUnJkenFfTWlfNmJBNFkweWZOR1ZOZDFWOWlEOC1nRG9TZTIxWlhoTEVieE9JcEVReDA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 7, 2026"
+        "date": "Aug 8, 2026"
       },
       {
         "stage": "Terms verified",
@@ -109,81 +109,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHcyZnZQejJSdkttdGxzcWszVUlpYzdMMzY4eVhYNWpETXNKZHpHb0FzTV9JcVZma3dTU2lsSnRmMkY2V3lGSkJPOUdRSG03ak9OTC1MRWphcEMxMG9tVkdNNmpWS3RaZHQzcVB5UU1Ccm5sLXUySzNsdkVPMEJGcDd5WE9mRl95WHpPTjFJUTVlM2lXa2c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8741d2ef2b62",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T16:13:58+00:00",
-    "acquirer": "How BC Partners is using losses to",
-    "target": "companies",
-    "headline": "How BC Partners is using losses to buy companies",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "How BC Partners is using losses to buy companies Axios",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pd3RCMDc2dU9WMGNqY3Q4M1lSd2F1Xy03VGR3NGVLZEh3V0RwTFFzY0syemFOOEdzbEpHZVJ4LTRlYzYyMnRoUVJjV1Bob2JGcTVOZDBZejFRdDdNNzR1S3lmWmdCMFBueXViYndhOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,6 +451,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-c87ef3878c1e",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T22:57:00+00:00",
+    "acquirer": "Nielsen to",
+    "target": "DoubleVerify",
+    "headline": "Nielsen to Buy DoubleVerify",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Nielsen to Buy DoubleVerify WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ec0t1Z0hYcEZuSzhlUkFmZkNaZjJxSkFwdkdhY29yYk9FQ0d1NXQwLXgtTzg2S255WTNNb2w4Nk9wcXUyWHJkejFtX1Y0clE4dkoyYnBBeGFNSGhQdlpqbzhiSFJFbmZEeERhSENhNG9YQ2tONTNVY3o3cw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3216dcffabd5",
     "date": "August 6, 2026",
     "publishedISO": "2026-08-06T22:33:13+00:00",
@@ -634,6 +634,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3ZqVVptQTJvc29ZV0pfdGNhZmxfcFROZ1hHY2RYOTFaal8zZFRNc3R1MTNpUUJwV0pmY0JLa0lCUmIyM2VsSFJWZ3RnbHBYWmIwdktTeXJmZUdZR3VSaTlhU3BzM0dEa19JM0RkTVNmcjNvNlphS1lzWkZGZUpzWG9XSXNYUlg3VWJhR0VGM21mN3pLS2FkRFRILUtURFZlMDhCb3RWQjNFVWZkWGx2YjhkTjVlVkVTX3RyWW1LRmo?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8741d2ef2b62",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T20:14:36+00:00",
+    "acquirer": "How BC Partners is using losses to",
+    "target": "companies",
+    "headline": "How BC Partners is using losses to buy companies",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "How BC Partners is using losses to buy companies Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pd3RCMDc2dU9WMGNqY3Q4M1lSd2F1Xy03VGR3NGVLZEh3V0RwTFFzY0syemFOOEdzbEpHZVJ4LTRlYzYyMnRoUVJjV1Bob2JGcTVOZDBZejFRdDdNNzR1S3lmWmdCMFBueXViYndhOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1276,81 +1351,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7b6d93b5bdbf",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T16:53:00+00:00",
-    "acquirer": "P&G",
-    "target": "Supplements Maker",
-    "headline": "P&G Agrees to Buy Supplements Maker for $3.8 Billion",
-    "valueBillions": 3.8,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3hTZXV6Wk5vNUZOeFJSY0J2d0Rqd1p3cUJOR2R6UldRSUd5TkZ5TDZnYzRMUzk2Nm11M1U3c3ZFNnVWVlJGS3dFdzdmZ2JNc25VY1VJRjhZN0g4MGNCOG80UC1xNmJTMnBZUnJkenFfTWlfNmJBNFkweWZOR1ZOZDFWOWlEOC1nRG9TZTIxWlhoTEVieE9JcEVReDA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-cf5e462b91ec",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T14:39:34+00:00",
@@ -1426,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-19571ab5fce1",
+    "id": "news-510ecd89a22a",
     "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T12:00:00+00:00",
-    "acquirer": "Axum Capital Partners",
-    "target": "BARCODE",
-    "headline": "Axum Capital Partners Announces Acquisition of BARCODE",
+    "publishedISO": "2026-08-04T11:30:56+00:00",
+    "acquirer": "Bending Spoons to",
+    "target": "Airtable",
+    "headline": "Bending Spoons to buy Airtable for $1.28B",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Axum Capital Partners Announces Acquisition of BARCODE Business Wire",
+    "sourceName": "TechCrunch",
+    "summary": "Bending Spoons to buy Airtable for $1.28B TechCrunch",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1458,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzdZNUxNUXg5ZHFrZzdyZHVrNXBZdkJIdGlCWDBCbWhXeGVtWGNmYVcwQ3JZN3RzY1hNME5MUV9LYlNXdUVvMlZPQzg3MjFYUk9MdDRXTzNJbXlZdm9WbzZQTTc1RVpHazludGQ4MHlqaHZXTjdDaVBLVWNfOHdJdlVKcVJhcnk0UmRuTHVrUW1YSmF5Z09jTXpRTkxEVlVrNENKck1CUXVKMlNsUTVsZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEFhQ25HR2RDZkphVHFmTkNVMmxXZ1FiRFNpX2lRRmpJUkpaRFhzQUdoSWo1Rks4M3d3OFpCQkFRUVppd0k3X25YdkZ4U01Yd0ZFS1JhMHJ0ZEJDT2dxLXB6dWNyQ1RWU3plQ3F6bUVtZThJa0FFUXpxU3lHVi1CSw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,12 +1501,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-510ecd89a22a",
+    "id": "news-a8de8a40a691",
     "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T11:30:56+00:00",
-    "acquirer": "Bending Spoons to",
-    "target": "Airtable",
-    "headline": "Bending Spoons to buy Airtable for $1.28B",
+    "publishedISO": "2026-08-04T11:00:00+00:00",
+    "acquirer": "The Hartford To",
+    "target": "Equitable’s Employee Benefits Business",
+    "headline": "The Hartford To Acquire Equitable’s Employee Benefits Business",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Bending Spoons to buy Airtable for $1.28B TechCrunch",
+    "sourceName": "Business Wire",
+    "summary": "The Hartford To Acquire Equitable’s Employee Benefits Business Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1533,7 +1533,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEFhQ25HR2RDZkphVHFmTkNVMmxXZ1FiRFNpX2lRRmpJUkpaRFhzQUdoSWo1Rks4M3d3OFpCQkFRUVppd0k3X25YdkZ4U01Yd0ZFS1JhMHJ0ZEJDT2dxLXB6dWNyQ1RWU3plQ3F6bUVtZThJa0FFUXpxU3lHVi1CSw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWTVqRjZqM3R0ZDA2OEZ0MTFNcDMzVDIwRTlQNUw3aUJfRUtuNVZTMXVzaTE4eDlxSExOMTA4RzhjejNrQ1hFNDZoQTVxbThSTC00aGxkaVF4UnhGMVZvWG5UTU5TN1ptaTRmT1cyRm94N2tabGJqSElFdjhJN0JWZ0RYX295V2RjdTZhUTJTQ0NSbWRTUk1aUDNFV3hxdHVJNER4YklPZlFfWDR2LXZNT0swa2FqWnBSbUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "TotalEnergies.com",
-    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R TotalEnergies.com",
+    "sourceName": "totalenergies.com",
+    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R totalenergies.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
