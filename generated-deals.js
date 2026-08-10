@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-7b6d93b5bdbf",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T04:02:00+00:00",
+    "acquirer": "P&G",
+    "target": "Supplements Maker",
+    "headline": "P&G Agrees to Buy Supplements Maker for $3.8 Billion",
+    "valueBillions": 3.8,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3hTZXV6Wk5vNUZOeFJSY0J2d0Rqd1p3cUJOR2R6UldRSUd5TkZ5TDZnYzRMUzk2Nm11M1U3c3ZFNnVWVlJGS3dFdzdmZ2JNc25VY1VJRjhZN0g4MGNCOG80UC1xNmJTMnBZUnJkenFfTWlfNmJBNFkweWZOR1ZOZDFWOWlEOC1nRG9TZTIxWlhoTEVieE9JcEVReDA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-85bc29bac1ac",
+    "date": "August 8, 2026",
+    "publishedISO": "2026-08-08T19:41:13+00:00",
+    "acquirer": "OpenAI",
+    "target": "presentation startup NextSlide",
+    "headline": "OpenAI acquires presentation startup NextSlide",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "TechCrunch",
+    "summary": "OpenAI acquires presentation startup NextSlide TechCrunch",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZQNkkzNmZqS00yNkN4LUtIbGxzSEI2ZzYzek5kWk5RNnVWWHc1djE4cXRGdkU2N0Rha3VySlZTRE0yZTZFY1M0UFFBcVBFS2V6MVBuT2U2Q21LX0pjQS1uYk9TWnNiaHRPeXpDNm9zdHZDa1ZPUHp2SlVKZ0s3Y1FQWXpJVjlJ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-4d8c8a4bf0fd",
     "date": "August 7, 2026",
     "publishedISO": "2026-08-07T16:17:19+00:00",
@@ -15,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "planadviser.com",
-    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser.com",
+    "sourceName": "planadviser",
+    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b3a89f5e480a",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T15:43:15+00:00",
+    "acquirer": "Arko Corp. Subsidiary",
+    "target": "U.S. Petroleum Partners",
+    "headline": "Arko Corp. Subsidiary Acquires U.S. Petroleum Partners",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NACS",
+    "summary": "Arko Corp. Subsidiary Acquires U.S. Petroleum Partners NACS",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUFEaDFlV0hzUndKSm5iRTh4RnBuYnlHS1BUaGwzQ2FQVG9iZGFEU2RxV1RXUnMwSGR1UWlfdl9nZkt5dllFY3NEME1tMkVSTXNNbk5TTW5kcHJjQWFhbWFPNFhldmxLalRsbXZ0NkE4M3VGZkRUT0NQb2s5Y0M2VzB5d0J3RVBkbllfbE9vd09ZM3dURXBROElZMVpRaDdTOFBXSWtBRmhSRWF0c3RXaWV3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5946a21b07a1",
     "date": "August 7, 2026",
     "publishedISO": "2026-08-07T11:51:00+00:00",
@@ -240,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -615,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Nielsen",
-    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform Nielsen",
+    "sourceName": "nielsen.com",
+    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform nielsen.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -634,6 +859,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3ZqVVptQTJvc29ZV0pfdGNhZmxfcFROZ1hHY2RYOTFaal8zZFRNc3R1MTNpUUJwV0pmY0JLa0lCUmIyM2VsSFJWZ3RnbHBYWmIwdktTeXJmZUdZR3VSaTlhU3BzM0dEa19JM0RkTVNmcjNvNlphS1lzWkZGZUpzWG9XSXNYUlg3VWJhR0VGM21mN3pLS2FkRFRILUtURFZlMDhCb3RWQjNFVWZkWGx2YjhkTjVlVkVTX3RyWW1LRmo?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8741d2ef2b62",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T20:14:36+00:00",
+    "acquirer": "How BC Partners is using losses to",
+    "target": "companies",
+    "headline": "How BC Partners is using losses to buy companies",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "axios.com",
+    "summary": "How BC Partners is using losses to buy companies axios.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pd3RCMDc2dU9WMGNqY3Q4M1lSd2F1Xy03VGR3NGVLZEh3V0RwTFFzY0syemFOOEdzbEpHZVJ4LTRlYzYyMnRoUVJjV1Bob2JGcTVOZDBZejFRdDdNNzR1S3lmWmdCMFBueXViYndhOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,6 +1126,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1c8f3b27b4ac",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T12:30:00+00:00",
+    "acquirer": "Lummus Technology",
+    "target": "Shell's Environmental Catalysts and Systems Assets in Strategic Portfolio Move",
+    "headline": "Lummus Technology Acquires Shell's Environmental Catalysts and Systems Assets in Strategic Portfolio Move",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Lummus Technology Acquires Shell's Environmental Catalysts and Systems Assets in Strategic Portfolio Move PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdTVrcjlVTm8xcnRPUzFyTG12b0JHM3dlWUNLZWlaYnJjRDFkdmlUR3VBZUFQcFdiMVFoZk05c2FiZy1iYk5qZjMzWnYxS2QyQ3BUamlHeUp1UTY2LUV5Tml4REJPa3BqOHRSODJUM1lWUjQzbGpZNGNpX1lUbGt2TllLTEpnUTlPR2xNNHV4aWVmQTNfR292ZF9LTTBOMXFCVDdLQmptc1ZobFI3bFJNZWlSRW51anRpOEdSZzlVUV84TDBMM0QzMzlTOUhyaTktekgtVnNRcXF4ZThYSDMzc2Y2R21jT1k1S3BtYy1pODJ3Zw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-37e331723075",
     "date": "August 5, 2026",
     "publishedISO": "2026-08-05T21:02:21+00:00",
@@ -915,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "techcrunch.com",
-    "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders techcrunch.com",
+    "sourceName": "TechCrunch",
+    "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders TechCrunch",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1276,81 +1651,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7b6d93b5bdbf",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T16:53:00+00:00",
-    "acquirer": "P&G",
-    "target": "Supplements Maker",
-    "headline": "P&G Agrees to Buy Supplements Maker for $3.8 Billion",
-    "valueBillions": 3.8,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3hTZXV6Wk5vNUZOeFJSY0J2d0Rqd1p3cUJOR2R6UldRSUd5TkZ5TDZnYzRMUzk2Nm11M1U3c3ZFNnVWVlJGS3dFdzdmZ2JNc25VY1VJRjhZN0g4MGNCOG80UC1xNmJTMnBZUnJkenFfTWlfNmJBNFkweWZOR1ZOZDFWOWlEOC1nRG9TZTIxWlhoTEVieE9JcEVReDA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-cf5e462b91ec",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T14:39:34+00:00",
@@ -1365,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Axios",
-    "summary": "Bending Spoons agrees to buy Airtable Axios",
+    "sourceName": "axios.com",
+    "summary": "Bending Spoons agrees to buy Airtable axios.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1909,306 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dUhrZTVJcTkzTFE1U1VBVzYxem9jc0RKSFMtank1RGZEN19EU1c5VElRaFRpU1I3blRkajNHd19IangyOHBJWUJTckdBOHN5U2owZkpOQWEycmlDdWpVNDBpWWR6TzA5?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e29461d5caef",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T06:54:34+00:00",
-    "acquirer": "Renewables in Europe: TotalEnergies",
-    "target": "Shell’s R",
-    "headline": "Renewables in Europe: TotalEnergies Acquires Shell’s R",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TotalEnergies.com",
-    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R TotalEnergies.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMnFFWFJqZkdKU0c4RjZBYmFtRDB0UGQ4Z3Zfc1NyVTNoVzJRdHJQNmJDRlZaZFRsc2xWRFo1bU1McWkyNnhjc0g1UGZ0aWw2NWxwUFpjZ1hDd2wxMzFLOUFaSndvc2k1QWRvaW10eEM4RjBEWXB3aEhGVXZsWXhQdlhnaXhPN1N2cVNQZ3I4aElqREVFT1k0QUh1VEhvcmliNjZlN0owY29xbm9GWC12TjBYY3dRcC1lNjNzSkxsb0tKdFNGckJrNkRkLUg3Q0VxWFR5em9kbXNBR09YcUFFSl9Id2EtdGZJeEMtbXhjcUE4LTVLNVd1aWQ3M3ZTdU90Ri10Mm4yZmxEUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fdf8d754c4f7",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T06:00:00+00:00",
-    "acquirer": "ASSA ABLOY to",
-    "target": "Gunnebo Entrance Control",
-    "headline": "ASSA ABLOY to acquire Gunnebo Entrance Control",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Assa Abloy",
-    "summary": "ASSA ABLOY to acquire Gunnebo Entrance Control Assa Abloy",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzMwenBTeXJQWkJMdEhJak9xREl6Q2ZNVkwyaE00aE5vTWhqQ1QwdmFwTXNQX1ctNXdzRkZqZGdocm9JbGRMdjhBNl9kcmtsa3VQNDRqdnEweTFPRG5OMURHajkyX0JNbElfWndJUjBLRXU5bV9EZDhsNjlGeDVUcGkzWlVEajA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7206a3b7addf",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T05:41:55+00:00",
-    "acquirer": "Prysmian strikes $3.8 billion deal to",
-    "target": "Atkore in US electrical push",
-    "headline": "Prysmian strikes $3.8 billion deal to buy Atkore in US electrical push",
-    "valueBillions": 3.8,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Prysmian strikes $3.8 billion deal to buy Atkore in US electrical push reuters.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1lhc0NXYmJCZk80bWRacmU4NkVRMXg5VHFUTTJTQy1OX3h1LXNpRDJjZ0ZiRE5OY2RTMkJOMzlhS21xSkRTOTlkX0x5RV9raEdXQVlRUEtaSmN5bUFBTGwyb01vZWN2c2wyWnRCQ2xEOElpdnZGZE9Mc19yVWFpaVNsbV9oOXFnVS1LUmxZV3JvUEk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3723204ad917",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T04:25:51+00:00",
-    "acquirer": "Prysmian to",
-    "target": "Atkore to become a fully-fledged electrical solutions provider",
-    "headline": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Prysmian",
-    "summary": "Prysmian to acquire Atkore to become a fully-fledged electrical solutions provider Prysmian",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGxDY1I1ekJkQlkzSXkzd1h1SVl1MHhUOUlwdVAxdGF6V3Baa2xaX0tBUlpjUDcwOC03VldzQ2ZDOFg2X2ZEeTlWWVhiSV95SDF2ZHVkOGJIT3RKX19McG0xQVkxWE02ckVNWmh2QTFsX3JyODM0NFluS3M4VjR2VTBrNW9obDBBa1owaE5wQl9KcjBBRERySWNFeHdlS1RuWUE4WE93bXhFTGxwNTR5Y1EwUGdQbDFveXNHVGpSaw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
