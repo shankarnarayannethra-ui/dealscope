@@ -1,81 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-081ce660849c",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T16:28:42+00:00",
-    "acquirer": "Harrow",
-    "target": "global rights to Tyrvaya",
-    "headline": "Harrow acquires global rights to Tyrvaya",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Optometry Times",
-    "summary": "Harrow acquires global rights to Tyrvaya Optometry Times",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnpqTDZMR3JUbnl5NGFrTGtvQmNqVU92bHNNbDZvYkpNRUNEUFVNZm9SNnpjcGRJWUhJLTk0dHBYX1d6UlJWdXBTOVpVTTNOaXN5czJmSzJkTUxmRlpFMWRuZ05TSnROSFB5ZVc1cWQyWk5sTTF0WEdTR2RhTk5qMHp3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-4d8c8a4bf0fd",
     "date": "August 7, 2026",
     "publishedISO": "2026-08-07T16:17:19+00:00",
@@ -90,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "planadviser",
-    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser",
+    "sourceName": "planadviser.com",
+    "summary": "Carlyle Acquires Minority Ownership of Prime Capital Financial planadviser.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-78902764b7ea",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T15:48:16+00:00",
+    "acquirer": "Spirit Halloween parent company to",
+    "target": "Hot Topic",
+    "headline": "Spirit Halloween parent company to acquire Hot Topic",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Retail Dive",
+    "summary": "Spirit Halloween parent company to acquire Hot Topic Retail Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXBSWkVrakJxcXlLSUdfcW9KLU9hU2toTkFKNy0wa1JrZWw3a3RQSUdtUnFjWlQzTTJxT0VwbWNpbFFGY29zbm5GQmNHWDVGQ2NCWW1FdVBlU0ZVYUxpa2cxYVduekZGMjcyb3dYNDl1Y1BPTTB2Z2plcXhSNHl0Qm5aQmhuaGMwSm81TEhXeUg2ZW1lYXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5946a21b07a1",
     "date": "August 7, 2026",
     "publishedISO": "2026-08-07T11:51:00+00:00",
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Dream Finders to Buy Beazer for $915 Million wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Dream Finders to Buy Beazer for $915 Million WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -259,6 +259,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2x2eWs1RThmWlo2QjRKSjZVM2VSQ21xU2hVVS11dzZYWDhYcVc2Y1FXSzRFYXhHb0tzR19wODQ4TU5tdEFjU09HUDM4aFJILUhxNmFKU2pOMHdyTVJ5V3BtWFBTWkFmVjV4dVBzVXBVcGNHLUJmaVd5OExfa2tDOWIzMTJJT3ZuLTROQkY5c3NadU1uMng5SlRSS2Y?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0fc4712d1c9f",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T10:40:32+00:00",
+    "acquirer": "Tragic Search Prompts Swanton Police to",
+    "target": "Off-Road Bikes DLA Disposition Services",
+    "headline": "Tragic Search Prompts Swanton Police to Acquire Off-Road Bikes DLA Disposition Services",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "dla.mil",
+    "summary": "Tragic Search Prompts Swanton Police to Acquire Off-Road Bikes DLA Disposition Services dla.mil",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZzVvazB5ZmJxbk1NMHlpS2RIWGtiN3ZlUFVTYkl2cWNhTjA3YUN4YV9yUG5ocUtkcDFxR3Nic1FHNFBMT0tMajZaZjIzNnB4Wmk5TjlJazFma21IRVFkX1phX2lUMDY0SUMxU3JGMEZjM205VktwN29IaGlrMURnQkVBcjlFWGNBcmVhLXpRemFKeEpHc3NrZ3ZDYmtJaG93bGk2S2FveloyM1FkVktNNnY2emZfbUhpSmJycV9hX3dpckdsMUloNjlKUFE3NmNNSGZucG1tdWhXVTR0N2o2YktB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c87ef3878c1e",
+    "id": "news-3216dcffabd5",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T22:57:00+00:00",
-    "acquirer": "Nielsen to",
-    "target": "DoubleVerify",
-    "headline": "Nielsen to Buy DoubleVerify",
+    "publishedISO": "2026-08-06T22:33:13+00:00",
+    "acquirer": "Acentra",
+    "target": "Maryland healthcare IT company, gaining 500 employees",
+    "headline": "Acentra acquires Maryland healthcare IT company, gaining 500 employees",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Nielsen to Buy DoubleVerify wsj.com",
+    "sourceName": "Virginia Business",
+    "summary": "Acentra acquires Maryland healthcare IT company, gaining 500 employees Virginia Business",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ec0t1Z0hYcEZuSzhlUkFmZkNaZjJxSkFwdkdhY29yYk9FQ0d1NXQwLXgtTzg2S255WTNNb2w4Nk9wcXUyWHJkejFtX1Y0clE4dkoyYnBBeGFNSGhQdlpqbzhiSFJFbmZEeERhSENhNG9YQ2tONTNVY3o3cw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHgyR0RxVURRQ3d4LS1uTmlnZ293VHlnSXRIemttUXdjMXRVdHlnSDlkZkVNU3FjQmVOQTgxdGFNTDJ2T2thQm4tZG5QdFJBWUY1cC1GUmRaUE9NSDd1ZTlOMWZELTF3OGMzZWdhcHdLR0lVTUtSUFVkX0hkczU0WlFpaURKaWZFZnZiT2VkcndLTGdCMk16MUZUWHlqaWh5?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3216dcffabd5",
+    "id": "news-aaa2dfa0c8d2",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T22:33:13+00:00",
-    "acquirer": "Acentra",
-    "target": "Maryland healthcare IT company, gaining 500 employees",
-    "headline": "Acentra acquires Maryland healthcare IT company, gaining 500 employees",
+    "publishedISO": "2026-08-06T21:24:56+00:00",
+    "acquirer": "Farmer's Dog",
+    "target": "Woof to expand into enrichment",
+    "headline": "Farmer's Dog acquires Woof to expand into enrichment",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Virginia Business",
-    "summary": "Acentra acquires Maryland healthcare IT company, gaining 500 employees Virginia Business",
+    "sourceName": "PetfoodIndustry",
+    "summary": "Farmer's Dog acquires Woof to expand into enrichment PetfoodIndustry",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHgyR0RxVURRQ3d4LS1uTmlnZ293VHlnSXRIemttUXdjMXRVdHlnSDlkZkVNU3FjQmVOQTgxdGFNTDJ2T2thQm4tZG5QdFJBWUY1cC1GUmRaUE9NSDd1ZTlOMWZELTF3OGMzZWdhcHdLR0lVTUtSUFVkX0hkczU0WlFpaURKaWZFZnZiT2VkcndLTGdCMk16MUZUWHlqaWh5?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHZKLWlkQTFfeTZaOWo2WGFVcUltSk1JZlJmNnRuLUsyZF9vU1lCTXhVXzYybXViWFhoS19pNjdHY0o5RVNoU2g0bUJ0MDZNSV9QeDNOSHRRUnFZOUgwSG83bGt5TF9RMG1rZ1NTQ3VCLW5TRW44MTV2OWdEaWl2QkN4SFNTMkU4RlRwVWxBelRBbGhQQ3NjNjR0a3hMSHVZR09vcW5ONjFyWjlwMV9aUUQxejVOalJrUmVUQkZNSmJsYS1TOWc4akRXc2JLT0VZeHZOOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,156 +826,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-034f347bd118",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T10:45:00+00:00",
-    "acquirer": "Veritas Capital to",
-    "target": "Saber Power Services",
-    "headline": "Veritas Capital to Acquire Saber Power Services",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Veritas Capital to Acquire Saber Power Services Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0RtLXBmb0d3S2dnRFRWWkRkWGhmNGlMdFBEaVhyNGZYOC1rbGpvVWRqT1cxZmFwNThfYWV5b2NmbERZdGF4OTI1SE9qR1J2SXg4Z1hpcHZCeVJNaUxEY3c4YndYenh2dDM5bmtwTEJwaERYaFNtbkFmSkkxWU9ydXVibG80ZWdyRHFNX1F2QlRrc3Q2eHVTTmlEbF9jTmtTRHVpZnZwbw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8a1fe0bba191",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T04:00:00+00:00",
-    "acquirer": "Meridia",
-    "target": "a Landmark Flex Living Asset in Madrid from Bain Capital-led Consortium",
-    "headline": "Meridia Acquires a Landmark Flex Living Asset in Madrid from Bain Capital-led Consortium",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Bain Capital",
-    "summary": "Meridia Acquires a Landmark Flex Living Asset in Madrid from Bain Capital-led Consortium Bain Capital",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX01hdWhGNnV1Q1p4NEF4MnpMLVdpbm8xYXB1YXc1YUtEZVdzMVA1UG5BbnlqdW9GVm1mLUNBVURxR2ZxU1NRM2lvaldBSzNwR1JBNUdVcGRBVjlyVTVyS0JxekNiMzh6cndzOHI0SVpYV3V2aU13YWVtZ3FjNTM2YVBTS215RmFYWmJHdTdZNm9XNTVuSnhrYm9GQm5jV3BDSFh2ZTZET05mX1puQUtLTQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-37e331723075",
     "date": "August 5, 2026",
     "publishedISO": "2026-08-05T21:02:21+00:00",
@@ -990,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders TechCrunch",
+    "sourceName": "techcrunch.com",
+    "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders techcrunch.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion wsj.com",
+    "sourceName": "WSJ",
+    "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "libn.com",
-    "summary": "Long Island firm acquires Queens retail complex for $56M libn.com",
+    "sourceName": "Long Island Business News",
+    "summary": "Long Island firm acquires Queens retail complex for $56M Long Island Business News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Visa to Buy Fraud Defense Platform BioCatch in $2.4 Billion Deal wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Visa to Buy Fraud Defense Platform BioCatch in $2.4 Billion Deal WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "KKR to Buy Integer Holdings for $4.3 Billion in Cash wsj.com",
+    "sourceName": "WSJ",
+    "summary": "KKR to Buy Integer Holdings for $4.3 Billion in Cash WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1834,6 +1759,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bXQ4eGVhbVBxUl9QZkQ5TXp5UlBlQXBzeE0yb2tNTkxQOXM2cjhGMkFUUUE5Qmt1YjBaLTU1VDNwS1pXN0daa1Zuck5zd2xReVlXeFN0SXJQTVNMdkZmS2ExNVFYdmNUa3BKa3lJS1hiX09QdGI4NWxoSdIBgAFBVV95cUxOSzgzZGdnWVhZajdLeGM3REVSWFRaOFllSUlaSDQ4NlBVVk05MEFWNVJMTjU1WG8yaUxjeHpFYlpJbEVWUkZyZ3pDMHVmSEFvME5MRFZtMi1Pb3Vqa1FqaEhsc3EtdFg4MFROeGNka1ZTckJmRFZ6Y3JRYUp6Si1FRw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ccacb389c01f",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T13:35:00+00:00",
+    "acquirer": "Visa",
+    "target": "Israeli fraud prevention company BioCatch",
+    "headline": "Visa acquires Israeli fraud prevention company BioCatch for $2.4 billion",
+    "valueBillions": 2.4,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "calcalistech.com",
+    "summary": "Visa acquires Israeli fraud prevention company BioCatch for $2.4 billion calcalistech.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03U20wVnhlaXlDOXRWb2RFYllEeDJSU0M2Um5uM1VRV2lzcXZKcXB4dGpKSEFBWDM0Z09FMU1uNW5nVWJ3cnBYS3pmRzlXUW9XeHRjUnVrS2MxbkYzNVUwekVfMDJiLTV3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Prysmian strikes $3.8 billion deal to buy Atkore in US electrical push Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Prysmian strikes $3.8 billion deal to buy Atkore in US electrical push reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
