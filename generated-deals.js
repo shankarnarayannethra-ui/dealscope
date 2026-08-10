@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-345f6a2c6c20",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T13:02:57+00:00",
+    "acquirer": "Archer to",
+    "target": "Boeing's Wisk and two units",
+    "headline": "Archer to acquire Boeing's Wisk and two units for near 20% equity stake",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Archer to acquire Boeing's Wisk and two units for near 20% equity stake Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWNZUFk4b3kwbU8zSXcwUmhWeEh4bHhuRVRtSUt6bXhOZlJPTzFkUGRfNUdXaHdXb3NROGlxcWNxQUtsUUh2SUtTb0lVN2NpU2FIUUJYV1dIRndBZG9aUFdxZ0h4cjc0bTRqWS1XQTZoUVZaYXRFNm9CQkFEOFlKMWRkeWdOYU82Sm1VUGdCcU9FOG9HVnAtd0MxM3N0Yi05UE9ZZWRkai02S2tWQjB1UlREQlBtemZMV2pIN01BbmNXaGJuVERr?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-578abd4d3220",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T11:30:00+00:00",
+    "acquirer": "Jazz Pharmaceuticals to",
+    "target": "Actio Biosciences, Expanding Rare Epilepsy Portfolio",
+    "headline": "Jazz Pharmaceuticals to Acquire Actio Biosciences, Expanding Rare Epilepsy Portfolio",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Jazz Pharmaceuticals to Acquire Actio Biosciences, Expanding Rare Epilepsy Portfolio PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWWFpOXM5dzMySkJRcUx4T0hMLVpGemlXWXEyZ09VRWdadHZIZlp5aGpfcmdNU0VmS0cxUTdoTFJCN3ZLSWNTUHpkRmNPaUxna0s2cXZ4MUxmMzlWc0FsYjd5TFhuNU1sX3dqb2x5VXZ0NEM3VV9TRXBrVG1SWmN5LTZNdFUwWU96REg2Ny1BRnVwQUxGUnJDZVRLd0ZnQ2F1ek05d19KQlo4VkNTT1g0U3gtdFZBa05tQ2RfcU9MRF9sLURXY2VVMlk5cVlhQ1pIbUhRWW1B?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7b6d93b5bdbf",
     "date": "August 10, 2026",
     "publishedISO": "2026-08-10T04:02:00+00:00",
@@ -114,6 +264,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-081ce660849c",
+    "date": "August 7, 2026",
+    "publishedISO": "2026-08-07T16:28:42+00:00",
+    "acquirer": "Harrow",
+    "target": "global rights to Tyrvaya",
+    "headline": "Harrow acquires global rights to Tyrvaya",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Optometry Times",
+    "summary": "Harrow acquires global rights to Tyrvaya Optometry Times",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnpqTDZMR3JUbnl5NGFrTGtvQmNqVU92bHNNbDZvYkpNRUNEUFVNZm9SNnpjcGRJWUhJLTk0dHBYX1d6UlJWdXBTOVpVTTNOaXN5czJmSzJkTUxmRlpFMWRuZ05TSnROSFB5ZVc1cWQyWk5sTTF0WEdTR2RhTk5qMHp3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 7, 2026"
       },
       {
         "stage": "Terms verified",
@@ -601,231 +826,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4407cfd079f4",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T02:24:49+00:00",
-    "acquirer": "Deadline to",
-    "target": "Tickets",
-    "headline": "Deadline to Buy Tickets for Texas Tech Game is Aug. 10",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Abilene Christian Athletics",
-    "summary": "Deadline to Buy Tickets for Texas Tech Game is Aug. 10 Abilene Christian Athletics",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVFTZEVoZTJqX203ZHFkTTRCYnFzQ2o5ZjZnVTdwODB6cjBkd1lWT2swRUlLMG5PY3VpbG56aFAtWjJwVWJZMy14X2l0QkdIZEVYSllvN29GVDkyTWZrQURRQ2FPaE1CdXlhOVlPQjNZckk1Wjd2QVFLUXFRd1VHUElXdkZGd18ydUxjRkowOUE2cWxhbmF1OGtRY3g2eVk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3216dcffabd5",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T22:33:13+00:00",
-    "acquirer": "Acentra",
-    "target": "Maryland healthcare IT company, gaining 500 employees",
-    "headline": "Acentra acquires Maryland healthcare IT company, gaining 500 employees",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Virginia Business",
-    "summary": "Acentra acquires Maryland healthcare IT company, gaining 500 employees Virginia Business",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHgyR0RxVURRQ3d4LS1uTmlnZ293VHlnSXRIemttUXdjMXRVdHlnSDlkZkVNU3FjQmVOQTgxdGFNTDJ2T2thQm4tZG5QdFJBWUY1cC1GUmRaUE9NSDd1ZTlOMWZELTF3OGMzZWdhcHdLR0lVTUtSUFVkX0hkczU0WlFpaURKaWZFZnZiT2VkcndLTGdCMk16MUZUWHlqaWh5?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-aaa2dfa0c8d2",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T21:24:56+00:00",
-    "acquirer": "Farmer's Dog",
-    "target": "Woof to expand into enrichment",
-    "headline": "Farmer's Dog acquires Woof to expand into enrichment",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PetfoodIndustry",
-    "summary": "Farmer's Dog acquires Woof to expand into enrichment PetfoodIndustry",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHZKLWlkQTFfeTZaOWo2WGFVcUltSk1JZlJmNnRuLUsyZF9vU1lCTXhVXzYybXViWFhoS19pNjdHY0o5RVNoU2g0bUJ0MDZNSV9QeDNOSHRRUnFZOUgwSG83bGt5TF9RMG1rZ1NTQ3VCLW5TRW44MTV2OWdEaWl2QkN4SFNTMkU4RlRwVWxBelRBbGhQQ3NjNjR0a3hMSHVZR09vcW5ONjFyWjlwMV9aUUQxejVOalJrUmVUQkZNSmJsYS1TOWc4akRXc2JLT0VZeHZOOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-dcf28a633c7b",
     "date": "August 6, 2026",
     "publishedISO": "2026-08-06T20:54:41+00:00",
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nielsen.com",
-    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform nielsen.com",
+    "sourceName": "Nielsen",
+    "summary": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform Nielsen",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "axios.com",
-    "summary": "How BC Partners is using losses to buy companies axios.com",
+    "sourceName": "Axios",
+    "summary": "How BC Partners is using losses to buy companies Axios",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1159,6 +1159,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdTVrcjlVTm8xcnRPUzFyTG12b0JHM3dlWUNLZWlaYnJjRDFkdmlUR3VBZUFQcFdiMVFoZk05c2FiZy1iYk5qZjMzWnYxS2QyQ3BUamlHeUp1UTY2LUV5Tml4REJPa3BqOHRSODJUM1lWUjQzbGpZNGNpX1lUbGt2TllLTEpnUTlPR2xNNHV4aWVmQTNfR292ZF9LTTBOMXFCVDdLQmptc1ZobFI3bFJNZWlSRW51anRpOEdSZzlVUV84TDBMM0QzMzlTOUhyaTktekgtVnNRcXF4ZThYSDMzc2Y2R21jT1k1S3BtYy1pODJ3Zw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c72d49513ff5",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T10:52:00+00:00",
+    "acquirer": "Partners Group in Talks to",
+    "target": "Aroma-Zone Stake in Deal that Values Company at $2.3 Billion",
+    "headline": "Partners Group in Talks to Buy Aroma-Zone Stake in Deal that Values Company at $2.3 Billion",
+    "valueBillions": 2.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Partners Group in Talks to Buy Aroma-Zone Stake in Deal that Values Company at $2.3 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlY2Q2ZDdTNGdXZxZnB4TEtUNDJnX2g5NHRJTnVUZm5VXzE4LWVSNG1JQTViaElaLXZEY0hERW1pSl9QNkhRZy1ESjlOSjZFV01LYkFZc0xZeUUwRW10a2tUWF9ZbDZYcFlxa3o5QTZ1OUZDZi1HdE94LXFWU053WThpbjJScDlsVnVJMTlNVTQ0LXVaV2dFQ3Q0Nl9zSEY3a01vQXBFNEd1Q0Z6aXlrbEx2RjBiMTA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "axios.com",
-    "summary": "Bending Spoons agrees to buy Airtable axios.com",
+    "sourceName": "Axios",
+    "summary": "Bending Spoons agrees to buy Airtable Axios",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1684,6 +1759,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qaHdsZ1ZyVlh5UHFVUnhOYzVjSnBaOUhhNGFCaGRoWjR5RGpfdjhPVEZ2ajNvLThXSDF5bU81OEtwQmQ3U29HYVEweFk0QmQ2emdLajQ5Z3lxLXo5TzU1VDlpYzNVZUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-510ecd89a22a",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T11:30:56+00:00",
+    "acquirer": "Bending Spoons to",
+    "target": "Airtable",
+    "headline": "Bending Spoons to buy Airtable for $1.28B",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "TechCrunch",
+    "summary": "Bending Spoons to buy Airtable for $1.28B TechCrunch",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEFhQ25HR2RDZkphVHFmTkNVMmxXZ1FiRFNpX2lRRmpJUkpaRFhzQUdoSWo1Rks4M3d3OFpCQkFRUVppd0k3X25YdkZ4U01Yd0ZFS1JhMHJ0ZEJDT2dxLXB6dWNyQ1RWU3plQ3F6bUVtZThJa0FFUXpxU3lHVi1CSw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bXQ4eGVhbVBxUl9QZkQ5TXp5UlBlQXBzeE0yb2tNTkxQOXM2cjhGMkFUUUE5Qmt1YjBaLTU1VDNwS1pXN0daa1Zuck5zd2xReVlXeFN0SXJQTVNMdkZmS2ExNVFYdmNUa3BKa3lJS1hiX09QdGI4NWxoSdIBgAFBVV95cUxOSzgzZGdnWVhZajdLeGM3REVSWFRaOFllSUlaSDQ4NlBVVk05MEFWNVJMTjU1WG8yaUxjeHpFYlpJbEVWUkZyZ3pDMHVmSEFvME5MRFZtMi1Pb3Vqa1FqaEhsc3EtdFg4MFROeGNka1ZTckJmRFZ6Y3JRYUp6Si1FRw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ccacb389c01f",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T13:35:00+00:00",
-    "acquirer": "Visa",
-    "target": "Israeli fraud prevention company BioCatch",
-    "headline": "Visa acquires Israeli fraud prevention company BioCatch for $2.4 billion",
-    "valueBillions": 2.4,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "calcalistech.com",
-    "summary": "Visa acquires Israeli fraud prevention company BioCatch for $2.4 billion calcalistech.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03U20wVnhlaXlDOXRWb2RFYllEeDJSU0M2Um5uM1VRV2lzcXZKcXB4dGpKSEFBWDM0Z09FMU1uNW5nVWJ3cnBYS3pmRzlXUW9XeHRjUnVrS2MxbkYzNVUwekVfMDJiLTV3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d6e98753e820",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T11:00:00+00:00",
-    "acquirer": "Deel",
-    "target": "Israeli deepfake security startup Clarity in $40-50 million deal",
-    "headline": "Deel acquires Israeli deepfake security startup Clarity in $40-50 million deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "calcalistech.com",
-    "summary": "Deel acquires Israeli deepfake security startup Clarity in $40-50 million deal calcalistech.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dUhrZTVJcTkzTFE1U1VBVzYxem9jc0RKSFMtank1RGZEN19EU1c5VElRaFRpU1I3blRkajNHd19IangyOHBJWUJTckdBOHN5U2owZkpOQWEycmlDdWpVNDBpWWR6TzA5?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
