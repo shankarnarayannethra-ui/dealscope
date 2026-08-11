@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-d7edf768bcf6",
+    "id": "news-a1a93602bdc0",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T13:05:10+00:00",
-    "acquirer": "Ari Emanuel’s Mari",
-    "target": "Broadway and West End Theater Owner ATG Entertainment",
-    "headline": "Ari Emanuel’s Mari Acquires Broadway and West End Theater Owner ATG Entertainment",
+    "publishedISO": "2026-08-11T16:04:00+00:00",
+    "acquirer": "Nasdaq to",
+    "target": "LeveL Markets",
+    "headline": "Nasdaq to Acquire LeveL Markets",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Hollywood Reporter",
-    "summary": "Ari Emanuel’s Mari Acquires Broadway and West End Theater Owner ATG Entertainment The Hollywood Reporter",
+    "sourceName": "wsj.com",
+    "summary": "Nasdaq to Acquire LeveL Markets wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVWRoLVRjcldSSzMwVWc5andja0ZQWHdGNURwSWM2VUVhb0RsV2s2RUJPdEVsc1JpdWNYNlRzZldlWGlBMVR5ektueE5nZ2dCelFhZjhSeUxDZDVrOTNXSFNlQ2dIYUd5YTNfX0Z2MmRHaDYyZnZSSzZfclZHa3dNUURkMmktaGVxS0lnc0IzU2FLXzlSMmhVQVN2eVM1LUhyWlk5T01MbmhjalNVbzVub2xBOHBwLXJxNzlBV0tleVdOVkpKYTh3dEhQY3RMaElteXI5NzY3dzlCTzd6Q1RQRmhUbw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByQVZ3eEtVWVhsNjV6NGdBR3VLMFFxc3ZGTW0yZVdwS1hJTm9NNGRiWDM5SU1JdUM3RmtIc2RtdTZKLU5PWGhlWVJnYVd3c1l0T1lKMnRxTWtjQ3FZMFZNMlZiOHFFYnBwd1JSc0pCY3ZFTGZwWEVR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,13 +76,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-66d68cd94561",
+    "id": "news-f003a82bd260",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T09:45:00+00:00",
-    "acquirer": "Jazz Pharmaceuticals to",
-    "target": "Actio Biosciences",
-    "headline": "Jazz Pharmaceuticals to acquire Actio Biosciences for $820m upfront",
-    "valueBillions": 0.82,
+    "publishedISO": "2026-08-11T15:37:11+00:00",
+    "acquirer": "Above All Advertising",
+    "target": "Giantad & PromoAdLine",
+    "headline": "Above All Advertising Acquires Giantad & PromoAdLine",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Pharmaceutical Technology",
-    "summary": "Jazz Pharmaceuticals to acquire Actio Biosciences for $820m upfront Pharmaceutical Technology",
+    "sourceName": "asicentral.com",
+    "summary": "Above All Advertising Acquires Giantad & PromoAdLine asicentral.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGxuVGMtYm4tN1hjTTA1Q2lENnFrNGExaFFiVEM3WE0wODRwcmRNV2pWZUY2b0kxYVctUlJWWHQyTjJNOUh3Q1VCZHFGelZkVlJ6Mkx5U04td0kzck51RE51VkxRa0QxUG5USXBYbUM5YU1vVnE5MXRwZTVMRFRnYWJyQUh4Zm1vdUVWdFpCSVhqLTRxZmtPbg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2ZqeEhDUm82NUJzMDRmbUt0ZmU5THYzdk9YdUFlMVlBTGFJOVFFUW9SbHpSY1JZeExLNUV4ZDNZcDladzdFbFo1SU9jSThNQXdrZlVSS3dqY2UwTlRMLS1qQnRPV0NjbEdDdTE3UEVlOFhUdFZjSVpzd2tXSnVIN19VcmRRaDVHZUl0RkRRdjBreUdRQUFmUXcwcTlkcEs3a3BJVERraTdnS2pzQVE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f5b1cd078441",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T21:17:23+00:00",
-    "acquirer": "Dolby Laboratories",
-    "target": "FAU Video Compression Tech Portfolio",
-    "headline": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio",
+    "id": "news-606a92f95dbc",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T13:35:52+00:00",
+    "acquirer": "Stonepeak",
+    "target": "Rail-Served Logistics Asset in Fort Worth, Texas",
+    "headline": "Stonepeak Acquires Rail-Served Logistics Asset in Fort Worth, Texas",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Florida Atlantic University",
-    "summary": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio Florida Atlantic University",
+    "sourceName": "Stonepeak",
+    "summary": "Stonepeak Acquires Rail-Served Logistics Asset in Fort Worth, Texas Stonepeak",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,12 +183,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVI4bVZ3NFRXNEE5TDZYX2VXcVZUNElNNlJDbWRscjFMbFdxbGdlRmpHUDl6WE5NYXpaazNVc0VvcDNQcURoaEJsSmJRY0V4cTB3dWFyaVdmMUlLS0lmVV9pUTVSUDBvR0RwS2dMTERmTXBMV3Jaa0tFNG9CNVZxNklwdTZnUkdvT3U2Z19OeXMxVEFNSUVuYm5FdldmSHZVZ1JPZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGNtRk5mOWM1SzZIZFVmUTZOeld4NDVvQjl5NTlWQ2RUa0dkOWloMHQ3Wko4em83SEpmTkFLQmxLWWh3YklOZXd6UjE4Y0FJdkVaS1FvaFo1VXJRcHVXMVRtaVBQQ2NaUzJscGtUQy1Ydmo3N20xbjBjaEFPbWZMN1QwWnJPcElsSkhhSFg1TXlTTU5OTUQ0Mg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 10, 2026"
+        "date": "Aug 11, 2026"
       },
       {
         "stage": "Terms verified",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-dd0eed70ad9d",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T19:25:23+00:00",
-    "acquirer": "Teledyne to",
-    "target": "Varex Imaging in $1.1B deal",
-    "headline": "Teledyne to acquire Varex Imaging in $1.1B deal",
+    "id": "news-a8d3c980f2af",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T13:32:35+00:00",
+    "acquirer": "Thoma Bravo",
+    "target": "Kneat, a vital life sciences platform",
+    "headline": "Thoma Bravo acquires Kneat, a vital life sciences platform",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Radiology Business",
-    "summary": "Teledyne to acquire Varex Imaging in $1.1B deal Radiology Business",
+    "sourceName": "Thoma Bravo",
+    "summary": "Thoma Bravo acquires Kneat, a vital life sciences platform Thoma Bravo",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,157 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamdBV0thSV9zaWVvNnBxSENZeFUtODlGWF9oOFZ5aDBZTm03MmlKa2RDV0dxU3g3ZDZHQ19LMEZNU2lOQU5QZXpsN1N4dm1SZUZ0Zks4WmMxVVIzakFwekdxdG84dUQxRzVXN2xkTW9neFZjRTBpVkdUTkZ0empFY2FaMTlsNXFRWWRMdC16c2E4NkYzVUpRRnZLbVU3RHN6c3dZYnNxRjFYWkhKMW9iUEVsNXVEMXQzLUtlVmJYdV8?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHNobkstMEZlU25JVmxHeXpzUG5pcno0U1lnbjZxc2ZSbVp3ejZYZGtucTB1QVpiRFlac3pWVGprdV9jck0zNE5KWlhGWEhFMmFNMzJjSE83QTZrSHBrbTc3ZjMyYl9YZXdkU0Q4UXE5TXFyZXJPUE5zUHhPMTBrV2ItVElmVlMzcmx1RQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1c0a9760e54a",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T13:16:00+00:00",
+    "acquirer": "Hollywood Mogul Ari Emanuel to",
+    "target": "Theater Giant in $6 Billion Deal",
+    "headline": "Hollywood Mogul Ari Emanuel to Buy Theater Giant in $6 Billion Deal",
+    "valueBillions": 6.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "wsj.com",
+    "summary": "Hollywood Mogul Ari Emanuel to Buy Theater Giant in $6 Billion Deal wsj.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1lHeUNXYk05dGhqcEJWNjl6ckVwQmJfZXpFdlVkNzNoNl9IcTdCbFJGQ3E4Uzg3SENfR0VpODFYYWhtX1dUZTVlQS0ybTl5TUhSVVlOTzQwNzlmV2Z6UVF1bXVSelJRT0tQRmpiMVZoem9mWjBWT0F1cmNCejRfRVF6U2tDQ25YcHFZVy1Wek04eHJZMk1TTE1hbk0tZDdaNUpOZEY1R3pnQ2ZZZ0JR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-5b2869690287",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T19:58:53+00:00",
+    "acquirer": "Archer Aviation to",
+    "target": "Boeing’s automated air taxi effort",
+    "headline": "Archer Aviation to acquire Boeing’s automated air taxi effort",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Los Angeles Times",
+    "summary": "Archer Aviation to acquire Boeing’s automated air taxi effort Los Angeles Times",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnpWZkVSV1drTHBRTVpGdlo1Y3huQmNJcUtodEdLdENXeXFoN1RzR2JlblZzUGgtMEMweXM2Y29TcnFiM2FaRjFNdEVSM0ZzcV91SzRPQTI3cGcySURkVU5xaC1xWVBkZjJnMmx6YmpaR1UzSTRwb1RHLWV6ODFkRDFvYTB6SllybkVRVEJvNWJ0STF3WXc2VHpJRXpFVlV2dFVBcVE5MWN1LU1wQVhv?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -376,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9a4e7d8affa3",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T18:43:54+00:00",
-    "acquirer": "iRhythm to",
-    "target": "rival cardiac monitoring company",
-    "headline": "iRhythm to acquire rival cardiac monitoring company for $288M",
-    "valueBillions": 0.288,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cardiovascular Business",
-    "summary": "iRhythm to acquire rival cardiac monitoring company for $288M Cardiovascular Business",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYldpX0hMdXhqM0RqdmhCR0RNSWdIWU55NUNkRmJ5cXpCdUFYZFZ3MGRodjV5UHU3RWlaVUhiUUZKWlZXc3pOcWI2ekpUelp4UjJrd3psSFpPby1lNXpidnN2LXlTX2RqT2lvVU1aZDR2WGxxal9nU3d3Nlo2RW41bGM5Z05VS3ZqSTZDbTFkRTZQWVNpSk91Y0RkZUdIdlhPX3lVSWpVTUV4TU9MWkRUTGM2WF9kOXItX3NrMkpfbzBteVplSmtHdmJ4NXdhb2duWDhEWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b6efb120b93b",
     "date": "August 10, 2026",
     "publishedISO": "2026-08-10T15:41:31+00:00",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -526,13 +601,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-18d8b6dfbbc5",
+    "id": "news-3e45d708f42e",
     "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T14:22:59+00:00",
-    "acquirer": "Jazz Pharmaceuticals to",
-    "target": "Actio Biosciences",
-    "headline": "Jazz Pharmaceuticals to Acquire Actio Biosciences for $1.32 Billion",
-    "valueBillions": 1.32,
+    "publishedISO": "2026-08-10T13:03:47+00:00",
+    "acquirer": "Dolby Laboratories",
+    "target": "FAU Video Compression Tech Portfolio",
+    "headline": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Pharmaceutical Executive",
-    "summary": "Jazz Pharmaceuticals to Acquire Actio Biosciences for $1.32 Billion Pharmaceutical Executive",
+    "sourceName": "Florida Atlantic University",
+    "summary": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio Florida Atlantic University",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CWGE0c1FxVkk4c3hnYTh0enBJbHhCV2ZsMzRORjNrY04wRkJQc1BSTXR1X21mMjd2dFFmcUp0Tm9EQWNBbzgxNlE3SXpSY243S3p2aTFvM1o0cF9JdExIRUljd2cwYXg3ZHBDaEp4RW5POHgyZ1M0bTk2dw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1pVckRkMmNIcXY3dzRxb0phLTBDTEdqbnBOZy1aS1NDeFFiNGlVUWN3elBXUGJkNU9RWnRpcDdCU2I0cGNBSGtNTFFubmY5NU80ekYyLS1sY2I0MTFRdk0xS181N1lPSE4tdENEb05tOEZBUFNLODFBeFBUWXdSSXhjOWRpSk93QldjOWFR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -634,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWWFpOXM5dzMySkJRcUx4T0hMLVpGemlXWXEyZ09VRWdadHZIZlp5aGpfcmdNU0VmS0cxUTdoTFJCN3ZLSWNTUHpkRmNPaUxna0s2cXZ4MUxmMzlWc0FsYjd5TFhuNU1sX3dqb2x5VXZ0NEM3VV9TRXBrVG1SWmN5LTZNdFUwWU96REg2Ny1BRnVwQUxGUnJDZVRLd0ZnQ2F1ek05d19KQlo4VkNTT1g0U3gtdFZBa05tQ2RfcU9MRF9sLURXY2VVMlk5cVlhQ1pIbUhRWW1B?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-83aed42e0737",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T11:23:42+00:00",
-    "acquirer": "EXCLUSIVE: Blackstone-owned Safe Harbor nears $1.5 billion deal to",
-    "target": "MarineMax, sources say",
-    "headline": "EXCLUSIVE: Blackstone-owned Safe Harbor nears $1.5 billion deal to buy MarineMax, sources say",
-    "valueBillions": 1.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE: Blackstone-owned Safe Harbor nears $1.5 billion deal to buy MarineMax, sources say Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLVhyVXA0ZVRMUDFJMDhIRWpfeW1rQm5CVFpPVXg0bUhId2Z3ams1OGtJejBqYXd5dGsxRnFXTVJ2ZXJOMXlkZU5tZ2o0dDNoZkcyTVZ0RFp6dUo1T1pwTzBwelhlRlBFbkhmYUVnV0ZCVWVwZjR0SVA4UFpMUWVmN0dSNlB4UWRQMmpFcWIxM1VTVDViYXYxVk5QQmk5Q3FvS0RwSDdmUXBJbTUwZFZWdDc3bm82ZVd3SG9qTW5R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "India's CESC unit to acquire renewable assets from ReNew Solar for $510 million Reuters",
+    "sourceName": "reuters.com",
+    "summary": "India's CESC unit to acquire renewable assets from ReNew Solar for $510 million reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1065,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Dream Finders to Buy Beazer for $915 Million WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Dream Finders to Buy Beazer for $915 Million wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1164,6 +1164,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c87ef3878c1e",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T22:57:00+00:00",
+    "acquirer": "Nielsen to",
+    "target": "DoubleVerify",
+    "headline": "Nielsen to Buy DoubleVerify",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "wsj.com",
+    "summary": "Nielsen to Buy DoubleVerify wsj.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ec0t1Z0hYcEZuSzhlUkFmZkNaZjJxSkFwdkdhY29yYk9FQ0d1NXQwLXgtTzg2S255WTNNb2w4Nk9wcXUyWHJkejFtX1Y0clE4dkoyYnBBeGFNSGhQdlpqbzhiSFJFbmZEeERhSENhNG9YQ2tONTNVY3o3cw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1590,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Partners Group in Talks to Buy Aroma-Zone Stake in Deal that Values Company at $2.3 Billion WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Partners Group in Talks to Buy Aroma-Zone Stake in Deal that Values Company at $2.3 Billion wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdFR4Z1dFTDhVUnBuZ2Nnenh0S214TV9Rd0tUMm5jU2xTMXQwWUtJTl9mYWFBTkdCRFRnNWdKa1l3T3AzLUFraGF5OFV0c1lPbWljbFBQYWNjOURiWnQ3c0hva3NrRkRwNjU0WmZyZDU1bWxLZUVCLXpKbTQ4VkMzeWVQS0xvRUt6TUpEd0N4alhzREt0aGZ3eUcweC1pN1RleDNQUTRtWmdYcURmOEdqeU1jRXFIRW1JWi1BMFJIY1VvRlpqZ2FHUDQwbGdaUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-cf5e462b91ec",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T14:39:34+00:00",
-    "acquirer": "Bending Spoons",
-    "target": "Airtable",
-    "headline": "Bending Spoons agrees to buy Airtable",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Bending Spoons agrees to buy Airtable Axios",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qaHdsZ1ZyVlh5UHFVUnhOYzVjSnBaOUhhNGFCaGRoWjR5RGpfdjhPVEZ2ajNvLThXSDF5bU81OEtwQmQ3U29HYVEweFk0QmQ2emdLajQ5Z3lxLXo5TzU1VDlpYzNVZUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
