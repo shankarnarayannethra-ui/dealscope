@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-f5b1cd078441",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T21:17:23+00:00",
+    "acquirer": "Dolby Laboratories",
+    "target": "FAU Video Compression Tech Portfolio",
+    "headline": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Florida Atlantic University",
+    "summary": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio Florida Atlantic University",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVI4bVZ3NFRXNEE5TDZYX2VXcVZUNElNNlJDbWRscjFMbFdxbGdlRmpHUDl6WE5NYXpaazNVc0VvcDNQcURoaEJsSmJRY0V4cTB3dWFyaVdmMUlLS0lmVV9pUTVSUDBvR0RwS2dMTERmTXBMV3Jaa0tFNG9CNVZxNklwdTZnUkdvT3U2Z19OeXMxVEFNSUVuYm5FdldmSHZVZ1JPZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-dd0eed70ad9d",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T19:25:23+00:00",
+    "acquirer": "Teledyne to",
+    "target": "Varex Imaging in $1.1B deal",
+    "headline": "Teledyne to acquire Varex Imaging in $1.1B deal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Radiology Business",
+    "summary": "Teledyne to acquire Varex Imaging in $1.1B deal Radiology Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamdBV0thSV9zaWVvNnBxSENZeFUtODlGWF9oOFZ5aDBZTm03MmlKa2RDV0dxU3g3ZDZHQ19LMEZNU2lOQU5QZXpsN1N4dm1SZUZ0Zks4WmMxVVIzakFwekdxdG84dUQxRzVXN2xkTW9neFZjRTBpVkdUTkZ0empFY2FaMTlsNXFRWWRMdC16c2E4NkYzVUpRRnZLbVU3RHN6c3dZYnNxRjFYWkhKMW9iUEVsNXVEMXQzLUtlVmJYdV8?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-4c29e0a00100",
     "date": "August 10, 2026",
     "publishedISO": "2026-08-10T19:05:44+00:00",
@@ -15,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -240,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -259,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWNZUFk4b3kwbU8zSXcwUmhWeEh4bHhuRVRtSUt6bXhOZlJPTzFkUGRfNUdXaHdXb3NROGlxcWNxQUtsUUh2SUtTb0lVN2NpU2FIUUJYV1dIRndBZG9aUFdxZ0h4cjc0bTRqWS1XQTZoUVZaYXRFNm9CQkFEOFlKMWRkeWdOYU82Sm1VUGdCcU9FOG9HVnAtd0MxM3N0Yi05UE9ZZWRkai02S2tWQjB1UlREQlBtemZMV2pIN01BbmNXaGJuVERr?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3e45d708f42e",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T13:03:47+00:00",
-    "acquirer": "Dolby Laboratories",
-    "target": "FAU Video Compression Tech Portfolio",
-    "headline": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Florida Atlantic University",
-    "summary": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio Florida Atlantic University",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1pVckRkMmNIcXY3dzRxb0phLTBDTEdqbnBOZy1aS1NDeFFiNGlVUWN3elBXUGJkNU9RWnRpcDdCU2I0cGNBSGtNTFFubmY5NU80ekYyLS1sY2I0MTFRdk0xS181N1lPSE4tdENEb05tOEZBUFNLODFBeFBUWXdSSXhjOWRpSk93QldjOWFR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Teledyne to Acquire Varex Imaging Corporation businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "Teledyne to Acquire Varex Imaging Corporation Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1065,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Sunoco LP to Acquire Offen Petroleum businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "Sunoco LP to Acquire Offen Petroleum Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Veritas Capital to Acquire Saber Power Services businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "Veritas Capital to Acquire Saber Power Services Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1815,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Veritas Capital to Acquire Trinity Consultants businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "Veritas Capital to Acquire Trinity Consultants Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1876,81 +1951,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-087701cc898c",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T06:07:33+00:00",
-    "acquirer": "AllianzGI accelerates growth path in AP with agreement to",
-    "target": "UOB Asset Management",
-    "headline": "AllianzGI accelerates growth path in AP with agreement to acquire UOB Asset Management",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "allianzgi.com",
-    "summary": "AllianzGI accelerates growth path in AP with agreement to acquire UOB Asset Management allianzgi.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPREVPSDBuVWo1SHNJT3BTWmkzenVwc1JyWTlGWUljU19xNFhVb0lRSUs1V0g1UlhfYk1Oc3hHaEpLWUZrUTVCUHVhN001aFRyR0ZzM25fanZkRDhHbVRlRmlnQXRWR0RnV0p4R0thbXh2YklPUTYzQ2ZzaFBtWk9teFJubVN4Z21LbldvdXh3VXZmUGNRakpQXzVhRVpiS3ZCcVFISDg5bk5UMUpFZnl0ZWV4Y2xYbzVSR2ZHU1B6R3gzNzF5b2RjWTBFcC1kMUJmb1Rj?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-09a8e28b8e37",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T20:05:00+00:00",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Hinge Health to acquire Cylinder Health, expanding into gastrointestinal care businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "Hinge Health to acquire Cylinder Health, expanding into gastrointestinal care Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "The Hartford To Acquire Equitable’s Employee Benefits Business businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "The Hartford To Acquire Equitable’s Employee Benefits Business Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
