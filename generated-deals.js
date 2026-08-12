@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-0724a93506e8",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T23:34:09+00:00",
+    "acquirer": "Air taxi firm Joby",
+    "target": "defense tech company",
+    "headline": "Air taxi firm Joby acquires defense tech company for $500 million",
+    "valueBillions": 0.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Air taxi firm Joby acquires defense tech company for $500 million Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-076aea5c10e8",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T21:17:21+00:00",
@@ -301,13 +376,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1bd66bed4739",
+    "id": "news-6bdfd27c0108",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T14:03:43+00:00",
-    "acquirer": "Sunoco to",
-    "target": "Offen Petroleum",
-    "headline": "Sunoco to acquire Offen Petroleum for $600M",
-    "valueBillions": 0.6,
+    "publishedISO": "2026-08-11T14:44:44+00:00",
+    "acquirer": "Spirit Halloween owner to",
+    "target": "Hot Topic, BoxLunch",
+    "headline": "Spirit Halloween owner to acquire Hot Topic, BoxLunch",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cstoredive.com",
-    "summary": "Sunoco to acquire Offen Petroleum for $600M cstoredive.com",
+    "sourceName": "WGN-TV",
+    "summary": "Spirit Halloween owner to acquire Hot Topic, BoxLunch WGN-TV",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTNFd0F5VFZubWJQR1VHaWgzOG0tQlFibEFQZW9saTJtN0tPaGVTRUdNWHRWdHZJZ3FKcGRsc0k1dVBYUlJHMGRUOVhLR2wybVlFVUdKeUdReEZCQnREVXBrLU9ybWVQekVVWl9ZSjJwNWJ0UnlzMWJselY5Tmd0MFZWbU1NaUZONWc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmJBeXlDcUhnQVVteTZkSkJTMVJSOHVoWVpJYjFUMVZzaEpub1JEalFsMm04TGk5UlRyVVZJN1VTekRhTENtWUZRUEJWX3BBQXdCOTRIRHdhRV82VUtCVmNkWDA5c1lwWlJPTEFUa2thckw2eGU1a0s0Q0NROVJlRnZBdW1YaVBEUzRUc1B5eDlXem9qSHQxVUVMUdIBoAFBVV95cUxOeFVtd0pucjVuQk1lbmxpSlk3bmRickJDZUR6V19vU0E1U09hbDBEd195WDFON1dNemgyaXV3a1MtYS1xdVNVS2xqeVRXLTRTaXNSU09hYUdPeFBMbXRqUGMxSHA3ZVdvMUFyZUJBbGFoa1VkT2JNYVgzQmxGV1VvRHp0bUc2TGpjaXVPSHNOT3JnRktmLUlGRVc4Q3NNTm9D?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-606a92f95dbc",
+    "id": "news-5d564ba14436",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T13:35:52+00:00",
-    "acquirer": "Stonepeak",
-    "target": "Rail-Served Logistics Asset in Fort Worth, Texas",
-    "headline": "Stonepeak Acquires Rail-Served Logistics Asset in Fort Worth, Texas",
+    "publishedISO": "2026-08-11T14:32:58+00:00",
+    "acquirer": "Xylem to",
+    "target": "Cornell Pump and Roper Pump businesses",
+    "headline": "Xylem to acquire Cornell Pump and Roper Pump businesses for $1.46B",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Stonepeak",
-    "summary": "Stonepeak Acquires Rail-Served Logistics Asset in Fort Worth, Texas Stonepeak",
+    "sourceName": "waterworld.com",
+    "summary": "Xylem to acquire Cornell Pump and Roper Pump businesses for $1.46B waterworld.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGNtRk5mOWM1SzZIZFVmUTZOeld4NDVvQjl5NTlWQ2RUa0dkOWloMHQ3Wko4em83SEpmTkFLQmxLWWh3YklOZXd6UjE4Y0FJdkVaS1FvaFo1VXJRcHVXMVRtaVBQQ2NaUzJscGtUQy1Ydmo3N20xbjBjaEFPbWZMN1QwWnJPcElsSkhhSFg1TXlTTU5OTUQ0Mg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQUtMVV9XTFJGSElmMWVwZDVEQXd6LTY4NFZyblpoSzNnYzBXQy0wNVJHdVpWSV9vQmcxZGJqWEhRakY0SklLWHZjaEtOVDlNZmUxcjN3MENGMk5xR1BDb1pQMWRSRTZPREd4VnhPbXNub1Aybkk2RUhpbEhDN0MydGdvQmpVR3h4Z0t3OFBseUM4MFRndk1mc0lWZ3k4dXIya2JXNHlNQkpFVlBrLVZXclNXZVQ2SmRWMDFKRk1IaEN3aFFZR0xZcXhpZk9TVS04YUd0VjI4LVVkWUk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "techcrunch.com",
-    "summary": "OpenAI acquires presentation startup NextSlide techcrunch.com",
+    "sourceName": "TechCrunch",
+    "summary": "OpenAI acquires presentation startup NextSlide TechCrunch",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "techcrunch.com",
-    "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders techcrunch.com",
+    "sourceName": "TechCrunch",
+    "summary": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders TechCrunch",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlJiT29KRTdTai00eE8zU1Fkb3FhaTVBS19XZ0RDWU90N1dIQUQ0S1ZWR2h3RHFiQ0lHU2FNM2JveEFlY2g2VHY2Y2lkbmVocW90Z2ljcUdOT3doQzAxWU5iVEVIR1htSHU5WTh0UExFWEI0d24yZzQ2WEN6UVRtU1ZsQWlsUG9aTi1zN1RTalJORXlDOUhkS2tkSHFaREozU1lHbG13?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-087701cc898c",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T06:07:33+00:00",
-    "acquirer": "AllianzGI accelerates growth path in AP with agreement to",
-    "target": "UOB Asset Management",
-    "headline": "AllianzGI accelerates growth path in AP with agreement to acquire UOB Asset Management",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "allianzgi.com",
-    "summary": "AllianzGI accelerates growth path in AP with agreement to acquire UOB Asset Management allianzgi.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPREVPSDBuVWo1SHNJT3BTWmkzenVwc1JyWTlGWUljU19xNFhVb0lRSUs1V0g1UlhfYk1Oc3hHaEpLWUZrUTVCUHVhN001aFRyR0ZzM25fanZkRDhHbVRlRmlnQXRWR0RnV0p4R0thbXh2YklPUTYzQ2ZzaFBtWk9teFJubVN4Z21LbldvdXh3VXZmUGNRakpQXzVhRVpiS3ZCcVFISDg5bk5UMUpFZnl0ZWV4Y2xYbzVSR2ZHU1B6R3gzNzF5b2RjWTBFcC1kMUJmb1Rj?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
