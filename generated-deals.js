@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-61c7847b20d5",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T11:45:07+00:00",
+    "acquirer": "Goldman Sachs to",
+    "target": "ETF Provider Neos in $2.3 Billion Deal",
+    "headline": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
+    "valueBillions": 2.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg.com",
+    "summary": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal Bloomberg.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGJEVWdLcnpzZTVJY3loVWdadElmWEVIOFU1b1BEREFFb0hLd3gyb1VyTDdXMFdKRERlb3BEZUh5UFRNT1ViUzdIbVVNUWtwdnhTSkExcDFkc0MtX2hCNFhPWVZBSU9VSldzU3hqbmlGcy1ZZUFNc1FEdFk1dEJfeThtLXZ6N1lxYmJvczB5clM4ZE1VV25JcHZHdmltVlRIbTBnajZWTGF6d1J0WjEtbXRmYw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0724a93506e8",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T23:34:09+00:00",
@@ -15,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Air taxi firm Joby acquires defense tech company for $500 million Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Air taxi firm Joby acquires defense tech company for $500 million reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -526,13 +601,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a8d3c980f2af",
+    "id": "news-1bd66bed4739",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T13:32:35+00:00",
-    "acquirer": "Thoma Bravo",
-    "target": "Kneat, a vital life sciences platform",
-    "headline": "Thoma Bravo acquires Kneat, a vital life sciences platform",
-    "valueBillions": null,
+    "publishedISO": "2026-08-11T14:03:43+00:00",
+    "acquirer": "Sunoco to",
+    "target": "Offen Petroleum",
+    "headline": "Sunoco to acquire Offen Petroleum for $600M",
+    "valueBillions": 0.6,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Thoma Bravo",
-    "summary": "Thoma Bravo acquires Kneat, a vital life sciences platform Thoma Bravo",
+    "sourceName": "C-Store Dive",
+    "summary": "Sunoco to acquire Offen Petroleum for $600M C-Store Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +633,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHNobkstMEZlU25JVmxHeXpzUG5pcno0U1lnbjZxc2ZSbVp3ejZYZGtucTB1QVpiRFlac3pWVGprdV9jck0zNE5KWlhGWEhFMmFNMzJjSE83QTZrSHBrbTc3ZjMyYl9YZXdkU0Q4UXE5TXFyZXJPUE5zUHhPMTBrV2ItVElmVlMzcmx1RQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTNFd0F5VFZubWJQR1VHaWgzOG0tQlFibEFQZW9saTJtN0tPaGVTRUdNWHRWdHZJZ3FKcGRsc0k1dVBYUlJHMGRUOVhLR2wybVlFVUdKeUdReEZCQnREVXBrLU9ybWVQekVVWl9ZSjJwNWJ0UnlzMWJselY5Tmd0MFZWbU1NaUZONWc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1be563bec343",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T13:18:43+00:00",
+    "acquirer": "Casey’s to",
+    "target": "24 stores from Texas chain",
+    "headline": "Casey’s to acquire 24 stores from Texas chain",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "C-Store Dive",
+    "summary": "Casey’s to acquire 24 stores from Texas chain C-Store Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFB5aHp3aUNkRXQydm0zYVFYSlBiSU0xaUVqYU5hemM3bVcxUFhmS3dLSmxKSXNrTVJ5U0hwTGFTeVRtOEV2RzZSZUVSY3E3UXNmZHFZdllLSWJmNXlweFQ2Zkd4ZDhwR1ZuMy1JUHhTbzBranp3THJWbHk4TEtnRzZHYWs?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -690,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Teledyne to Acquire Varex Imaging Corporation Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Teledyne to Acquire Varex Imaging Corporation businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Sunoco LP to Acquire Offen Petroleum Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Sunoco LP to Acquire Offen Petroleum businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Bain Capital to buy bubble tea chain Gong cha from TA Associates and others Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Bain Capital to buy bubble tea chain Gong cha from TA Associates and others reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3FKSms3akw1WUlGRFFlSTYtX053UUtiUzBUUnJkUHQ0WkEwOVBwSHBFTWk0bFUycFZxVkJrNGhCUThtb1Z5d29ndUJXUnIxYlE0akcyYlZLZ05FTmVTLWQ5c2FWM3ZRRFRUVmVVSVBtUFJLdEo4NURJTlNoMDV6bThVUlI3YW80WWw0YmRvWjI1SUFzcEdEcnhOcWVYdEJ4MXdhUGIxb3pLejRCd3dtVEdR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0a8815c9a6f6",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T11:20:00+00:00",
-    "acquirer": "Hinge Health to",
-    "target": "Cylinder Health",
-    "headline": "Hinge Health to acquire Cylinder Health in a $105M deal to expand into gastrointestinal care",
-    "valueBillions": 0.105,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "Hinge Health to acquire Cylinder Health in a $105M deal to expand into gastrointestinal care Fierce Healthcare",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObm1qWWNnUDdDV0VRSmFnZEN0MVNpbFB0dnkxQ2hPRE5uWExiQzVzSzlvdExuemtoZHN0akJYZUpZNGhOWXVDcDhnOEY1dEE1dnc2emRLTFZTeHVnN1dYQ2tfZ05rdVNPTkhKY0RzcDdhQzR4YkVKZE1GRjNKQ3d6aTQ3VFY4OHVrZ3NiMTYxd29aQTVMdm52a2ZtT3gtREViRFBPR3dza2gzMjJ5QzdaRGtnU280MGhzZGJhOUM5RQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-39e7407ccc5b",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T10:45:00+00:00",
-    "acquirer": "Veritas Capital to",
-    "target": "Trinity Consultants",
-    "headline": "Veritas Capital to Acquire Trinity Consultants",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Veritas Capital to Acquire Trinity Consultants Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlJiT29KRTdTai00eE8zU1Fkb3FhaTVBS19XZ0RDWU90N1dIQUQ0S1ZWR2h3RHFiQ0lHU2FNM2JveEFlY2g2VHY2Y2lkbmVocW90Z2ljcUdOT3doQzAxWU5iVEVIR1htSHU5WTh0UExFWEI0d24yZzQ2WEN6UVRtU1ZsQWlsUG9aTi1zN1RTalJORXlDOUhkS2tkSHFaREozU1lHbG13?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
