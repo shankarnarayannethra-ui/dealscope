@@ -151,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-74aa11faf176",
+    "id": "news-0853166da4d5",
     "date": "August 12, 2026",
-    "publishedISO": "2026-08-12T16:00:36+00:00",
-    "acquirer": "Orlando Pride",
-    "target": "Norwegian forward Sanne Lekven",
-    "headline": "Orlando Pride acquires Norwegian forward Sanne Lekven",
+    "publishedISO": "2026-08-12T16:27:57+00:00",
+    "acquirer": "Goldman Sachs to",
+    "target": "ETF provider NEOS",
+    "headline": "Goldman Sachs to buy ETF provider NEOS for up to $2.25B",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Orlando City",
-    "summary": "Orlando Pride acquires Norwegian forward Sanne Lekven Orlando City",
+    "sourceName": "Banking Dive",
+    "summary": "Goldman Sachs to buy ETF provider NEOS for up to $2.25B Banking Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXZKQlVwX0tYb3JORWlUWTdERVk0V281WkUxS3hGa0I2a093YjlHVkxMSVNHcE5yNjhOUnNjWUp6N3NIMjQyYmRSZ0ZyMV91WjFyQ293UXRKVjU1WE40em13LXFhcjZxZ2g2Wm04cEQtQndtN0doZ2h2cHV3ekZoaDk5UWI3WU50aG1tUDVkTWY1UW1fQkprbmp3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzRGTmgxY0drMVI0akZsc00tdDBjNnExUllZRDB1dWcyZ1RYcGdqMHNwaUZSekI5eDFwcTg1aEs0UkJ6UFpUaXF4bGhyN2VvUG9jcDBncE9YS1laMFRkdVRzQ1c1ZURCYi1DRXNMZ0ZzQVp6WnlFSmZyUEFWck9CNGhCWnlqMWtiTlJrcEJmUm1COWZi?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-dca5c4ae7db0",
+    "id": "news-74aa11faf176",
     "date": "August 12, 2026",
-    "publishedISO": "2026-08-12T15:54:23+00:00",
-    "acquirer": "Archer Aviation to",
-    "target": "eVTOL company Wisk Aero from Boeing",
-    "headline": "Archer Aviation to acquire eVTOL company Wisk Aero from Boeing",
+    "publishedISO": "2026-08-12T16:00:36+00:00",
+    "acquirer": "Orlando Pride",
+    "target": "Norwegian forward Sanne Lekven",
+    "headline": "Orlando Pride acquires Norwegian forward Sanne Lekven",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Smart Cities Dive",
-    "summary": "Archer Aviation to acquire eVTOL company Wisk Aero from Boeing Smart Cities Dive",
+    "sourceName": "orlandocitysc.com",
+    "summary": "Orlando Pride acquires Norwegian forward Sanne Lekven orlandocitysc.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWl90ZzhPcGI4a05VZGNycFpkd0dvdnlkRVlnYjk0M2JQU0wwNG9DcnpwLVRUZ0ZzQTVFWHFkRGtiRWVEQ2kwU0s2SXJxSzAyTnZMRTJvNEZFNERySDl2bmg2REFibC1nSFhkck9VeEc5MkRlZTRtbE9NMjR3Y0Y3cDZmYmtIanpVQVk4?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXZKQlVwX0tYb3JORWlUWTdERVk0V281WkUxS3hGa0I2a093YjlHVkxMSVNHcE5yNjhOUnNjWUp6N3NIMjQyYmRSZ0ZyMV91WjFyQ293UXRKVjU1WE40em13LXFhcjZxZ2g2Wm04cEQtQndtN0doZ2h2cHV3ekZoaDk5UWI3WU50aG1tUDVkTWY1UW1fQkprbmp3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,6 +451,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-61c7847b20d5",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T11:45:07+00:00",
+    "acquirer": "Goldman Sachs to",
+    "target": "ETF Provider Neos in $2.3 Billion Deal",
+    "headline": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
+    "valueBillions": 2.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg",
+    "summary": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal Bloomberg",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGJEVWdLcnpzZTVJY3loVWdadElmWEVIOFU1b1BEREFFb0hLd3gyb1VyTDdXMFdKRERlb3BEZUh5UFRNT1ViUzdIbVVNUWtwdnhTSkExcDFkc0MtX2hCNFhPWVZBSU9VSldzU3hqbmlGcy1ZZUFNc1FEdFk1dEJfeThtLXZ6N1lxYmJvczB5clM4ZE1VV25JcHZHdmltVlRIbTBnajZWTGF6d1J0WjEtbXRmYw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0724a93506e8",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T23:34:09+00:00",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Air taxi firm Joby acquires defense tech company for $500 million Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Air taxi firm Joby acquires defense tech company for $500 million reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -976,12 +1051,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d7edf768bcf6",
+    "id": "news-8d8d84978c5a",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T13:05:10+00:00",
-    "acquirer": "Ari Emanuel’s Mari",
-    "target": "Broadway and West End Theater Owner ATG Entertainment",
-    "headline": "Ari Emanuel’s Mari Acquires Broadway and West End Theater Owner ATG Entertainment",
+    "publishedISO": "2026-08-11T13:05:00+00:00",
+    "acquirer": "Nasdaq Advances Always-On Markets Strategy with Definitive Agreement to",
+    "target": "LeveL Markets",
+    "headline": "Nasdaq Advances Always-On Markets Strategy with Definitive Agreement to Acquire LeveL Markets",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Hollywood Reporter",
-    "summary": "Ari Emanuel’s Mari Acquires Broadway and West End Theater Owner ATG Entertainment The Hollywood Reporter",
+    "sourceName": "Nasdaq",
+    "summary": "Nasdaq Advances Always-On Markets Strategy with Definitive Agreement to Acquire LeveL Markets Nasdaq",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1008,7 +1083,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVWRoLVRjcldSSzMwVWc5andja0ZQWHdGNURwSWM2VUVhb0RsV2s2RUJPdEVsc1JpdWNYNlRzZldlWGlBMVR5ektueE5nZ2dCelFhZjhSeUxDZDVrOTNXSFNlQ2dIYUd5YTNfX0Z2MmRHaDYyZnZSSzZfclZHa3dNUURkMmktaGVxS0lnc0IzU2FLXzlSMmhVQVN2eVM1LUhyWlk5T01MbmhjalNVbzVub2xBOHBwLXJxNzlBV0tleVdOVkpKYTh3dEhQY3RMaElteXI5NzY3dzlCTzd6Q1RQRmhUbw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTG1LNi1Ma0Q3QWZNZ3Nob2txUC1rUVQ3czk4Q0JleXFUZDFYVzdLb0hIVmg5RHdzSk5ldGJOWXk2WTdaUEctbElTV0ZJNHdwbjEyelJWMTdMTjlHZlZzQVhZd3BEeV9NeVVYeGluWTVOd0ZNQlRLUzVEVFhWQWJGYnNmOHVkbUFaTHpRN1NnNS1UdnBJU1QtVk04c3hFZ1JTaWVoZWhLNlpIeHAzRzkybEJmYUU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1065,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Teledyne to acquire Varex Imaging in $1.1 billion deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1126,81 +1201,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e32c853cbf83",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T16:06:35+00:00",
-    "acquirer": "Jazz to",
-    "target": "rare epilepsy drugmaker in potentially $1.3B deal",
-    "headline": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "BioPharma Dive",
-    "summary": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal BioPharma Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREFBcGtYZEtwZmNPUEpKWmlIUktzLTlNTWF5dllqTXJ6bk1rWDlUYy13c0FSbi16SnozVTM3ckl3a2ZWMnROdk1QQU56TExFbXV5X2lhUGhrVTdBWUd6aEtXQWgxYWp1VXIyR2pyQWl6V3dqenk2QWc1bFZpMDFrMzVmblAycWY1MExvY0lDQlpZSC1Vb2lnMmhJSXNGZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b6efb120b93b",
     "date": "August 10, 2026",
     "publishedISO": "2026-08-10T15:41:31+00:00",
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
