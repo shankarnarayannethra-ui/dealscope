@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-3e79133323fd",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T07:33:19+00:00",
+    "acquirer": "CVC DIF to",
+    "target": "leading German data centre operator firstcolo from Cube Infrastructure Managers",
+    "headline": "CVC DIF to acquire leading German data centre operator firstcolo from Cube Infrastructure Managers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "cvc.com",
+    "summary": "CVC DIF to acquire leading German data centre operator firstcolo from Cube Infrastructure Managers cvc.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDE0TGJST0RDMzJORUdXYTV4aXNmTjBYWVJOQjhuRExxblh6QlFJdzJhOVZ6NmltT1QwZnI0ZDI5b0xCVzdobExUZWRFd1IycTFMaEdYOXNRbWRyWmR1M0ZhbUVZSkFfNnM2UjNYdEdVR0h6Yk0tN1o0OHh4UE1DREZIaEtBV3JjWmw3cmlIbDJ3cWU2ZC1rYTNPdldONlVTazlyZkN3Q1dzTUpud01iS3JsMFVZWTBLYkEtQVJmOVJtRGthbHR6UjBvUzR1bGtl?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c7c3ca7356de",
     "date": "August 13, 2026",
     "publishedISO": "2026-08-13T22:05:49+00:00",
@@ -301,13 +376,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d1a50623b8be",
+    "id": "news-b30cead97bd1",
     "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T14:24:32+00:00",
-    "acquirer": "AEVEX to",
-    "target": "BlackSea Technologies",
-    "headline": "AEVEX to acquire BlackSea Technologies for up to $650M",
-    "valueBillions": 0.65,
+    "publishedISO": "2026-08-13T18:05:22+00:00",
+    "acquirer": "Again",
+    "target": "industrial biotech veteran Genomatica",
+    "headline": "Again acquires industrial biotech veteran Genomatica",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "breakingdefense.com",
-    "summary": "AEVEX to acquire BlackSea Technologies for up to $650M breakingdefense.com",
+    "sourceName": "Chemical & Engineering News",
+    "summary": "Again acquires industrial biotech veteran Genomatica Chemical & Engineering News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm5senNIeEY2aHFTMmNyc3h1MnNCYnk0NjdqTjhnT0hTTkszYmZOakdRdmZBOU9UeUVXQkVQY2U5eVoyM0FlZEVoN2Y4bG5QY1g4alU4Q21tSV9BcGRTV2VZSURNc2JvNmU3VUp6RF9EcmNWdDA2TmJKdEU4WFp0RDAtM0tHOEg0TG1vWG5rUnExLUtx?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUVpSTlLYS1vZTdOaVlBQ3g5S1pWcU8zVVJvSExETzdfT3BWMHRQdXhIZkM0a1lldzZaQkRRYXRTbDludFdXMlJ6UDc3Y3pzR01ucV9vQkZ3ZUt4YmlYVHBLY01reXJ5MkdvSENIeFVxMXM3TTFYTk5OYXhEOGE1TzNscjBOV1RwUHc4VkRDcTVkY0ZOeGJvQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "breakingdefense.com",
-    "summary": "Joby to buy Resonant Sciences, establish defense business in $500 million deal breakingdefense.com",
+    "sourceName": "Breaking Defense",
+    "summary": "Joby to buy Resonant Sciences, establish defense business in $500 million deal Breaking Defense",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1726,6 +1801,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-85a0a0b1d404",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T14:55:28+00:00",
+    "acquirer": "Jazz commits up to $1.3B to",
+    "target": "Actio, bolster epilepsy pipeline",
+    "headline": "Jazz commits up to $1.3B to buy Actio, bolster epilepsy pipeline",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "BioSpace",
+    "summary": "Jazz commits up to $1.3B to buy Actio, bolster epilepsy pipeline BioSpace",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNm1TaHFubE5WS3VQZlRjUWxDU2k3RXVkejFubGRIRmNYdGxwS1ZrMU5HZUxES2NwWjhvd2RTbXFqczNqTm54Mk82WGpvUkZ0MVQ2MUNibVdaZ19sR3Bxb1FpbWY1NmlhQUc4eklQbUZ4TmN0YUZmS3R5cVZld2pSZDFFOFVXNkxVbWpCdkR5V2syTllfZGxQVA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3e45d708f42e",
     "date": "August 10, 2026",
     "publishedISO": "2026-08-10T13:03:47+00:00",
@@ -1740,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Florida Atlantic University",
-    "summary": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio Florida Atlantic University",
+    "sourceName": "fau.edu",
+    "summary": "Dolby Laboratories Acquires FAU Video Compression Tech Portfolio fau.edu",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXBSWkVrakJxcXlLSUdfcW9KLU9hU2toTkFKNy0wa1JrZWw3a3RQSUdtUnFjWlQzTTJxT0VwbWNpbFFGY29zbm5GQmNHWDVGQ2NCWW1FdVBlU0ZVYUxpa2cxYVduekZGMjcyb3dYNDl1Y1BPTTB2Z2plcXhSNHl0Qm5aQmhuaGMwSm81TEhXeUg2ZW1lYXc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5946a21b07a1",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T12:06:54+00:00",
-    "acquirer": "Dream Finders to",
-    "target": "Beazer",
-    "headline": "Dream Finders to Buy Beazer for $915 Million",
-    "valueBillions": 0.915,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Dream Finders to Buy Beazer for $915 Million WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXZULTd2UUdvc19vTE1qZmZjbXlTZ2xCcF9RdXBiTlZiOHBDWnZDMVNsYjZUX1lpYVpXZTZaMERTeVFYNTd4MXlyRktDRWZfenRhQWkzcHVxTE1TUHJCY3ViejZyeUJlTjFMRmlRSkJmWmZRbTdHOU96S3lRNFR0aUotVjg2MFN1U2F5UndkMTY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d73632862c6e",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T11:26:21+00:00",
-    "acquirer": "Dream Finders to",
-    "target": "Beazer Homes in $2.2-billion deal",
-    "headline": "Dream Finders to buy Beazer Homes in $2.2-billion deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2x2eWs1RThmWlo2QjRKSjZVM2VSQ21xU2hVVS11dzZYWDhYcVc2Y1FXSzRFYXhHb0tzR19wODQ4TU5tdEFjU09HUDM4aFJILUhxNmFKU2pOMHdyTVJ5V3BtWFBTWkFmVjV4dVBzVXBVcGNHLUJmaVd5OExfa2tDOWIzMTJJT3ZuLTROQkY5c3NadU1uMng5SlRSS2Y?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
