@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -76,9 +76,84 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5b3f1c5c58f0",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T21:36:07+00:00",
+    "acquirer": "Tyler Technologies",
+    "target": "CODY Systems",
+    "headline": "Tyler Technologies Acquires CODY Systems",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Police1",
+    "summary": "Tyler Technologies Acquires CODY Systems Police1",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaU94N1h2dnNLQUtCdWJvSnB1UDFVejZUWFh2UER0UHdNWURnR19lczZiWEJXRGN6ZGhrc2RZa3VMTEhtUWdLQkhmazVCbEtDdy1HTWtacUhsaUNHTXNYcHhfeENVTGxmQjRmSEJodElJZl9zQnFtdXpCem1QdjNoZGJod05YUmtNVlcwZnliWGRuX3l5b1FDbmswVnZvalVZb0Jld3VoS1FEdlNfZjVKTw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c82ffff8745e",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T20:48:45+00:00",
+    "publishedISO": "2026-08-14T20:49:38+00:00",
     "acquirer": "Core Scientific",
     "target": "Polaris DS, Advancing Planned Muskogee Expansion to 1.5 GW of Gross Power",
     "headline": "Core Scientific Completes Acquisition of Polaris DS, Advancing Planned Muskogee Expansion to 1.5 GW of Gross Power",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "investors.corescientific.com",
-    "summary": "Core Scientific Completes Acquisition of Polaris DS, Advancing Planned Muskogee Expansion to 1.5 GW of Gross Power investors.corescientific.com",
+    "sourceName": "Core Scientific",
+    "summary": "Core Scientific Completes Acquisition of Polaris DS, Advancing Planned Muskogee Expansion to 1.5 GW of Gross Power Core Scientific",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -153,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-bb1836961be9",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T19:41:42+00:00",
+    "publishedISO": "2026-08-14T19:52:46+00:00",
     "acquirer": "Ferrero to",
     "target": "better-for-you breakfast brand Purely Elizabeth",
     "headline": "Ferrero to buy better-for-you breakfast brand Purely Elizabeth",
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "loudoun.gov",
-    "summary": "County Announces Acquisition of Potomac Riverfront Property for Future Passive Parkland loudoun.gov",
+    "sourceName": "Loudoun County Website (.gov)",
+    "summary": "County Announces Acquisition of Potomac Riverfront Property for Future Passive Parkland Loudoun County Website (.gov)",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -526,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3e79133323fd",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T07:33:19+00:00",
-    "acquirer": "CVC DIF to",
-    "target": "leading German data centre operator firstcolo from Cube Infrastructure Managers",
-    "headline": "CVC DIF to acquire leading German data centre operator firstcolo from Cube Infrastructure Managers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "cvc.com",
-    "summary": "CVC DIF to acquire leading German data centre operator firstcolo from Cube Infrastructure Managers cvc.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDE0TGJST0RDMzJORUdXYTV4aXNmTjBYWVJOQjhuRExxblh6QlFJdzJhOVZ6NmltT1QwZnI0ZDI5b0xCVzdobExUZWRFd1IycTFMaEdYOXNRbWRyWmR1M0ZhbUVZSkFfNnM2UjNYdEdVR0h6Yk0tN1o0OHh4UE1DREZIaEtBV3JjWmw3cmlIbDJ3cWU2ZC1rYTNPdldONlVTazlyZkN3Q1dzTUpud01iS3JsMFVZWTBLYkEtQVJmOVJtRGthbHR6UjBvUzR1bGtl?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-0ec2c7f2e000",
     "date": "August 13, 2026",
     "publishedISO": "2026-08-13T18:35:00+00:00",
@@ -690,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion Bloomberg",
+    "sourceName": "Bloomberg.com",
+    "summary": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion Bloomberg.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -709,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d1a50623b8be",
-    "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T14:24:32+00:00",
-    "acquirer": "AEVEX to",
-    "target": "BlackSea Technologies",
-    "headline": "AEVEX to acquire BlackSea Technologies for up to $650M",
-    "valueBillions": 0.65,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Breaking Defense",
-    "summary": "AEVEX to acquire BlackSea Technologies for up to $650M Breaking Defense",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm5senNIeEY2aHFTMmNyc3h1MnNCYnk0NjdqTjhnT0hTTkszYmZOakdRdmZBOU9UeUVXQkVQY2U5eVoyM0FlZEVoN2Y4bG5QY1g4alU4Q21tSV9BcGRTV2VZSURNc2JvNmU3VUp6RF9EcmNWdDA2TmJKdEU4WFp0RDAtM0tHOEg0TG1vWG5rUnExLUtx?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,6 +1276,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-aed71a330fbc",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T17:30:00+00:00",
+    "acquirer": "CHG Healthcare",
+    "target": "KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
+    "headline": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOVFMMHlIN1AzcE9Cc015OWJCUllPYVowQ3BuTDZtS2VBaE50WG9jRHJPUnlGRFpkRFNUZnZYRTFQNUVIWElNV2FzREZzVzhYblY0WE03Yk1vaU5QZkhMS3lKQ3RWTm9VSDF3dE9YNlg3MnJBclRSVGxMLVlnaFVSZi03X2xCR3RyNnRJR2wtYkhZVllWempVWkFQUHd4dTZ4SXdDUnEwSFVLZmIzcW9WcGFpSkJ4Zi00UXM4b1VGOWZ0SmUtMzBoNWdURVJta2Q3MEYtcjZ2Q3Z2dlRKb1VNM3hpRmZuZ25OV2duSDJZLXBnREZY?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a1a93602bdc0",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T16:04:00+00:00",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Nasdaq to Acquire LeveL Markets WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Nasdaq to Acquire LeveL Markets wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Hollywood Mogul Ari Emanuel to Buy Theater Giant in $6 Billion Deal WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Hollywood Mogul Ari Emanuel to Buy Theater Giant in $6 Billion Deal wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
