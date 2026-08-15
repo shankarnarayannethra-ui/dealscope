@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -109,6 +109,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaU94N1h2dnNLQUtCdWJvSnB1UDFVejZUWFh2UER0UHdNWURnR19lczZiWEJXRGN6ZGhrc2RZa3VMTEhtUWdLQkhmazVCbEtDdy1HTWtacUhsaUNHTXNYcHhfeENVTGxmQjRmSEJodElJZl9zQnFtdXpCem1QdjNoZGJod05YUmtNVlcwZnliWGRuX3l5b1FDbmswVnZvalVZb0Jld3VoS1FEdlNfZjVKTw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-846d1afc1e10",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T21:09:57+00:00",
+    "acquirer": "Deal to",
+    "target": "the Los Angeles Lakers worth $12.5 billion",
+    "headline": "Deal to buy the Los Angeles Lakers worth $12.5 billion",
+    "valueBillions": 12.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WBUR",
+    "summary": "Deal to buy the Los Angeles Lakers worth $12.5 billion WBUR",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqUlhxQTNYZzBQTW5TdDgwYzdmTTQtWF82ajVfRHhGZ09DaS1Td2IzQ2w3UnNFUHlWcFJSRmpVT1Faa3BDUzcyTnI0MnFSNkhDUE56RldxbzJMMl94Q3YxWVZ6SFdub0tB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -603,7 +678,7 @@ window.generatedDeals = [
   {
     "id": "news-0ec2c7f2e000",
     "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T18:35:00+00:00",
+    "publishedISO": "2026-08-13T21:20:07+00:00",
     "acquirer": "EXCLUSIVE: Silver Lake in talks to",
     "target": "Workday, sources say",
     "headline": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
@@ -976,6 +1051,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-615b5ea4f5c6",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T19:23:23+00:00",
+    "acquirer": "Goldman Sachs Announces Agreement to",
+    "target": "NEOS Investments",
+    "headline": "Goldman Sachs Announces Agreement to Acquire NEOS Investments",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Goldman Sachs",
+    "summary": "Goldman Sachs Announces Agreement to Acquire NEOS Investments Goldman Sachs",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1dsYmZmeGRqRUNGTjhTVnN3SmNpR3hQZzRFUVRIN0E2TGdqbUo0SllmWlVCSzJmX1kxOGw1ZEdwVURqRDZTWXM4bHRHaTI4aUN4aThnd1NjZUFJUEVfRTNJV3dKT3ZnWEdFbG5kMS04Q3RCSDJhTWZSVUhWUWw0Q0dhbkpKM1ZPMy1KQjA0VjFBbjdJM3BYZWtuTENyczkyeEtWakhfajFYVnR1LW9LNHhjMTZody1NNTRCaQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-28e66238c740",
     "date": "August 12, 2026",
     "publishedISO": "2026-08-12T12:30:00+00:00",
@@ -1009,6 +1159,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGNiU2Q1UGYtcHEzSjkwYU9jaFRjdDgxdGNkbG9ob1lvT2dSblBOZ0NlcEZkRDF3V2YyekZFalo0bjVZUndpelN5dHctbUt6SFpnSTBra3FPZ0poUmxWY1l0amZpb3pfWGEtUEdVUlN4TV9ZUE9YMC1kQTlwUzdjR1lTQmMzUTJxQkZrR3JVcWlYYW5iQm5mX2VDTHRaalN1LWE0MHJaUWtFbWgyR3psT3Z3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-61c7847b20d5",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T11:45:07+00:00",
+    "acquirer": "Goldman Sachs to",
+    "target": "ETF Provider Neos in $2.3 Billion Deal",
+    "headline": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
+    "valueBillions": 2.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg.com",
+    "summary": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal Bloomberg.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGJEVWdLcnpzZTVJY3loVWdadElmWEVIOFU1b1BEREFFb0hLd3gyb1VyTDdXMFdKRERlb3BEZUh5UFRNT1ViUzdIbVVNUWtwdnhTSkExcDFkc0MtX2hCNFhPWVZBSU9VSldzU3hqbmlGcy1ZZUFNc1FEdFk1dEJfeThtLXZ6N1lxYmJvczB5clM4ZE1VV25JcHZHdmltVlRIbTBnajZWTGF6d1J0WjEtbXRmYw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,156 +1426,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-16df0d7013eb",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T17:37:00+00:00",
-    "acquirer": "Now is a good time to",
-    "target": "into Qualcomm, says Matrix Asset’s David Katz",
-    "headline": "Now is a good time to buy into Qualcomm, says Matrix Asset’s David Katz",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Now is a good time to buy into Qualcomm, says Matrix Asset’s David Katz CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQai1Rajh6RXhab25CVUJUMzB3dHZ6N052UDRzR3l2QTVzOWF5NUxjVHZET0xtUVo3blJ4Z2drMEU2elRTRFdCU3M4bTVvZUUzc3ExQVJwMGg2RGxjYnVTLVI5ckRuS0FDOUkwb000RzJZTnZUTWVnX0E4dUI3d1dERERnZWdPU1NBeFJyMFJtNkl4R25NQVJTN2lRNlJXeGtTc0ljazNZSm9JUkd2UnFBeDFJOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-aed71a330fbc",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T17:30:00+00:00",
-    "acquirer": "CHG Healthcare",
-    "target": "KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
-    "headline": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOVFMMHlIN1AzcE9Cc015OWJCUllPYVowQ3BuTDZtS2VBaE50WG9jRHJPUnlGRFpkRFNUZnZYRTFQNUVIWElNV2FzREZzVzhYblY0WE03Yk1vaU5QZkhMS3lKQ3RWTm9VSDF3dE9YNlg3MnJBclRSVGxMLVlnaFVSZi03X2xCR3RyNnRJR2wtYkhZVllWempVWkFQUHd4dTZ4SXdDUnEwSFVLZmIzcW9WcGFpSkJ4Zi00UXM4b1VGOWZ0SmUtMzBoNWdURVJta2Q3MEYtcjZ2Q3Z2dlRKb1VNM3hpRmZuZ25OV2duSDJZLXBnREZY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-a1a93602bdc0",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T16:04:00+00:00",
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Nasdaq to Acquire LeveL Markets wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Nasdaq to Acquire LeveL Markets WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "C-Store Dive",
-    "summary": "Casey’s to acquire 24 stores from Texas chain C-Store Dive",
+    "sourceName": "cstoredive.com",
+    "summary": "Casey’s to acquire 24 stores from Texas chain cstoredive.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Hollywood Mogul Ari Emanuel to Buy Theater Giant in $6 Billion Deal wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Hollywood Mogul Ari Emanuel to Buy Theater Giant in $6 Billion Deal WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1684,81 +1759,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTG1LNi1Ma0Q3QWZNZ3Nob2txUC1rUVQ3czk4Q0JleXFUZDFYVzdLb0hIVmg5RHdzSk5ldGJOWXk2WTdaUEctbElTV0ZJNHdwbjEyelJWMTdMTjlHZlZzQVhZd3BEeV9NeVVYeGluWTVOd0ZNQlRLUzVEVFhWQWJGYnNmOHVkbUFaTHpRN1NnNS1UdnBJU1QtVk04c3hFZ1JTaWVoZWhLNlpIeHAzRzkybEJmYUU?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-59bb21ee1ce6",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T12:30:00+00:00",
-    "acquirer": "Xylem to",
-    "target": "Cornell Pump and Roper Pump, Strengthening Industrial Presence in High Growth Sectors",
-    "headline": "Xylem to Acquire Cornell Pump and Roper Pump, Strengthening Industrial Presence in High Growth Sectors",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Xylem to Acquire Cornell Pump and Roper Pump, Strengthening Industrial Presence in High Growth Sectors Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUW1XdHoyWTk2N29yVmlMaVZwYXQtby05cXRDOTlHM0NOaDlLeUxFSV9CLUZPNGR2MjZ4MldPZnFrSG1SX21pTDNYQy0tb2k2cmhlaVNtVVcwYjVvUlZya28yNGtXbl9ZbXNuTUhxQ01zSldiTTZRTTI4QnNWd2lybk01OHZFakRvcXY5N0hVWkJfNVA1Wml5WDN2Y1JyU1dpVTlmTlFJRWNiUUF3VTh5aVRzcENTRWNJcTg4cHlvWVktOVg0TldYdC04ZHRXOTlMLXU5dzBaUXFwbGVsNlpsX3h1Nno0NTdpQVpKT0pNQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
