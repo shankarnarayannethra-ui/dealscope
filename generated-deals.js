@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-246e78109836",
+    "date": "August 16, 2026",
+    "publishedISO": "2026-08-16T13:00:00+00:00",
+    "acquirer": "Mesirow",
+    "target": "flexPATH’s 3(38) Division",
+    "headline": "Mesirow Acquires flexPATH’s 3(38) Division",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "401k Specialist",
+    "summary": "Mesirow Acquires flexPATH’s 3(38) Division 401k Specialist",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44SndyOFdfWS1RYk1ic3RhMFhSRFFWaWZlSnVyVWtVUE9DSWVYSl9xa0RUUkljMGpPaVEyU0ttc0M4MWdVdVNrdEZ5V21jU0R3eUNJVkVqOTRDQklIUUdMZFE3bkFTTmxKU2VSMkt0Ml81Wk96eXdHNEJB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8af1921ccfa7",
+    "date": "August 16, 2026",
+    "publishedISO": "2026-08-16T06:39:16+00:00",
+    "acquirer": "Skye Bioscience",
+    "target": "Redx Pharma, Exits Obesity",
+    "headline": "Skye Bioscience Acquires Redx Pharma, Exits Obesity for Fibrosis Focus",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Clinical Trial Vanguard",
+    "summary": "Skye Bioscience Acquires Redx Pharma, Exits Obesity for Fibrosis Focus The Clinical Trial Vanguard",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVJJNHBCVlVDbHRUNk9RN0U1LVQ2WEEtYjBKQjdURGxkSmN3VEdGUGJKQTJZYk1uOEhYNmY1azd4VGhXZ2dwckx6YmxZQ0ZkdzZ6TzY1bll3dEdOcmVIOXFZbTFIcnJRd1J4emxmb2hKenh2VXg3NEdKQzVKTkNDaVBfNlRJaVN3SURSbmF6MzV5d0c2MU1lYXZXN2lORWJxaVFXd0htQ3I0OEU1cmJPNjBlSQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-867cc7ef478a",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T21:38:00+00:00",
@@ -390,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fs.usda.gov",
-    "summary": "San Juan National Forest acquires Fall Creek inholding fs.usda.gov",
+    "sourceName": "US Forest Service (.gov)",
+    "summary": "San Juan National Forest acquires Fall Creek inholding US Forest Service (.gov)",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1276,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-076aea5c10e8",
+    "id": "news-0724a93506e8",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T21:17:21+00:00",
-    "acquirer": "Joby to",
-    "target": "Resonant Sciences, establish defense business in $500 million deal",
-    "headline": "Joby to buy Resonant Sciences, establish defense business in $500 million deal",
+    "publishedISO": "2026-08-11T23:34:09+00:00",
+    "acquirer": "Air taxi firm Joby",
+    "target": "defense tech company",
+    "headline": "Air taxi firm Joby acquires defense tech company for $500 million",
     "valueBillions": 0.5,
     "sector": "M&A news",
     "countries": [
@@ -1290,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Breaking Defense",
-    "summary": "Joby to buy Resonant Sciences, establish defense business in $500 million deal Breaking Defense",
+    "sourceName": "Reuters",
+    "summary": "Air taxi firm Joby acquires defense tech company for $500 million Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVNURDVkajlYLUkxbHFnc29mRVNjRUd0Rl80eTFZMEtFR2t2MUtCUDhBRW5XdEVoSldYcWs3bnRqckVjbVhPdjB0V3RqNi10MDBHZkp3cE5HRXpuWmpoRldWbFBxZ1hKUTRGRzh0b0ExZ0ttVTZBS1dfNmNzbllGMFJ1ek1ObWRMc3lrT2hwc3lzbkdHajBNWUV1azhJVmJ0TjJsXzVnZWd4bjlKdkUtVXU2MA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,13 +1501,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-16df0d7013eb",
+    "id": "news-076aea5c10e8",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T17:37:00+00:00",
-    "acquirer": "Now is a good time to",
-    "target": "into Qualcomm, says Matrix Asset’s David Katz",
-    "headline": "Now is a good time to buy into Qualcomm, says Matrix Asset’s David Katz",
-    "valueBillions": null,
+    "publishedISO": "2026-08-11T21:17:21+00:00",
+    "acquirer": "Joby to",
+    "target": "Resonant Sciences, establish defense business in $500 million deal",
+    "headline": "Joby to buy Resonant Sciences, establish defense business in $500 million deal",
+    "valueBillions": 0.5,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1365,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Now is a good time to buy into Qualcomm, says Matrix Asset’s David Katz cnbc.com",
+    "sourceName": "Breaking Defense",
+    "summary": "Joby to buy Resonant Sciences, establish defense business in $500 million deal Breaking Defense",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1533,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQai1Rajh6RXhab25CVUJUMzB3dHZ6N052UDRzR3l2QTVzOWF5NUxjVHZET0xtUVo3blJ4Z2drMEU2elRTRFdCU3M4bTVvZUUzc3ExQVJwMGg2RGxjYnVTLVI5ckRuS0FDOUkwb000RzJZTnZUTWVnX0E4dUI3d1dERERnZWdPU1NBeFJyMFJtNkl4R25NQVJTN2lRNlJXeGtTc0ljazNZSm9JUkd2UnFBeDFJOA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVNURDVkajlYLUkxbHFnc29mRVNjRUd0Rl80eTFZMEtFR2t2MUtCUDhBRW5XdEVoSldYcWs3bnRqckVjbVhPdjB0V3RqNi10MDBHZkp3cE5HRXpuWmpoRldWbFBxZ1hKUTRGRzh0b0ExZ0ttVTZBS1dfNmNzbllGMFJ1ek1ObWRMc3lrT2hwc3lzbkdHajBNWUV1azhJVmJ0TjJsXzVnZWd4bjlKdkUtVXU2MA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1876,81 +2026,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e32c853cbf83",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T16:06:35+00:00",
-    "acquirer": "Jazz to",
-    "target": "rare epilepsy drugmaker in potentially $1.3B deal",
-    "headline": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "BioPharma Dive",
-    "summary": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal BioPharma Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREFBcGtYZEtwZmNPUEpKWmlIUktzLTlNTWF5dllqTXJ6bk1rWDlUYy13c0FSbi16SnozVTM3ckl3a2ZWMnROdk1QQU56TExFbXV5X2lhUGhrVTdBWUd6aEtXQWgxYWp1VXIyR2pyQWl6V3dqenk2QWc1bFZpMDFrMzVmblAycWY1MExvY0lDQlpZSC1Vb2lnMmhJSXNGZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b6efb120b93b",
     "date": "August 10, 2026",
     "publishedISO": "2026-08-10T15:41:31+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWWFpOXM5dzMySkJRcUx4T0hMLVpGemlXWXEyZ09VRWdadHZIZlp5aGpfcmdNU0VmS0cxUTdoTFJCN3ZLSWNTUHpkRmNPaUxna0s2cXZ4MUxmMzlWc0FsYjd5TFhuNU1sX3dqb2x5VXZ0NEM3VV9TRXBrVG1SWmN5LTZNdFUwWU96REg2Ny1BRnVwQUxGUnJDZVRLd0ZnQ2F1ek05d19KQlo4VkNTT1g0U3gtdFZBa05tQ2RfcU9MRF9sLURXY2VVMlk5cVlhQ1pIbUhRWW1B?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1e0b21815034",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T10:55:00+00:00",
-    "acquirer": "Teledyne to",
-    "target": "Varex Imaging Corporation",
-    "headline": "Teledyne to Acquire Varex Imaging Corporation",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Teledyne to Acquire Varex Imaging Corporation Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYTVmVmhBUVVkcThFNnI2RUxmS3U4YkQ5MW51V1o1QXJSRUx6enNweHA5dURtbDl0a0pMcmpJREZUVzg5YnBHLU1aUkRUaTNmVEdNOVZMYVhLRTl5MVJqRW1HTkxrNjNvd2tEVUlqYVNsQ0FLR2Z2d3pVZWtCTTRLeWt6cGJmeTlaR0tFd3VRVzU1UW9ycFNZSzJsVVVLZEg5M1FBTA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
