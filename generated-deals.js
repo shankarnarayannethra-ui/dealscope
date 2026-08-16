@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "media.amtrak.com",
-    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide media.amtrak.com",
+    "sourceName": "Amtrak Media",
+    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide Amtrak Media",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "US Forest Service (.gov)",
-    "summary": "San Juan National Forest acquires Fall Creek inholding US Forest Service (.gov)",
+    "sourceName": "fs.usda.gov",
+    "summary": "San Juan National Forest acquires Fall Creek inholding fs.usda.gov",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "loudoun.gov",
-    "summary": "County Announces Acquisition of Potomac Riverfront Property for Future Passive Parkland loudoun.gov",
+    "sourceName": "Loudoun County Website (.gov)",
+    "summary": "County Announces Acquisition of Potomac Riverfront Property for Future Passive Parkland Loudoun County Website (.gov)",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -826,6 +826,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-d1a50623b8be",
+    "date": "August 13, 2026",
+    "publishedISO": "2026-08-13T14:24:32+00:00",
+    "acquirer": "AEVEX to",
+    "target": "BlackSea Technologies",
+    "headline": "AEVEX to acquire BlackSea Technologies for up to $650M",
+    "valueBillions": 0.65,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Breaking Defense",
+    "summary": "AEVEX to acquire BlackSea Technologies for up to $650M Breaking Defense",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm5senNIeEY2aHFTMmNyc3h1MnNCYnk0NjdqTjhnT0hTTkszYmZOakdRdmZBOU9UeUVXQkVQY2U5eVoyM0FlZEVoN2Y4bG5QY1g4alU4Q21tSV9BcGRTV2VZSURNc2JvNmU3VUp6RF9EcmNWdDA2TmJKdEU4WFp0RDAtM0tHOEg0TG1vWG5rUnExLUtx?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-1b371594ea2d",
     "date": "August 13, 2026",
     "publishedISO": "2026-08-13T13:03:41+00:00",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Vogue",
-    "summary": "Frasers Group Acquires Harvey Nichols Vogue",
+    "sourceName": "vogue.com",
+    "summary": "Frasers Group Acquires Harvey Nichols vogue.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1201,81 +1276,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0724a93506e8",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T23:34:09+00:00",
-    "acquirer": "Air taxi firm Joby",
-    "target": "defense tech company",
-    "headline": "Air taxi firm Joby acquires defense tech company for $500 million",
-    "valueBillions": 0.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Air taxi firm Joby acquires defense tech company for $500 million Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-076aea5c10e8",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T21:17:21+00:00",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Now is a good time to buy into Qualcomm, says Matrix Asset’s David Katz CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Now is a good time to buy into Qualcomm, says Matrix Asset’s David Katz cnbc.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "hollywoodreporter.com",
-    "summary": "Ari Emanuel’s Mari Acquires Broadway and West End Theater Owner ATG Entertainment hollywoodreporter.com",
+    "sourceName": "The Hollywood Reporter",
+    "summary": "Ari Emanuel’s Mari Acquires Broadway and West End Theater Owner ATG Entertainment The Hollywood Reporter",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
