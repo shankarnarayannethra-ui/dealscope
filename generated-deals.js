@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Amtrak Media",
-    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide Amtrak Media",
+    "sourceName": "media.amtrak.com",
+    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide media.amtrak.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Loudoun County Website (.gov)",
-    "summary": "County Announces Acquisition of Potomac Riverfront Property for Future Passive Parkland Loudoun County Website (.gov)",
+    "sourceName": "loudoun.gov",
+    "summary": "County Announces Acquisition of Potomac Riverfront Property for Future Passive Parkland loudoun.gov",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1426,81 +1426,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-aed71a330fbc",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T17:30:00+00:00",
-    "acquirer": "CHG Healthcare",
-    "target": "KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
-    "headline": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOVFMMHlIN1AzcE9Cc015OWJCUllPYVowQ3BuTDZtS2VBaE50WG9jRHJPUnlGRFpkRFNUZnZYRTFQNUVIWElNV2FzREZzVzhYblY0WE03Yk1vaU5QZkhMS3lKQ3RWTm9VSDF3dE9YNlg3MnJBclRSVGxMLVlnaFVSZi03X2xCR3RyNnRJR2wtYkhZVllWempVWkFQUHd4dTZ4SXdDUnEwSFVLZmIzcW9WcGFpSkJ4Zi00UXM4b1VGOWZ0SmUtMzBoNWdURVJta2Q3MEYtcjZ2Q3Z2dlRKb1VNM3hpRmZuZ25OV2duSDJZLXBnREZY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-a1a93602bdc0",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T16:04:00+00:00",
@@ -1740,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Hollywood Reporter",
-    "summary": "Ari Emanuel’s Mari Acquires Broadway and West End Theater Owner ATG Entertainment The Hollywood Reporter",
+    "sourceName": "hollywoodreporter.com",
+    "summary": "Ari Emanuel’s Mari Acquires Broadway and West End Theater Owner ATG Entertainment hollywoodreporter.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1909,6 +1834,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZS1tc1Myekp4eHhXQ3prQ1Q1dF84N2g4TmExbWlhY3FlZTRMUHU4M0dkZVV1czZGNG1HUmQ1WUFTWG5vQXNwX2pGaHFTLVVKc0drTDNkd3pmcGxPdkczTmxBSEF3Vk9yOWoyU0o3bkJYd0ZwMmIwd0VjcHNhUUFvS2otbHNlTHExTGxZR2V0d3lTeTY1ZDhOWg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e32c853cbf83",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T16:06:35+00:00",
+    "acquirer": "Jazz to",
+    "target": "rare epilepsy drugmaker in potentially $1.3B deal",
+    "headline": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "BioPharma Dive",
+    "summary": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal BioPharma Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREFBcGtYZEtwZmNPUEpKWmlIUktzLTlNTWF5dllqTXJ6bk1rWDlUYy13c0FSbi16SnozVTM3ckl3a2ZWMnROdk1QQU56TExFbXV5X2lhUGhrVTdBWUd6aEtXQWgxYWp1VXIyR2pyQWl6V3dqenk2QWc1bFZpMDFrMzVmblAycWY1MExvY0lDQlpZSC1Vb2lnMmhJSXNGZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
