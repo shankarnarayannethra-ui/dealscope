@@ -76,81 +76,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8af1921ccfa7",
-    "date": "August 16, 2026",
-    "publishedISO": "2026-08-16T06:39:16+00:00",
-    "acquirer": "Skye Bioscience",
-    "target": "Redx Pharma, Exits Obesity",
-    "headline": "Skye Bioscience Acquires Redx Pharma, Exits Obesity for Fibrosis Focus",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Clinical Trial Vanguard",
-    "summary": "Skye Bioscience Acquires Redx Pharma, Exits Obesity for Fibrosis Focus The Clinical Trial Vanguard",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVJJNHBCVlVDbHRUNk9RN0U1LVQ2WEEtYjBKQjdURGxkSmN3VEdGUGJKQTJZYk1uOEhYNmY1azd4VGhXZ2dwckx6YmxZQ0ZkdzZ6TzY1bll3dEdOcmVIOXFZbTFIcnJRd1J4emxmb2hKenh2VXg3NEdKQzVKTkNDaVBfNlRJaVN3SURSbmF6MzV5d0c2MU1lYXZXN2lORWJxaVFXd0htQ3I0OEU1cmJPNjBlSQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-867cc7ef478a",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T21:38:00+00:00",
@@ -259,81 +184,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaU94N1h2dnNLQUtCdWJvSnB1UDFVejZUWFh2UER0UHdNWURnR19lczZiWEJXRGN6ZGhrc2RZa3VMTEhtUWdLQkhmazVCbEtDdy1HTWtacUhsaUNHTXNYcHhfeENVTGxmQjRmSEJodElJZl9zQnFtdXpCem1QdjNoZGJod05YUmtNVlcwZnliWGRuX3l5b1FDbmswVnZvalVZb0Jld3VoS1FEdlNfZjVKTw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-846d1afc1e10",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T21:09:57+00:00",
-    "acquirer": "Deal to",
-    "target": "the Los Angeles Lakers worth $12.5 billion",
-    "headline": "Deal to buy the Los Angeles Lakers worth $12.5 billion",
-    "valueBillions": 12.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WBUR",
-    "summary": "Deal to buy the Los Angeles Lakers worth $12.5 billion WBUR",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqUlhxQTNYZzBQTW5TdDgwYzdmTTQtWF82ajVfRHhGZ09DaS1Td2IzQ2w3UnNFUHlWcFJSRmpVT1Faa3BDUzcyTnI0MnFSNkhDUE56RldxbzJMMl94Q3YxWVZ6SFdub0tB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,7 +451,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-69b989e6a3e9",
+    "id": "news-f8e0ebb1bea1",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T17:19:24+00:00",
     "acquirer": "County",
@@ -633,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmVVBEYnJMRDdUaXY5VXliWmkzWi1FVnFjWjdMM2xkQW5VR1pUaXJuQjhiU0J5cjVPWWRVN1A5bHBxdUhzM3hBYmpUYUE0bmVyRWp2YUIwZnlOa2IyTEFQODNB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URV8zRUFGclZ2QTQya196YmhBWk9KTGN6QkxEVjQ5RXpQdmlXaHlva3FiVlEyWjBWUW0tcXhUUy1DZDFoRndqRHpUcHFFeVdrLW1yc2FHU1pNQnhzZkk4?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -709,6 +559,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDNmWnYtaDEwbzFPbmd5Zl80bllGdFpzaXhUbDRmT1JSNURvRmZtX0ZNMk5Zb21WT1A3OTNnc3Jadm5NUXBXR2FqUVoyRjFCTEhnVE1OS3JxTEZyNXBCMloyZTh1RGc0Y2NPUUZFWlBhaVBCOFc1UkRuOXVpaGtPUi1TVERPWVlaTHEtRWgySDAzNEQ0X1VZSHFfVnd6eTFXUTZzRWdjeGtDajdySkw4aDRNM2FkLVgtc2t6NWlYRFhVWDNleU9zX3NZWVM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-951eaf1e4ce7",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T13:11:56+00:00",
+    "acquirer": "Solina",
+    "target": "Epicurean Butter",
+    "headline": "Solina acquires Epicurean Butter",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Food Business News",
+    "summary": "Solina acquires Epicurean Butter Food Business News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2JyM0c0bmxYcGZGTDdrYXRmM0F0X3pGc2l3LTh5SE1NWHZ1WDFVQ3BJSDZLX2YzT0FoRzNoTFlqYU5OM2JrZzdrTVNnZzR1NXMyWlp5a2htVUFoRjRfUW1BRkN4ajZ4dTRzSGlKOHh1Y1JRNlB4djlSZTFKcmU5eng2UFdxSmM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1140,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "vogue.com",
-    "summary": "Frasers Group Acquires Harvey Nichols vogue.com",
+    "sourceName": "Vogue",
+    "summary": "Frasers Group Acquires Harvey Nichols Vogue",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1234,6 +1159,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVV9WdnZkMmFib1pJd3NDUjd6S1pJM09COHdjZ3AwNUMyWkk4SGs0WE5Kd1VYNExRUk9Tamk0QW5TUmZOaW1QQ25vck95UDd0RGpLVGtXQmx1d3lfZWtUMDJYdXdNU1c1WmlnTExKSzJDRzVGdHhVNDExOWVITVAtM0hGVUt1LTFPT3oza0F1NjBoNEpIeTc3LUdIREI5dU1XYXgycjN4WG5nVmlVVm1rSW9VVy0yaFBBSVJidEd6ckFGNEplY2RjcERjMG5mLVFNMWtRXzhDRDF3Y3dBRkhuTWFNOUlPNnV4OUdzTGdB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-615b5ea4f5c6",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T14:10:43+00:00",
+    "acquirer": "Goldman Sachs Announces Agreement to",
+    "target": "NEOS Investments",
+    "headline": "Goldman Sachs Announces Agreement to Acquire NEOS Investments",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Goldman Sachs",
+    "summary": "Goldman Sachs Announces Agreement to Acquire NEOS Investments Goldman Sachs",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1dsYmZmeGRqRUNGTjhTVnN3SmNpR3hQZzRFUVRIN0E2TGdqbUo0SllmWlVCSzJmX1kxOGw1ZEdwVURqRDZTWXM4bHRHaTI4aUN4aThnd1NjZUFJUEVfRTNJV3dKT3ZnWEdFbG5kMS04Q3RCSDJhTWZSVUhWUWw0Q0dhbkpKM1ZPMy1KQjA0VjFBbjdJM3BYZWtuTENyczkyeEtWakhfajFYVnR1LW9LNHhjMTZody1NNTRCaQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0724a93506e8",
+    "id": "news-076aea5c10e8",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T23:34:09+00:00",
-    "acquirer": "Air taxi firm Joby",
-    "target": "defense tech company",
-    "headline": "Air taxi firm Joby acquires defense tech company for $500 million",
+    "publishedISO": "2026-08-11T21:17:21+00:00",
+    "acquirer": "Joby to",
+    "target": "Resonant Sciences, establish defense business in $500 million deal",
+    "headline": "Joby to buy Resonant Sciences, establish defense business in $500 million deal",
     "valueBillions": 0.5,
     "sector": "M&A news",
     "countries": [
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Air taxi firm Joby acquires defense tech company for $500 million Reuters",
+    "sourceName": "Breaking Defense",
+    "summary": "Joby to buy Resonant Sciences, establish defense business in $500 million deal Breaking Defense",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1458,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVNURDVkajlYLUkxbHFnc29mRVNjRUd0Rl80eTFZMEtFR2t2MUtCUDhBRW5XdEVoSldYcWs3bnRqckVjbVhPdjB0V3RqNi10MDBHZkp3cE5HRXpuWmpoRldWbFBxZ1hKUTRGRzh0b0ExZ0ttVTZBS1dfNmNzbllGMFJ1ek1ObWRMc3lrT2hwc3lzbkdHajBNWUV1azhJVmJ0TjJsXzVnZWd4bjlKdkUtVXU2MA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,13 +1501,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-076aea5c10e8",
+    "id": "news-aed71a330fbc",
     "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T21:17:21+00:00",
-    "acquirer": "Joby to",
-    "target": "Resonant Sciences, establish defense business in $500 million deal",
-    "headline": "Joby to buy Resonant Sciences, establish defense business in $500 million deal",
-    "valueBillions": 0.5,
+    "publishedISO": "2026-08-11T17:30:00+00:00",
+    "acquirer": "CHG Healthcare",
+    "target": "KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
+    "headline": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Breaking Defense",
-    "summary": "Joby to buy Resonant Sciences, establish defense business in $500 million deal Breaking Defense",
+    "sourceName": "Business Wire",
+    "summary": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1533,7 +1533,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVNURDVkajlYLUkxbHFnc29mRVNjRUd0Rl80eTFZMEtFR2t2MUtCUDhBRW5XdEVoSldYcWs3bnRqckVjbVhPdjB0V3RqNi10MDBHZkp3cE5HRXpuWmpoRldWbFBxZ1hKUTRGRzh0b0ExZ0ttVTZBS1dfNmNzbllGMFJ1ek1ObWRMc3lrT2hwc3lzbkdHajBNWUV1azhJVmJ0TjJsXzVnZWd4bjlKdkUtVXU2MA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOVFMMHlIN1AzcE9Cc015OWJCUllPYVowQ3BuTDZtS2VBaE50WG9jRHJPUnlGRFpkRFNUZnZYRTFQNUVIWElNV2FzREZzVzhYblY0WE03Yk1vaU5QZkhMS3lKQ3RWTm9VSDF3dE9YNlg3MnJBclRSVGxMLVlnaFVSZi03X2xCR3RyNnRJR2wtYkhZVllWempVWkFQUHd4dTZ4SXdDUnEwSFVLZmIzcW9WcGFpSkJ4Zi00UXM4b1VGOWZ0SmUtMzBoNWdURVJta2Q3MEYtcjZ2Q3Z2dlRKb1VNM3hpRmZuZ25OV2duSDJZLXBnREZY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
