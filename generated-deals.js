@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-d4c8ad4af9ea",
+    "id": "news-2c0f477ebd03",
     "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T21:30:38+00:00",
-    "acquirer": "Google to",
-    "target": "Spirit Airlines business data",
-    "headline": "Google to buy Spirit Airlines business data for $10 million",
-    "valueBillions": 0.01,
+    "publishedISO": "2026-08-17T22:30:58+00:00",
+    "acquirer": "DocGo to",
+    "target": "virtual care company Hicuity Health",
+    "headline": "DocGo to acquire virtual care company Hicuity Health",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Google to buy Spirit Airlines business data for $10 million Reuters",
+    "sourceName": "MobiHealthNews",
+    "summary": "DocGo to acquire virtual care company Hicuity Health MobiHealthNews",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdnWlluQk1VZVE5ZmtsUlg2ZDRleS1xOWRtQjJDSmtaUjdMOGxmNVNQc1NWTVJGc2ItZjNwSS1fdWJVMVBFbHlySU1QT3lDcVFPUE9fZTFNMHI2WXlDOUdpSUdwOV9UdkJfWTc3OWE0RnBnd3hNS0lTenk2NEtGZkhtWElwdmZxNnduSWYxMUI3OG5KUjNUZzlJZndVWEFxSGR3RTBwZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjJoYklOLWdQVmxIV1VSRlZxSDRReG1ISUFXSGw5QlZaVjUtV2RhakFyNWF4MHJVRnRZVzlmd2lNR1JEZGFrQ1RGcnZzMVhDR2pXZk1aNnlnQ2JzUUx4TF9SdzhOR3FWcVdFb25xWFdTWFdhQllEOWN1Y0hzY1VCUEExY1hvWG5mcHAtMGNn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,13 +76,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-50b16ea29074",
+    "id": "news-d4c8ad4af9ea",
     "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T18:19:24+00:00",
-    "acquirer": "US Air Force looks to",
-    "target": "target drones that can mimic stealth jets",
-    "headline": "US Air Force looks to acquire target drones that can mimic stealth jets",
-    "valueBillions": null,
+    "publishedISO": "2026-08-17T21:30:38+00:00",
+    "acquirer": "Google to",
+    "target": "Spirit Airlines business data",
+    "headline": "Google to buy Spirit Airlines business data for $10 million",
+    "valueBillions": 0.01,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Military Times",
-    "summary": "US Air Force looks to acquire target drones that can mimic stealth jets Military Times",
+    "sourceName": "Reuters",
+    "summary": "Google to buy Spirit Airlines business data for $10 million Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSE54a3FDX3ZjcE5KbU1PRnhuWlVhYldFbGRRWmZnbS1fcFZnb2RpS2VTci12RFo2UUF5d1NCSzJpN01VUGl1UnUwaS1IYTZyQTRHN2pEYlF0S000WjlfT1VpSGhod3RuSHFFZXFnMFBqTWhiVWtqOWxWcTRPRU04Y05iRTRyUmU1M0UxSUR4bWpPV1JuMnlLUGlUbnZiU3RmelNnR1ZDSDFrbktmWEZreTNKb053S2dFbzRENVFYZmNwNHhla3dmUHdBaHQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdnWlluQk1VZVE5ZmtsUlg2ZDRleS1xOWRtQjJDSmtaUjdMOGxmNVNQc1NWTVJGc2ItZjNwSS1fdWJVMVBFbHlySU1QT3lDcVFPUE9fZTFNMHI2WXlDOUdpSUdwOV9UdkJfWTc3OWE0RnBnd3hNS0lTenk2NEtGZkhtWElwdmZxNnduSWYxMUI3OG5KUjNUZzlJZndVWEFxSGR3RTBwZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-28315ee10f98",
+    "id": "news-593d5f0b5b86",
     "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T13:50:53+00:00",
-    "acquirer": "Hannaford to",
-    "target": "Aroostook County grocery store",
-    "headline": "Hannaford to acquire Aroostook County grocery store",
+    "publishedISO": "2026-08-17T12:08:42+00:00",
+    "acquirer": "J&J Secures $2.58B Option to",
+    "target": "Sail Biomedicines",
+    "headline": "J&J Secures $2.58B Option to Acquire Sail Biomedicines",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Mainebiz",
-    "summary": "Hannaford to acquire Aroostook County grocery store Mainebiz",
+    "sourceName": "CGTLive®",
+    "summary": "J&J Secures $2.58B Option to Acquire Sail Biomedicines CGTLive®",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUVfdC1kdVBSakdnaVQ3TEJyQ2hmeGdiN0M3X2FnVGRNTDYyMUNZSElRdjAxOVZhY2VFUHJ1N1k2N1I2R09SYUpRN2NsUnVxeENMTno5UnZ0a0ZKeG9iSEtaUHdETmY0WGlEVjJXYjdkX21rRWszR3d1aVZtcFU2eUtmaE1weG1h?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTF3N0taSXZXU0Qzd05WVVdXQ0ZkZThmYUt5UGd1VTdfQUYtTGUzdjhya1dMb1d0bzY1OElhRXVXeFNlbE0wcWREeDZrVDMzMkp3RDBaNG9ackdoV2VSRno3aTVNZ3dSU0xrOVE1RHIxWWhOU3MyTHRLN3d4di1ESzFxbi1PQjhqYVMtenp0Nkc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-593d5f0b5b86",
+    "id": "news-9b2b2c3e8ecd",
     "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T12:08:42+00:00",
-    "acquirer": "J&J Secures $2.58B Option to",
-    "target": "Sail Biomedicines",
-    "headline": "J&J Secures $2.58B Option to Acquire Sail Biomedicines",
+    "publishedISO": "2026-08-17T07:36:00+00:00",
+    "acquirer": "OceanaGold",
+    "target": "Ausgold",
+    "headline": "OceanaGold Announces Acquisition of Ausgold",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CGTLive®",
-    "summary": "J&J Secures $2.58B Option to Acquire Sail Biomedicines CGTLive®",
+    "sourceName": "PR Newswire",
+    "summary": "OceanaGold Announces Acquisition of Ausgold PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTF3N0taSXZXU0Qzd05WVVdXQ0ZkZThmYUt5UGd1VTdfQUYtTGUzdjhya1dMb1d0bzY1OElhRXVXeFNlbE0wcWREeDZrVDMzMkp3RDBaNG9ackdoV2VSRno3aTVNZ3dSU0xrOVE1RHIxWWhOU3MyTHRLN3d4di1ESzFxbi1PQjhqYVMtenp0Nkc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFY5YUhqbDk1R1I0NWZiSGVlRHJhYk1OS3loT2RTbFMwXzJ0VG9VUE91ZXRsTGQ0eklEWHBMWlM2NWdqUWVjZzJXYU9XNE9TRUpPUWpyOTRuMUtZUTBYSUdIaXVxX0xRX1pwTEt3WFpYRmw2N0VPUUJPTGV3Y2xwQ29lcEZPQnlGRE5ZcjlESjV1YkFxRmtZSlRFZTA3UVo3cXV3TUZzMA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,82 +751,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4c36f7ba16ea",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T19:08:29+00:00",
-    "acquirer": "San Juan National Forest",
-    "target": "Fall Creek inholding",
-    "headline": "San Juan National Forest acquires Fall Creek inholding",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "US Forest Service (.gov)",
-    "summary": "San Juan National Forest acquires Fall Creek inholding US Forest Service (.gov)",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3NTMGVtQXZjY3lRSTQ0YWxYV0c4by1wLVhfTlVWNE5xdE1fM0VUU1lxMFJhMjRjV25HbDU4Qm92MWxrajlDRkhMcmpjNVh4X20talRGTmR1Qlc2b0F6WkNyTmdTel9qZ1cyQ3NnYTBwSlpTQ2ZhcE0wWnNBY1pDQmEyaFBPTGR0NDY2eGhvRDJFMG1HR0gxZmdTdHQtMkhnU3NIUWlwejk3eXZE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f8e0ebb1bea1",
+    "id": "news-69b989e6a3e9",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T17:19:24+00:00",
     "acquirer": "County",
@@ -858,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URV8zRUFGclZ2QTQya196YmhBWk9KTGN6QkxEVjQ5RXpQdmlXaHlva3FiVlEyWjBWUW0tcXhUUy1DZDFoRndqRHpUcHFFeVdrLW1yc2FHU1pNQnhzZkk4?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmVVBEYnJMRDdUaXY5VXliWmkzWi1FVnFjWjdMM2xkQW5VR1pUaXJuQjhiU0J5cjVPWWRVN1A5bHBxdUhzM3hBYmpUYUE0bmVyRWp2YUIwZnlOa2IyTEFQODNB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-a4760cb24418",
+    "date": "August 13, 2026",
+    "publishedISO": "2026-08-13T10:00:00+00:00",
+    "acquirer": "Madison to",
+    "target": "200 acres",
+    "headline": "Madison to acquire 200 acres for ‘naturalized park space’",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Cap Times",
+    "summary": "Madison to acquire 200 acres for ‘naturalized park space’ The Cap Times",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTZtWl9Td0cwN3NtV0x4TEVTRDE5a0JUcEdQX0lIZXJ5Z2Q0SWdhclMyaDNneTdzaDUzNWlTVGQ3Q2JMQVRsY1JSY28zYVpYOTZLZWRodlJnRW9uVnBjdV9VM2dRdDlFVWxtYUlhVGFmNXpWamYta1R4VkE4SG91WDdqT3NpZlU1WE9JcHBIdkRFQTluNklXMjFWM3RnRVJQejU0cXdMYzRoczdub3RBeFNaVU1fWUdMZjVSZVRHWUN2Szh6ZnZfaXhoWjgzRU5YUVN0dlpGUmxBUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5f956fb06710",
     "date": "August 12, 2026",
     "publishedISO": "2026-08-12T20:01:00+00:00",
@@ -1801,81 +1801,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-16df0d7013eb",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T17:37:00+00:00",
-    "acquirer": "Now is a good time to",
-    "target": "into Qualcomm, says Matrix Asset’s David Katz",
-    "headline": "Now is a good time to buy into Qualcomm, says Matrix Asset’s David Katz",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Now is a good time to buy into Qualcomm, says Matrix Asset’s David Katz CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQai1Rajh6RXhab25CVUJUMzB3dHZ6N052UDRzR3l2QTVzOWF5NUxjVHZET0xtUVo3blJ4Z2drMEU2elRTRFdCU3M4bTVvZUUzc3ExQVJwMGg2RGxjYnVTLVI5ckRuS0FDOUkwb000RzJZTnZUTWVnX0E4dUI3d1dERERnZWdPU1NBeFJyMFJtNkl4R25NQVJTN2lRNlJXeGtTc0ljazNZSm9JUkd2UnFBeDFJOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-a1a93602bdc0",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T16:04:00+00:00",
@@ -1965,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cstoredive.com",
-    "summary": "Casey’s to acquire 24 stores from Texas chain cstoredive.com",
+    "sourceName": "C-Store Dive",
+    "summary": "Casey’s to acquire 24 stores from Texas chain C-Store Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,6 +2059,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVWRoLVRjcldSSzMwVWc5andja0ZQWHdGNURwSWM2VUVhb0RsV2s2RUJPdEVsc1JpdWNYNlRzZldlWGlBMVR5ektueE5nZ2dCelFhZjhSeUxDZDVrOTNXSFNlQ2dIYUd5YTNfX0Z2MmRHaDYyZnZSSzZfclZHa3dNUURkMmktaGVxS0lnc0IzU2FLXzlSMmhVQVN2eVM1LUhyWlk5T01MbmhjalNVbzVub2xBOHBwLXJxNzlBV0tleVdOVkpKYTh3dEhQY3RMaElteXI5NzY3dzlCTzd6Q1RQRmhUbw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-92ba41f9e8d6",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T13:00:07+00:00",
+    "acquirer": "Ari Emanuel’s Company to",
+    "target": "7 Broadway Theaters and 10 in the West End",
+    "headline": "Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The New York Times",
+    "summary": "Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End The New York Times",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTluXzd2QlhtSjBfMW11SE5SLXNwOWVCLXJPSHgwUDF5QUdRdzRUbDZ3SHJCM0dLbUZtLWxCbUo2dWdvaFBqRGFfRWtaOEFBbGlRR3VsM3lmSTQxZVk2S3Y1elJjWTlrSGFSTlhBdFlsSlNubFl2Y3JfNHkyaWhsdk9jOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
