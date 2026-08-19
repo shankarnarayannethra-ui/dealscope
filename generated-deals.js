@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "biopharmadive.com",
-    "summary": "BioMarin acquires experimental drug for rare bone disorder in $275M deal biopharmadive.com",
+    "sourceName": "BioPharma Dive",
+    "summary": "BioMarin acquires experimental drug for rare bone disorder in $275M deal BioPharma Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -751,81 +751,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c81fac5b3b20",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T03:10:24+00:00",
-    "acquirer": "NC lender to",
-    "target": "Blue Ridge Bank",
-    "headline": "NC lender to acquire Blue Ridge Bank for $448M",
-    "valueBillions": 0.448,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "NC lender to acquire Blue Ridge Bank for $448M Banking Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdkxRbXY3X1hrbkVlbkRrRXpwcnI3Z19zTEt1V1VzS3Z3NTc2ZFNpcFZVYTA4bUpSRENlWHQ3TnVfaC1ISWlfS1JaNU1kempuLUFYVEt0REJydWVNRUxkWThYS0tnUUdSdV9FdFVnVEFCSW9BRHlTYjVOQmdlVDZ5b2t0MlptMVpuYXNScmpTckhGZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-4a4f8ab7c906",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T23:12:41+00:00",
@@ -915,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "mobihealthnews.com",
-    "summary": "DocGo to acquire virtual care company Hicuity Health mobihealthnews.com",
+    "sourceName": "MobiHealthNews",
+    "summary": "DocGo to acquire virtual care company Hicuity Health MobiHealthNews",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1201,6 +1126,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3246291966be",
+    "date": "August 17, 2026",
+    "publishedISO": "2026-08-17T09:30:00+00:00",
+    "acquirer": "Deutsche Telekom to",
+    "target": "Fiberhost and Inea from Macquarie Asset Management",
+    "headline": "Deutsche Telekom to acquire Fiberhost and Inea from Macquarie Asset Management for c.1 billion EUR, thereby strengthening T-Mobile Polska’s position in fixed broadband",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Deutsche Telekom",
+    "summary": "Deutsche Telekom to acquire Fiberhost and Inea from Macquarie Asset Management for c.1 billion EUR, thereby strengthening T-Mobile Polska’s position in fixed broadband Deutsche Telekom",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzhBbHJ1Z0FNUVZlNVlMMHNudWJRaTJ0MWdOMkVhNlA2LVJWNW1icTZRUWh5T2l4UnFQMjhTVXFYeWU2ZGUwSjIwX1hlV1FEQVpoZ0RSZ05LZDVFNE1ONHVOWXdvN2dWWEVtU0o4WEhybU1rVldzemZnZldSUUQ5dXVOWm9WWlZwWGRZUDEwQ0g1cWdQS2R0b0ZIUGtxYkEta1ZpVms4aEVzQWpoOUJFUmFRQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f9cfa1610f19",
     "date": "August 16, 2026",
     "publishedISO": "2026-08-16T20:08:01+00:00",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fooddive.com",
-    "summary": "Ferrero to buy better-for-you breakfast brand Purely Elizabeth fooddive.com",
+    "sourceName": "Food Dive",
+    "summary": "Ferrero to buy better-for-you breakfast brand Purely Elizabeth Food Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Amtrak Media",
-    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide Amtrak Media",
+    "sourceName": "media.amtrak.com",
+    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide media.amtrak.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "stlcitysc.com",
-    "summary": "St. Louis CITY SC Acquires U.S. Youth International Defender Tahir Reid-Brown from Orlando City SC stlcitysc.com",
+    "sourceName": "St. Louis CITY SC",
+    "summary": "St. Louis CITY SC Acquires U.S. Youth International Defender Tahir Reid-Brown from Orlando City SC St. Louis CITY SC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "captimes.com",
-    "summary": "Madison to acquire 200 acres for ‘naturalized park space’ captimes.com",
+    "sourceName": "The Cap Times",
+    "summary": "Madison to acquire 200 acres for ‘naturalized park space’ The Cap Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
