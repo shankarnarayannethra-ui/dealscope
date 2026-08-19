@@ -1,6 +1,231 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-2a2671bbd052",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T12:00:00+00:00",
+    "acquirer": "Veralto Signs Agreement to",
+    "target": "Cleanwater1",
+    "headline": "Veralto Signs Agreement to Acquire Cleanwater1",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Veralto Signs Agreement to Acquire Cleanwater1 PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEd5UU4wUHdlcU80cWZiZl9PUDJwQ2ZBV2IxWFlfRDhNZUNKRldTNTlMNXJ0RWJFQXdxazBuVU45dmtVMlVtZmlaNWtjYVI1clJ3TEhhb3JBLVM2OVpIU2p6ajRtb0RJYmVwVl9vZ3Q5LW42Yi1vbmw5WUpSdGRHNXYyUXVOdmkzTXJBZE1xNk5rMmVvQ2htYUQtdmxRekV1T2J4VA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d06aa1e10c94",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T07:03:02+00:00",
+    "acquirer": "Munich Re Group to",
+    "target": "Cyber Insurtech At-Bay",
+    "headline": "Munich Re Group to Acquire Cyber Insurtech At-Bay",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "munichre.com",
+    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay munichre.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaWNlRUM5YllvZHp4R1liV0tSQlNlMWM3MXRFQWl6STJZWFZDLVFXa0tXUGRUZFR4YmV4NlZmd3ZMNi1MVnFnN3l1OVRQTlZrVlhGZ2E4Y3RkTFE0X0R1cnBKdkJzN1J2TGZUX3J5d05PeDh0ZS1mQURQLVJYTGFOM2RHOF9CMzRaR2g4OEVrcElBRWVVNlp6d2kwSFJQTXZ0SU9NRXBwWVBiREhHM3Z4YXczU3M0aGVwSmE3VjRMSUM5c09zTENUaDVyR0VCaFpwd3FwdHM4cUo?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-fa8b9b7262cd",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T06:47:57+00:00",
+    "acquirer": "Curavit",
+    "target": "Lindus Health CRO Assets to Expand U.S.-European Operations",
+    "headline": "Curavit Acquires Lindus Health CRO Assets to Expand U.S.-European Operations",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Clinical Trial Vanguard",
+    "summary": "Curavit Acquires Lindus Health CRO Assets to Expand U.S.-European Operations The Clinical Trial Vanguard",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUF9Ca1V5ektoS3VRSHRxcjhBTWFnRFNfUTZzWGhZRDJsYzNXNElzSXdpMk5GWnNWT1RIZWZKRlkyZWxuQU56ZldUSHdQZVI1Y09NMjBCSWk2SEY4X283eFFqaW1QeWF6djJ2RnE0S3Bzcl9vcUg2VEhFNFMtUS0wY2xQRWhES09fNUkwXzlZTHo2cXk3Q3VPcmpnM3BVcDhodjR4Y2dacXZ5V1A4VTBfeW9Ic3dvaEtCd044?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-befaeee158b4",
     "date": "August 18, 2026",
     "publishedISO": "2026-08-18T23:23:24+00:00",
@@ -34,6 +259,156 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0h4TURkOFNXTEtRYzFnVWl3eFY5d1NyeldQVDhwSklIRGt2RDVlY0F0SDhfT0FneFpkTnBEZ09NdWUwZmVTQk0zeGRacXNCNlJSb01vUUx1YXZKTy1YbXZTZ0RoazJteTlnM2ZqUzZWRmJqclBxMlhaOUxJc0RiT05lTXBIbWlpa1NHUWtlY0lqdVk2QlNtSTh6WENEY0I0dWY0ajQ4Q1h6eHIxZnJKNFNROVhaY1ZsQWc4cU9R?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9959c2ba8f8b",
+    "date": "August 18, 2026",
+    "publishedISO": "2026-08-18T20:15:00+00:00",
+    "acquirer": "Dover to",
+    "target": "Leistung, Expand Manufacturing Footprint and Cryogenic Offerings",
+    "headline": "Dover to Acquire Leistung, Expand Manufacturing Footprint and Cryogenic Offerings",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Dover to Acquire Leistung, Expand Manufacturing Footprint and Cryogenic Offerings PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNFV0YVNZc2RvMHJtck9qa1NxSGo2N3U0bkVWRnczcF82NXJIMTNaOU1NaDFVWnFxRlFjczQ1SkhhMDR1NTMyT2JiN1pwSU5ZNW9xQjZhLTBlMnl6WW5HeFc5WU9tbFIxcWtvZkJDOElKTTdRZFpXY05aMVd1NXpLaWNYVEszRWV5UVlGTFJOdUhIYWZfUG9IZHY4N3JneHMzU3BLdVotRW8tZTdOQmNBMjdEM3p5R2pjcTRtT2FVZmMwM2lhQk50Vk0wd3VrSlNweVE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-16960bb34be3",
+    "date": "August 18, 2026",
+    "publishedISO": "2026-08-18T19:23:23+00:00",
+    "acquirer": "Goldman Sachs Announces Agreement to",
+    "target": "LCN Capital Partners",
+    "headline": "Goldman Sachs Announces Agreement to Acquire LCN Capital Partners",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Goldman Sachs",
+    "summary": "Goldman Sachs Announces Agreement to Acquire LCN Capital Partners Goldman Sachs",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFUwdXpGTmczSDBEaDZIb3ZPdEpFQVZYTFpvLW43cjY3SExkMUtnZjJrNG5IZjg4OWpldmxFdi1xUlVmb2FCQ2lFQXV5aUZZZVFBNFBrUE52aTAyWDQzblVfU2lldTFrb0xUb09NSFY4SDhFalhOQUhCcV9oOHRGVEI1WXkwRHBOVmRiQ3VqbElxaXlkTE5hYzRnYUtDUzhYT2pPUVF2OFlVaEl1LVBOQnNzN2p5RWJESzZyamNfSWdXUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -184,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSjhudHVVcUdDMUxKXzZ5Z04tb2tGQldDTXdGSHd6d3NqYkwtbndHb2VuLUlhNDZUblJhcXlzbUY2R0V5SWJFYTFCSlBNSDYxS1MwbGVYRllEa0VOZV9NWEpqLWpLbFZINzVUbGd1YlcxdUtCcWlZb2VKVDdMMktQSUZlbEN0MUlTYTkzb1pRZlNkbUwyM1E3SVBfT3BiUEZLV1RjZkt5ZzVDT2JPMTBHb2ZrN0tqOGU0VGZMN2pMcEh1Yzl6NFlWSm1NelJTUGpiTEdRSUluMFR1YUFTWE9VY3NRbkdZbzhEZkk0eVBUMlotWk9ycTAzVnU1OVhsTnJQVlM5cnJQbHRiWExJWWJqSGM1cHlnQ1hPdkwtUzMxSEQ1XzdVUHJXMEVJdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-681368a36bd5",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T15:51:43+00:00",
-    "acquirer": "BioMarin",
-    "target": "experimental drug",
-    "headline": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
-    "valueBillions": 0.275,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "BioPharma Dive",
-    "summary": "BioMarin acquires experimental drug for rare bone disorder in $275M deal BioPharma Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDVQTEEyVHJMSGJkYlVyaEdHS2NuTHBIek9obE9nUjhqenF1V2NRaXI2eEhxZW10aVR3SE5CR1lxM3ZsZU82MDUtQXFZRlcxWWdLN2Jmd2NSUlRYWXJPcjg3OWhoaWYwMTdfcTE4SFZlVWo5VThZMHd2V2xDR21VLUxuOVdlOTJlSlk1bVVVSEY0UnRZdXJzUXlxcTRCWUQwb010UFlqVQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -676,81 +976,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6c07f7cc3f6d",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T11:16:16+00:00",
-    "acquirer": "Universal Health Services, Inc.",
-    "target": "Talkspace, Inc.",
-    "headline": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Florida Hospital News and Healthcare Report",
-    "summary": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc. Florida Hospital News and Healthcare Report",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUFjVkp6WTBXZG5TNy1sMnBaQmJscV9Edk1mWkFabGhPdWd3STRkbGU3XzlGWEVrRmN4VmctcUhCeU1BcEdwb25zSVNxN3N6cVpYYmd4bW9rMVRRSktYd1dFc2VENVRTUU1ZdzlUNVBPQ2hUYmVEQ25VZEd1M0dmcy1iYVZObi02Qm9Wc1gya2piY3Z4QmdZaFlobk9NREYzSG11elVvbUpjdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-4a4f8ab7c906",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T23:12:41+00:00",
@@ -784,81 +1009,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcm1HUnBySU1lR1FKNmZvV3o4SngxdGl2MW9OeDRfeldURzQ5UzhYUV80MWd1em9zMHBBYThUVEVTOURaTEVXZlJzbUdEc0VKNXliNWY0TnQ0cmZCek43Zlo4ZmVVdnE3eDR3N2dfR2lfcDNRRFJseU1memFidHBPQzJsWWhmWWs0bnE0VHNNdEw4UQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2c0f477ebd03",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T22:30:58+00:00",
-    "acquirer": "DocGo to",
-    "target": "virtual care company Hicuity Health",
-    "headline": "DocGo to acquire virtual care company Hicuity Health",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MobiHealthNews",
-    "summary": "DocGo to acquire virtual care company Hicuity Health MobiHealthNews",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjJoYklOLWdQVmxIV1VSRlZxSDRReG1ISUFXSGw5QlZaVjUtV2RhakFyNWF4MHJVRnRZVzlmd2lNR1JEZGFrQ1RGcnZzMVhDR2pXZk1aNnlnQ2JzUUx4TF9SdzhOR3FWcVdFb25xWFdTWFdhQllEOWN1Y0hzY1VCUEExY1hvWG5mcHAtMGNn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1084,81 +1234,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTk9WelpNSWxSQTEySTBuZ1gxNjhabk9zNkZobFpQaWlySDZ6VGlnNGxXbFBKRE5jYU1MWHF5LWR5SDRrSGsxOEpMLXJOUGw0Um9aZGl4cUV3d3RXUEtQQlVCZmp6OVdJZXc5ZEpuV0ZLY1pNaV93QWhsS0ZjUXl1ZlNCbXlyaTQ2VUs0S1FjdWJ4bXVmQlZ2ekNyU3dEYWlIUEFjQVRZUWFGc3VPMXdxUEU3WEZ1UlE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3246291966be",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T09:30:00+00:00",
-    "acquirer": "Deutsche Telekom to",
-    "target": "Fiberhost and Inea from Macquarie Asset Management",
-    "headline": "Deutsche Telekom to acquire Fiberhost and Inea from Macquarie Asset Management for c.1 billion EUR, thereby strengthening T-Mobile Polska’s position in fixed broadband",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Deutsche Telekom",
-    "summary": "Deutsche Telekom to acquire Fiberhost and Inea from Macquarie Asset Management for c.1 billion EUR, thereby strengthening T-Mobile Polska’s position in fixed broadband Deutsche Telekom",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzhBbHJ1Z0FNUVZlNVlMMHNudWJRaTJ0MWdOMkVhNlA2LVJWNW1icTZRUWh5T2l4UnFQMjhTVXFYeWU2ZGUwSjIwX1hlV1FEQVpoZ0RSZ05LZDVFNE1ONHVOWXdvN2dWWEVtU0o4WEhybU1rVldzemZnZldSUUQ5dXVOWm9WWlZwWGRZUDEwQ0g1cWdQS2R0b0ZIUGtxYkEta1ZpVms4aEVzQWpoOUJFUmFRQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1440,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "media.amtrak.com",
-    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide media.amtrak.com",
+    "sourceName": "Amtrak Media",
+    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide Amtrak Media",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1459,6 +1534,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkVWSjZkalcycEE0WW4tRlFacVBVTEczczM2TnU4TDZvNE5YRG0xVUN0N3A5SEg0NlhaQS1lY2p6Z2tiQ0FieXRpM2ZiSExIN1MtXzdNQXdMZFh6ZDRyaGVFM2xpOFRyeFVObldCenpFMUk4eTdHbS1UamoycFE3MUVwb3E5SWpIVGt4Sld0VFZNcnZRd1p4NzNCYkRDWlpyZzE0enY0bVF6ZkhybW9KMF9TM3hnTVdFbGRzaWZqVFI?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f4feb428334a",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T17:00:00+00:00",
+    "acquirer": "Digital Brand Architects",
+    "target": "Creator Management Firm V1sion Ventures",
+    "headline": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "variety.com",
+    "summary": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures variety.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb1hmNE5JRGtNUm4tYTdHaTBKRGVIU29SY0t5SmpOaWhtQU14QjFFZExUejNVWjZkbms1ZExTT0RDenIxZDBRTGdXdjloMnJGS0FvNEx5eTViak9qeXRHY24zR1R5M2J2ZjJDRVJUZEFXbE4zemRFRzdCQU5HeW9pS1ViN0R6UW1BU3FLS2w3X2ZDZDVBbUlTVjJ6cmh6eUVjdkIyeWMxekRpc28?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1534,81 +1684,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDNmWnYtaDEwbzFPbmd5Zl80bllGdFpzaXhUbDRmT1JSNURvRmZtX0ZNMk5Zb21WT1A3OTNnc3Jadm5NUXBXR2FqUVoyRjFCTEhnVE1OS3JxTEZyNXBCMloyZTh1RGc0Y2NPUUZFWlBhaVBCOFc1UkRuOXVpaGtPUi1TVERPWVlaTHEtRWgySDAzNEQ0X1VZSHFfVnd6eTFXUTZzRWdjeGtDajdySkw4aDRNM2FkLVgtc2t6NWlYRFhVWDNleU9zX3NZWVM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-77645faf20b2",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T10:50:00+00:00",
-    "acquirer": "ACCO Brands to",
-    "target": "Trust",
-    "headline": "ACCO Brands to Acquire Trust",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "ACCO Brands to Acquire Trust Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHY4ZU5wR2U5RklvMHVTSVRrRlZ5WVgxR2RiZmJtRkpSZ0FWQXNyRUpwdVdTMk1ld1VoR0pQVHhYeDlpWW1jdVBvSEJJNVZTcHl4YjN1TWstcTMwS1pwY2NHN2lPT2FRTmdJR1E1N1hjU2N5d1BuVEd1cTFfQzgxOEphclRLT1g3OFM5eHRR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1890,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "St. Louis CITY SC",
-    "summary": "St. Louis CITY SC Acquires U.S. Youth International Defender Tahir Reid-Brown from Orlando City SC St. Louis CITY SC",
+    "sourceName": "stlcitysc.com",
+    "summary": "St. Louis CITY SC Acquires U.S. Youth International Defender Tahir Reid-Brown from Orlando City SC stlcitysc.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVV9WdnZkMmFib1pJd3NDUjd6S1pJM09COHdjZ3AwNUMyWkk4SGs0WE5Kd1VYNExRUk9Tamk0QW5TUmZOaW1QQ25vck95UDd0RGpLVGtXQmx1d3lfZWtUMDJYdXdNU1c1WmlnTExKSzJDRzVGdHhVNDExOWVITVAtM0hGVUt1LTFPT3oza0F1NjBoNEpIeTc3LUdIREI5dU1XYXgycjN4WG5nVmlVVm1rSW9VVy0yaFBBSVJidEd6ckFGNEplY2RjcERjMG5mLVFNMWtRXzhDRDF3Y3dBRkhuTWFNOUlPNnV4OUdzTGdB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-28e66238c740",
-    "date": "August 12, 2026",
-    "publishedISO": "2026-08-12T12:30:00+00:00",
-    "acquirer": "Clean Harbors to",
-    "target": "EnviroServe",
-    "headline": "Clean Harbors to Acquire EnviroServe for $470 Million",
-    "valueBillions": 0.47,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Clean Harbors to Acquire EnviroServe for $470 Million Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGNiU2Q1UGYtcHEzSjkwYU9jaFRjdDgxdGNkbG9ob1lvT2dSblBOZ0NlcEZkRDF3V2YyekZFalo0bjVZUndpelN5dHctbUt6SFpnSTBra3FPZ0poUmxWY1l0amZpb3pfWGEtUEdVUlN4TV9ZUE9YMC1kQTlwUzdjR1lTQmMzUTJxQkZrR3JVcWlYYW5iQm5mX2VDTHRaalN1LWE0MHJaUWtFbWgyR3psT3Z3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
