@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-9f428979293a",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T17:26:57+00:00",
+    "acquirer": "Stripe to",
+    "target": "OpenRouter: Why Everyone Is Obsessed With Model Routing",
+    "headline": "Stripe to Acquire OpenRouter: Why Everyone Is Obsessed With Model Routing",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "menlovc.com",
+    "summary": "Stripe to Acquire OpenRouter: Why Everyone Is Obsessed With Model Routing menlovc.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0YtWXdna2htemx3QVRldVFvMXM1aXRTUkM3UHlNMnFpRFFlZHp3b21yUW9jWExlbzhBLVZMZ0xEMjdjTG4ydUNMLUZPTnMxY1NGQUNZeGFLV0tVbTJSZ3YtcWh1Q0d2Zi1ieFFPdVpXQkFzSFJ2NE1XRnJaQmRkODNjVHJDbDNQaG16Y0pMUmRJN3NkUFFmSjhEWlE5R0NYUTRTN2FvU1A?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-2a2671bbd052",
     "date": "August 19, 2026",
     "publishedISO": "2026-08-19T12:00:00+00:00",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "munichre.com",
-    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay munichre.com",
+    "sourceName": "Munich Re",
+    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay Munich Re",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -376,81 +451,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-16960bb34be3",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T19:23:23+00:00",
-    "acquirer": "Goldman Sachs Announces Agreement to",
-    "target": "LCN Capital Partners",
-    "headline": "Goldman Sachs Announces Agreement to Acquire LCN Capital Partners",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Goldman Sachs",
-    "summary": "Goldman Sachs Announces Agreement to Acquire LCN Capital Partners Goldman Sachs",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFUwdXpGTmczSDBEaDZIb3ZPdEpFQVZYTFpvLW43cjY3SExkMUtnZjJrNG5IZjg4OWpldmxFdi1xUlVmb2FCQ2lFQXV5aUZZZVFBNFBrUE52aTAyWDQzblVfU2lldTFrb0xUb09NSFY4SDhFalhOQUhCcV9oOHRGVEI1WXkwRHBOVmRiQ3VqbElxaXlkTE5hYzRnYUtDUzhYT2pPUVF2OFlVaEl1LVBOQnNzN2p5RWJESzZyamNfSWdXUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-d821af163746",
     "date": "August 18, 2026",
     "publishedISO": "2026-08-18T16:40:32+00:00",
@@ -676,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a0d6824cfeb7",
+    "id": "news-ad8b25aa4d07",
     "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T13:54:13+00:00",
-    "acquirer": "Westcliff University",
-    "target": "Pacific College to expand nursing programs",
-    "headline": "Westcliff University acquires Pacific College to expand nursing programs",
+    "publishedISO": "2026-08-18T13:00:00+00:00",
+    "acquirer": "River Associates",
+    "target": "Diamond Wipes",
+    "headline": "River Associates Acquires Diamond Wipes",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Higher Ed Dive",
-    "summary": "Westcliff University acquires Pacific College to expand nursing programs Higher Ed Dive",
+    "sourceName": "PR Newswire",
+    "summary": "River Associates Acquires Diamond Wipes PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdzJ1T1BuMGZZdU53Z2RibzF1UklkVF9jN3E4akY0dGg4QVJja2lTNTkwa0xLMGF1a2VUTlA5VGItOUFKdVlkNDdoRjgwZmFrYl9sd2NsQ1IzTDJIdFpiZVQ2Nm1KX2pReTFNS1F5dzJLTVlkdlFDTERxQTZTREFxSjF0cHQ2aDNNTUJ0SDZab25HSV9mWTNBR2hvOV9yUWNGQkp1Ujc5S0dPd2hsRllMbnNLTEU?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSndSVVU2OVduQjVjUW1kamZRakJpQlNBSG1zdlZDTU95WThQeTJFcXh4NGhETDc5YWYyS3VhZHY4bFJMYnViUTdiWXdvTXgtX0ZHazFhZTBFcWZsWVhKTjV6RjJEbkZRZlpvSE5VZG1JSllaTkRZWGg5aTVVWkZ6QVNwVFY1MUdvREhURW5Ydmpsalc1QXZwTTREaw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -976,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-0ebc0c5e1db8",
+    "date": "August 18, 2026",
+    "publishedISO": "2026-08-18T12:30:00+00:00",
+    "acquirer": "BioMarin to",
+    "target": "Alesta Therapeutics to Gain ALE1, a Potential First Oral Therapy",
+    "headline": "BioMarin to Acquire Alesta Therapeutics to Gain ALE1, a Potential First Oral Therapy for Hypophosphatasia, Adding an Important Clinical Program to BioMarin's Pipeline",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "BioMarin to Acquire Alesta Therapeutics to Gain ALE1, a Potential First Oral Therapy for Hypophosphatasia, Adding an Important Clinical Program to BioMarin's Pipeline PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOeWVBYVFRZThpZXpoZVB0LXR1UldJdXplM0lzUlNoaTdMVUJkdzBJSVNkMFpDbDUydVQ0X21RNmtuY1FRMFBfOU4zRlR2ZTJkaUJFaTlFRkh1bmpUeWt5S3pJQlRJcTFhdHEtWjhuUFNydUhGUkN2WURXeDAyZ2wxQzN3a056dlRqZFdaWXVieldrYVZxNTczbE5EQ3ZpcHdUOEtUUFc1cGFpRVhNQmlLdlkzdmk5dnFsTUo5aGU4QjdDTFFIX28zX29Dc1hpZWMwcllaQkFQcDVJdVpNRVdPTW96aWdVSVZCZERPRUxrWW1tX25JZE9mOHVRcUpqMklQbnU0VF81VnQ0MzZPYlJuWWZ3U3pTV09XZXB1VmVHTkxxU19zYjZJZTBRSmlvNzYza0RJblprMUVWN0htM2ZWZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-4a4f8ab7c906",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T23:12:41+00:00",
@@ -1126,81 +1201,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-50b16ea29074",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T18:19:24+00:00",
-    "acquirer": "US Air Force looks to",
-    "target": "target drones that can mimic stealth jets",
-    "headline": "US Air Force looks to acquire target drones that can mimic stealth jets",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Military Times",
-    "summary": "US Air Force looks to acquire target drones that can mimic stealth jets Military Times",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSE54a3FDX3ZjcE5KbU1PRnhuWlVhYldFbGRRWmZnbS1fcFZnb2RpS2VTci12RFo2UUF5d1NCSzJpN01VUGl1UnUwaS1IYTZyQTRHN2pEYlF0S000WjlfT1VpSGhod3RuSHFFZXFnMFBqTWhiVWtqOWxWcTRPRU04Y05iRTRyUmU1M0UxSUR4bWpPV1JuMnlLUGlUbnZiU3RmelNnR1ZDSDFrbktmWEZreTNKb053S2dFbzRENVFYZmNwNHhla3dmUHdBaHQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-79636bd8c546",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T16:15:54+00:00",
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg.com",
+    "sourceName": "bloomberg.com",
+    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter bloomberg.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "variety.com",
-    "summary": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures variety.com",
+    "sourceName": "Variety",
+    "summary": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures Variety",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1726,12 +1726,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0ec2c7f2e000",
-    "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T21:20:07+00:00",
-    "acquirer": "EXCLUSIVE: Silver Lake in talks to",
-    "target": "Workday, sources say",
-    "headline": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
+    "id": "news-77645faf20b2",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T10:50:00+00:00",
+    "acquirer": "ACCO Brands to",
+    "target": "Trust",
+    "headline": "ACCO Brands to Acquire Trust",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say Reuters",
+    "sourceName": "Business Wire",
+    "summary": "ACCO Brands to Acquire Trust Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1758,12 +1758,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHY4ZU5wR2U5RklvMHVTSVRrRlZ5WVgxR2RiZmJtRkpSZ0FWQXNyRUpwdVdTMk1ld1VoR0pQVHhYeDlpWW1jdVBvSEJJNVZTcHl4YjN1TWstcTMwS1pwY2NHN2lPT2FRTmdJR1E1N1hjU2N5d1BuVEd1cTFfQzgxOEphclRLT1g3OFM5eHRR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 13, 2026"
+        "date": "Aug 14, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1801,13 +1801,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-42cd1c4cbe15",
+    "id": "news-0ec2c7f2e000",
     "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T14:39:18+00:00",
-    "acquirer": "Anthropic in Talks to",
-    "target": "AI Startup Decart",
-    "headline": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion",
-    "valueBillions": 6.0,
+    "publishedISO": "2026-08-13T21:20:07+00:00",
+    "acquirer": "EXCLUSIVE: Silver Lake in talks to",
+    "target": "Workday, sources say",
+    "headline": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion Bloomberg.com",
+    "sourceName": "Reuters",
+    "summary": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1833,7 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "stlcitysc.com",
-    "summary": "St. Louis CITY SC Acquires U.S. Youth International Defender Tahir Reid-Brown from Orlando City SC stlcitysc.com",
+    "sourceName": "St. Louis CITY SC",
+    "summary": "St. Louis CITY SC Acquires U.S. Youth International Defender Tahir Reid-Brown from Orlando City SC St. Louis CITY SC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
