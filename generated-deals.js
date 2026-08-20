@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-077c4d9d5a15",
+    "id": "news-d040de3590db",
     "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T20:10:01+00:00",
-    "acquirer": "Stripe to",
-    "target": "OpenRouter as fintech expands deeper into AI",
-    "headline": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+    "publishedISO": "2026-08-19T23:09:03+00:00",
+    "acquirer": "Osapiens",
+    "target": "Nasdaq’s Sustainability Reporting Platform",
+    "headline": "Osapiens Acquires Nasdaq’s Sustainability Reporting Platform",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Stripe to buy OpenRouter as fintech expands deeper into AI CNBC",
+    "sourceName": "ESG Today",
+    "summary": "Osapiens Acquires Nasdaq’s Sustainability Reporting Platform ESG Today",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,82 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9f428979293a",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T17:26:57+00:00",
-    "acquirer": "Stripe to",
-    "target": "OpenRouter: Why Everyone Is Obsessed With Model Routing",
-    "headline": "Stripe to Acquire OpenRouter: Why Everyone Is Obsessed With Model Routing",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "menlovc.com",
-    "summary": "Stripe to Acquire OpenRouter: Why Everyone Is Obsessed With Model Routing menlovc.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0YtWXdna2htemx3QVRldVFvMXM1aXRTUkM3UHlNMnFpRFFlZHp3b21yUW9jWExlbzhBLVZMZ0xEMjdjTG4ydUNMLUZPTnMxY1NGQUNZeGFLV0tVbTJSZ3YtcWh1Q0d2Zi1ieFFPdVpXQkFzSFJ2NE1XRnJaQmRkODNjVHJDbDNQaG16Y0pMUmRJN3NkUFFmSjhEWlE5R0NYUTRTN2FvU1A?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmNMM1FtY0Q0bDVYdUkxQ2NsNDVXbEZaaDZVcWszX2NrRGlnLS1LZVQ0dnA2bk1zX1BLOXZtQTJqb2lxaFVseUUxWElvT1U1eWp6OGU4VldHOU0yNXM2aDlGVmNfcUxvZUlJWHdEMy10amJYNDdfX2FZeFQ0YmIwWnJ5c2dYdm1pNkszbmhaTU9jRmJzb1NN?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "munichre.com",
-    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay munichre.com",
+    "sourceName": "Munich Re",
+    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay Munich Re",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -465,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "weil.com",
-    "summary": "Weil Advises Willis Re in its Definitive Agreement to Acquire the U.S. Reinsurance Division of BMS Group weil.com",
+    "sourceName": "Weil",
+    "summary": "Weil Advises Willis Re in its Definitive Agreement to Acquire the U.S. Reinsurance Division of BMS Group Weil",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -559,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNFV0YVNZc2RvMHJtck9qa1NxSGo2N3U0bkVWRnczcF82NXJIMTNaOU1NaDFVWnFxRlFjczQ1SkhhMDR1NTMyT2JiN1pwSU5ZNW9xQjZhLTBlMnl6WW5HeFc5WU9tbFIxcWtvZkJDOElKTTdRZFpXY05aMVd1NXpLaWNYVEszRWV5UVlGTFJOdUhIYWZfUG9IZHY4N3JneHMzU3BLdVotRW8tZTdOQmNBMjdEM3p5R2pjcTRtT2FVZmMwM2lhQk50Vk0wd3VrSlNweVE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f8d8675b38c0",
+    "date": "August 18, 2026",
+    "publishedISO": "2026-08-18T19:02:57+00:00",
+    "acquirer": "DAZN",
+    "target": "ViewLift",
+    "headline": "DAZN Completes Acquisition of ViewLift",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Sports Video Group",
+    "summary": "DAZN Completes Acquisition of ViewLift Sports Video Group",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNampBUnlPRk9sejRnRzRaWlR0aDA2M1VucWFiTUo4ZTJLMWJqaGdYNnpjNUhoTmNjcE03em5PMGlFUE56MzZ1cVdnUlQ1ZVdBWHRya01ZNWw2VDhfcWFnY2ZsVzExUnpnSFJzMlE5dTdYOGVDdDVPbl9NVVRROVV6RGFrRFU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1065,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "gCaptain",
-    "summary": "Antin Acquires Vigor Marine Group as U.S. Shipyard Investment Grows gCaptain",
+    "sourceName": "gcaptain.com",
+    "summary": "Antin Acquires Vigor Marine Group as U.S. Shipyard Investment Grows gcaptain.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1159,81 +1159,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdnWlluQk1VZVE5ZmtsUlg2ZDRleS1xOWRtQjJDSmtaUjdMOGxmNVNQc1NWTVJGc2ItZjNwSS1fdWJVMVBFbHlySU1QT3lDcVFPUE9fZTFNMHI2WXlDOUdpSUdwOV9UdkJfWTc3OWE0RnBnd3hNS0lTenk2NEtGZkhtWElwdmZxNnduSWYxMUI3OG5KUjNUZzlJZndVWEFxSGR3RTBwZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-50b16ea29074",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T18:19:24+00:00",
-    "acquirer": "US Air Force looks to",
-    "target": "target drones that can mimic stealth jets",
-    "headline": "US Air Force looks to acquire target drones that can mimic stealth jets",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Military Times",
-    "summary": "US Air Force looks to acquire target drones that can mimic stealth jets Military Times",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSE54a3FDX3ZjcE5KbU1PRnhuWlVhYldFbGRRWmZnbS1fcFZnb2RpS2VTci12RFo2UUF5d1NCSzJpN01VUGl1UnUwaS1IYTZyQTRHN2pEYlF0S000WjlfT1VpSGhod3RuSHFFZXFnMFBqTWhiVWtqOWxWcTRPRU04Y05iRTRyUmU1M0UxSUR4bWpPV1JuMnlLUGlUbnZiU3RmelNnR1ZDSDFrbktmWEZreTNKb053S2dFbzRENVFYZmNwNHhla3dmUHdBaHQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1726,6 +1651,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-f4feb428334a",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T17:00:00+00:00",
+    "acquirer": "Digital Brand Architects",
+    "target": "Creator Management Firm V1sion Ventures",
+    "headline": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures Variety",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb1hmNE5JRGtNUm4tYTdHaTBKRGVIU29SY0t5SmpOaWhtQU14QjFFZExUejNVWjZkbms1ZExTT0RDenIxZDBRTGdXdjloMnJGS0FvNEx5eTViak9qeXRHY24zR1R5M2J2ZjJDRVJUZEFXbE4zemRFRzdCQU5HeW9pS1ViN0R6UW1BU3FLS2w3X2ZDZDVBbUlTVjJ6cmh6eUVjdkIyeWMxekRpc28?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-16e250a6127e",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T15:00:00+00:00",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "vogue.com",
-    "summary": "Frasers Group Acquires Harvey Nichols vogue.com",
+    "sourceName": "Vogue",
+    "summary": "Frasers Group Acquires Harvey Nichols Vogue",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
