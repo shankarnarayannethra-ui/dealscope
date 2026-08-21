@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-cc1e7695a766",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T14:59:25+00:00",
+    "acquirer": "Is bitcoin's price volatility an investing opportunity? How to",
+    "target": "bitcoin.",
+    "headline": "Is bitcoin's price volatility an investing opportunity? How to buy bitcoin.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Is bitcoin's price volatility an investing opportunity? How to buy bitcoin. Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk1Uem9kSFREVTJTRTVfMFU3R3F3eG9EaFA3X0RyYlMzUGRwU09RRmRMaDBQcXI2RU1wSVkxeWg0eVNWSm9FQlhQTGp0SnVOTWpNX2pldW1mMWVPZTRSajRKMUdrQ05wMkpRcVdXejJmRFhzZUxKd1lTNDN3cUpXazQ3Y0U1MTVIekIxMnljNmllSWtGTkRsYlRn?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-15c7b0ed7b96",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T10:29:00+00:00",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-babbeb3df24c",
+    "id": "news-2fbf0581fc30",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T22:49:54+00:00",
-    "acquirer": "Charter",
-    "target": "Liberty Broadband in All-Stock Transaction",
-    "headline": "Charter Completes Acquisition of Liberty Broadband in All-Stock Transaction",
+    "publishedISO": "2026-08-20T20:42:00+00:00",
+    "acquirer": "Advanced Recovery Systems",
+    "target": "Promises Behavioral Health",
+    "headline": "Advanced Recovery Systems Acquires Promises Behavioral Health",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Santa Barbara Independent",
-    "summary": "Charter Completes Acquisition of Liberty Broadband in All-Stock Transaction The Santa Barbara Independent",
+    "sourceName": "Behavioral Health Business",
+    "summary": "Advanced Recovery Systems Acquires Promises Behavioral Health Behavioral Health Business",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeURNclpGcjllaGx2cUdYOVpTd3hKUlpwbU9qNVhEaWc4SklmN1BMNXJ3OU5oZi1KOEFHajBGOUI5eXE1VnowclhVR1pRcF9QNU14UUZkenUzZmNmLXBUQzhNZVhQSnJjcDFTeEsxcmpzYVdEQ2hFdHBIR1NXdWE3dTV2ZE41VlR6VFJZQVFBMnRUQTBoSFZSeDZBYldpMjVuZ0VnOE1SaFlhUjZCNDRnWm92QUNNdw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkI0dW9yM3pqWWJrNkxXYVRsOU55NUk4QkpJemZGSm1DYTdkWkVWMDRuNEhEZlh4Q2ZSYWFyM3J1R3NKT0lOc0k3cVFlRVNSQmJtV2UtZVViT0NXczhKLWZGelB2eTNqSV9kNml3M2d0d1hwVWM1bGM2YUVEbkhlTXg1SkVpU0VYbmVNS0hzaGtfMmRYdDZtU1IyTzU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2fbf0581fc30",
+    "id": "news-25cf52d23042",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T20:42:00+00:00",
-    "acquirer": "Advanced Recovery Systems",
-    "target": "Promises Behavioral Health",
-    "headline": "Advanced Recovery Systems Acquires Promises Behavioral Health",
+    "publishedISO": "2026-08-20T20:24:35+00:00",
+    "acquirer": "We Energies",
+    "target": "power from Point Beach Nuclear Plant into the 2050s",
+    "headline": "We Energies plans to buy power from Point Beach Nuclear Plant into the 2050s",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Behavioral Health Business",
-    "summary": "Advanced Recovery Systems Acquires Promises Behavioral Health Behavioral Health Business",
+    "sourceName": "WPR",
+    "summary": "We Energies plans to buy power from Point Beach Nuclear Plant into the 2050s WPR",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkI0dW9yM3pqWWJrNkxXYVRsOU55NUk4QkpJemZGSm1DYTdkWkVWMDRuNEhEZlh4Q2ZSYWFyM3J1R3NKT0lOc0k3cVFlRVNSQmJtV2UtZVViT0NXczhKLWZGelB2eTNqSV9kNml3M2d0d1hwVWM1bGM2YUVEbkhlTXg1SkVpU0VYbmVNS0hzaGtfMmRYdDZtU1IyTzU?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzR6UzFiOHJ6QzQ1dnFpRU5rSjVfalgwR19nUzI0OFEyaVpfX1g4TGljMWx5RGlhRUNUazhQWFd1N05CbEh4NkhUQlNVdjhFOFk0UFV2bHc2UDFLS2VlUkM3MEJpbnZRUE9Uc0NjNEJtYzl2UDhLTWp2cFhrckFXY0hoR1ZMZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -409,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnJSZVMzOFBaR2xhQjZsVE9VYVVnbUJsclktbU52aEV6dE9xaHppWUJGc21VZlVySVc5eWF1eERZUExyRGRfU1drSGpHQjJzN3ZHTTFoWHpFM095TTFhZjVKTmtFQ3pZazNTcnphQU5QMjdYRmJiM0tuU2lmTUo0M1hVZ2VqWnJ6THlVdlhsVUltemRZdmZFN3VFMmo?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-4b2e2be92d31",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T17:39:56+00:00",
+    "acquirer": "Aurora Cannabis",
+    "target": "Internode Pharma, HAP Pharma, Expanding Distribution Access to UK",
+    "headline": "Aurora Cannabis Acquires Internode Pharma, HAP Pharma, Expanding Distribution Access to UK",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Cannabis Business Times",
+    "summary": "Aurora Cannabis Acquires Internode Pharma, HAP Pharma, Expanding Distribution Access to UK Cannabis Business Times",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNOHVrVFR2c0xJSlZxdnZjRFRxd2VDaUYyMDZVRXJudnRnX1RDYTdkYm92YVBuaFp4R0U1TUdNRmZGYzZZRXEyNEhpNDUxanZCX0FRTE50eEhlTHNnaTRqalJRTkU0TnlIMFVmRDU1Qnhsc3U0NDlnbnJzMFRLalRhUDdIQ1FiV1hZT2xMb0k4RjNNSlUtZDVfQVlKZ0NwdlkzSTAwelZReVhlOE5MOUh5U1FQVmhwSlcxUmIwblRDR1RrOU5hZDRJbzdoWTVoclF3YlV6QmxkNUh1S3RyZml1NjdlZU96STVkYmxrSFRnMzcxWTM5MjJhRkpacnV5T2J3aVZ6R2VvN0xOeDFRVDZ6RjdyNWJBRGFWOG9RMw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "munichre.com",
-    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay munichre.com",
+    "sourceName": "Munich Re",
+    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay Munich Re",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1014,81 +1164,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-681368a36bd5",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T15:51:43+00:00",
-    "acquirer": "BioMarin",
-    "target": "experimental drug",
-    "headline": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
-    "valueBillions": 0.275,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "BioPharma Dive",
-    "summary": "BioMarin acquires experimental drug for rare bone disorder in $275M deal BioPharma Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDVQTEEyVHJMSGJkYlVyaEdHS2NuTHBIek9obE9nUjhqenF1V2NRaXI2eEhxZW10aVR3SE5CR1lxM3ZsZU82MDUtQXFZRlcxWWdLN2Jmd2NSUlRYWXJPcjg3OWhoaWYwMTdfcTE4SFZlVWo5VThZMHd2V2xDR21VLUxuOVdlOTJlSlk1bVVVSEY0UnRZdXJzUXlxcTRCWUQwb010UFlqVQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkVWSjZkalcycEE0WW4tRlFacVBVTEczczM2TnU4TDZvNE5YRG0xVUN0N3A5SEg0NlhaQS1lY2p6Z2tiQ0FieXRpM2ZiSExIN1MtXzdNQXdMZFh6ZDRyaGVFM2xpOFRyeFVObldCenpFMUk4eTdHbS1UamoycFE3MUVwb3E5SWpIVGt4Sld0VFZNcnZRd1p4NzNCYkRDWlpyZzE0enY0bVF6ZkhybW9KMF9TM3hnTVdFbGRzaWZqVFI?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-16e250a6127e",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T15:00:00+00:00",
-    "acquirer": "FERRERO GROUP TO",
-    "target": "PURELY ELIZABETH, A LEADING U.S. MODERN WELLNESS BRAND",
-    "headline": "FERRERO GROUP TO ACQUIRE PURELY ELIZABETH, A LEADING U.S. MODERN WELLNESS BRAND",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "FERRERO GROUP TO ACQUIRE PURELY ELIZABETH, A LEADING U.S. MODERN WELLNESS BRAND PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDNmWnYtaDEwbzFPbmd5Zl80bllGdFpzaXhUbDRmT1JSNURvRmZtX0ZNMk5Zb21WT1A3OTNnc3Jadm5NUXBXR2FqUVoyRjFCTEhnVE1OS3JxTEZyNXBCMloyZTh1RGc0Y2NPUUZFWlBhaVBCOFc1UkRuOXVpaGtPUi1TVERPWVlaTHEtRWgySDAzNEQ0X1VZSHFfVnd6eTFXUTZzRWdjeGtDajdySkw4aDRNM2FkLVgtc2t6NWlYRFhVWDNleU9zX3NZWVM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
