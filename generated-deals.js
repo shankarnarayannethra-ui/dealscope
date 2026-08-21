@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-15c7b0ed7b96",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T10:29:00+00:00",
+    "acquirer": "Italy’s Monte dei Paschi Makes $40 Billion",
+    "target": "Rival Banks",
+    "headline": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks",
+    "valueBillions": 40.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm5vb1RVcHlGSDdIWWRVbHhxc3hnYTNBQ1h5R2RTLURIUE9kVWVfZHdicFcyN1pjTnBneG5GM0RyVHlVNXU2M2hYUDNJLWR1clpkOHdDMFRmUHJ5RXM4S0hvclFkYndmcTh4VEc1TmRONklpR3dwdXVNUURoZzNjQ3FQU21QWmkzdTZ4SUtIVjlfS2hNTU4xVnI5LWttNGpNTGx2bjF2clRmNVNFblQyVl9ycm1Lb2NSQ2NEQ3VKQ1NwS0FJRkVR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-babbeb3df24c",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T22:49:54+00:00",
+    "acquirer": "Charter",
+    "target": "Liberty Broadband in All-Stock Transaction",
+    "headline": "Charter Completes Acquisition of Liberty Broadband in All-Stock Transaction",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Santa Barbara Independent",
+    "summary": "Charter Completes Acquisition of Liberty Broadband in All-Stock Transaction The Santa Barbara Independent",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeURNclpGcjllaGx2cUdYOVpTd3hKUlpwbU9qNVhEaWc4SklmN1BMNXJ3OU5oZi1KOEFHajBGOUI5eXE1VnowclhVR1pRcF9QNU14UUZkenUzZmNmLXBUQzhNZVhQSnJjcDFTeEsxcmpzYVdEQ2hFdHBIR1NXdWE3dTV2ZE41VlR6VFJZQVFBMnRUQTBoSFZSeDZBYldpMjVuZ0VnOE1SaFlhUjZCNDRnWm92QUNNdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-2fbf0581fc30",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T20:42:00+00:00",
@@ -301,13 +451,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7a013270ce9b",
+    "id": "news-29cdb629d5f9",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T15:17:30+00:00",
-    "acquirer": "URI Ph.D. candidate asks: What motivates people to",
-    "target": "vegan cosmetics? – Rhody Today",
-    "headline": "URI Ph.D. candidate asks: What motivates people to buy vegan cosmetics? – Rhody Today",
-    "valueBillions": null,
+    "publishedISO": "2026-08-20T15:08:28+00:00",
+    "acquirer": "Arctos",
+    "target": "10% of Atlanta Falcons at $10.6 billion valuation, sources say",
+    "headline": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
+    "valueBillions": 10.6,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The University of Rhode Island",
-    "summary": "URI Ph.D. candidate asks: What motivates people to buy vegan cosmetics? – Rhody Today The University of Rhode Island",
+    "sourceName": "CNBC",
+    "summary": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjBJWVBpTDNHTXl3bURKMWlReXhsdnhTY2ZTcXB6UHlBbTRqVU82WFZDNWFnak5QZnFrV25PVTVzS2FWLXV6X2pacmp5RFd3QUZXbjAtMFp5djNwWkV4ZzVOamkzR1F4NGFtSlFMZlBab2NNNWNURDRDSWJDLWpLUDhuQ1htc1JadktPTi01ektLSGdwU3Bob0VRYUdkQzRHajdXWA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWp4a2dLbUNINlloeHE3T2ZnVVZUdmM5UWp1eVNMSE9UYXNCOVpBVE5XMFl5QXRpb2poV0I5dUpVdVVnV2RxM280cE45V19jVmlmeXFjYmN2a21SdUFyckpGYzRqSV9KS2pNUF9OWV9BaXNhNkRsc2d2WVN2RldOcVQ3RldEU294Z2R1MExReFlVT3JMWXZGR2tpQlRhT21VN1c0Y1N4VUdPaHFaTVZyTjRfQTFrWXRlRVZFQWVMMzRQUdIBxwFBVV95cUxQa3d2V3ZwUmlJdVIxWkxabG94UUNqVTMwZUJOWkVMZmpEbTZHWjJVeUg3M2lvM1dBZGJzcmY5WW5Xdk4zTXN0NEZVbHR4a3h4Yk51OG9YNTFMZlR0RjNJQTVxa1NWTWd5dEc0RU9qdmZWVWNFMGpjVHJZc2t2SXdubnUxV1RwVjB1QVp3NEZjZG9melA0dUU0REN3eWRhQVlOVjJ3RTF6R2J2VXMtTExxYzZPeVJjZjZJYWdaUzFKbnJpUDR6UFlz?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -484,81 +634,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGhOc1hXNm5aazZGZ0Vwc3NDVmdKNDlSby1Edk5CV3d1Z0tXYlRReXpvS29TN3R2cmJLUE02c1I1dUVxeEd4SFJIOWw3ckt4eHRXVmdOcWZwRFM5VHpBQXJLZzRKTDFrQXhPZ25ENnA3dlhpc2xpd095UjZEbEhhTEdyaGIxTnlpUWd0N1JpUVNtTXNCRjk5a2tTWFY2QnV3REgxRVZ4VHRreFkyVC13NQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4287e5198a16",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T07:41:34+00:00",
-    "acquirer": "Santander",
-    "target": "Webster in the U.S.",
-    "headline": "Santander completes acquisition of Webster in the U.S.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "santander.com",
-    "summary": "Santander completes acquisition of Webster in the U.S. santander.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3dTUjd3cEdoc2o0b1FEWWgwRUd0bVpscTVIbmdYNm0zcXFWd1lTTXlGUVE1UWdSTlVhNmREc0JvTXhUUmowUmo5cDdOU3ZzcVVvXzl6aGVianhnZS05N1E4UWctcl8ybWg4NWFKX3JseHppczJaR1lnb1J6T3hWeThEa0M0WjZnTy1UM2o4RUpEYXpNdjRBMVY5MHhoYmgyQUQ1VndQVkcxQVVVRmp2aEF2a283QXhFNldDUnNlelk4Vldyc2dQYXhXcw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -976,81 +1051,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9959c2ba8f8b",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T20:15:00+00:00",
-    "acquirer": "Dover to",
-    "target": "Leistung, Expand Manufacturing Footprint and Cryogenic Offerings",
-    "headline": "Dover to Acquire Leistung, Expand Manufacturing Footprint and Cryogenic Offerings",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Dover to Acquire Leistung, Expand Manufacturing Footprint and Cryogenic Offerings PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNFV0YVNZc2RvMHJtck9qa1NxSGo2N3U0bkVWRnczcF82NXJIMTNaOU1NaDFVWnFxRlFjczQ1SkhhMDR1NTMyT2JiN1pwSU5ZNW9xQjZhLTBlMnl6WW5HeFc5WU9tbFIxcWtvZkJDOElKTTdRZFpXY05aMVd1NXpLaWNYVEszRWV5UVlGTFJOdUhIYWZfUG9IZHY4N3JneHMzU3BLdVotRW8tZTdOQmNBMjdEM3p5R2pjcTRtT2FVZmMwM2lhQk50Vk0wd3VrSlNweVE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-681368a36bd5",
     "date": "August 18, 2026",
     "publishedISO": "2026-08-18T15:51:43+00:00",
@@ -1201,12 +1201,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-94f645fbcb75",
+    "id": "news-84da40832b33",
     "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T14:00:00+00:00",
-    "acquirer": "Mérieux NutriSciences Enters Agreement to",
-    "target": "Certified Group",
-    "headline": "Mérieux NutriSciences Enters Agreement to Acquire Certified Group",
+    "publishedISO": "2026-08-18T13:00:00+00:00",
+    "acquirer": "R1 to",
+    "target": "Humata Health, Enhancing Phare OS with",
+    "headline": "R1 to Acquire Humata Health, Enhancing Phare OS with",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Mérieux NutriSciences Enters Agreement to Acquire Certified Group PR Newswire",
+    "sourceName": "GlobeNewswire",
+    "summary": "R1 to Acquire Humata Health, Enhancing Phare OS with GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1233,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZETU1RQnl0Qm5YUEpBTWxKdjlWR3hVN1lZRDVmYnBZUVZZLV9MU3NNaExUN2xrTV8wOEl6SGpLbm1qS1VVQXRXMjJoLWE5WDBKcm1EOF8tZ2ZIaXhSWXNyUjlCYlNzOEtDVk0teGVZa2lnS1B1Zjg2QXJncnNZVTcyODlDaDJ0Yk5CMWVfU3gzRWpBZG5idnhjSVdJX2NrNVN0ay0yUGstdXE0cDJ0cUdwUU5HSU5Jbnh6bDVB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOR0llc2lZZXUwd29TdlRhSzl4WDV0ckR0WEpKMGpZLWpNcFFEbDhtUkpBckhnN0MyR0ZuMDNCb1A1WW5JUzlJeXVxTDRLU2RsRVM1eV9USFVQYm1Wdmx2QTBSUFMzSEx0SDFWejVOeF9nS1I5NThqb2hfM0ZWdXUtWXA3T0dPei1uX09tVEdCNHkyQjVRQVdvWWdnTFVRX0d4bW45T3FxX3pWQ1NQUXhJcFY4SmcxM29xQ0dyZGRUZXQyWno0dE5zTFZscmVJN3ljeG83cmR2T2dnc3NqZDYzMnlMbENtTzJ1SG1WdjJfdk5DNG5pbXNDeVdXQnZub3V4UXl1R3cxMlozQXdwV2Z4czNJNGUwRUNkMjNrbHpqb1RiZW93?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
