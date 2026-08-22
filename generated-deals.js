@@ -601,13 +601,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9b36469bd167",
+    "id": "news-2072b8b48a2a",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T18:36:08+00:00",
-    "acquirer": "Montgomery County real estate firm",
-    "target": "VA building portfolio",
-    "headline": "Montgomery County real estate firm acquires VA building portfolio for $77.5M",
-    "valueBillions": 0.077,
+    "publishedISO": "2026-08-20T16:34:00+00:00",
+    "acquirer": "Lakewood Ranch IT company",
+    "target": "Venice firm",
+    "headline": "Lakewood Ranch IT company acquires Venice firm",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Maryland Daily Record",
-    "summary": "Montgomery County real estate firm acquires VA building portfolio for $77.5M Maryland Daily Record",
+    "sourceName": "Business Observer",
+    "summary": "Lakewood Ranch IT company acquires Venice firm Business Observer",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaG9aLVp4dTM3T2NHZ19lTTgwRFptVE1mb2VkU2pmb213SEFseko4dkUwOGlESDRCalVmWmJ6TkZDRGN6Z204S2FLY3BucFhuS01uWVphQVoyRGZPSlFpbldkczNBM095dkY4LW1WY1NsREJxTkdqLXViM2dXallyeXhIcnhCcnlEbkNpLS1IQ05QVl9jU3Zic182cEpTLWxWYUt3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0lBSVFITFczWTJfQVV3YWFCRVpsNFBWV2lFeG80TXdhSUlCbUQ0TWFhMU54QkMwN01STERtZnhIQTYtZ3NJMHNpeFFCVGxVYkFyZTJyN01ERU1EcmRqR1Zmb2xRMWp4SzhIejBXdjZIQXIzSjlUcHN3TjV6R0czeXJPcUZBMldtbUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -859,6 +859,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGhOc1hXNm5aazZGZ0Vwc3NDVmdKNDlSby1Edk5CV3d1Z0tXYlRReXpvS29TN3R2cmJLUE02c1I1dUVxeEd4SFJIOWw3ckt4eHRXVmdOcWZwRFM5VHpBQXJLZzRKTDFrQXhPZ25ENnA3dlhpc2xpd095UjZEbEhhTEdyaGIxTnlpUWd0N1JpUVNtTXNCRjk5a2tTWFY2QnV3REgxRVZ4VHRreFkyVC13NQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-4287e5198a16",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T07:41:34+00:00",
+    "acquirer": "Santander",
+    "target": "Webster in the U.S.",
+    "headline": "Santander completes acquisition of Webster in the U.S.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "santander.com",
+    "summary": "Santander completes acquisition of Webster in the U.S. santander.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3dTUjd3cEdoc2o0b1FEWWgwRUd0bVpscTVIbmdYNm0zcXFWd1lTTXlGUVE1UWdSTlVhNmREc0JvTXhUUmowUmo5cDdOU3ZzcVVvXzl6aGVianhnZS05N1E4UWctcl8ybWg4NWFKX3JseHppczJaR1lnb1J6T3hWeThEa0M0WjZnTy1UM2o4RUpEYXpNdjRBMVY5MHhoYmgyQUQ1VndQVkcxQVVVRmp2aEF2a283QXhFNldDUnNlelk4Vldyc2dQYXhXcw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1876,81 +1951,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4a4f8ab7c906",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T23:12:41+00:00",
-    "acquirer": "Antin",
-    "target": "Vigor Marine Group as U.S. Shipyard Investment Grows",
-    "headline": "Antin Acquires Vigor Marine Group as U.S. Shipyard Investment Grows",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "gCaptain",
-    "summary": "Antin Acquires Vigor Marine Group as U.S. Shipyard Investment Grows gCaptain",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcm1HUnBySU1lR1FKNmZvV3o4SngxdGl2MW9OeDRfeldURzQ5UzhYUV80MWd1em9zMHBBYThUVEVTOURaTEVXZlJzbUdEc0VKNXliNWY0TnQ0cmZCek43Zlo4ZmVVdnE3eDR3N2dfR2lfcDNRRFJseU1memFidHBPQzJsWWhmWWs0bnE0VHNNdEw4UQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-d4c8ad4af9ea",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T21:31:04+00:00",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg.com",
+    "sourceName": "Bloomberg",
+    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
