@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-2d67ca116d12",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T16:37:11+00:00",
-    "acquirer": "Virginia lender to",
-    "target": "Forbright’s DC-area branches",
-    "headline": "Virginia lender to acquire Forbright’s DC-area branches",
+    "id": "news-6acc6650dc5d",
+    "date": "August 22, 2026",
+    "publishedISO": "2026-08-22T17:00:00+00:00",
+    "acquirer": "People looking to",
+    "target": "a starter home may catch a break",
+    "headline": "People looking to buy a starter home may catch a break",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Virginia lender to acquire Forbright’s DC-area branches Banking Dive",
+    "sourceName": "Spectrum News",
+    "summary": "People looking to buy a starter home may catch a break Spectrum News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTDNtRVVSU1JkY3gybkZXd3FtSURtWkZiMWZNQ0d3Sy1mRHpvUzhCZlBIZ1B6MF9sdmtmOW9zYzNRX25XNG5ycFBUOTNYVUgyR2hRa1lJTlhEVHo3ZWZ6Z0pycjh3RjlBYThROWpNTHdKeC05VWJCX1NzRGtpZlRlMFQwUkNUQlhRWGZDZEc1VmVvOHFobC1QOXFFUWo0ZFlsRXpNRGlVeFJ4aEI1UEhzUThESERGV3VnUFNjOU51QU1fOFMzd2ZFNDVzYzJraWROUGJGZ0xUSQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXR2MXRqSVFuVmEtcnlyWElEUVNheGw0MU5VVkRzX01Ec01vUW9BYV9tM25SdTI5a0sxUjdDMzh5ejlDTndjUmdEa1BjVmZBNGdnaDFtVUFnU1dGa3BMcGxqRldRdGZUSTVhY1QzTE9ZYUZ4RWE5S01HXzdvVFJGOGEtSUF1bHo4MkhyeVFQX0hGaW9RcHVEYjBYWTZHcUtBN1lfLU5fclB2MWRLeDIzeEM2c3dTR1RzbXZpYmd1ek4?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 21, 2026"
+        "date": "Aug 22, 2026"
       },
       {
         "stage": "Terms verified",
@@ -409,6 +409,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkI0dW9yM3pqWWJrNkxXYVRsOU55NUk4QkpJemZGSm1DYTdkWkVWMDRuNEhEZlh4Q2ZSYWFyM3J1R3NKT0lOc0k3cVFlRVNSQmJtV2UtZVViT0NXczhKLWZGelB2eTNqSV9kNml3M2d0d1hwVWM1bGM2YUVEbkhlTXg1SkVpU0VYbmVNS0hzaGtfMmRYdDZtU1IyTzU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-25cf52d23042",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T20:24:35+00:00",
+    "acquirer": "We Energies",
+    "target": "power from Point Beach Nuclear Plant into the 2050s",
+    "headline": "We Energies plans to buy power from Point Beach Nuclear Plant into the 2050s",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WPR",
+    "summary": "We Energies plans to buy power from Point Beach Nuclear Plant into the 2050s WPR",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzR6UzFiOHJ6QzQ1dnFpRU5rSjVfalgwR19nUzI0OFEyaVpfX1g4TGljMWx5RGlhRUNUazhQWFd1N05CbEh4NkhUQlNVdjhFOFk0UFV2bHc2UDFLS2VlUkM3MEJpbnZRUE9Uc0NjNEJtYzl2UDhLTWp2cFhrckFXY0hoR1ZMZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1084,81 +1159,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a59d5cc29b58",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T15:17:29+00:00",
-    "acquirer": "BioMarin to",
-    "target": "Alesta Therapeutics",
-    "headline": "BioMarin to acquire Alesta Therapeutics for $275 million for potential rare bone disease treatment",
-    "valueBillions": 0.275,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "BioMarin to acquire Alesta Therapeutics for $275 million for potential rare bone disease treatment CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjNabU83R0c3TnJ5ZWtxZmlobGg5LUtpSk92LUwybGFYT1RNckNHNkQ2T0ZWY0ZyX3M1Rm4wd2ZrSnJOMVhMWVdHVU9wb2Nob2cybVAyYzVlVkRUb25OQm4xRl9pWl8wcU9Ccy1NNkVBM2Q1cWc5ckstRS1GTUxvQlhidGhJRlRWSzBxTmlFWW9uSHMySGh30gGcAUFVX3lxTE54dWpRcHpBU3o4N2FUa3FxdnV1V0hqUm50U3Z0WkYzR0V5amVlR0VYSmFxUURieVJvT1pkUVFSLUFPSV9zUnZ4a3IzWnBtLWxwT0JwUDdBN253N2pBUXVSZ2FMNGxhMUxPNnhnSW4zekhOM0R6NGU3TU1qLWFVSDJ3ZE9uczlIdU5DVmxoN0JLQVJMdE9mZkxLYklhWQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg",
+    "sourceName": "Bloomberg.com",
+    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
