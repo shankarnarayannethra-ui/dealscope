@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-2d67ca116d12",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T16:37:11+00:00",
+    "acquirer": "Virginia lender to",
+    "target": "Forbright’s DC-area branches",
+    "headline": "Virginia lender to acquire Forbright’s DC-area branches",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Banking Dive",
+    "summary": "Virginia lender to acquire Forbright’s DC-area branches Banking Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTDNtRVVSU1JkY3gybkZXd3FtSURtWkZiMWZNQ0d3Sy1mRHpvUzhCZlBIZ1B6MF9sdmtmOW9zYzNRX25XNG5ycFBUOTNYVUgyR2hRa1lJTlhEVHo3ZWZ6Z0pycjh3RjlBYThROWpNTHdKeC05VWJCX1NzRGtpZlRlMFQwUkNUQlhRWGZDZEc1VmVvOHFobC1QOXFFUWo0ZFlsRXpNRGlVeFJ4aEI1UEhzUThESERGV3VnUFNjOU51QU1fOFMzd2ZFNDVzYzJraWROUGJGZ0xUSQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-cc1e7695a766",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T14:59:25+00:00",
@@ -76,6 +151,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-9cd64223a8a0",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T13:00:00+00:00",
+    "acquirer": "CoStar Group",
+    "target": "Zonda, Expanding into New Home Data, Analytics and Online Marketplaces",
+    "headline": "CoStar Group Completes Acquisition of Zonda, Expanding into New Home Data, Analytics and Online Marketplaces",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "CoStar Group Completes Acquisition of Zonda, Expanding into New Home Data, Analytics and Online Marketplaces Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQkhIVHdFbmVJNG1YR0hGRzY4bWVnTmcyWk5TLUtRU1lPZ1BRQktvb0swME1HakwzemFSWk85UFJIaF9rbHdxc2hvcnVCLTFZcEhNODhEOFpCaDdURVpxM3I4dFpzWWRhaGlWeGtSbHhMRVVDWEdUeE00a3l5T3IwUGJFdGk2NEEtTGppTzE3bTctZFltZkVXVUsyVGstbUFienQtcUkwRlRybGhTRFV4OW4yMFJrSE5BY2FMM2lXd2RKOTdocHllNUVXV2JMYXMtbHYxbkJIREM3eW9EcDBVWjBfUUFrd1YwdDVOTEhxMmZycXNsY2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-15c7b0ed7b96",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T10:29:00+00:00",
@@ -109,6 +259,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm5vb1RVcHlGSDdIWWRVbHhxc3hnYTNBQ1h5R2RTLURIUE9kVWVfZHdicFcyN1pjTnBneG5GM0RyVHlVNXU2M2hYUDNJLWR1clpkOHdDMFRmUHJ5RXM4S0hvclFkYndmcTh4VEc1TmRONklpR3dwdXVNUURoZzNjQ3FQU21QWmkzdTZ4SUtIVjlfS2hNTU4xVnI5LWttNGpNTGx2bjF2clRmNVNFblQyVl9ycm1Lb2NSQ2NEQ3VKQ1NwS0FJRkVR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-04ac5b2c377e",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T00:31:00+00:00",
+    "acquirer": "Charter",
+    "target": "Liberty Broadband",
+    "headline": "Charter completes acquisition of Liberty Broadband",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WFSB",
+    "summary": "Charter completes acquisition of Liberty Broadband WFSB",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjcwWk4yUDRfX1ZLcWFSLWo4cGV4b1Jtc1ZZb1l4MFdFYVZtLVB6Wkt3elZMRFg5OElSdEhGOUl6cVVJblhmNUdUeXctUHJXMHprTmM5WUpHM2g2eGJGbExtRUpFUU00TUM0bDJSdzRPWW5nV0JIeDgxSnp4TlJkUEw4a2tJMmvSAZsBQVVfeXFMTlJSMzBjTUk3cjZNUHY0dC1XbWFSRV9yR0N3S0J2TGhJelZ5Umo4MGVHNUVRclppVEZrWUowWFF1VU03UU5sa2RkbXVaS2czVWlYOHpickdMV3FqNjhsNWg0UFFEQzhRaU42bEcyVHFRcUZmYUpOR0ZYeS1GSFRkLThCVmk5VzdKYmhtSFFVY29DOXZ2QUd3MVpick0?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -259,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzR6UzFiOHJ6QzQ1dnFpRU5rSjVfalgwR19nUzI0OFEyaVpfX1g4TGljMWx5RGlhRUNUazhQWFd1N05CbEh4NkhUQlNVdjhFOFk0UFV2bHc2UDFLS2VlUkM3MEJpbnZRUE9Uc0NjNEJtYzl2UDhLTWp2cFhrckFXY0hoR1ZMZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b39d72e6b77d",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T20:15:07+00:00",
+    "acquirer": "Rocket Lab’s Bold",
+    "target": "Iridium: Analysts Break Down the Strategy",
+    "headline": "Rocket Lab’s Bold Move to Acquire Iridium: Analysts Break Down the Strategy",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Via Satellite",
+    "summary": "Rocket Lab’s Bold Move to Acquire Iridium: Analysts Break Down the Strategy Via Satellite",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkMwZ0o3ZzR5UDhiaVhjNE04VjBJVHFaUXVZWmNlM1RmaDNMcWUtRU9LNlp5Y1lCaHlZcl90ZFVzQnFvUmdXSXJSZHZKWTJJdHpSUVRqVDZQQUxLTVo4VlZJd3VFQUMzNWVmWkhwdzIzZFBLUHBFZ0xpUXVHR1NVZkhiYTR5TGJlZXNTNnlOZGg4WDlITnZHTmhhVGVtTUpuYVlxQk5iZTNkbWR1bkNKTk9MU1B2NDRsd2FrT1hyc2F3OFJGZWFVcg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,6 +1201,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-077c4d9d5a15",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T20:10:01+00:00",
+    "acquirer": "Stripe to",
+    "target": "OpenRouter as fintech expands deeper into AI",
+    "headline": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "Stripe to buy OpenRouter as fintech expands deeper into AI CNBC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ec51f452eca2",
     "date": "August 19, 2026",
     "publishedISO": "2026-08-19T13:25:20+00:00",
@@ -1140,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Munich Re",
-    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay Munich Re",
+    "sourceName": "munichre.com",
+    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay munichre.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1234,81 +1609,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnk1Tm5KaHBibjZTTHhmTHhlMTZ4OVB1Y0l2TFpVRDRzRjVTNEZhNlVKYk1aN3BZb1dkQjJONzRoN0hfSnBGcVFjTi1vUi1iMG54V2xvVEdFRXpxWHNTVTZNWG82ektZX0xNZmM2OERTYnhQcEh1VWVDbHZvVmxlLVljM0lzUzVId0hDa0h6Q1pTNEg5bmpkNFBKekxXNXlQc0lqZW00VnliUTRjeDdfMFpLU0w?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-84da40832b33",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T13:00:00+00:00",
-    "acquirer": "R1 to",
-    "target": "Humata Health, Enhancing Phare OS with",
-    "headline": "R1 to Acquire Humata Health, Enhancing Phare OS with",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "GlobeNewswire",
-    "summary": "R1 to Acquire Humata Health, Enhancing Phare OS with GlobeNewswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOR0llc2lZZXUwd29TdlRhSzl4WDV0ckR0WEpKMGpZLWpNcFFEbDhtUkpBckhnN0MyR0ZuMDNCb1A1WW5JUzlJeXVxTDRLU2RsRVM1eV9USFVQYm1Wdmx2QTBSUFMzSEx0SDFWejVOeF9nS1I5NThqb2hfM0ZWdXUtWXA3T0dPei1uX09tVEdCNHkyQjVRQVdvWWdnTFVRX0d4bW45T3FxX3pWQ1NQUXhJcFY4SmcxM29xQ0dyZGRUZXQyWno0dE5zTFZscmVJN3ljeG83cmR2T2dnc3NqZDYzMnlMbENtTzJ1SG1WdjJfdk5DNG5pbXNDeVdXQnZub3V4UXl1R3cxMlozQXdwV2Z4czNJNGUwRUNkMjNrbHpqb1RiZW93?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1726,81 +2026,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-50b16ea29074",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T18:19:24+00:00",
-    "acquirer": "US Air Force looks to",
-    "target": "target drones that can mimic stealth jets",
-    "headline": "US Air Force looks to acquire target drones that can mimic stealth jets",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Military Times",
-    "summary": "US Air Force looks to acquire target drones that can mimic stealth jets Military Times",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSE54a3FDX3ZjcE5KbU1PRnhuWlVhYldFbGRRWmZnbS1fcFZnb2RpS2VTci12RFo2UUF5d1NCSzJpN01VUGl1UnUwaS1IYTZyQTRHN2pEYlF0S000WjlfT1VpSGhod3RuSHFFZXFnMFBqTWhiVWtqOWxWcTRPRU04Y05iRTRyUmU1M0UxSUR4bWpPV1JuMnlLUGlUbnZiU3RmelNnR1ZDSDFrbktmWEZreTNKb053S2dFbzRENVFYZmNwNHhla3dmUHdBaHQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-79636bd8c546",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T16:15:54+00:00",
@@ -1989,231 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-867cc7ef478a",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T21:38:00+00:00",
-    "acquirer": "Diana Shipping Drops Bid to",
-    "target": "Genco Shipping & Trading",
-    "headline": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdG40dk50eEFia2FLRDZJal9xMWt3cnhLcnhyMVREVEdxTFNEYllJVVNUbWVMNGNUeFkyanhGb3UwQ3FNTmJ4WjQwTTFORDl5aGZyY25KSFE4MXkzcUdiZlZDd1VUNVBDS3VmQlI0VFRqQ0RpV05XMm9zNVc5YnZKSTVQN3NILS1XSFlpVXIxalAtWmY4WlFRWnUxZy0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bb1836961be9",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T19:52:46+00:00",
-    "acquirer": "Ferrero to",
-    "target": "better-for-you breakfast brand Purely Elizabeth",
-    "headline": "Ferrero to buy better-for-you breakfast brand Purely Elizabeth",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Food Dive",
-    "summary": "Ferrero to buy better-for-you breakfast brand Purely Elizabeth Food Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnhSUjhtUkhMUXhnS19yOUg0em5FcjMzdFlQaGFmRjVobDBKRmY2d3dSWWt4RGdwcnhURi1mbDhyaGxCeDk3bE4wV3pVSndfck9YWmpFTmJuLXA4bnYxN002WWhLaGtYZGdHMTRUTDlXalNCM0pBMVRvQkVuMUlrMFVDYm53Ml9XbVNuNW8xdjlSQURtOUFCcFVwTVdmWTUwM0stNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-73c039a9abd2",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T19:17:22+00:00",
-    "acquirer": "Amtrak Awarded Nearly $3B in USDOT Grants to",
-    "target": "New Trains and Improve Service Nationwide",
-    "headline": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Amtrak Media",
-    "summary": "Amtrak Awarded Nearly $3B in USDOT Grants to Buy New Trains and Improve Service Nationwide Amtrak Media",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkVWSjZkalcycEE0WW4tRlFacVBVTEczczM2TnU4TDZvNE5YRG0xVUN0N3A5SEg0NlhaQS1lY2p6Z2tiQ0FieXRpM2ZiSExIN1MtXzdNQXdMZFh6ZDRyaGVFM2xpOFRyeFVObldCenpFMUk4eTdHbS1UamoycFE3MUVwb3E5SWpIVGt4Sld0VFZNcnZRd1p4NzNCYkRDWlpyZzE0enY0bVF6ZkhybW9KMF9TM3hnTVdFbGRzaWZqVFI?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
       },
       {
         "stage": "Terms verified",
