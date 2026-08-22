@@ -451,81 +451,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-25cf52d23042",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T20:24:35+00:00",
-    "acquirer": "We Energies",
-    "target": "power from Point Beach Nuclear Plant into the 2050s",
-    "headline": "We Energies plans to buy power from Point Beach Nuclear Plant into the 2050s",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WPR",
-    "summary": "We Energies plans to buy power from Point Beach Nuclear Plant into the 2050s WPR",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzR6UzFiOHJ6QzQ1dnFpRU5rSjVfalgwR19nUzI0OFEyaVpfX1g4TGljMWx5RGlhRUNUazhQWFd1N05CbEh4NkhUQlNVdjhFOFk0UFV2bHc2UDFLS2VlUkM3MEJpbnZRUE9Uc0NjNEJtYzl2UDhLTWp2cFhrckFXY0hoR1ZMZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b39d72e6b77d",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T20:15:07+00:00",
@@ -709,156 +634,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaG9aLVp4dTM3T2NHZ19lTTgwRFptVE1mb2VkU2pmb213SEFseko4dkUwOGlESDRCalVmWmJ6TkZDRGN6Z204S2FLY3BucFhuS01uWVphQVoyRGZPSlFpbldkczNBM095dkY4LW1WY1NsREJxTkdqLXViM2dXallyeXhIcnhCcnlEbkNpLS1IQ05QVl9jU3Zic182cEpTLWxWYUt3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a05f74fc0693",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T18:01:13+00:00",
-    "acquirer": "Jets Chairman Woody Johnson",
-    "target": "Stake in Aston Martin Aramco Formula One Team",
-    "headline": "Jets Chairman Woody Johnson Acquires Stake in Aston Martin Aramco Formula One Team",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "New York Jets",
-    "summary": "Jets Chairman Woody Johnson Acquires Stake in Aston Martin Aramco Formula One Team New York Jets",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnJSZVMzOFBaR2xhQjZsVE9VYVVnbUJsclktbU52aEV6dE9xaHppWUJGc21VZlVySVc5eWF1eERZUExyRGRfU1drSGpHQjJzN3ZHTTFoWHpFM095TTFhZjVKTmtFQ3pZazNTcnphQU5QMjdYRmJiM0tuU2lmTUo0M1hVZ2VqWnJ6THlVdlhsVUltemRZdmZFN3VFMmo?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4b2e2be92d31",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T17:39:56+00:00",
-    "acquirer": "Aurora Cannabis",
-    "target": "Internode Pharma, HAP Pharma, Expanding Distribution Access to UK",
-    "headline": "Aurora Cannabis Acquires Internode Pharma, HAP Pharma, Expanding Distribution Access to UK",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cannabis Business Times",
-    "summary": "Aurora Cannabis Acquires Internode Pharma, HAP Pharma, Expanding Distribution Access to UK Cannabis Business Times",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNOHVrVFR2c0xJSlZxdnZjRFRxd2VDaUYyMDZVRXJudnRnX1RDYTdkYm92YVBuaFp4R0U1TUdNRmZGYzZZRXEyNEhpNDUxanZCX0FRTE50eEhlTHNnaTRqalJRTkU0TnlIMFVmRDU1Qnhsc3U0NDlnbnJzMFRLalRhUDdIQ1FiV1hZT2xMb0k4RjNNSlUtZDVfQVlKZ0NwdlkzSTAwelZReVhlOE5MOUh5U1FQVmhwSlcxUmIwblRDR1RrOU5hZDRJbzdoWTVoclF3YlV6QmxkNUh1S3RyZml1NjdlZU96STVkYmxrSFRnMzcxWTM5MjJhRkpacnV5T2J3aVZ6R2VvN0xOeDFRVDZ6RjdyNWJBRGFWOG9RMw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1276,6 +1051,156 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-a59d5cc29b58",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T15:17:29+00:00",
+    "acquirer": "BioMarin to",
+    "target": "Alesta Therapeutics",
+    "headline": "BioMarin to acquire Alesta Therapeutics for $275 million for potential rare bone disease treatment",
+    "valueBillions": 0.275,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "BioMarin to acquire Alesta Therapeutics for $275 million for potential rare bone disease treatment CNBC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjNabU83R0c3TnJ5ZWtxZmlobGg5LUtpSk92LUwybGFYT1RNckNHNkQ2T0ZWY0ZyX3M1Rm4wd2ZrSnJOMVhMWVdHVU9wb2Nob2cybVAyYzVlVkRUb25OQm4xRl9pWl8wcU9Ccy1NNkVBM2Q1cWc5ckstRS1GTUxvQlhidGhJRlRWSzBxTmlFWW9uSHMySGh30gGcAUFVX3lxTE54dWpRcHpBU3o4N2FUa3FxdnV1V0hqUm50U3Z0WkYzR0V5amVlR0VYSmFxUURieVJvT1pkUVFSLUFPSV9zUnZ4a3IzWnBtLWxwT0JwUDdBN253N2pBUXVSZ2FMNGxhMUxPNnhnSW4zekhOM0R6NGU3TU1qLWFVSDJ3ZE9uczlIdU5DVmxoN0JLQVJMdE9mZkxLYklhWQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6fbd2ad479c9",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T14:03:21+00:00",
+    "acquirer": "US National Gallery of Art",
+    "target": "paintings, sculptures and photographs spanning five centuries",
+    "headline": "US National Gallery of Art acquires paintings, sculptures and photographs spanning five centuries",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Art Newspaper",
+    "summary": "US National Gallery of Art acquires paintings, sculptures and photographs spanning five centuries The Art Newspaper",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVJXRTZsMVBXT0ZtVGlnek5IRnNjRkhRNnJ2RkNYcGY5NnI5YTBTVFBxV1BZcVFyMjBweFR0azJKMFpuMDItbHNxb3lFaEpqUDVLVy1KeHNiTXFKY1AzRHNfd2ZtV0VtcFFIc0wxQnI4alM5MllUQV9DV1luMko0RFlLNHpDekJDVnl2NzNxT2x3YUNpTm1yLTVjSWRRUUxNMUtLM3hYUnlCYjVKdkE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ec51f452eca2",
     "date": "August 19, 2026",
     "publishedISO": "2026-08-19T13:25:20+00:00",
@@ -1609,6 +1534,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnk1Tm5KaHBibjZTTHhmTHhlMTZ4OVB1Y0l2TFpVRDRzRjVTNEZhNlVKYk1aN3BZb1dkQjJONzRoN0hfSnBGcVFjTi1vUi1iMG54V2xvVEdFRXpxWHNTVTZNWG82ektZX0xNZmM2OERTYnhQcEh1VWVDbHZvVmxlLVljM0lzUzVId0hDa0h6Q1pTNEg5bmpkNFBKekxXNXlQc0lqZW00VnliUTRjeDdfMFpLU0w?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-94f645fbcb75",
+    "date": "August 18, 2026",
+    "publishedISO": "2026-08-18T14:00:00+00:00",
+    "acquirer": "Mérieux NutriSciences Enters Agreement to",
+    "target": "Certified Group",
+    "headline": "Mérieux NutriSciences Enters Agreement to Acquire Certified Group",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Mérieux NutriSciences Enters Agreement to Acquire Certified Group PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZETU1RQnl0Qm5YUEpBTWxKdjlWR3hVN1lZRDVmYnBZUVZZLV9MU3NNaExUN2xrTV8wOEl6SGpLbm1qS1VVQXRXMjJoLWE5WDBKcm1EOF8tZ2ZIaXhSWXNyUjlCYlNzOEtDVk0teGVZa2lnS1B1Zjg2QXJncnNZVTcyODlDaDJ0Yk5CMWVfU3gzRWpBZG5idnhjSVdJX2NrNVN0ay0yUGstdXE0cDJ0cUdwUU5HSU5Jbnh6bDVB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
