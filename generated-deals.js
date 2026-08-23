@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-2d67ca116d12",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T16:37:11+00:00",
+    "acquirer": "Virginia lender to",
+    "target": "Forbright’s DC-area branches",
+    "headline": "Virginia lender to acquire Forbright’s DC-area branches",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Banking Dive",
+    "summary": "Virginia lender to acquire Forbright’s DC-area branches Banking Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTDNtRVVSU1JkY3gybkZXd3FtSURtWkZiMWZNQ0d3Sy1mRHpvUzhCZlBIZ1B6MF9sdmtmOW9zYzNRX25XNG5ycFBUOTNYVUgyR2hRa1lJTlhEVHo3ZWZ6Z0pycjh3RjlBYThROWpNTHdKeC05VWJCX1NzRGtpZlRlMFQwUkNUQlhRWGZDZEc1VmVvOHFobC1QOXFFUWo0ZFlsRXpNRGlVeFJ4aEI1UEhzUThESERGV3VnUFNjOU51QU1fOFMzd2ZFNDVzYzJraWROUGJGZ0xUSQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-cc1e7695a766",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T14:59:25+00:00",
@@ -451,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-25cf52d23042",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T20:24:35+00:00",
-    "acquirer": "We Energies",
-    "target": "power from Point Beach Nuclear Plant into the 2050s",
-    "headline": "We Energies plans to buy power from Point Beach Nuclear Plant into the 2050s",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WPR",
-    "summary": "We Energies plans to buy power from Point Beach Nuclear Plant into the 2050s WPR",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzR6UzFiOHJ6QzQ1dnFpRU5rSjVfalgwR19nUzI0OFEyaVpfX1g4TGljMWx5RGlhRUNUazhQWFd1N05CbEh4NkhUQlNVdjhFOFk0UFV2bHc2UDFLS2VlUkM3MEJpbnZRUE9Uc0NjNEJtYzl2UDhLTWp2cFhrckFXY0hoR1ZMZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b39d72e6b77d",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T20:15:07+00:00",
@@ -676,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2072b8b48a2a",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T16:34:00+00:00",
-    "acquirer": "Lakewood Ranch IT company",
-    "target": "Venice firm",
-    "headline": "Lakewood Ranch IT company acquires Venice firm",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Observer",
-    "summary": "Lakewood Ranch IT company acquires Venice firm Business Observer",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0lBSVFITFczWTJfQVV3YWFCRVpsNFBWV2lFeG80TXdhSUlCbUQ0TWFhMU54QkMwN01STERtZnhIQTYtZ3NJMHNpeFFCVGxVYkFyZTJyN01ERU1EcmRqR1Zmb2xRMWp4SzhIejBXdjZIQXIzSjlUcHN3TjV6R0czeXJPcUZBMldtbUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-29cdb629d5f9",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T15:08:28+00:00",
@@ -784,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWp4a2dLbUNINlloeHE3T2ZnVVZUdmM5UWp1eVNMSE9UYXNCOVpBVE5XMFl5QXRpb2poV0I5dUpVdVVnV2RxM280cE45V19jVmlmeXFjYmN2a21SdUFyckpGYzRqSV9KS2pNUF9OWV9BaXNhNkRsc2d2WVN2RldOcVQ3RldEU294Z2R1MExReFlVT3JMWXZGR2tpQlRhT21VN1c0Y1N4VUdPaHFaTVZyTjRfQTFrWXRlRVZFQWVMMzRQUdIBxwFBVV95cUxQa3d2V3ZwUmlJdVIxWkxabG94UUNqVTMwZUJOWkVMZmpEbTZHWjJVeUg3M2lvM1dBZGJzcmY5WW5Xdk4zTXN0NEZVbHR4a3h4Yk51OG9YNTFMZlR0RjNJQTVxa1NWTWd5dEc0RU9qdmZWVWNFMGpjVHJZc2t2SXdubnUxV1RwVjB1QVp3NEZjZG9melA0dUU0REN3eWRhQVlOVjJ3RTF6R2J2VXMtTExxYzZPeVJjZjZJYWdaUzFKbnJpUDR6UFlz?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c27439fcce0f",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T13:21:47+00:00",
-    "acquirer": "Lincoln Property Co. JV",
-    "target": "$450M Mixed-Asset Portfolio",
-    "headline": "Lincoln Property Co. JV Acquires $450M Mixed-Asset Portfolio",
-    "valueBillions": 0.45,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Multi-Housing News",
-    "summary": "Lincoln Property Co. JV Acquires $450M Mixed-Asset Portfolio Multi-Housing News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUF90LWs5ZVN3cHg4SjFLXzVNSjdYRHRyQjZ5TFNpZ20tTXRlY1RYcDhvZEl0RFZ2aERFWXhTVDd5NlZiZ29FYXV5SE9udUpQUlI4MVJwanNGWnJHVU5BYXptaGYzN0FUaFJGUFFocEJlVmpqc3ZUcUNnVkVrNEZRenU1bE9tLVNjVW8wb1JhSU1MeV9fN2FZ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,13 +1051,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6fbd2ad479c9",
+    "id": "news-a59d5cc29b58",
     "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T14:03:21+00:00",
-    "acquirer": "US National Gallery of Art",
-    "target": "paintings, sculptures and photographs spanning five centuries",
-    "headline": "US National Gallery of Art acquires paintings, sculptures and photographs spanning five centuries",
-    "valueBillions": null,
+    "publishedISO": "2026-08-19T15:17:29+00:00",
+    "acquirer": "BioMarin to",
+    "target": "Alesta Therapeutics",
+    "headline": "BioMarin to acquire Alesta Therapeutics for $275 million for potential rare bone disease treatment",
+    "valueBillions": 0.275,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1215,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Art Newspaper",
-    "summary": "US National Gallery of Art acquires paintings, sculptures and photographs spanning five centuries The Art Newspaper",
+    "sourceName": "CNBC",
+    "summary": "BioMarin to acquire Alesta Therapeutics for $275 million for potential rare bone disease treatment CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1083,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVJXRTZsMVBXT0ZtVGlnek5IRnNjRkhRNnJ2RkNYcGY5NnI5YTBTVFBxV1BZcVFyMjBweFR0azJKMFpuMDItbHNxb3lFaEpqUDVLVy1KeHNiTXFKY1AzRHNfd2ZtV0VtcFFIc0wxQnI4alM5MllUQV9DV1luMko0RFlLNHpDekJDVnl2NzNxT2x3YUNpTm1yLTVjSWRRUUxNMUtLM3hYUnlCYjVKdkE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjNabU83R0c3TnJ5ZWtxZmlobGg5LUtpSk92LUwybGFYT1RNckNHNkQ2T0ZWY0ZyX3M1Rm4wd2ZrSnJOMVhMWVdHVU9wb2Nob2cybVAyYzVlVkRUb25OQm4xRl9pWl8wcU9Ccy1NNkVBM2Q1cWc5ckstRS1GTUxvQlhidGhJRlRWSzBxTmlFWW9uSHMySGh30gGcAUFVX3lxTE54dWpRcHpBU3o4N2FUa3FxdnV1V0hqUm50U3Z0WkYzR0V5amVlR0VYSmFxUURieVJvT1pkUVFSLUFPSV9zUnZ4a3IzWnBtLWxwT0JwUDdBN253N2pBUXVSZ2FMNGxhMUxPNnhnSW4zekhOM0R6NGU3TU1qLWFVSDJ3ZE9uczlIdU5DVmxoN0JLQVJMdE9mZkxLYklhWQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1459,6 +1309,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEd5UU4wUHdlcU80cWZiZl9PUDJwQ2ZBV2IxWFlfRDhNZUNKRldTNTlMNXJ0RWJFQXdxazBuVU45dmtVMlVtZmlaNWtjYVI1clJ3TEhhb3JBLVM2OVpIU2p6ajRtb0RJYmVwVl9vZ3Q5LW42Yi1vbmw5WUpSdGRHNXYyUXVOdmkzTXJBZE1xNk5rMmVvQ2htYUQtdmxRekV1T2J4VA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c04ebbc5b155",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T09:00:00+00:00",
+    "acquirer": "Brinqa",
+    "target": "PlexTrac to Close CTEM Loop; Becomes Largest Standalone Unified Exposure Management Vendor",
+    "headline": "Brinqa Acquires PlexTrac to Close CTEM Loop; Becomes Largest Standalone Unified Exposure Management Vendor",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "Brinqa Acquires PlexTrac to Close CTEM Loop; Becomes Largest Standalone Unified Exposure Management Vendor Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWHNjNFVXYXhRQmJZT0RJVHhnNnM1ZXBrOHpmTl9sRERFa2o2WjJzV2VXc1UyY0VHQmtWWFEzSWZvREZJU0QyOEt0Ym8yYkY2OHZUQVBmSVljQU50bjlrQ1Baa3hHUlFrOWNzcUlZSW1SbGlneGU4UDkyS3JxWWVnQVJ3WTVFV3d5Q0x3bWpEeXU1MjBacmsxTmZ1Sm5fUEhPVXBNX1MwMkhaM2g0cmlvVzl2R0VJcEYzd2VZNF9TM1puR1dzVTZkaUJmRDNDSTMtbC1KaDNhSHhqQ1BKQnA4dTlPSXBsRHg0ZmVQOWh4VTZzN3Vz?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2101,6 +2026,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3f170aab49f7",
+    "date": "August 17, 2026",
+    "publishedISO": "2026-08-17T12:52:00+00:00",
+    "acquirer": "Universal Health Services, Inc.",
+    "target": "Talkspace, Inc.",
+    "headline": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc. PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWNCcVNnUVRfM3l3UVJRWmF2M2dub1ltSW8zN3FXWjZTSWYwUW5DdWxyMmNjaDVTRUhtZV9qdnFoMzZ0bk1ZN2otbzM2amFrUUVMVTJ4R083d3FkTXdEX3Rxd1JaWC1TX01pQ1NncWN2em1pYVhSek5wM0p5b1RIZVByR0NEa05PT2JYdW1jRVI0TDhwSUtrZlE3b3hXTFFfb1lPcDN3S1EzVmVjNi1HR01Kalo4YTFyM0RsZlBOUVNhQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3246291966be",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T09:30:00+00:00",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg.com",
+    "sourceName": "Bloomberg",
+    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
