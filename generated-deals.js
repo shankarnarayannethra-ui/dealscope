@@ -301,13 +301,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-15c7b0ed7b96",
+    "id": "news-4ce21a30468d",
     "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T10:29:00+00:00",
-    "acquirer": "Italy’s Monte dei Paschi Makes $40 Billion",
-    "target": "Rival Banks",
-    "headline": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks",
-    "valueBillions": 40.0,
+    "publishedISO": "2026-08-21T07:05:06+00:00",
+    "acquirer": "ScanSource to",
+    "target": "MicroAge in $220.5 Million Deal",
+    "headline": "ScanSource to Acquire MicroAge in $220.5 Million Deal",
+    "valueBillions": 0.221,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Italy’s Monte dei Paschi Makes $40 Billion Move to Buy Rival Banks WSJ",
+    "sourceName": "Security Info Watch",
+    "summary": "ScanSource to Acquire MicroAge in $220.5 Million Deal Security Info Watch",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm5vb1RVcHlGSDdIWWRVbHhxc3hnYTNBQ1h5R2RTLURIUE9kVWVfZHdicFcyN1pjTnBneG5GM0RyVHlVNXU2M2hYUDNJLWR1clpkOHdDMFRmUHJ5RXM4S0hvclFkYndmcTh4VEc1TmRONklpR3dwdXVNUURoZzNjQ3FQU21QWmkzdTZ4SUtIVjlfS2hNTU4xVnI5LWttNGpNTGx2bjF2clRmNVNFblQyVl9ycm1Lb2NSQ2NEQ3VKQ1NwS0FJRkVR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd29MclVTOW9KcURmQS1PX1c4c20tbmE5TUZCZm4yY1JrUk55ZDdzVno4dGx5SlJRYW4wT2UtNnBSbVBpRDFIUzdJZXFZRTFEYjVSbU5zMXRaQXJUeExFSTZ6M1lSSTlob2x3YmlSQzNvT2x2dk5jejcxblhrV0k4SklTOHVLR0pkR3ZXSF9HSl8wS29PWWl0RWpWOWdobHpZNnNrVWUzaVcweVE1WS10cmlB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -634,6 +634,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzBNUzVaSjFXNDFteUtTbV9fblZRTjAxZWlzRTRIby0xNzRMUnhZVkU4Vll5aVZQVHhSUEJ5NlJ0WXVzbjRYcWJ0SFdlQjJNMXZ2bm8yZFRBUlIySFZXdEpiZG9fcDhVVzRkamhJNFVrMldva19odTNKZDFxVllKdlVCQ0JTU3dBSkNnM2YxY1B6RDdhQ1ZpLVptTExNOFR5dmZLR0VONU5ySURrUnZWV3NuMUZULTg1SG9iUmlXaks1QTQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ebd39c1c6eb8",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T19:40:02+00:00",
+    "acquirer": "ScanSource to",
+    "target": "MicroAge, a Leading IT Solutions Integrator",
+    "headline": "ScanSource to Acquire MicroAge, a Leading IT Solutions Integrator",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Greenville Business Magazine",
+    "summary": "ScanSource to Acquire MicroAge, a Leading IT Solutions Integrator Greenville Business Magazine",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOG41Uk1BalR1MG5iVVp3YU9EaWw5TmpnWVlSY2xVSHJLeDNtSkpuRWV5NWxnRk9TWEFsWldTVHVQUXdaM2VObGlBMFYyVkRlUkFDY01SY3hYNVh1aGVlQXZkd0liRjZsbkNIVEh2NlpTclY2YWI5WHV4TjNjYm55Q1VTNlBwd1dtZjVZbDNyc2NrTUZJdGN1Y3Z1SmpRTWdTMUFBTXRnTWdFTVBIV24xVDBCbERocWM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c04ebbc5b155",
+    "id": "news-f81088fe59e5",
     "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T09:00:00+00:00",
-    "acquirer": "Brinqa",
-    "target": "PlexTrac to Close CTEM Loop; Becomes Largest Standalone Unified Exposure Management Vendor",
-    "headline": "Brinqa Acquires PlexTrac to Close CTEM Loop; Becomes Largest Standalone Unified Exposure Management Vendor",
+    "publishedISO": "2026-08-19T11:39:00+00:00",
+    "acquirer": "Best Momentum Stock to",
+    "target": "for August 19th",
+    "headline": "Best Momentum Stock to Buy for August 19th",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Brinqa Acquires PlexTrac to Close CTEM Loop; Becomes Largest Standalone Unified Exposure Management Vendor Business Wire",
+    "sourceName": "Yahoo Finance",
+    "summary": "Best Momentum Stock to Buy for August 19th Yahoo Finance",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWHNjNFVXYXhRQmJZT0RJVHhnNnM1ZXBrOHpmTl9sRERFa2o2WjJzV2VXc1UyY0VHQmtWWFEzSWZvREZJU0QyOEt0Ym8yYkY2OHZUQVBmSVljQU50bjlrQ1Baa3hHUlFrOWNzcUlZSW1SbGlneGU4UDkyS3JxWWVnQVJ3WTVFV3d5Q0x3bWpEeXU1MjBacmsxTmZ1Sm5fUEhPVXBNX1MwMkhaM2g0cmlvVzl2R0VJcEYzd2VZNF9TM1puR1dzVTZkaUJmRDNDSTMtbC1KaDNhSHhqQ1BKQnA4dTlPSXBsRHg0ZmVQOWh4VTZzN3Vz?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXh6MHJRV1hWSkU5NXFyVkFYeVQ5Z2tUek1mbVAtRWE0UWV0dnRpc0hGbC11UDE1aV90dkhVNWg5UndZdnFTQ0t4QktvOTJ6STdRUGtCdmgzMlVkRVlhUHBGU2JLa2ctRm5HLVl0SUwyaVV3bnNoUXlBZTNyMVdXOUcyS2dKbG54cFFmY1Jwb3VCdU9UQ25pOWtONA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1464,81 +1539,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b713d3b37125",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T14:04:44+00:00",
-    "acquirer": "Sporting KC",
-    "target": "forward Andre Luiz in club-record transfer from Olympiacos FC",
-    "headline": "Sporting KC acquires forward Andre Luiz in club-record transfer from Olympiacos FC",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Sporting Kansas City",
-    "summary": "Sporting KC acquires forward Andre Luiz in club-record transfer from Olympiacos FC Sporting Kansas City",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnk1Tm5KaHBibjZTTHhmTHhlMTZ4OVB1Y0l2TFpVRDRzRjVTNEZhNlVKYk1aN3BZb1dkQjJONzRoN0hfSnBGcVFjTi1vUi1iMG54V2xvVEdFRXpxWHNTVTZNWG82ektZX0xNZmM2OERTYnhQcEh1VWVDbHZvVmxlLVljM0lzUzVId0hDa0h6Q1pTNEg5bmpkNFBKekxXNXlQc0lqZW00VnliUTRjeDdfMFpLU0w?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg",
+    "sourceName": "Bloomberg.com",
+    "summary": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
