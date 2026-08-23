@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-121c4dd1761f",
+    "date": "August 23, 2026",
+    "publishedISO": "2026-08-23T14:12:05+00:00",
+    "acquirer": "Cityblock to",
+    "target": "Homeward Health, Secures $116M Series E",
+    "headline": "Cityblock to Acquire Homeward Health, Secures $116M Series E",
+    "valueBillions": 0.116,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MedCity News",
+    "summary": "Cityblock to Acquire Homeward Health, Secures $116M Series E MedCity News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXB0WHlpNHAyQ0tUN3RqT2NMa29jaGZ0MmdNUHBGUHRJVnRHQkdLeTZtY0RrY29MaExlNEVIbjk3QkhPUWEwSDFXdF8xZERvd2I0Sjk3ZFlIZUM4VXhwMkF4ZHhmaWVfQ21DVnNFSURVWm51X3JSc2ppQy13ZGpZQWV0aGlHMmZLZW1CWGZSTlljQ2hNeXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-d7709bb78562",
     "date": "August 23, 2026",
     "publishedISO": "2026-08-23T12:00:01+00:00",
@@ -114,81 +189,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fc06e8a0c5f3",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T17:31:00+00:00",
-    "acquirer": "Stripe",
-    "target": "OpenRouter",
-    "headline": "Stripe agrees to acquire OpenRouter for $8 billion",
-    "valueBillions": 8.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Semafor",
-    "summary": "Stripe agrees to acquire OpenRouter for $8 billion Semafor",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXV2TEIzTEtZR3BEVEE0LXVkbmZEX2dVLVNVN0hmQ1RnWUtCczhUdW9vd3gxOTNSazlnZEFSZHk2aEg5eFRNNVlCdHhPRWVTdjViRlVVQ2Rab2NyWWV2QVNVeERQQmVTWnMyT0VnNlBKNkRZRy0yS1BkLUR0Q0NLSUM0NVU5UQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 21, 2026"
       },
       {
         "stage": "Terms verified",
@@ -901,6 +901,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b9370166cc71",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T12:00:00+00:00",
+    "acquirer": "Radial",
+    "target": "Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’",
+    "headline": "Radial Acquires Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Behavioral Health Business",
+    "summary": "Radial Acquires Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’ Behavioral Health Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGhOc1hXNm5aazZGZ0Vwc3NDVmdKNDlSby1Edk5CV3d1Z0tXYlRReXpvS29TN3R2cmJLUE02c1I1dUVxeEd4SFJIOWw3ckt4eHRXVmdOcWZwRFM5VHpBQXJLZzRKTDFrQXhPZ25ENnA3dlhpc2xpd095UjZEbEhhTEdyaGIxTnlpUWd0N1JpUVNtTXNCRjk5a2tTWFY2QnV3REgxRVZ4VHRreFkyVC13NQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-4287e5198a16",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T07:41:34+00:00",
@@ -1384,81 +1459,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEd5UU4wUHdlcU80cWZiZl9PUDJwQ2ZBV2IxWFlfRDhNZUNKRldTNTlMNXJ0RWJFQXdxazBuVU45dmtVMlVtZmlaNWtjYVI1clJ3TEhhb3JBLVM2OVpIU2p6ajRtb0RJYmVwVl9vZ3Q5LW42Yi1vbmw5WUpSdGRHNXYyUXVOdmkzTXJBZE1xNk5rMmVvQ2htYUQtdmxRekV1T2J4VA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f81088fe59e5",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T11:39:00+00:00",
-    "acquirer": "Best Momentum Stock to",
-    "target": "for August 19th",
-    "headline": "Best Momentum Stock to Buy for August 19th",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Best Momentum Stock to Buy for August 19th Yahoo Finance",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXh6MHJRV1hWSkU5NXFyVkFYeVQ5Z2tUek1mbVAtRWE0UWV0dnRpc0hGbC11UDE1aV90dkhVNWg5UndZdnFTQ0t4QktvOTJ6STdRUGtCdmgzMlVkRVlhUHBGU2JLa2ctRm5HLVl0SUwyaVV3bnNoUXlBZTNyMVdXOUcyS2dKbG54cFFmY1Jwb3VCdU9UQ25pOWtONA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
