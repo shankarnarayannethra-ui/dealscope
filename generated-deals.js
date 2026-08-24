@@ -1,9 +1,84 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-98426414ee2a",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T00:24:42+00:00",
+    "acquirer": "NEXA",
+    "target": "UMortgage, Offering Blueprint",
+    "headline": "NEXA Acquires UMortgage, Offering Blueprint For Broker Consolidation",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "National Mortgage Professional",
+    "summary": "NEXA Acquires UMortgage, Offering Blueprint For Broker Consolidation National Mortgage Professional",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0dXV1Nid2dXcld3eHhpY01JQVpQQmJQMmEtN3k4aTFET2lrSWtsLUxMVC1iNzBDTm8yazZvM1N1c0pNZkZGanlOYkpFc1NJLUpLWmZUVlNqd3l1WGlPWDBCRHVXMVRhZnhrQi1hWTN6YkRPZEZoQlNYVUU2Yl9GNXFiNmZNYUVsaUNCcC1ZSTVHZ013TEs1dzl4OW1YLWdQc0NnOHJZNGNObjZGc3c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b61024741ecc",
     "date": "August 23, 2026",
-    "publishedISO": "2026-08-23T19:52:53+00:00",
+    "publishedISO": "2026-08-23T19:53:31+00:00",
     "acquirer": "NEXA Lending",
     "target": "UMortgage, adds Anthony Casa to exec team",
     "headline": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team",
@@ -34,6 +109,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YjBBTDZtc2NHLUdoaXVaQVV3VjVMUTNIQmh1dkktdW1IdWRlNkFyUGdGbzdUclJjbE1xZlh1YlcxaE1LS1hGdW9BVlpkcHl2TDNfYlBFYy1kRlZMX1lMT2RGOWVtY0tzYmt4TXhnbU92WU55?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-121c4dd1761f",
+    "date": "August 23, 2026",
+    "publishedISO": "2026-08-23T14:20:16+00:00",
+    "acquirer": "Cityblock to",
+    "target": "Homeward Health, Secures $116M Series E",
+    "headline": "Cityblock to Acquire Homeward Health, Secures $116M Series E",
+    "valueBillions": 0.116,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MedCity News",
+    "summary": "Cityblock to Acquire Homeward Health, Secures $116M Series E MedCity News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXB0WHlpNHAyQ0tUN3RqT2NMa29jaGZ0MmdNUHBGUHRJVnRHQkdLeTZtY0RrY29MaExlNEVIbjk3QkhPUWEwSDFXdF8xZERvd2I0Sjk3ZFlIZUM4VXhwMkF4ZHhmaWVfQ21DVnNFSURVWm51X3JSc2ppQy13ZGpZQWV0aGlHMmZLZW1CWGZSTlljQ2hNeXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -564,156 +714,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-04ac5b2c377e",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T00:31:00+00:00",
-    "acquirer": "Charter",
-    "target": "Liberty Broadband",
-    "headline": "Charter completes acquisition of Liberty Broadband",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WFSB",
-    "summary": "Charter completes acquisition of Liberty Broadband WFSB",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjcwWk4yUDRfX1ZLcWFSLWo4cGV4b1Jtc1ZZb1l4MFdFYVZtLVB6Wkt3elZMRFg5OElSdEhGOUl6cVVJblhmNUdUeXctUHJXMHprTmM5WUpHM2g2eGJGbExtRUpFUU00TUM0bDJSdzRPWW5nV0JIeDgxSnp4TlJkUEw4a2tJMmvSAZsBQVVfeXFMTlJSMzBjTUk3cjZNUHY0dC1XbWFSRV9yR0N3S0J2TGhJelZ5Umo4MGVHNUVRclppVEZrWUowWFF1VU03UU5sa2RkbXVaS2czVWlYOHpickdMV3FqNjhsNWg0UFFEQzhRaU42bEcyVHFRcUZmYUpOR0ZYeS1GSFRkLThCVmk5VzdKYmhtSFFVY29DOXZ2QUd3MVpick0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2fbf0581fc30",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T20:42:00+00:00",
-    "acquirer": "Advanced Recovery Systems",
-    "target": "Promises Behavioral Health",
-    "headline": "Advanced Recovery Systems Acquires Promises Behavioral Health",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Behavioral Health Business",
-    "summary": "Advanced Recovery Systems Acquires Promises Behavioral Health Behavioral Health Business",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkI0dW9yM3pqWWJrNkxXYVRsOU55NUk4QkpJemZGSm1DYTdkWkVWMDRuNEhEZlh4Q2ZSYWFyM3J1R3NKT0lOc0k3cVFlRVNSQmJtV2UtZVViT0NXczhKLWZGelB2eTNqSV9kNml3M2d0d1hwVWM1bGM2YUVEbkhlTXg1SkVpU0VYbmVNS0hzaGtfMmRYdDZtU1IyTzU?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1590,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Munich Re",
-    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay Munich Re",
+    "sourceName": "munichre.com",
+    "summary": "Munich Re Group to Acquire Cyber Insurtech At-Bay munichre.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
