@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-98426414ee2a",
+    "id": "news-b31c8315feaf",
     "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T00:24:42+00:00",
-    "acquirer": "NEXA",
-    "target": "UMortgage, Offering Blueprint",
-    "headline": "NEXA Acquires UMortgage, Offering Blueprint For Broker Consolidation",
-    "valueBillions": null,
+    "publishedISO": "2026-08-24T12:20:44+00:00",
+    "acquirer": "India's TCS to",
+    "target": "Porsche's IT unit, bags 5-year deal worth $1.46 billion",
+    "headline": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
+    "valueBillions": 1.46,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "National Mortgage Professional",
-    "summary": "NEXA Acquires UMortgage, Offering Blueprint For Broker Consolidation National Mortgage Professional",
+    "sourceName": "Reuters",
+    "summary": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0dXV1Nid2dXcld3eHhpY01JQVpQQmJQMmEtN3k4aTFET2lrSWtsLUxMVC1iNzBDTm8yazZvM1N1c0pNZkZGanlOYkpFc1NJLUpLWmZUVlNqd3l1WGlPWDBCRHVXMVRhZnhrQi1hWTN6YkRPZEZoQlNYVUU2Yl9GNXFiNmZNYUVsaUNCcC1ZSTVHZ013TEs1dzl4OW1YLWdQc0NnOHJZNGNObjZGc3c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -109,81 +109,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YjBBTDZtc2NHLUdoaXVaQVV3VjVMUTNIQmh1dkktdW1IdWRlNkFyUGdGbzdUclJjbE1xZlh1YlcxaE1LS1hGdW9BVlpkcHl2TDNfYlBFYy1kRlZMX1lMT2RGOWVtY0tzYmt4TXhnbU92WU55?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-121c4dd1761f",
-    "date": "August 23, 2026",
-    "publishedISO": "2026-08-23T14:20:16+00:00",
-    "acquirer": "Cityblock to",
-    "target": "Homeward Health, Secures $116M Series E",
-    "headline": "Cityblock to Acquire Homeward Health, Secures $116M Series E",
-    "valueBillions": 0.116,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MedCity News",
-    "summary": "Cityblock to Acquire Homeward Health, Secures $116M Series E MedCity News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXB0WHlpNHAyQ0tUN3RqT2NMa29jaGZ0MmdNUHBGUHRJVnRHQkdLeTZtY0RrY29MaExlNEVIbjk3QkhPUWEwSDFXdF8xZERvd2I0Sjk3ZFlIZUM4VXhwMkF4ZHhmaWVfQ21DVnNFSURVWm51X3JSc2ppQy13ZGpZQWV0aGlHMmZLZW1CWGZSTlljQ2hNeXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -339,6 +264,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-90ff3bc36f92",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T18:05:00+00:00",
+    "acquirer": "Data center giant",
+    "target": "Hawthorne Race Course, setting up suburban showdown",
+    "headline": "Data center giant set to buy Hawthorne Race Course, setting up suburban showdown",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Crain's Chicago Business",
+    "summary": "Data center giant set to buy Hawthorne Race Course, setting up suburban showdown Crain's Chicago Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDMyVWhmb2hvU2VjMWh3YUd6c3RMRWFfeUIwZDVSdWxJVVhfTDBqdXo2OUlhYi1iZ3UzaEZfd2UwajhIWXg0STBwRmdtYnE5eU5scGUzblVhWGV2U2hqcDlwQXNpYldRNnNsTXFUUDJ2N05ldWV3cTFIRWVhWXB5YUZtVm56V2dGbzJJYk9NNjFIYWpsaE9GYlgtaUwtZVRVQTR0dU1kcm1XLWFyMUNhQUZTRmtFWDhxZUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
       },
       {
         "stage": "Terms verified",
@@ -676,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4ce21a30468d",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T07:05:06+00:00",
-    "acquirer": "ScanSource to",
-    "target": "MicroAge in $220.5 Million Deal",
-    "headline": "ScanSource to Acquire MicroAge in $220.5 Million Deal",
-    "valueBillions": 0.221,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Security Info Watch",
-    "summary": "ScanSource to Acquire MicroAge in $220.5 Million Deal Security Info Watch",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd29MclVTOW9KcURmQS1PX1c4c20tbmE5TUZCZm4yY1JrUk55ZDdzVno4dGx5SlJRYW4wT2UtNnBSbVBpRDFIUzdJZXFZRTFEYjVSbU5zMXRaQXJUeExFSTZ6M1lSSTlob2x3YmlSQzNvT2x2dk5jejcxblhrV0k4SklTOHVLR0pkR3ZXSF9HSl8wS29PWWl0RWpWOWdobHpZNnNrVWUzaVcweVE1WS10cmlB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b39d72e6b77d",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T20:15:07+00:00",
@@ -934,6 +859,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWp4a2dLbUNINlloeHE3T2ZnVVZUdmM5UWp1eVNMSE9UYXNCOVpBVE5XMFl5QXRpb2poV0I5dUpVdVVnV2RxM280cE45V19jVmlmeXFjYmN2a21SdUFyckpGYzRqSV9KS2pNUF9OWV9BaXNhNkRsc2d2WVN2RldOcVQ3RldEU294Z2R1MExReFlVT3JMWXZGR2tpQlRhT21VN1c0Y1N4VUdPaHFaTVZyTjRfQTFrWXRlRVZFQWVMMzRQUdIBxwFBVV95cUxQa3d2V3ZwUmlJdVIxWkxabG94UUNqVTMwZUJOWkVMZmpEbTZHWjJVeUg3M2lvM1dBZGJzcmY5WW5Xdk4zTXN0NEZVbHR4a3h4Yk51OG9YNTFMZlR0RjNJQTVxa1NWTWd5dEc0RU9qdmZWVWNFMGpjVHJZc2t2SXdubnUxV1RwVjB1QVp3NEZjZG9melA0dUU0REN3eWRhQVlOVjJ3RTF6R2J2VXMtTExxYzZPeVJjZjZJYWdaUzFKbnJpUDR6UFlz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-44d39885b839",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T12:54:00+00:00",
+    "acquirer": "Motorola Solutions",
+    "target": "D-Fend Solutions",
+    "headline": "Motorola Solutions Completes Acquisition of D-Fend Solutions",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "Motorola Solutions Completes Acquisition of D-Fend Solutions Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2FBQ2k5TnhQQVNFaXlEbmxiSmtJTWljOElyWnFtTW5iOUJzenFhR1RueS1LUC1UOWVzblVkcWVKbWE4SnliS0RYM0JLNkhtS21lV3FYWFRldUZEYTAxMENwZng5UHNZNm5fcFU4VHdIazhQVXZvU2s5cEtPdGN2Z1c1UmczSWNDbmdvbEZmSmNhaUd0X3VFaFhFbEI0WWVfLXN2clJTZ08xdkYyMjVCaVptSmllWVNf?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,6 +1576,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-f81088fe59e5",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T11:39:00+00:00",
+    "acquirer": "Best Momentum Stock to",
+    "target": "for August 19th",
+    "headline": "Best Momentum Stock to Buy for August 19th",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Best Momentum Stock to Buy for August 19th Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXh6MHJRV1hWSkU5NXFyVkFYeVQ5Z2tUek1mbVAtRWE0UWV0dnRpc0hGbC11UDE1aV90dkhVNWg5UndZdnFTQ0t4QktvOTJ6STdRUGtCdmgzMlVkRVlhUHBGU2JLa2ctRm5HLVl0SUwyaVV3bnNoUXlBZTNyMVdXOUcyS2dKbG54cFFmY1Jwb3VCdU9UQ25pOWtONA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-d06aa1e10c94",
     "date": "August 19, 2026",
     "publishedISO": "2026-08-19T07:03:02+00:00",
@@ -1684,6 +1759,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZETU1RQnl0Qm5YUEpBTWxKdjlWR3hVN1lZRDVmYnBZUVZZLV9MU3NNaExUN2xrTV8wOEl6SGpLbm1qS1VVQXRXMjJoLWE5WDBKcm1EOF8tZ2ZIaXhSWXNyUjlCYlNzOEtDVk0teGVZa2lnS1B1Zjg2QXJncnNZVTcyODlDaDJ0Yk5CMWVfU3gzRWpBZG5idnhjSVdJX2NrNVN0ay0yUGstdXE0cDJ0cUdwUU5HSU5Jbnh6bDVB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-280f9847d884",
+    "date": "August 18, 2026",
+    "publishedISO": "2026-08-18T14:00:00+00:00",
+    "acquirer": "Checkr",
+    "target": "Truv to Expand Its Verification Platform",
+    "headline": "Checkr Acquires Truv to Expand Its Verification Platform",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Checkr Acquires Truv to Expand Its Verification Platform PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFJ4LV8xMy1HN2FMREpQODZXb0w1djA3UnVodkNFb2VRRlJHMWRIaVl1MEFLcmhUNW1lREdnSG1XcFY3MkUzLTN1amgtLXZlNE9uXzhpOUkwMWs4cWtDUlI0UjJwbXNqbnlVVU5KV2RxWXI2WWJaVWs2MGxtUkhfZjdtYVdDYzRmSE5wR1hja05mRmkyRklpUjRUWHlhRlQ0OC1iYm5SNlFiUWExS2lMS1N3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTk9WelpNSWxSQTEySTBuZ1gxNjhabk9zNkZobFpQaWlySDZ6VGlnNGxXbFBKRE5jYU1MWHF5LWR5SDRrSGsxOEpMLXJOUGw0Um9aZGl4cUV3d3RXUEtQQlVCZmp6OVdJZXc5ZEpuV0ZLY1pNaV93QWhsS0ZjUXl1ZlNCbXlyaTQ2VUs0S1FjdWJ4bXVmQlZ2ekNyU3dEYWlIUEFjQVRZUWFGc3VPMXdxUEU3WEZ1UlE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3f170aab49f7",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T12:52:00+00:00",
-    "acquirer": "Universal Health Services, Inc.",
-    "target": "Talkspace, Inc.",
-    "headline": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc. PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWNCcVNnUVRfM3l3UVJRWmF2M2dub1ltSW8zN3FXWjZTSWYwUW5DdWxyMmNjaDVTRUhtZV9qdnFoMzZ0bk1ZN2otbzM2amFrUUVMVTJ4R083d3FkTXdEX3Rxd1JaWC1TX01pQ1NncWN2em1pYVhSek5wM0p5b1RIZVByR0NEa05PT2JYdW1jRVI0TDhwSUtrZlE3b3hXTFFfb1lPcDN3S1EzVmVjNi1HR01Kalo4YTFyM0RsZlBOUVNhQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3246291966be",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T09:30:00+00:00",
-    "acquirer": "Deutsche Telekom to",
-    "target": "Fiberhost and Inea from Macquarie Asset Management",
-    "headline": "Deutsche Telekom to acquire Fiberhost and Inea from Macquarie Asset Management for c.1 billion EUR, thereby strengthening T-Mobile Polska’s position in fixed broadband",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Deutsche Telekom",
-    "summary": "Deutsche Telekom to acquire Fiberhost and Inea from Macquarie Asset Management for c.1 billion EUR, thereby strengthening T-Mobile Polska’s position in fixed broadband Deutsche Telekom",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzhBbHJ1Z0FNUVZlNVlMMHNudWJRaTJ0MWdOMkVhNlA2LVJWNW1icTZRUWh5T2l4UnFQMjhTVXFYeWU2ZGUwSjIwX1hlV1FEQVpoZ0RSZ05LZDVFNE1ONHVOWXdvN2dWWEVtU0o4WEhybU1rVldzemZnZldSUUQ5dXVOWm9WWlZwWGRZUDEwQ0g1cWdQS2R0b0ZIUGtxYkEta1ZpVms4aEVzQWpoOUJFUmFRQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
