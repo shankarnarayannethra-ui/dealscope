@@ -1,9 +1,84 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-fdbce2b74c74",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T14:34:03+00:00",
+    "acquirer": "Descartes",
+    "target": "Tai",
+    "headline": "Descartes acquires Tai for $100M",
+    "valueBillions": 0.1,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FreightWaves",
+    "summary": "Descartes acquires Tai for $100M FreightWaves",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56TDI0bllaM2Z6aTZab1FKSmNyRVdEUUY0aTU0ak1nY094ZkVhbkF4QkdfRzVyUnU0S1U4NEpSdW9fUEQtUGlyRzl4aEJuZndJYkV6cEt2M08tSE9mazBMTFQyVmpqWjVvek5JOUdpVS1BQ3M?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b31c8315feaf",
     "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T12:20:44+00:00",
+    "publishedISO": "2026-08-24T13:45:32+00:00",
     "acquirer": "India's TCS to",
     "target": "Porsche's IT unit, bags 5-year deal worth $1.46 billion",
     "headline": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
@@ -34,6 +109,231 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-590763f245f3",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T13:15:00+00:00",
+    "acquirer": "ePlus",
+    "target": "Assets of Daymark Solutions",
+    "headline": "ePlus Acquires Assets of Daymark Solutions",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "ePlus Acquires Assets of Daymark Solutions PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEVEcVVYVC1LbWxLcVFrUVpldUFwQnVUUEJ0WDI1RXJ1cjlHNlFVTWhuNU5NMndrSmF6QzZKV1cxb0hZTDVBQWp4Z0RJTVZtcmFiejlGR0g3NE5aNmwzX2dhZF9NYTFKaTI5dmpqV0ZDV1VOOUotZ2w1OFctQkQwQm14R2J6VkNIUGpXbUhnZ3lTR1BDb2tTYlZkNUxzdlE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-307ed359b7c2",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T11:56:09+00:00",
+    "acquirer": "nVent Electric to",
+    "target": "Maverick Power",
+    "headline": "nVent Electric to buy Maverick Power for $1.75 billion to expand data center offerings",
+    "valueBillions": 1.75,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "nVent Electric to buy Maverick Power for $1.75 billion to expand data center offerings Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXpFa2x0RVowNmtGb2FxZEdQbDVTeTBsLUt3eXRzcUJ2UVluNi1DajZ5dFU5ZjBJNk02UU55R3JVSDhwb2NGcFZ1dzNTcjMzYmVPejNpS3QzZVJlOXY2ekNjb3dxQUZmZzRGNUJxbnhVLWxpY05GbXFrc3ZYMGt5WU9LZEdhT2hBMHdTYnB0Ulo1Q1lEaW1iT2FhXzdyNEN3cW9yb0lGUUNEN01KQTZpVWRrOHEzTVJ1NGZzNVd3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-98426414ee2a",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T00:24:42+00:00",
+    "acquirer": "NEXA",
+    "target": "UMortgage, Offering Blueprint",
+    "headline": "NEXA Acquires UMortgage, Offering Blueprint For Broker Consolidation",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "National Mortgage Professional",
+    "summary": "NEXA Acquires UMortgage, Offering Blueprint For Broker Consolidation National Mortgage Professional",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0dXV1Nid2dXcld3eHhpY01JQVpQQmJQMmEtN3k4aTFET2lrSWtsLUxMVC1iNzBDTm8yazZvM1N1c0pNZkZGanlOYkpFc1NJLUpLWmZUVlNqd3l1WGlPWDBCRHVXMVRhZnhrQi1hWTN6YkRPZEZoQlNYVUU2Yl9GNXFiNmZNYUVsaUNCcC1ZSTVHZ013TEs1dzl4OW1YLWdQc0NnOHJZNGNObjZGc3c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-90ff3bc36f92",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T18:05:00+00:00",
-    "acquirer": "Data center giant",
-    "target": "Hawthorne Race Course, setting up suburban showdown",
-    "headline": "Data center giant set to buy Hawthorne Race Course, setting up suburban showdown",
+    "id": "news-dff5549cd5c0",
+    "date": "August 22, 2026",
+    "publishedISO": "2026-08-22T07:00:00+00:00",
+    "acquirer": "Vireo Growth",
+    "target": "C21 Investments",
+    "headline": "Vireo Growth Completes Acquisition of C21 Investments",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Crain's Chicago Business",
-    "summary": "Data center giant set to buy Hawthorne Race Course, setting up suburban showdown Crain's Chicago Business",
+    "sourceName": "Cannabis Business Times",
+    "summary": "Vireo Growth Completes Acquisition of C21 Investments Cannabis Business Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,162 +633,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDMyVWhmb2hvU2VjMWh3YUd6c3RMRWFfeUIwZDVSdWxJVVhfTDBqdXo2OUlhYi1iZ3UzaEZfd2UwajhIWXg0STBwRmdtYnE5eU5scGUzblVhWGV2U2hqcDlwQXNpYldRNnNsTXFUUDJ2N05ldWV3cTFIRWVhWXB5YUZtVm56V2dGbzJJYk9NNjFIYWpsaE9GYlgtaUwtZVRVQTR0dU1kcm1XLWFyMUNhQUZTRmtFWDhxZUE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOVFhSUFBendGYWpRMGdSeFBPZ1R6YUhnTVNzeEh6c2VNSjNtUExYVGJZejYzUWFpQ2MwR1lweDYteWcwZ3VkMVdFRXhWekNSY2Vrd2kxOGdVVzBuMUM0WlF3bTVrb201TG9PeUtTTHJ0WWNobEZMa0JZT2xoMU9pOFAteTY2Wmp1VHpCeko2MF9Xc0dCR0lWN2p5VVNVQ0VvN2FVNlp4WENKVjRYQlBSdkdXWEhELW8xV3Q5X21lVHdyRWs3czNkaDd5bF9QZ0VseG9aV0VzekhPT1RsWlBNb1RNT0JEUjlMbG1CVnJR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fc06e8a0c5f3",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T17:31:00+00:00",
-    "acquirer": "Stripe",
-    "target": "OpenRouter",
-    "headline": "Stripe agrees to acquire OpenRouter for $8 billion",
-    "valueBillions": 8.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Semafor",
-    "summary": "Stripe agrees to acquire OpenRouter for $8 billion Semafor",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXV2TEIzTEtZR3BEVEE0LXVkbmZEX2dVLVNVN0hmQ1RnWUtCczhUdW9vd3gxOTNSazlnZEFSZHk2aEg5eFRNNVlCdHhPRWVTdjViRlVVQ2Rab2NyWWV2QVNVeERQQmVTWnMyT0VnNlBKNkRZRy0yS1BkLUR0Q0NLSUM0NVU5UQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2d67ca116d12",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T16:37:11+00:00",
-    "acquirer": "Virginia lender to",
-    "target": "Forbright’s DC-area branches",
-    "headline": "Virginia lender to acquire Forbright’s DC-area branches",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Virginia lender to acquire Forbright’s DC-area branches Banking Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTDNtRVVSU1JkY3gybkZXd3FtSURtWkZiMWZNQ0d3Sy1mRHpvUzhCZlBIZ1B6MF9sdmtmOW9zYzNRX25XNG5ycFBUOTNYVUgyR2hRa1lJTlhEVHo3ZWZ6Z0pycjh3RjlBYThROWpNTHdKeC05VWJCX1NzRGtpZlRlMFQwUkNUQlhRWGZDZEc1VmVvOHFobC1QOXFFUWo0ZFlsRXpNRGlVeFJ4aEI1UEhzUThESERGV3VnUFNjOU51QU1fOFMzd2ZFNDVzYzJraWROUGJGZ0xUSQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 21, 2026"
+        "date": "Aug 22, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1576,81 +1726,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f81088fe59e5",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T11:39:00+00:00",
-    "acquirer": "Best Momentum Stock to",
-    "target": "for August 19th",
-    "headline": "Best Momentum Stock to Buy for August 19th",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Best Momentum Stock to Buy for August 19th Yahoo Finance",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXh6MHJRV1hWSkU5NXFyVkFYeVQ5Z2tUek1mbVAtRWE0UWV0dnRpc0hGbC11UDE1aV90dkhVNWg5UndZdnFTQ0t4QktvOTJ6STdRUGtCdmgzMlVkRVlhUHBGU2JLa2ctRm5HLVl0SUwyaVV3bnNoUXlBZTNyMVdXOUcyS2dKbG54cFFmY1Jwb3VCdU9UQ25pOWtONA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-d06aa1e10c94",
     "date": "August 19, 2026",
     "publishedISO": "2026-08-19T07:03:02+00:00",
@@ -1759,81 +1834,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZETU1RQnl0Qm5YUEpBTWxKdjlWR3hVN1lZRDVmYnBZUVZZLV9MU3NNaExUN2xrTV8wOEl6SGpLbm1qS1VVQXRXMjJoLWE5WDBKcm1EOF8tZ2ZIaXhSWXNyUjlCYlNzOEtDVk0teGVZa2lnS1B1Zjg2QXJncnNZVTcyODlDaDJ0Yk5CMWVfU3gzRWpBZG5idnhjSVdJX2NrNVN0ay0yUGstdXE0cDJ0cUdwUU5HSU5Jbnh6bDVB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-280f9847d884",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T14:00:00+00:00",
-    "acquirer": "Checkr",
-    "target": "Truv to Expand Its Verification Platform",
-    "headline": "Checkr Acquires Truv to Expand Its Verification Platform",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Checkr Acquires Truv to Expand Its Verification Platform PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFJ4LV8xMy1HN2FMREpQODZXb0w1djA3UnVodkNFb2VRRlJHMWRIaVl1MEFLcmhUNW1lREdnSG1XcFY3MkUzLTN1amgtLXZlNE9uXzhpOUkwMWs4cWtDUlI0UjJwbXNqbnlVVU5KV2RxWXI2WWJaVWs2MGxtUkhfZjdtYVdDYzRmSE5wR1hja05mRmkyRklpUjRUWHlhRlQ0OC1iYm5SNlFiUWExS2lMS1N3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2101,13 +2101,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d4c8ad4af9ea",
+    "id": "news-57a858c933d7",
     "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T21:31:04+00:00",
-    "acquirer": "Google to",
-    "target": "Spirit Airlines business data",
-    "headline": "Google to buy Spirit Airlines business data for $10 million",
-    "valueBillions": 0.01,
+    "publishedISO": "2026-08-17T22:52:18+00:00",
+    "acquirer": "How rich do you need to be to",
+    "target": "a professional sports team?",
+    "headline": "How rich do you need to be to buy a professional sports team?",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Google to buy Spirit Airlines business data for $10 million Reuters",
+    "sourceName": "Yahoo Sports",
+    "summary": "How rich do you need to be to buy a professional sports team? Yahoo Sports",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,7 +2133,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdnWlluQk1VZVE5ZmtsUlg2ZDRleS1xOWRtQjJDSmtaUjdMOGxmNVNQc1NWTVJGc2ItZjNwSS1fdWJVMVBFbHlySU1QT3lDcVFPUE9fZTFNMHI2WXlDOUdpSUdwOV9UdkJfWTc3OWE0RnBnd3hNS0lTenk2NEtGZkhtWElwdmZxNnduSWYxMUI3OG5KUjNUZzlJZndVWEFxSGR3RTBwZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZUowS0llQ2dPcU5xelZyZW1QNkVEclpaTWpLNVBVUVJORUNSWHkxZG9GUTlxZ0pBSktNcmdWOUZUMGZjZGt2Rk5xTUlUQkVPdFNwTlpscjJfbjJMMEo0ZVdSNWpOa1Z4Nk85S19NbWJhR3NuZlcxanh1VEdiN2pFeDVxam1ZanE3ZXZrY0ZULXN0MTM5NzFtTEtja1QtTl9lUTI4UjhXR3BzSzBQdnRaa0h3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2176,13 +2176,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-79636bd8c546",
+    "id": "news-d4c8ad4af9ea",
     "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T16:15:54+00:00",
-    "acquirer": "Madison Air Solutions to",
-    "target": "German fan maker ebm-papst in $5.4 billion deal",
-    "headline": "Madison Air Solutions to buy German fan maker ebm-papst in $5.4 billion deal",
-    "valueBillions": 5.4,
+    "publishedISO": "2026-08-17T21:28:17+00:00",
+    "acquirer": "Google to",
+    "target": "Spirit Airlines business data",
+    "headline": "Google to buy Spirit Airlines business data for $10 million",
+    "valueBillions": 0.01,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -2191,7 +2191,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "Madison Air Solutions to buy German fan maker ebm-papst in $5.4 billion deal Reuters",
+    "summary": "Google to buy Spirit Airlines business data for $10 million Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTk9WelpNSWxSQTEySTBuZ1gxNjhabk9zNkZobFpQaWlySDZ6VGlnNGxXbFBKRE5jYU1MWHF5LWR5SDRrSGsxOEpMLXJOUGw0Um9aZGl4cUV3d3RXUEtQQlVCZmp6OVdJZXc5ZEpuV0ZLY1pNaV93QWhsS0ZjUXl1ZlNCbXlyaTQ2VUs0S1FjdWJ4bXVmQlZ2ekNyU3dEYWlIUEFjQVRZUWFGc3VPMXdxUEU3WEZ1UlE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdnWlluQk1VZVE5ZmtsUlg2ZDRleS1xOWRtQjJDSmtaUjdMOGxmNVNQc1NWTVJGc2ItZjNwSS1fdWJVMVBFbHlySU1QT3lDcVFPUE9fZTFNMHI2WXlDOUdpSUdwOV9UdkJfWTc3OWE0RnBnd3hNS0lTenk2NEtGZkhtWElwdmZxNnduSWYxMUI3OG5KUjNUZzlJZndVWEFxSGR3RTBwZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
