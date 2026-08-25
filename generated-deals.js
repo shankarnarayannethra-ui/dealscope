@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-87b49c783309",
+    "date": "August 25, 2026",
+    "publishedISO": "2026-08-25T12:22:17+00:00",
+    "acquirer": "McKesson to",
+    "target": "Precision Medicine Group in about $2.25 billion deal",
+    "headline": "McKesson to buy Precision Medicine Group in about $2.25 billion deal",
+    "valueBillions": 2.25,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "McKesson to buy Precision Medicine Group in about $2.25 billion deal Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE9qLXFuTXNhbUQ5VzBtNkl0LXpEb0xyUTVSWVEzVnFLemlyNjhCNl9LMVFiNUJUSVZ2QlNsZUNBbXFZWDhadldFUXQxRnBvblZVdHFlNG5pSjJKOEtHb2hXZmZkdDEyM29CTWpzVGlSRE02M3pkWUItYjFyZDcteHQ0dTZ0d0c4R1ZxZTdwNmxRd2pFemlxakZlVGZaR0Q2SU5scjdKNV9lWmF4NndfOEJubE8wU1k?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 25, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b31c8315feaf",
     "date": "August 24, 2026",
     "publishedISO": "2026-08-24T22:24:44+00:00",
@@ -376,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9283ed190193",
+    "id": "news-98a065d7f473",
     "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T11:26:54+00:00",
-    "acquirer": "Revolution Foods",
-    "target": "Ardella’s",
-    "headline": "Revolution Foods acquires Ardella’s",
+    "publishedISO": "2026-08-24T10:00:00+00:00",
+    "acquirer": "ANV Enters Into Agreement to",
+    "target": "Car Care Plan, a Market-Leading Warranty MGA",
+    "headline": "ANV Enters Into Agreement to Acquire Car Care Plan, a Market-Leading Warranty MGA",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Food Business News",
-    "summary": "Revolution Foods acquires Ardella’s Food Business News",
+    "sourceName": "Business Wire",
+    "summary": "ANV Enters Into Agreement to Acquire Car Care Plan, a Market-Leading Warranty MGA Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +483,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXhSSTBCd1VTVzhiUWprZzBGOWVZdC1wcTlOYVdSYzgyMlZUN0RPcnNEREdVTnlJS29WMHY0bEhsblo0RTl4Nnh6ckFUczhrZEpyeGRiNDRjZTVtS19EVjZ6SS1Fbjd6U0JnaGc2dk5nQXVFZmVVZHNKb0N4dmw2U3hXU0ozUGhjLVE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSkpvRVhENVlGeTYyMlFSM2pKbXZEM25RdXMtWTE3aHZ4VlZKcXVxTk01VmR6YVU2THdJc3k4VVNmUU9raGNBRnhWck9tdkJuaGltNDZ5RVdReWdwMTltTWdVN21SSGlMT3piaUtycHAyUkt4RkZaZTJ3emh4RnJZUzFGUmVFT1g5LWJOWXlHeEt1N0k1R2libkQ5aVVOV1pMaEJNMURKY2I4MmtzNS1FQUxkcUdOMDktNTVHY20xbEFqUTVRNy11M0pQbEVaODByZ0Zr?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6a927ca38c55",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T08:09:00+00:00",
+    "acquirer": "Bunker Hill to",
+    "target": "Silver47 in stock-swap deal",
+    "headline": "Bunker Hill to acquire Silver47 in stock-swap deal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Coeur d'Alene Press",
+    "summary": "Bunker Hill to acquire Silver47 in stock-swap deal Coeur d'Alene Press",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPclFPN1FBMTFUODlMeHQ0X1Axc2FNbEtRbVB3bE9fNThoUGFaclpLWDR5Tjc4ZzBMZ0t4dk53QjNyNlFYMlRDQXpIRDJ6S3p1T0kya0dsNExDamNKNjR4WkVmWnZoTjJVVXJUY01mT3Y4dkpoM0hzXzBjX1QyMEJoNldqY2lxNVBJU1BOMUtQSGFyM2M?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -453,7 +603,7 @@ window.generatedDeals = [
   {
     "id": "news-b61024741ecc",
     "date": "August 23, 2026",
-    "publishedISO": "2026-08-23T19:53:31+00:00",
+    "publishedISO": "2026-08-23T19:52:53+00:00",
     "acquirer": "NEXA Lending",
     "target": "UMortgage, adds Anthony Casa to exec team",
     "headline": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team",
@@ -901,81 +1051,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c52bafb8990c",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T12:22:18+00:00",
-    "acquirer": "T. Rowe Price",
-    "target": "fixed income asset manager F/m Investments",
-    "headline": "T. Rowe Price agrees to acquire fixed income asset manager F/m Investments",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "T. Rowe Price agrees to acquire fixed income asset manager F/m Investments Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzBNUzVaSjFXNDFteUtTbV9fblZRTjAxZWlzRTRIby0xNzRMUnhZVkU4Vll5aVZQVHhSUEJ5NlJ0WXVzbjRYcWJ0SFdlQjJNMXZ2bm8yZFRBUlIySFZXdEpiZG9fcDhVVzRkamhJNFVrMldva19odTNKZDFxVllKdlVCQ0JTU3dBSkNnM2YxY1B6RDdhQ1ZpLVptTExNOFR5dmZLR0VONU5ySURrUnZWV3NuMUZULTg1SG9iUmlXaks1QTQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-33cfc389618f",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T11:02:50+00:00",
@@ -1084,6 +1159,156 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkMwZ0o3ZzR5UDhiaVhjNE04VjBJVHFaUXVZWmNlM1RmaDNMcWUtRU9LNlp5Y1lCaHlZcl90ZFVzQnFvUmdXSXJSZHZKWTJJdHpSUVRqVDZQQUxLTVo4VlZJd3VFQUMzNWVmWkhwdzIzZFBLUHBFZ0xpUXVHR1NVZkhiYTR5TGJlZXNTNnlOZGg4WDlITnZHTmhhVGVtTUpuYVlxQk5iZTNkbWR1bkNKTk9MU1B2NDRsd2FrT1hyc2F3OFJGZWFVcg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c52bafb8990c",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T20:09:00+00:00",
+    "acquirer": "T. Rowe Price",
+    "target": "fixed income asset manager F/m Investments",
+    "headline": "T. Rowe Price agrees to acquire fixed income asset manager F/m Investments",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "T. Rowe Price agrees to acquire fixed income asset manager F/m Investments Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzBNUzVaSjFXNDFteUtTbV9fblZRTjAxZWlzRTRIby0xNzRMUnhZVkU4Vll5aVZQVHhSUEJ5NlJ0WXVzbjRYcWJ0SFdlQjJNMXZ2bm8yZFRBUlIySFZXdEpiZG9fcDhVVzRkamhJNFVrMldva19odTNKZDFxVllKdlVCQ0JTU3dBSkNnM2YxY1B6RDdhQ1ZpLVptTExNOFR5dmZLR0VONU5ySURrUnZWV3NuMUZULTg1SG9iUmlXaks1QTQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f6a21ace2b4e",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T18:42:50+00:00",
+    "acquirer": "Radial",
+    "target": "TMS Health Partners, MSO behind network of brain medicine clinics",
+    "headline": "Radial acquires TMS Health Partners, MSO behind network of brain medicine clinics",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Healthcare",
+    "summary": "Radial acquires TMS Health Partners, MSO behind network of brain medicine clinics Fierce Healthcare",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlYzVzlJUzFnR3FCRlZ6MUxNVEF0OFlQbmRiMW5CdnU2SnU2NmVZcTB0NUR2WURjcUc1Tjc4TzlYLVJ0NTRiandzQ1JPa1lIWWp4Q0Y4R2s3b09Vemc2UnRJOUNveXBlR0Q0bi1KVkR6aFh2d2dEVWNWTThCTUxsZkt3WndZc1VuOGRxbXVmbklfaXdDTWJZRnhMRGkycXhZNWQ5RzFhZ3E3TXN1WHpMdWxWVFItQTFWQ2s4Yg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1984,231 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZETU1RQnl0Qm5YUEpBTWxKdjlWR3hVN1lZRDVmYnBZUVZZLV9MU3NNaExUN2xrTV8wOEl6SGpLbm1qS1VVQXRXMjJoLWE5WDBKcm1EOF8tZ2ZIaXhSWXNyUjlCYlNzOEtDVk0teGVZa2lnS1B1Zjg2QXJncnNZVTcyODlDaDJ0Yk5CMWVfU3gzRWpBZG5idnhjSVdJX2NrNVN0ay0yUGstdXE0cDJ0cUdwUU5HSU5Jbnh6bDVB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-913223937e5a",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T12:58:00+00:00",
-    "acquirer": "Goldman Sachs to",
-    "target": "Real-Estate Investment Firm",
-    "headline": "Goldman Sachs to Buy Real-Estate Investment Firm for Up to $410 Million",
-    "valueBillions": 0.41,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Goldman Sachs to Buy Real-Estate Investment Firm for Up to $410 Million WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUJRaU5TdXFuUFZhY2s2U0Z1NkpWS3VlX2t6cVhQUnZGRDNCdEo3c2QwemtRT1I4eVhZem1qR3pITndCUGxiVXJqTFBxQV8ydXpFOVhNZkhSSnRvamYyX3o0SDZrVUZaV1JqYU9pSnAtUlBzenNfVTNTOVd3S1BTdW1nNDZrcW9EZXFvQjkxcEZDbFRQYzdjWktJcFFVYVdjd05MWlNIYWctTS1YdDY2YVk0dFk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a96d93e79591",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T12:53:30+00:00",
-    "acquirer": "Goldman Sachs to",
-    "target": "LCN Capital Partners in up to $410 million deal",
-    "headline": "Goldman Sachs to buy LCN Capital Partners in up to $410 million deal",
-    "valueBillions": 0.41,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Goldman Sachs to buy LCN Capital Partners in up to $410 million deal Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpkMTJLQWlXYllKaHR0anJKY3Z1S0psVW94azcwR19TY1dYelBfSnNNTERYS2JLbDRKdUN3clAzNUYxUElFYzROb2VWV2EycDBjb3pSdWZnTkdFZDE1UUZERC13dVJSWE4zdU5vQkdzWjg0RFUwVjBzOWdvaFYzYkRhUmpjN2JGNk9TVFVzS2ZrRW5IRG91WDlZb01EZG5mbEFJck81cXRaRnkxdUlQelRxZ2M?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fa24af26dba6",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T12:30:33+00:00",
-    "acquirer": "Ondas to",
-    "target": "Aran Defense, Strengthening Israel's Sovereign Defense-Industrial Base",
-    "headline": "Ondas to Acquire Aran Defense, Strengthening Israel's Sovereign Defense-Industrial Base",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Ondas Holdings",
-    "summary": "Ondas to Acquire Aran Defense, Strengthening Israel's Sovereign Defense-Industrial Base Ondas Holdings",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWc2QlV3dHphSERCdFVTaThCejZTcHBsVnRmNHRFNEtUWTZfd2hScnNvWXFwQkNyVTRGYVZsQTY1THN4c3pyTDVaMU45OGE0bm1LbFJfM2JobkVYS3hhenI0dlZmLWE1SF9ieGd1dWFzQzhVbEhRZ21CM1NsOHRYYTdXSDRxTzlYWG9VNE1ObTNmZlNGQWV2U09Ic1BCQUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
