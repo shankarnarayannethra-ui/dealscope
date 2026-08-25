@@ -151,6 +151,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-31c4ba0fc1ad",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T19:18:05+00:00",
+    "acquirer": "Beijer Ref",
+    "target": "Refra",
+    "headline": "Beijer Ref Acquires Refra",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Natural Refrigerants",
+    "summary": "Beijer Ref Acquires Refra Natural Refrigerants",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqWFhCZTlfY2s2bE93R2FGSExTUkJRZWotcDJYb2NQQ1BIM09aV3BucE5uOEJ5blJBZnRaTGx2WE9UMkJod2E2T0Z1VDdpZENwRzB2MjFjQzJLb1FYYTZHa3ZaejlkUFpVbnl6aFRFS2U?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-fdbce2b74c74",
     "date": "August 24, 2026",
     "publishedISO": "2026-08-24T14:34:03+00:00",
@@ -301,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b61024741ecc",
-    "date": "August 23, 2026",
-    "publishedISO": "2026-08-23T19:53:31+00:00",
-    "acquirer": "NEXA Lending",
-    "target": "UMortgage, adds Anthony Casa to exec team",
-    "headline": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team",
+    "id": "news-9283ed190193",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T11:26:54+00:00",
+    "acquirer": "Revolution Foods",
+    "target": "Ardella’s",
+    "headline": "Revolution Foods acquires Ardella’s",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "HousingWire",
-    "summary": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team HousingWire",
+    "sourceName": "Food Business News",
+    "summary": "Revolution Foods acquires Ardella’s Food Business News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,12 +408,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YjBBTDZtc2NHLUdoaXVaQVV3VjVMUTNIQmh1dkktdW1IdWRlNkFyUGdGbzdUclJjbE1xZlh1YlcxaE1LS1hGdW9BVlpkcHl2TDNfYlBFYy1kRlZMX1lMT2RGOWVtY0tzYmt4TXhnbU92WU55?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXhSSTBCd1VTVzhiUWprZzBGOWVZdC1wcTlOYVdSYzgyMlZUN0RPcnNEREdVTnlJS29WMHY0bEhsblo0RTl4Nnh6ckFUczhrZEpyeGRiNDRjZTVtS19EVjZ6SS1Fbjd6U0JnaGc2dk5nQXVFZmVVZHNKb0N4dmw2U3hXU0ozUGhjLVE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 23, 2026"
+        "date": "Aug 24, 2026"
       },
       {
         "stage": "Terms verified",
@@ -376,13 +451,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-121c4dd1761f",
+    "id": "news-b61024741ecc",
     "date": "August 23, 2026",
-    "publishedISO": "2026-08-23T14:20:16+00:00",
-    "acquirer": "Cityblock to",
-    "target": "Homeward Health, Secures $116M Series E",
-    "headline": "Cityblock to Acquire Homeward Health, Secures $116M Series E",
-    "valueBillions": 0.116,
+    "publishedISO": "2026-08-23T19:53:31+00:00",
+    "acquirer": "NEXA Lending",
+    "target": "UMortgage, adds Anthony Casa to exec team",
+    "headline": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "MedCity News",
-    "summary": "Cityblock to Acquire Homeward Health, Secures $116M Series E MedCity News",
+    "sourceName": "HousingWire",
+    "summary": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team HousingWire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXB0WHlpNHAyQ0tUN3RqT2NMa29jaGZ0MmdNUHBGUHRJVnRHQkdLeTZtY0RrY29MaExlNEVIbjk3QkhPUWEwSDFXdF8xZERvd2I0Sjk3ZFlIZUM4VXhwMkF4ZHhmaWVfQ21DVnNFSURVWm51X3JSc2ppQy13ZGpZQWV0aGlHMmZLZW1CWGZSTlljQ2hNeXc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YjBBTDZtc2NHLUdoaXVaQVV3VjVMUTNIQmh1dkktdW1IdWRlNkFyUGdGbzdUclJjbE1xZlh1YlcxaE1LS1hGdW9BVlpkcHl2TDNfYlBFYy1kRlZMX1lMT2RGOWVtY0tzYmt4TXhnbU92WU55?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -489,81 +564,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6acc6650dc5d",
-    "date": "August 22, 2026",
-    "publishedISO": "2026-08-22T17:00:00+00:00",
-    "acquirer": "People looking to",
-    "target": "a starter home may catch a break",
-    "headline": "People looking to buy a starter home may catch a break",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Spectrum News",
-    "summary": "People looking to buy a starter home may catch a break Spectrum News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXR2MXRqSVFuVmEtcnlyWElEUVNheGw0MU5VVkRzX01Ec01vUW9BYV9tM25SdTI5a0sxUjdDMzh5ejlDTndjUmdEa1BjVmZBNGdnaDFtVUFnU1dGa3BMcGxqRldRdGZUSTVhY1QzTE9ZYUZ4RWE5S01HXzdvVFJGOGEtSUF1bHo4MkhyeVFQX0hGaW9RcHVEYjBYWTZHcUtBN1lfLU5fclB2MWRLeDIzeEM2c3dTR1RzbXZpYmd1ek4?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 22, 2026"
       },
       {
         "stage": "Terms verified",
@@ -709,6 +709,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDMyVWhmb2hvU2VjMWh3YUd6c3RMRWFfeUIwZDVSdWxJVVhfTDBqdXo2OUlhYi1iZ3UzaEZfd2UwajhIWXg0STBwRmdtYnE5eU5scGUzblVhWGV2U2hqcDlwQXNpYldRNnNsTXFUUDJ2N05ldWV3cTFIRWVhWXB5YUZtVm56V2dGbzJJYk9NNjFIYWpsaE9GYlgtaUwtZVRVQTR0dU1kcm1XLWFyMUNhQUZTRmtFWDhxZUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-cc1e7695a766",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T14:59:25+00:00",
+    "acquirer": "Is bitcoin's price volatility an investing opportunity? How to",
+    "target": "bitcoin.",
+    "headline": "Is bitcoin's price volatility an investing opportunity? How to buy bitcoin.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Is bitcoin's price volatility an investing opportunity? How to buy bitcoin. Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk1Uem9kSFREVTJTRTVfMFU3R3F3eG9EaFA3X0RyYlMzUGRwU09RRmRMaDBQcXI2RU1wSVkxeWg0eVNWSm9FQlhQTGp0SnVOTWpNX2pldW1mMWVPZTRSajRKMUdrQ05wMkpRcVdXejJmRFhzZUxKd1lTNDN3cUpXazQ3Y0U1MTVIekIxMnljNmllSWtGTkRsYlRn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1009,81 +1084,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkMwZ0o3ZzR5UDhiaVhjNE04VjBJVHFaUXVZWmNlM1RmaDNMcWUtRU9LNlp5Y1lCaHlZcl90ZFVzQnFvUmdXSXJSZHZKWTJJdHpSUVRqVDZQQUxLTVo4VlZJd3VFQUMzNWVmWkhwdzIzZFBLUHBFZ0xpUXVHR1NVZkhiYTR5TGJlZXNTNnlOZGg4WDlITnZHTmhhVGVtTUpuYVlxQk5iZTNkbWR1bkNKTk9MU1B2NDRsd2FrT1hyc2F3OFJGZWFVcg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f6a21ace2b4e",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T18:42:50+00:00",
-    "acquirer": "Radial",
-    "target": "TMS Health Partners, MSO behind network of brain medicine clinics",
-    "headline": "Radial acquires TMS Health Partners, MSO behind network of brain medicine clinics",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "Radial acquires TMS Health Partners, MSO behind network of brain medicine clinics Fierce Healthcare",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlYzVzlJUzFnR3FCRlZ6MUxNVEF0OFlQbmRiMW5CdnU2SnU2NmVZcTB0NUR2WURjcUc1Tjc4TzlYLVJ0NTRiandzQ1JPa1lIWWp4Q0Y4R2s3b09Vemc2UnRJOUNveXBlR0Q0bi1KVkR6aFh2d2dEVWNWTThCTUxsZkt3WndZc1VuOGRxbXVmbklfaXdDTWJZRnhMRGkycXhZNWQ5RzFhZ3E3TXN1WHpMdWxWVFItQTFWQ2s4Yg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
