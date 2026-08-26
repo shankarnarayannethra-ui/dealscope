@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-6c42f86f20a4",
+    "id": "news-d5be3ac5d3c8",
     "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T01:00:00+00:00",
-    "acquirer": "FORTÉ",
-    "target": "Vega Global, APAC's Largest Systems Integrator, Expanding Global Reach",
-    "headline": "FORTÉ Acquires Vega Global, APAC's Largest Systems Integrator, Expanding Global Reach",
+    "publishedISO": "2026-08-26T10:38:38+00:00",
+    "acquirer": "Amundi welcomes Victory Capital",
+    "target": "First Eagle Investments",
+    "headline": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "FORTÉ Acquires Vega Global, APAC's Largest Systems Integrator, Expanding Global Reach Business Wire",
+    "sourceName": "About Amundi",
+    "summary": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments About Amundi",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTVFibS1FX1VjLW9qcE5uX1pNckMwUnFYbmF2M0xEUmszb3FEdWxjN2dwT0lKVXU3czdGOFgxUUsxMWU5WklnWkNzcmRQWXNDaXFFSzUwWXR1RGkwd2ppekltM2J1dDFmZ1NQb3RUYS1zRTVRUVRYRE5xdmxqQVFyczgySkpoWGlyemtVNTZFSDlqMXNYREtzTk1tWUJmLVNxUC1yb0lTdkFabXZfUHR2NlZ4UHo2d0c0c3BQcTlIVnRVWm9LRk13X1RTV1VKTEFyeHZlWQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTl2VTQ3VFBBX1I4OUtaYzFNRWhwOThsMHhyYW9XaHYtMTcwdGZkNDY2dk4tYWdJOGJ3b1JpYmVNNG9xMDF0YW1aLXk2Qkp5a3I1N1pNd0hYRFpYOWtpbk5VaVB3TFRWVnZkRV9RWlhSTlpIUFJVSEJyM0toVU9ySUJfSGRqQl9nRmk2VFAyZjkwVnZTaXBrSkRDX3VYVEtxeU9iMQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,13 +76,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9413955e082e",
-    "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T22:47:32+00:00",
-    "acquirer": "Roaring Fork Conservancy",
-    "target": "employee housing unit at Midland Residences",
-    "headline": "Roaring Fork Conservancy acquires employee housing unit at Midland Residences",
-    "valueBillions": null,
+    "id": "news-79b6697b1f43",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T08:48:27+00:00",
+    "acquirer": "McKesson to",
+    "target": "Precision Medicine Group",
+    "headline": "McKesson to acquire Precision Medicine Group for $2.25bn",
+    "valueBillions": 2.25,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Post Independent",
-    "summary": "Roaring Fork Conservancy acquires employee housing unit at Midland Residences Post Independent",
+    "sourceName": "Pharmaceutical Technology",
+    "summary": "McKesson to acquire Precision Medicine Group for $2.25bn Pharmaceutical Technology",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,12 +108,87 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGR5S3VHalBVRkJWaDdhU2Ntc0hpeVVneU9OekI0aEU1cEsxMUdlUWJnRjhnV3dJaFU0VHZqTnVsbHBCTkVadWxUZXhyMWZRZ2lUc2VId25RbnNEYS1pRk5CS0FyT24tVDlIdVFKYWxRNlB6emJsSWpvRm5IZXFvVjkzYlQyTHZVc25ieDBRMXF0aFBkbkJnWXkxUE53OGl4MnVWenJYdlJ5WWUtcm4yd3RucXQ2QQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObHNEdHo5OEdzRThQTWJVeDNXcjZYcXJ0QWZDdU0wak1VQ1VnQ2x0RUkzenV6TUc2VGMybWx3cEJwVEZxeEpvUE5tM1lpcGI0c1IxQnhlUVp2UGN4cTBRclh4Q25zblkzR0RndzFHY1pmcXdTemlyVHVQU0xZSGUzbDNFSVdac0tYb3RlYUZRSEhsUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 25, 2026"
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-4193f8a2df83",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T01:57:22+00:00",
+    "acquirer": "Nayax",
+    "target": "IPS Group",
+    "headline": "Nayax Agrees to Acquire IPS Group",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Finovate",
+    "summary": "Nayax Agrees to Acquire IPS Group Finovate",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jeXhiektjQnZSakdobWpGWklBYkJ1QVNVbWQ2RHd1UkRJY3MtZE12dUQzYlhtQ3NWYkVNRm05SjNtWTJQVzdBMDBNaGFuSlJZWGlxS0F3S1NJVGEzZWxyR2RJQmhuUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
       },
       {
         "stage": "Terms verified",
@@ -184,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0xLalUwT3Rna2l2NzRReHVWVkpuUy1tM3U1bDBiWjNNNnlxVTRUcE5ycVZ2QkhQYWwzWElkSExYYUViWGFHVFpIalRsaklsNk1Pcll1TWpieVByaXJiajlVLWxiU2ZYUTR0VGRORTVFeExPVTNCVTRCUnJkT01vYjhSMkJGekx4OEdJcmlkYURfX2N4dGxJ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9e107fb466a5",
-    "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T19:30:00+00:00",
-    "acquirer": "Lexington SC",
-    "target": "Patrick Seagrist via transfer from Greenville Triumph SC",
-    "headline": "Lexington SC acquires Patrick Seagrist via transfer from Greenville Triumph SC",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "uslchampionship.com",
-    "summary": "Lexington SC acquires Patrick Seagrist via transfer from Greenville Triumph SC uslchampionship.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU01uQkl1azNOSE5VR2tFYm12b0xGTHRoY195WWZQd0hnaFNXVjlUOWJTUE1OTnRLdVpVLXQxaFh5LTdBcjRmTTNUZllBcDNxRWNRY1lUMnhpX0MwaExhQWxIdlI3OXB2ZWlGc3BTdjRKTTk0ZXdGLVpRNE5VYTBvNmhYVQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-02dab560a608",
+    "id": "news-931956a05526",
     "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T13:26:51+00:00",
-    "acquirer": "McKesson to",
-    "target": "Precision Medicine Group",
-    "headline": "McKesson to buy Precision Medicine Group for $2.25B",
+    "publishedISO": "2026-08-25T10:00:00+00:00",
+    "acquirer": "Nayax Enters into Definitive Agreement to",
+    "target": "IPS Group, a Leading Smart Parking Technology Provider",
+    "headline": "Nayax Enters into Definitive Agreement to Acquire IPS Group, a Leading Smart Parking Technology Provider",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Axios",
-    "summary": "McKesson to buy Precision Medicine Group for $2.25B Axios",
+    "sourceName": "GlobeNewswire",
+    "summary": "Nayax Enters into Definitive Agreement to Acquire IPS Group, a Leading Smart Parking Technology Provider GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQak9LTkthNGM1ZDFRNGJteEFUVWM4MTVMR1pqZ2FadmhTVjBtMmpaMHRqVUJGdHVNWnFaRkJJV0Z5OWI5OFRNaTBqNDJiQzlPTmVQN3RGeUV1WkxDcmNEakxYZTg1N3lvbGNteTNFWS02S3FWVmxhZHhBVlBxaEdZaWVDMU00aWJBZlJmNjVTdlAzR2RqLURnWWFqMU5MVzR6UEhVbg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONzlQbkhTQWRubDlvcXN2WVhvUkVtTWR0c2hWSmw1TTRDSF9wTDRmdDdkYm5UbU5UMEUyeEJWaER1cVk4dUZqRUY2X0ZIdUZVMnE5dzJZY0ptZHp5ckpWUG9iMHcyZDctYW5WQWszSmRpc2ZfTVcyM1A1ajFVS1BvdUNLV2N5NS1QMGhsdU5hWkc4N1gyX0YwT0hwV1FmLTF2U1pOU2RYcW5TU25qNXllb0hBcEh1SDFSMlBwY0x3UnpDY1V4RGFTc0l0Zk1NS2lfOFk2SlpBZHNoYmFwYXpyQmtfd3FRSUJQdk1zWWhLX0lLbVI1TjJ0TmtQM2xnamRKS2JKeE53?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-9cd64223a8a0",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T13:00:00+00:00",
+    "acquirer": "CoStar Group",
+    "target": "Zonda, Expanding into New Home Data, Analytics and Online Marketplaces",
+    "headline": "CoStar Group Completes Acquisition of Zonda, Expanding into New Home Data, Analytics and Online Marketplaces",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "CoStar Group Completes Acquisition of Zonda, Expanding into New Home Data, Analytics and Online Marketplaces Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQkhIVHdFbmVJNG1YR0hGRzY4bWVnTmcyWk5TLUtRU1lPZ1BRQktvb0swME1HakwzemFSWk85UFJIaF9rbHdxc2hvcnVCLTFZcEhNODhEOFpCaDdURVpxM3I4dFpzWWRhaGlWeGtSbHhMRVVDWEdUeE00a3l5T3IwUGJFdGk2NEEtTGppTzE3bTctZFltZkVXVUsyVGstbUFienQtcUkwRlRybGhTRFV4OW4yMFJrSE5BY2FMM2lXd2RKOTdocHllNUVXV2JMYXMtbHYxbkJIREM3eW9EcDBVWjBfUUFrd1YwdDVOTEhxMmZycXNsY2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-33cfc389618f",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T11:02:50+00:00",
@@ -1534,6 +1609,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzBNUzVaSjFXNDFteUtTbV9fblZRTjAxZWlzRTRIby0xNzRMUnhZVkU4Vll5aVZQVHhSUEJ5NlJ0WXVzbjRYcWJ0SFdlQjJNMXZ2bm8yZFRBUlIySFZXdEpiZG9fcDhVVzRkamhJNFVrMldva19odTNKZDFxVllKdlVCQ0JTU3dBSkNnM2YxY1B6RDdhQ1ZpLVptTExNOFR5dmZLR0VONU5ySURrUnZWV3NuMUZULTg1SG9iUmlXaks1QTQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f141f7e671e3",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T13:33:00+00:00",
+    "acquirer": "Charter",
+    "target": "Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States",
+    "headline": "Charter Closes Acquisition Of Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Deadline",
+    "summary": "Charter Closes Acquisition Of Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States Deadline",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDBqMHVUNFlJbHZjMVZaMFdna09iNEx2Qi1aaG9JcHdsODlYZm5wdjdhWGlhbkpVRDJGdFpOaDB2dDBuZVZ2bGdtbE9wMi1XSl8wazI0cERiVVd6TDFsNlctdWUzcWpwa0htOTI3Vnl0S3hEWUI0TTBfbXdvTlQ2ZWItXzctYUhsenJyRFh3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazRFTWN2ZWFnRjZqS1FkRDVSc3JDY0tyblJtMHNDRkYwSWVxOWVITGVYWlNSbm5JT0doeGJoTG9FQ2FuUjh2eXQ2X2tRc1B0LTJyYTdjbzYwcGwzOFoxNWRMa3JJbnFlRWZHa2FVcmRjd1N4T3Q5ZEZFZUIySVVNcEJBbGU1RFlJakxSbmhiQ3M3T0xWdWFTdlhjY09xQkRtUGxXeXBCbHI?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bad0b27bb6c8",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T13:00:00+00:00",
-    "acquirer": "Lattice",
-    "target": "Pando to Advance Continuous, AI-Native Performance",
-    "headline": "Lattice Acquires Pando to Advance Continuous, AI-Native Performance",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Lattice Acquires Pando to Advance Continuous, AI-Native Performance PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUNGWGZ1Vl9LRkFpTnpIU1pkVGhIRUtsYXQwWndxeUV2R1FITVdSMjdQQTVUdWFqRzBwaGVRNWpfaVU4aXlWN3pKVklWejYwZ056WXMwM2pjUk95MzRtVzQtM0lxUjMyc3pUaFYzQXpDbTU5Yl85X0J3VmFoTE9ITXZ1cWg0THRTUFFLeXJqcWJnQVVkVEE5OWcxTXp4VDQ4SVJSX3VFRWx4N3JOeXZXZUotN1BZeW5tZjZxMzE2Zw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2a2671bbd052",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T12:00:00+00:00",
-    "acquirer": "Veralto Signs Agreement to",
-    "target": "Cleanwater1",
-    "headline": "Veralto Signs Agreement to Acquire Cleanwater1",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Veralto Signs Agreement to Acquire Cleanwater1 PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEd5UU4wUHdlcU80cWZiZl9PUDJwQ2ZBV2IxWFlfRDhNZUNKRldTNTlMNXJ0RWJFQXdxazBuVU45dmtVMlVtZmlaNWtjYVI1clJ3TEhhb3JBLVM2OVpIU2p6ajRtb0RJYmVwVl9vZ3Q5LW42Yi1vbmw5WUpSdGRHNXYyUXVOdmkzTXJBZE1xNk5rMmVvQ2htYUQtdmxRekV1T2J4VA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
