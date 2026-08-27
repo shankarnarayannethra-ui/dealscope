@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-99601ca2309d",
-    "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T16:00:03+00:00",
-    "acquirer": "Vanguard to",
-    "target": "Altruist in Push to Expand Advisor Reach",
-    "headline": "Vanguard to Acquire Altruist in Push to Expand Advisor Reach",
-    "valueBillions": null,
+    "id": "news-0714e0a85ff4",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T07:29:46+00:00",
+    "acquirer": "Nvidia",
+    "target": "Hugging Face",
+    "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+    "valueBillions": 12.9,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "401k Specialist",
-    "summary": "Vanguard to Acquire Altruist in Push to Expand Advisor Reach 401k Specialist",
+    "sourceName": "CNBC",
+    "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,457 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDhXQldXcUcwT3RyN1gzYUlPVlhzcTBsc2psa3UydmY2VTQySU1IV1FYRGs5SE9oMFB0cktlU2c4djhqdkdkS0FEX21XRHJYZTdCOWtkWEtnZl9udmFtR0lJQTg4MTVXZWFiLWRfTEF5U2tEMGpsZVhlMkNzODhjWUJTcDZHeVMtbnZndHAyMzJJVHBCdWc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1veHl1U0IwU0pDR1ZTd19KdHJEYUNOWG50OVY4SG10VGpzVkh3MG54ZUoxS2FrcFZ5Q0gta05PaWxubV9VM1ZTam4xRGpIMDVrTlZFSEgzeTRvVE1RRGZQeEVEaTFqNnpSeldPS05UWmJIWXFSVldN0gF8QVVfeXFMUDhKY3RqLVcxMHFWOXVsQkRTVEJ6VXh0MzdLN3VuVXl3ZUVyNWRzd1pxVDNESTd4MHhydmhnWUdpZ2VKaHRDUWwzREttekN6dUdhNFRlZmNvM282U2YwZWlyRzgtVnAxd2FCWTllN3E1ZjRJWUN4eFFVa0Z6OQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-09f4856b1af7",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T03:14:10+00:00",
+    "acquirer": "Nvidia has been in talks to",
+    "target": "Hugging Face",
+    "headline": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion",
+    "valueBillions": 13.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Insider",
+    "summary": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion Business Insider",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnlEaHRzVXdnN1k5dFVLd2hFR0ZYSnlzQ2F1dXdCU0pzUXpWMVJvRkt3ak9FOHBlcEg4MWFZQmtKcFliV0ZFemFlTXl3NEl4Zl9FOWdIcE1zLVptYWlPeExzMW0yWFJFWXg2ZENadlk1OGtwOTN3dVhyX3JfblZPSmVWY2dibjhpU2J4bktKMlZXcnQ3V2hkYg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-cfe6474a7470",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T01:31:18+00:00",
+    "acquirer": "Nvidia",
+    "target": "Open Source AI Platform Hugging Face",
+    "headline": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion",
+    "valueBillions": 12.9,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Information",
+    "summary": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion The Information",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEI3RDRQUjhES3VnelJ4ZmtWUFdsWUJYVGpNQlV6ZTJnU2RySjQ4SnRhNmhWN09kaEx6elNSVThrSzUyS1lWVVY2d0VpeEVtVjlBX3pIUk0tNjhIM3FHZmxqS3JBOHN1VXdTNTNYMjdwbUVoS0Q5Z3d5Y3pRbnhaTUlwck5BNEdxV2ZoV3ItTGlIekJiWGNKRmJUdzdJUWpFQjQ2S0s0cEtLd016T21GRC1B?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2ce877550392",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T00:45:00+00:00",
+    "acquirer": "Nvidia",
+    "target": "Hugging Face",
+    "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
+    "valueBillions": 12.9,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a47fcaba9e41",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T20:06:29+00:00",
+    "acquirer": "Sword Health to",
+    "target": "Headspace",
+    "headline": "Sword Health to acquire Headspace",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Healthcare Dive",
+    "summary": "Sword Health to acquire Headspace Healthcare Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1hrQklUU1lFMlRMZTFLVmo0d3BYaDdtOWRCeDlmaHNycWhMWF9ZNU1qNWdEX0ZzTmdJQVhmc1JEdlNobTk3WDc2ZjItM2l6SmlJN2VveXFZQmNjOHdYQkd3eTRkV2FGbVBEQXdhbHBWMk5aRzFFQm81bXo3aDZYOUtRTQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9f759d4d2538",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T17:26:07+00:00",
+    "acquirer": "Harbert",
+    "target": "cogenerating heat, power plant in Georgia",
+    "headline": "Harbert acquires cogenerating heat, power plant in Georgia",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Utility Dive",
+    "summary": "Harbert acquires cogenerating heat, power plant in Georgia Utility Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUU5jRmFia2xFZFF0aUhiNnVwQlM1aTB1V2d5Vzg0T0xMVVd5MDg2b3VZblRMS3BsU2ExQUNxZVM3SHFmcFY5T3RvcjRSeDBDQkdxVWkwNGdnOTktc3lZbU9jS09sNnFsQWs4aExwaHFIM2dqVDBoVExudGZEUlFpeGJfQ0xha0hPdWpjSy1sSG4yWFVXdU1TV0wwdDdDd28?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c9e489c416bb",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T16:28:03+00:00",
+    "acquirer": "Sword Health to",
+    "target": "Headspace in all-cash deal",
+    "headline": "Sword Health to acquire Headspace in all-cash deal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Healthcare",
+    "summary": "Sword Health to acquire Headspace in all-cash deal Fierce Healthcare",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUU01UHlsU01yZXozZkJSWmFkTU9jX2M3cWhsZnlERmJUQzBNdjdsWmpFckpIanZSa0J6WTczS2pHWVk2UG1vZ1hFTk1tcVVJVFRRUUxZNzJZUWIzT0ZGN3BRQVV2Wk1na3RBeUl6QUVkMk9jMklaa2xac2p0RktFOGhDaEpRekxQR3IyMHVxTDRjbEI4MC1R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b0448e05c2af",
-    "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T15:46:06+00:00",
-    "acquirer": "DAZN to",
-    "target": "EverPass Media to expand into US commercial venues",
-    "headline": "DAZN to buy EverPass Media to expand into US commercial venues",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "DAZN to buy EverPass Media to expand into US commercial venues Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV25ZX1FhNk9IbEU4eVVVZFphcE5pYWJGOWxCb21PWUFqX0k2aDhKcUx1LVhnN3NqMFBydWE3bFd6M295aGdZcUNEcmF5VFN4VUJ2X0IyT2pERF9wXzBfX3JUNEF3ajViZm1nTUFIcWtnZEFYVTAwZnBreHcxdmd1bE15bjVuUVlWVHh5REk1b3pQNGdhX2VIeTVTZExVRGVvaWs0bnBQanJDY0lmRXdMTHlR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-c2a6e56a9651",
     "date": "August 26, 2026",
     "publishedISO": "2026-08-26T15:45:34+00:00",
@@ -301,6 +676,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1a340b128500",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T15:34:36+00:00",
+    "acquirer": "Vanguard",
+    "target": "Altruist",
+    "headline": "Vanguard Acquires Altruist",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "plansponsor",
+    "summary": "Vanguard Acquires Altruist plansponsor",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ieHJNUTBBcjRaajExNjBOcFZhdFBuRnBPT3Jyd044TEZIYWxrclhxMExfVG4wN0FsdXJ5VjR3SHJlOUlUTFZsVzhCTDAxSl9uWmJmV3NIRGF5YXZnbW1kT3RnVDRadw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3a84ca3bd5b1",
     "date": "August 26, 2026",
     "publishedISO": "2026-08-26T15:19:04+00:00",
@@ -334,6 +784,156 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1JBUldHZzZvNXdCajVBN0FzaTE2bnc5dDg1TmpHbUxZdDRhTGl0RmNMbE1KaVlCYWtmQVZOTGJjb1hSLVlRRnZBQlRRaDhwZ3k0enRGOU5jcDJydkdNOU4weVBTUGNKMWQ0X0ZZZXo5NVNZNXAyaTR6ai0xZmlwTjg1LW1wVE9mVHhVakIyeDZoVlU3V1hwLW5tSmVGWFpxdUp4UWluVFdKeU5vQUs0QUswMnpPdjVqS08yVw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b9547364bf75",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T14:55:35+00:00",
+    "acquirer": "Scoop: Sword Health to",
+    "target": "Headspace",
+    "headline": "Scoop: Sword Health to acquire Headspace for up to $300M",
+    "valueBillions": 0.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "Scoop: Sword Health to acquire Headspace for up to $300M Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZk5saUFvTHlrMG5Ua0RvdklId1NQVEJzMjNNT2tCMWFhRjM1WVdYUldWTjc4V0hIc25jS3d2ZHVuRThoS2RadmNMSnliM1UzYlRrRzJOZlRGLUpDN0Q4UWp5RFlxVnJlQ1liMEVPUWwtT18xQzlHZTR3VEIyRFZ0d0dsNkNHY3JGVzhMbkM3VnF4Nm9hSkk1ZA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-273b60a5aeaf",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T13:58:53+00:00",
+    "acquirer": "Amazon",
+    "target": "DuckLabs (AMZN:NASDAQ)",
+    "headline": "Amazon acquires DuckLabs (AMZN:NASDAQ)",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Seeking Alpha",
+    "summary": "Amazon acquires DuckLabs (AMZN:NASDAQ) Seeking Alpha",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5md2J1dVVYY01ZX1VOdXdvODJaX2lWUnctOEVkaVl5QmNjc0FiNTZ4ZDB3S044NzZUcTZpcUVHb3ZBUzBtUjJHbnpDZ3J0cVZWMlFGRE9aVk5MT0xBZjRZNWNjZE1qUmxSWTAtUTN4QQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -634,156 +1234,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQU9vLTBQSWtiOU5mTjgzYVQ3T3hjck4ycE9IdEo5SkR3ZTM2UnczdXhYWndubjliS2tTUW9HSjd6a09QRnN3WUhxVTgtZm15MjVZZzdlYUhBLUJKbWRlamRiUl9JYXBQcGdFODlkTENUU1EyNjJ2NUlteEpHbDN2ZWh0WmRqblJzT2dScnZxZ3ZFT1luZy1F?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ec88d62bff3f",
-    "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T06:01:23+00:00",
-    "acquirer": "Sounders FC",
-    "target": "Dejan Joveljić from Sporting Kansas City",
-    "headline": "Sounders FC acquires Dejan Joveljić from Sporting Kansas City",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Seattle Sounders FC",
-    "summary": "Sounders FC acquires Dejan Joveljić from Sporting Kansas City Seattle Sounders FC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTlpbldsUjlHdG9xSmFyTHRuQ2dNQWZjODR1RXdWLXd6UkhUcXRDQ0F3bFN4Rk1xRFBrZVU1b1JHeTlnTjZhdHVmVldxMFUzLVd2VElCQ0d1YnZoMkNEMXlJUVdCUE1ZekdSSG9FTVV0bERUV243ZVFtMWNBWjJ6NVlsbXZWd0tEMU4xSC1zOFdTOV9sWDBxdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4193f8a2df83",
-    "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T01:57:22+00:00",
-    "acquirer": "Nayax",
-    "target": "IPS Group",
-    "headline": "Nayax Agrees to Acquire IPS Group",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Finovate",
-    "summary": "Nayax Agrees to Acquire IPS Group Finovate",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jeXhiektjQnZSakdobWpGWklBYkJ1QVNVbWQ2RHd1UkRJY3MtZE12dUQzYlhtQ3NWYkVNRm05SjNtWTJQVzdBMDBNaGFuSlJZWGlxS0F3S1NJVGEzZWxyR2RJQmhuUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,156 +1876,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-98a065d7f473",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T10:00:00+00:00",
-    "acquirer": "ANV Enters Into Agreement to",
-    "target": "Car Care Plan, a Market-Leading Warranty MGA",
-    "headline": "ANV Enters Into Agreement to Acquire Car Care Plan, a Market-Leading Warranty MGA",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "ANV Enters Into Agreement to Acquire Car Care Plan, a Market-Leading Warranty MGA Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSkpvRVhENVlGeTYyMlFSM2pKbXZEM25RdXMtWTE3aHZ4VlZKcXVxTk01VmR6YVU2THdJc3k4VVNmUU9raGNBRnhWck9tdkJuaGltNDZ5RVdReWdwMTltTWdVN21SSGlMT3piaUtycHAyUkt4RkZaZTJ3emh4RnJZUzFGUmVFT1g5LWJOWXlHeEt1N0k1R2libkQ5aVVOV1pMaEJNMURKY2I4MmtzNS1FQUxkcUdOMDktNTVHY20xbEFqUTVRNy11M0pQbEVaODByZ0Zr?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6a927ca38c55",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T08:09:00+00:00",
-    "acquirer": "Bunker Hill to",
-    "target": "Silver47 in stock-swap deal",
-    "headline": "Bunker Hill to acquire Silver47 in stock-swap deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Coeur d'Alene Press",
-    "summary": "Bunker Hill to acquire Silver47 in stock-swap deal Coeur d'Alene Press",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPclFPN1FBMTFUODlMeHQ0X1Axc2FNbEtRbVB3bE9fNThoUGFaclpLWDR5Tjc4ZzBMZ0t4dk53QjNyNlFYMlRDQXpIRDJ6S3p1T0kya0dsNExDamNKNjR4WkVmWnZoTjJVVXJUY01mT3Y4dkpoM0hzXzBjX1QyMEJoNldqY2lxNVBJU1BOMUtQSGFyM2M?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b61024741ecc",
     "date": "August 23, 2026",
     "publishedISO": "2026-08-23T19:52:53+00:00",
@@ -1689,81 +1989,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-33cfc389618f",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T11:02:50+00:00",
-    "acquirer": "INEOS Inovyn",
-    "target": "the UK's only Ethylene dichloride asset from administration.",
-    "headline": "INEOS Inovyn agrees to acquire the UK's only Ethylene dichloride asset from administration.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Ineos",
-    "summary": "INEOS Inovyn agrees to acquire the UK's only Ethylene dichloride asset from administration. Ineos",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYzc5T3VaSy1ZblZwS3FfS0JzZGloQnlxTmpkMEpNYkFicGVnUEZhWDQ1UDAxRHo3YlBNV0RHZnh4WGtVQWlRaTFPNHV4WXRoakJYV0dQQTV3d1YtYjBpaHEyZEhUWmRtU1Y5TGxmNHM3Mlo2elRoTWlEMS1XYk9EY2VkU0MtV0Q1ZVdjWWJpcGZ6Q0tiaU1ubTl5eENNR2hMNkdxM0tSYkZQVlhsWHIyNnNJZG5MdU9rYmNIdFN1emNseDVIbmRJcQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 21, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1951,81 +2176,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-44d39885b839",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T12:54:00+00:00",
-    "acquirer": "Motorola Solutions",
-    "target": "D-Fend Solutions",
-    "headline": "Motorola Solutions Completes Acquisition of D-Fend Solutions",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Motorola Solutions Completes Acquisition of D-Fend Solutions Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2FBQ2k5TnhQQVNFaXlEbmxiSmtJTWljOElyWnFtTW5iOUJzenFhR1RueS1LUC1UOWVzblVkcWVKbWE4SnliS0RYM0JLNkhtS21lV3FYWFRldUZEYTAxMENwZng5UHNZNm5fcFU4VHdIazhQVXZvU2s5cEtPdGN2Z1c1UmczSWNDbmdvbEZmSmNhaUd0X3VFaFhFbEI0WWVfLXN2clJTZ08xdkYyMjVCaVptSmllWVNf?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b9370166cc71",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T12:00:00+00:00",
@@ -2064,156 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d040de3590db",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T23:09:03+00:00",
-    "acquirer": "Osapiens",
-    "target": "Nasdaq’s Sustainability Reporting Platform",
-    "headline": "Osapiens Acquires Nasdaq’s Sustainability Reporting Platform",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ESG Today",
-    "summary": "Osapiens Acquires Nasdaq’s Sustainability Reporting Platform ESG Today",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmNMM1FtY0Q0bDVYdUkxQ2NsNDVXbEZaaDZVcWszX2NrRGlnLS1LZVQ0dnA2bk1zX1BLOXZtQTJqb2lxaFVseUUxWElvT1U1eWp6OGU4VldHOU0yNXM2aDlGVmNfcUxvZUlJWHdEMy10amJYNDdfX2FZeFQ0YmIwWnJ5c2dYdm1pNkszbmhaTU9jRmJzb1NN?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-077c4d9d5a15",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T20:10:01+00:00",
-    "acquirer": "Stripe to",
-    "target": "OpenRouter as fintech expands deeper into AI",
-    "headline": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Stripe to buy OpenRouter as fintech expands deeper into AI CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
       },
       {
         "stage": "Terms verified",
