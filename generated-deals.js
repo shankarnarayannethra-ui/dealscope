@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-422ae2a1feed",
+    "date": "August 28, 2026",
+    "publishedISO": "2026-08-28T08:05:32+00:00",
+    "acquirer": "Hometown Financial Group to",
+    "target": "Primary Bank",
+    "headline": "Hometown Financial Group to acquire Primary Bank",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NH Business Review",
+    "summary": "Hometown Financial Group to acquire Primary Bank NH Business Review",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zQzN6eFlKckVkdDY3clBHRU9xb0dsaVRoYlRpVlJrYjQwYWl6VWZJRVY1bktoWGt3dkxwcFMyenI0OWN5UEVlY0xGQjQ1VW1YOGRKdVgzdzRxRFpqVjV5amZoNHltNHJUcFZvWXVzeUk3aUtKZjNHenNB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ba470b90b8a8",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T19:55:22+00:00",
@@ -601,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a47fcaba9e41",
-    "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T20:06:29+00:00",
-    "acquirer": "Sword Health to",
-    "target": "Headspace",
-    "headline": "Sword Health to acquire Headspace",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Healthcare Dive",
-    "summary": "Sword Health to acquire Headspace Healthcare Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1hrQklUU1lFMlRMZTFLVmo0d3BYaDdtOWRCeDlmaHNycWhMWF9ZNU1qNWdEX0ZzTmdJQVhmc1JEdlNobTk3WDc2ZjItM2l6SmlJN2VveXFZQmNjOHdYQkd3eTRkV2FGbVBEQXdhbHBWMk5aRzFFQm81bXo3aDZYOUtRTQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-c9e489c416bb",
     "date": "August 26, 2026",
     "publishedISO": "2026-08-26T16:28:03+00:00",
@@ -751,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d5be3ac5d3c8",
+    "id": "news-ba54870cf418",
     "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T16:00:00+00:00",
-    "acquirer": "Amundi welcomes Victory Capital",
-    "target": "First Eagle Investments",
-    "headline": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments",
+    "publishedISO": "2026-08-26T16:12:09+00:00",
+    "acquirer": "Florida credit union to",
+    "target": "bank, rebrand itself",
+    "headline": "Florida credit union to acquire bank, rebrand itself",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "About Amundi",
-    "summary": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments About Amundi",
+    "sourceName": "Banking Dive",
+    "summary": "Florida credit union to acquire bank, rebrand itself Banking Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTl2VTQ3VFBBX1I4OUtaYzFNRWhwOThsMHhyYW9XaHYtMTcwdGZkNDY2dk4tYWdJOGJ3b1JpYmVNNG9xMDF0YW1aLXk2Qkp5a3I1N1pNd0hYRFpYOWtpbk5VaVB3TFRWVnZkRV9RWlhSTlpIUFJVSEJyM0toVU9ySUJfSGRqQl9nRmk2VFAyZjkwVnZTaXBrSkRDX3VYVEtxeU9iMQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQklLX0NJS2w1X19MeHJmbHoxVlNFWUliMVZIZkN6NG5GNjI5a0J3U0VtMlRUNldFVWRHZU1jRWQwM3p1TTFkLXRoMnJuc2VXLVFrcFRkX2ZZNTYzSko5ZERaTGJ0UjVXX2wxdUhYem9WUzJpUnQxaEktT0E0TExVUmRXTjhYc1dHNlNnd3kweHNmdVFsa0N5ZFNUQVNBOEpkM2FXbjBIekVyZEl5eFBMemNHLW1URHVqZGRyVw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b0448e05c2af",
+    "id": "news-d5be3ac5d3c8",
     "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T15:46:06+00:00",
-    "acquirer": "DAZN to",
-    "target": "EverPass Media to expand into US commercial venues",
-    "headline": "DAZN to buy EverPass Media to expand into US commercial venues",
+    "publishedISO": "2026-08-26T16:00:00+00:00",
+    "acquirer": "Amundi welcomes Victory Capital",
+    "target": "First Eagle Investments",
+    "headline": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "DAZN to buy EverPass Media to expand into US commercial venues Reuters",
+    "sourceName": "About Amundi",
+    "summary": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments About Amundi",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV25ZX1FhNk9IbEU4eVVVZFphcE5pYWJGOWxCb21PWUFqX0k2aDhKcUx1LVhnN3NqMFBydWE3bFd6M295aGdZcUNEcmF5VFN4VUJ2X0IyT2pERF9wXzBfX3JUNEF3ajViZm1nTUFIcWtnZEFYVTAwZnBreHcxdmd1bE15bjVuUVlWVHh5REk1b3pQNGdhX2VIeTVTZExVRGVvaWs0bnBQanJDY0lmRXdMTHlR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTl2VTQ3VFBBX1I4OUtaYzFNRWhwOThsMHhyYW9XaHYtMTcwdGZkNDY2dk4tYWdJOGJ3b1JpYmVNNG9xMDF0YW1aLXk2Qkp5a3I1N1pNd0hYRFpYOWtpbk5VaVB3TFRWVnZkRV9RWlhSTlpIUFJVSEJyM0toVU9ySUJfSGRqQl9nRmk2VFAyZjkwVnZTaXBrSkRDX3VYVEtxeU9iMQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,12 +1201,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2fc07a72bd12",
+    "id": "news-3359646ddb9e",
     "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T13:41:14+00:00",
-    "acquirer": "DAZN to",
-    "target": "EverPass Media, Accelerating U.S. Expansion and Strengthening Its Next-Generation Commercial Distrib",
-    "headline": "DAZN to Acquire EverPass Media, Accelerating U.S. Expansion and Strengthening Its Next-Generation Commercial Distribution Platform",
+    "publishedISO": "2026-08-26T13:03:52+00:00",
+    "acquirer": "AWS to",
+    "target": "DuckLabs, the Amsterdam-based company behind DuckDB",
+    "headline": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "DAZN Group",
-    "summary": "DAZN to Acquire EverPass Media, Accelerating U.S. Expansion and Strengthening Its Next-Generation Commercial Distribution Platform DAZN Group",
+    "sourceName": "About Amazon",
+    "summary": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB About Amazon",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1233,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWdGRnhzSWNQb255eUhFUnAzVHExei1qeHlzcUJPMWtZdGhMa0NrV2V0d3R6eldjRjR1RS1GUGZCY3lobkxrOFN3Ym9IUWVrektEd2VJaW5SZ0hmZWRJTmhFSXF5ajZHUG9HQy1oaUROc1EyX1FJeEZRQzBpM3dTZkc4bVpJc2p5UElGT2FDX1E3TEVqVFpVZGx1RmVudElMcGtXc0dVYk5mSGRzU1NFck5scUlmQTh2ZHhpUzU5M3R4ZTd6WDNidUlfeWJHR2xsM01VU2FINUEyaGlqTUdGREtzemQ1RG1XdEZWNjhxVXNsWXpE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40S2JJbEVhVWJaQUs0eUFDdTFvbjNGTFppdDRGUlVxaEhGU1BxdkZLdlU5bkp5Nk5yZWlQQlEzMUhWMDFSLU9GR21uRW8tcVFhNlltWU1rOXVQVW1qdVB4YmNFNHk5WDQzVEE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1276,12 +1276,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3359646ddb9e",
+    "id": "news-01160997f0ef",
     "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T13:03:52+00:00",
-    "acquirer": "AWS to",
-    "target": "DuckLabs, the Amsterdam-based company behind DuckDB",
-    "headline": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB",
+    "publishedISO": "2026-08-26T12:51:19+00:00",
+    "acquirer": "DAZN",
+    "target": "EverPass, rebrands it DAZN",
+    "headline": "DAZN acquires EverPass, rebrands it DAZN for Business",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "About Amazon",
-    "summary": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB About Amazon",
+    "sourceName": "Sports Business Journal",
+    "summary": "DAZN acquires EverPass, rebrands it DAZN for Business Sports Business Journal",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,7 +1308,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40S2JJbEVhVWJaQUs0eUFDdTFvbjNGTFppdDRGUlVxaEhGU1BxdkZLdlU5bkp5Nk5yZWlQQlEzMUhWMDFSLU9GR21uRW8tcVFhNlltWU1rOXVQVW1qdVB4YmNFNHk5WDQzVEE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHBxdHRoUE92S0RmU0RvNE9HaWxhN0VCMERjckU1N2FuR09oajV3SXdSMkFnRlFXX3RmbFVsM3VXOF9NVnp6ZjVUY1RvVVRlMV91a0U5TG9vWkg0NWctOVBRdXNMUFdiNm5VSFlwcTJCQzBZbks5OHlnbjNEbkVBSFhSamwtT1JKT3cwbUQ4SWJWMWl3S0tXcTBYRzBkTW5vWmZYVVVoVWgybjRLbUdZdg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,6 +1651,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-d23326e95310",
+    "date": "August 25, 2026",
+    "publishedISO": "2026-08-25T15:37:15+00:00",
+    "acquirer": "Valley National Bank to",
+    "target": "Chicago-area lender",
+    "headline": "Valley National Bank to acquire Chicago-area lender for $247M",
+    "valueBillions": 0.247,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Banking Dive",
+    "summary": "Valley National Bank to acquire Chicago-area lender for $247M Banking Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOV9aOVNVbnN4c3hXOExXUlpTTEhxbGlxd0N6UjJFWTl4QWlpWnVCY3FCUWpqS0RBUkRPdk1rY1NWY3kySlgwTzVKVmdPZ2RrVE02eVBncVZXMUUyeUJTcDYtdW5IVkJjd1Q3M0dOalN4bG1IZmRhN2pGR0NNS25BSEkwQ1I0WGRWc1kzaEc3Y0RaS2cyQlF5TWt1cXVXUzN5?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 25, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a1973f5a21bc",
     "date": "August 25, 2026",
     "publishedISO": "2026-08-25T15:00:00+00:00",
@@ -1764,81 +1839,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b31c8315feaf",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T22:24:44+00:00",
-    "acquirer": "India's TCS to",
-    "target": "Porsche's IT unit, bags 5-year deal worth $1.46 billion",
-    "headline": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
-    "valueBillions": 1.46,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2026,12 +2026,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-90e039b96dbb",
+    "id": "news-6a927ca38c55",
     "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T10:33:45+00:00",
-    "acquirer": "nVent to",
-    "target": "Maverick Power",
-    "headline": "nVent to Acquire Maverick Power",
+    "publishedISO": "2026-08-24T08:09:00+00:00",
+    "acquirer": "Bunker Hill to",
+    "target": "Silver47 in stock-swap deal",
+    "headline": "Bunker Hill to acquire Silver47 in stock-swap deal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nVent",
-    "summary": "nVent to Acquire Maverick Power nVent",
+    "sourceName": "Coeur d'Alene Press",
+    "summary": "Bunker Hill to acquire Silver47 in stock-swap deal Coeur d'Alene Press",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,7 +2058,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjdOdHdRZ0U2czBycXo5bHo4UlpqbTI4QjBPUm11akQyallHdndhNFpYYUhaY0RMTzdGeXY2ZjZrQ21BX1BhU0NaZ3FyTm1wWkVWNktnZFYwZDJWaVU4YkJlZDRtVnpQTFc3SXp6UHRlNVJrYmljeUZQOGpkVk5yVjVBXzJtZU15anlVcEEzMTY1b25GY2tUSzc0SmwwUEdjdUllamgtYzBUZkJiX3NnbTMtRXY?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPclFPN1FBMTFUODlMeHQ0X1Axc2FNbEtRbVB3bE9fNThoUGFaclpLWDR5Tjc4ZzBMZ0t4dk53QjNyNlFYMlRDQXpIRDJ6S3p1T0kya0dsNExDamNKNjR4WkVmWnZoTjJVVXJUY01mT3Y4dkpoM0hzXzBjX1QyMEJoNldqY2lxNVBJU1BOMUtQSGFyM2M?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
