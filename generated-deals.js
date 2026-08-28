@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-8627fa3908fc",
+    "id": "news-ba470b90b8a8",
     "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T15:45:00+00:00",
-    "acquirer": "Inspirit Equity",
-    "target": "Valiant O&M and Launches Vulcan Government Services",
-    "headline": "Inspirit Equity Acquires Valiant O&M and Launches Vulcan Government Services",
-    "valueBillions": null,
+    "publishedISO": "2026-08-27T19:55:22+00:00",
+    "acquirer": "Report: Nvidia to",
+    "target": "AI model repository Hugging Face",
+    "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "valueBillions": 13.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Inspirit Equity Acquires Valiant O&M and Launches Vulcan Government Services PR Newswire",
+    "sourceName": "Ars Technica",
+    "summary": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion Ars Technica",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnlYNFp1WS1DamZmREdvYTAxYjRESW1JQ1NoWVRpX0RyYTVwdExwVHhDZmdwVTZqczlhT2JyX09YZDdwdmZBUkUyX0dRTnk3RFRvR005ZUlsb184cG52YTdaekxaSUN5ZFJfd05RbnFvazFDUkdDRGNrNVJXNFlvVFhFSVpSWkFYZ3hmVGhGcDZRYnZDRV9xT0lHa3RsTmg1WVdwWGIwOEhyTEx2cnZfUlEzS3hqVXpqTk0zMTZHNC16VTRpVkZwaTF4Zw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmJJQWdCWGhOcmVGNTlxcUhaS2FfTUE1bndWZE5qRWNFSTZNdVRpbnRZMkJBZ1pHek16U3lOdERNTXdyWEc5Z1RWdDBxb3Z0aUhFZUpmTDEzZDVKVDc0UFRQbTg5UUd2WEpjSmNGSFJxemg1YzdMbmNUQThwdVpYSVREWVItcXZfaHpaR2I5SEE1dVdzbFJ1R0pIQnI5WW5MZU5OcmhkU0pIZmtl?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a2acba9e87c5",
+    "id": "news-783d67b04acd",
     "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T13:35:50+00:00",
-    "acquirer": "Socure Announces Strategic Growth Investment at $5.2B Valuation and",
-    "target": "Agentic Operations Platform Fravity",
-    "headline": "Socure Announces Strategic Growth Investment at $5.2B Valuation and Acquires Agentic Operations Platform Fravity",
+    "publishedISO": "2026-08-27T15:37:48+00:00",
+    "acquirer": "Sword Health to",
+    "target": "Headspace in an all-cash deal",
+    "headline": "Sword Health to acquire Headspace in an all-cash deal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Summit Partners",
-    "summary": "Socure Announces Strategic Growth Investment at $5.2B Valuation and Acquires Agentic Operations Platform Fravity Summit Partners",
+    "sourceName": "MobiHealthNews",
+    "summary": "Sword Health to acquire Headspace in an all-cash deal MobiHealthNews",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWlza1hvbnU4TUVJY1FWRU13cjRBV3ozYjBrVU1kdTdHXzBENWNkRUExMVdnZkU0c2hRMGdoSVFQUEY5WENCRDg4THFnbEUzdXdKQWpEWXdsendmME1qV2FNc3daOGVlVjBiZ1lhdnFrZDhYVENqeW1uWFVuSko3dHh3aUlWU0lVdU5na3hTYTVOVGdXQllBSVVkSFFQaWRFVF93?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTRyVnpyZllGazluU19lRHpYc084eUc0RFdDenlkdklSTTNFNjVsQzVndU5EamVPT1NwX0U3clZ4NnRuZlBocFhLV1Y4UU4xd1RPZkFtblZ2cExab0FKbHBZdFdmNzR0RUIxVUhtdlh2TWNZcTZubXAwdk1zZ2x3bzRfLVg4bWM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -259,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdDR4V0xLZTd6TXRCdVhGVWRWQThiWDVlZXNUZWFDdmhqUm01azBiNG1XdUJXbl9Kc3VrLXdGZzVzU1M4S3RBaTc0cWU3M1U0T1FmSC1nXzhORUhqWXNwMmFXZjBoTW9uR3VtY0RTcDRlWW5nbERPVkhQWjhMTThEOG5JblJ3ekpsZ0tWM3hmZTh5Ml96QkZWb3hydFdvbk12OHZXZEFubE5VTnhYRWZtNU5FaEE1dmYtSnlrMmJnZE5qOFNQb3BydUFZdVhBY1pLaHNLeTFGYkZNZ00?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8a9429effbb8",
-    "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T11:04:31+00:00",
-    "acquirer": "CVC DIF’s Aurora Towers to",
-    "target": "American Tower Corporation’s Canadian wireless tower portfolio",
-    "headline": "CVC DIF’s Aurora Towers to acquire American Tower Corporation’s Canadian wireless tower portfolio",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "cvc.com",
-    "summary": "CVC DIF’s Aurora Towers to acquire American Tower Corporation’s Canadian wireless tower portfolio cvc.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWhvSjlqd3p2VTlmVFhBVzBvdEh1RDlQcnNMRHV2UE81TzVZYWtzeTdmLUQtQ1p3OHNUVldpR21UNUVVUm5GQkFkakpLNFVGdUx6WUp6aU03NUFsbFY0RS1zVkV2b0NvbEVSb0RIU0FRa010VV9NN0pkZkd4V1p2cWFra0VVeTlRLW5rcW16b2NzR1BYdFF1aGd5X0w4ZTk3WU5HZmg3RS00eU1QRWlKOE1tQURTSk4wNm53MEl4TG1PbE4tYzYwVk5ockxRNFU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -859,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTl2VTQ3VFBBX1I4OUtaYzFNRWhwOThsMHhyYW9XaHYtMTcwdGZkNDY2dk4tYWdJOGJ3b1JpYmVNNG9xMDF0YW1aLXk2Qkp5a3I1N1pNd0hYRFpYOWtpbk5VaVB3TFRWVnZkRV9RWlhSTlpIUFJVSEJyM0toVU9ySUJfSGRqQl9nRmk2VFAyZjkwVnZTaXBrSkRDX3VYVEtxeU9iMQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b0448e05c2af",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T15:46:06+00:00",
+    "acquirer": "DAZN to",
+    "target": "EverPass Media to expand into US commercial venues",
+    "headline": "DAZN to buy EverPass Media to expand into US commercial venues",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "DAZN to buy EverPass Media to expand into US commercial venues Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV25ZX1FhNk9IbEU4eVVVZFphcE5pYWJGOWxCb21PWUFqX0k2aDhKcUx1LVhnN3NqMFBydWE3bFd6M295aGdZcUNEcmF5VFN4VUJ2X0IyT2pERF9wXzBfX3JUNEF3ajViZm1nTUFIcWtnZEFYVTAwZnBreHcxdmd1bE15bjVuUVlWVHh5REk1b3pQNGdhX2VIeTVTZExVRGVvaWs0bnBQanJDY0lmRXdMTHlR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,81 +1651,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d23326e95310",
-    "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T15:37:15+00:00",
-    "acquirer": "Valley National Bank to",
-    "target": "Chicago-area lender",
-    "headline": "Valley National Bank to acquire Chicago-area lender for $247M",
-    "valueBillions": 0.247,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Valley National Bank to acquire Chicago-area lender for $247M Banking Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOV9aOVNVbnN4c3hXOExXUlpTTEhxbGlxd0N6UjJFWTl4QWlpWnVCY3FCUWpqS0RBUkRPdk1rY1NWY3kySlgwTzVKVmdPZ2RrVE02eVBncVZXMUUyeUJTcDYtdW5IVkJjd1Q3M0dOalN4bG1IZmRhN2pGR0NNS25BSEkwQ1I0WGRWc1kzaEc3Y0RaS2cyQlF5TWt1cXVXUzN5?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-a1973f5a21bc",
     "date": "August 25, 2026",
     "publishedISO": "2026-08-25T15:00:00+00:00",
@@ -2059,6 +1984,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56TDI0bllaM2Z6aTZab1FKSmNyRVdEUUY0aTU0ak1nY094ZkVhbkF4QkdfRzVyUnU0S1U4NEpSdW9fUEQtUGlyRzl4aEJuZndJYkV6cEt2M08tSE9mazBMTFQyVmpqWjVvek5JOUdpVS1BQ3M?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-90e039b96dbb",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T10:33:45+00:00",
+    "acquirer": "nVent to",
+    "target": "Maverick Power",
+    "headline": "nVent to Acquire Maverick Power",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "nVent",
+    "summary": "nVent to Acquire Maverick Power nVent",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjdOdHdRZ0U2czBycXo5bHo4UlpqbTI4QjBPUm11akQyallHdndhNFpYYUhaY0RMTzdGeXY2ZjZrQ21BX1BhU0NaZ3FyTm1wWkVWNktnZFYwZDJWaVU4YkJlZDRtVnpQTFc3SXp6UHRlNVJrYmljeUZQOGpkVk5yVjVBXzJtZU15anlVcEEzMTY1b25GY2tUSzc0SmwwUEdjdUllamgtYzBUZkJiX3NnbTMtRXY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
