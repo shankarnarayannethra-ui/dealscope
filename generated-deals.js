@@ -76,81 +76,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fe0f4d0c5ede",
-    "date": "August 28, 2026",
-    "publishedISO": "2026-08-28T16:28:42+00:00",
-    "acquirer": "Ballard",
-    "target": "GeoPura, becoming an integrated hydrogen energy solutions provider",
-    "headline": "Ballard closes acquisition of GeoPura, becoming an integrated hydrogen energy solutions provider",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ballard.com",
-    "summary": "Ballard closes acquisition of GeoPura, becoming an integrated hydrogen energy solutions provider ballard.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1V1X3ZtOWxtRHA2Y2pzTk9LNUhCYzhDVUR4VTVUYWt0VXc1XzdUWHl0bTlsMU1mTDhKZF9EdElUUEVLY245cDRmbFc4cWNIX2NPMnFBRUtScm15V2d4S1NveGtJa04tR1didjBpMEc1c19fMVlmd1pUSTA1UF9rVjhkMXF2RXZpTzdqU0dDOXZBR2c3aGhBeFpkek0wUDlIWV9RVjhsd0hJaTNwZWk5MXl0Rk5BY1BrMTlXWDAtWmU0R1JLV3RqcWhVb0dkRnM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ba470b90b8a8",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T19:55:22+00:00",
@@ -259,6 +184,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTRyVnpyZllGazluU19lRHpYc084eUc0RFdDenlkdklSTTNFNjVsQzVndU5EamVPT1NwX0U3clZ4NnRuZlBocFhLV1Y4UU4xd1RPZkFtblZ2cExab0FKbHBZdFdmNzR0RUIxVUhtdlh2TWNZcTZubXAwdk1zZ2x3bzRfLVg4bWM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a2acba9e87c5",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T13:35:50+00:00",
+    "acquirer": "Socure Announces Strategic Growth Investment at $5.2B Valuation and",
+    "target": "Agentic Operations Platform Fravity",
+    "headline": "Socure Announces Strategic Growth Investment at $5.2B Valuation and Acquires Agentic Operations Platform Fravity",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Summit Partners",
+    "summary": "Socure Announces Strategic Growth Investment at $5.2B Valuation and Acquires Agentic Operations Platform Fravity Summit Partners",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWlza1hvbnU4TUVJY1FWRU13cjRBV3ozYjBrVU1kdTdHXzBENWNkRUExMVdnZkU0c2hRMGdoSVFQUEY5WENCRDg4THFnbEUzdXdKQWpEWXdsendmME1qV2FNc3daOGVlVjBiZ1lhdnFrZDhYVENqeW1uWFVuSko3dHh3aUlWU0lVdU5na3hTYTVOVGdXQllBSVVkSFFQaWRFVF93?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
