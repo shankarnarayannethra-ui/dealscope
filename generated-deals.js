@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fe0f4d0c5ede",
+    "id": "news-b0448e05c2af",
     "date": "August 28, 2026",
-    "publishedISO": "2026-08-28T16:28:42+00:00",
-    "acquirer": "Ballard",
-    "target": "GeoPura, becoming an integrated hydrogen energy solutions provider",
-    "headline": "Ballard closes acquisition of GeoPura, becoming an integrated hydrogen energy solutions provider",
+    "publishedISO": "2026-08-28T07:00:00+00:00",
+    "acquirer": "DAZN to",
+    "target": "EverPass Media to expand into US commercial venues",
+    "headline": "DAZN to buy EverPass Media to expand into US commercial venues",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ballard.com",
-    "summary": "Ballard closes acquisition of GeoPura, becoming an integrated hydrogen energy solutions provider ballard.com",
+    "sourceName": "Reuters",
+    "summary": "DAZN to buy EverPass Media to expand into US commercial venues Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1V1X3ZtOWxtRHA2Y2pzTk9LNUhCYzhDVUR4VTVUYWt0VXc1XzdUWHl0bTlsMU1mTDhKZF9EdElUUEVLY245cDRmbFc4cWNIX2NPMnFBRUtScm15V2d4S1NveGtJa04tR1didjBpMEc1c19fMVlmd1pUSTA1UF9rVjhkMXF2RXZpTzdqU0dDOXZBR2c3aGhBeFpkek0wUDlIWV9RVjhsd0hJaTNwZWk5MXl0Rk5BY1BrMTlXWDAtWmU0R1JLV3RqcWhVb0dkRnM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV25ZX1FhNk9IbEU4eVVVZFphcE5pYWJGOWxCb21PWUFqX0k2aDhKcUx1LVhnN3NqMFBydWE3bFd6M295aGdZcUNEcmF5VFN4VUJ2X0IyT2pERF9wXzBfX3JUNEF3ajViZm1nTUFIcWtnZEFYVTAwZnBreHcxdmd1bE15bjVuUVlWVHh5REk1b3pQNGdhX2VIeTVTZExVRGVvaWs0bnBQanJDY0lmRXdMTHlR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
