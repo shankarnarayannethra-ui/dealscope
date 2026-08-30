@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-fe0f4d0c5ede",
+    "date": "August 28, 2026",
+    "publishedISO": "2026-08-28T16:28:42+00:00",
+    "acquirer": "Ballard",
+    "target": "GeoPura, becoming an integrated hydrogen energy solutions provider",
+    "headline": "Ballard closes acquisition of GeoPura, becoming an integrated hydrogen energy solutions provider",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ballard.com",
+    "summary": "Ballard closes acquisition of GeoPura, becoming an integrated hydrogen energy solutions provider ballard.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1V1X3ZtOWxtRHA2Y2pzTk9LNUhCYzhDVUR4VTVUYWt0VXc1XzdUWHl0bTlsMU1mTDhKZF9EdElUUEVLY245cDRmbFc4cWNIX2NPMnFBRUtScm15V2d4S1NveGtJa04tR1didjBpMEc1c19fMVlmd1pUSTA1UF9rVjhkMXF2RXZpTzdqU0dDOXZBR2c3aGhBeFpkek0wUDlIWV9RVjhsd0hJaTNwZWk5MXl0Rk5BY1BrMTlXWDAtWmU0R1JLV3RqcWhVb0dkRnM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ba470b90b8a8",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T19:55:22+00:00",
@@ -934,81 +1009,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUU01UHlsU01yZXozZkJSWmFkTU9jX2M3cWhsZnlERmJUQzBNdjdsWmpFckpIanZSa0J6WTczS2pHWVk2UG1vZ1hFTk1tcVVJVFRRUUxZNzJZUWIzT0ZGN3BRQVV2Wk1na3RBeUl6QUVkMk9jMklaa2xac2p0RktFOGhDaEpRekxQR3IyMHVxTDRjbEI4MC1R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ba54870cf418",
-    "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T16:12:09+00:00",
-    "acquirer": "Florida credit union to",
-    "target": "bank, rebrand itself",
-    "headline": "Florida credit union to acquire bank, rebrand itself",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Florida credit union to acquire bank, rebrand itself Banking Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQklLX0NJS2w1X19MeHJmbHoxVlNFWUliMVZIZkN6NG5GNjI5a0J3U0VtMlRUNldFVWRHZU1jRWQwM3p1TTFkLXRoMnJuc2VXLVFrcFRkX2ZZNTYzSko5ZERaTGJ0UjVXX2wxdUhYem9WUzJpUnQxaEktT0E0TExVUmRXTjhYc1dHNlNnd3kweHNmdVFsa0N5ZFNUQVNBOEpkM2FXbjBIekVyZEl5eFBMemNHLW1URHVqZGRyVw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
