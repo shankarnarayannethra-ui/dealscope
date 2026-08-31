@@ -76,12 +76,87 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-5a0681ae85a0",
+    "id": "news-060a026b7c01",
+    "date": "August 31, 2026",
+    "publishedISO": "2026-08-31T11:30:38+00:00",
+    "acquirer": "SLB to",
+    "target": "Data Center Cooling Firm Kelvion",
+    "headline": "SLB to Buy Data Center Cooling Firm Kelvion for $4.1 Billion",
+    "valueBillions": 4.1,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "SLB to Buy Data Center Cooling Firm Kelvion for $4.1 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjNkLVlhWFJPVjVsX3VGb2VwSDQ2UmVmenhCQjU5cktza09NenIwYjdPYklvZU4tdkNDRkhNMnBIbjRSbnh2THdJQ3VNNkZlc3BtUzRxOG1fVDNjN18wMTJsT2pMMlVncHFxMldZRW4yQTBxal9NbHpJNWIzbGkyRDBwNGhKem1LMm1hekdjWVl5S3N4TDdkS0ROSV9SaUtwT3dQQW41TkVOaGxJ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0306e923987e",
     "date": "August 31, 2026",
     "publishedISO": "2026-08-31T11:03:01+00:00",
-    "acquirer": "Eli Lilly to",
-    "target": "Merida Biosciences in deal worth up to $2.88 billion",
-    "headline": "Eli Lilly to buy Merida Biosciences in deal worth up to $2.88 billion",
+    "acquirer": "Lilly to",
+    "target": "Merida Biosciences",
+    "headline": "Lilly to buy Merida Biosciences for up to $2.88 billion in autoimmune drug push",
     "valueBillions": 2.88,
     "sector": "M&A news",
     "countries": [
@@ -91,7 +166,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "CNBC",
-    "summary": "Eli Lilly to buy Merida Biosciences in deal worth up to $2.88 billion CNBC",
+    "summary": "Lilly to buy Merida Biosciences for up to $2.88 billion in autoimmune drug push CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,6 +526,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-ee2a191c754b",
+    "date": "August 30, 2026",
+    "publishedISO": "2026-08-30T20:40:00+00:00",
+    "acquirer": "ONEOK to",
+    "target": "Brazos Midstream's Permian Midland Basin Assets",
+    "headline": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
+    "valueBillions": 4.425,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXA4MUg0NjBMTEZjdFU3NkVCRS1jRnJ6ei1BRUZwVEdGb2FLQ2doTGRyR2FrbWdkdnB6QjVZakxITU5qcHhNNmVpMjJFbzFYMmRzR2tOZloyNEItcThackZNYU9kVm9RQVNmWjV4M3FvTHFBbWZfcGYwVFU5eUczRzZsVG96enE5b3pfNkh3NjFVNWhPN2hURlczV2R2MjZVQThERWdKb2p4WXVBM1FnQTZEdzVoRHRHMVk4MVlOOXJXbWQwb0FtbjlMaDI3ZkswMGxV?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-fd687e152845",
     "date": "August 28, 2026",
     "publishedISO": "2026-08-28T19:54:32+00:00",
@@ -526,13 +676,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ba470b90b8a8",
+    "id": "news-4df21cc41d51",
     "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T19:55:22+00:00",
-    "acquirer": "Report: Nvidia to",
-    "target": "AI model repository Hugging Face",
-    "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-    "valueBillions": 13.0,
+    "publishedISO": "2026-08-27T21:24:00+00:00",
+    "acquirer": "BitGo",
+    "target": "NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities",
+    "headline": "BitGo Acquires NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -540,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ars Technica",
-    "summary": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion Ars Technica",
+    "sourceName": "Business Wire",
+    "summary": "BitGo Acquires NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmJJQWdCWGhOcmVGNTlxcUhaS2FfTUE1bndWZE5qRWNFSTZNdVRpbnRZMkJBZ1pHek16U3lOdERNTXdyWEc5Z1RWdDBxb3Z0aUhFZUpmTDEzZDVKVDc0UFRQbTg5UUd2WEpjSmNGSFJxemg1YzdMbmNUQThwdVpYSVREWVItcXZfaHpaR2I5SEE1dVdzbFJ1R0pIQnI5WW5MZU5OcmhkU0pIZmtl?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS29EWnRBVWhpUS1MNDdCZHZCQlN4NWhNTEsyREduRTZTWHI1VzFQSU1XM3cyMXI0bzZzbjZKSVJmWm5KMm1YSGw2ZXNyTkJ0QjBBc3o1RGQ1cWhfY3hjX1JnZklaQlpkOEtvTGdGWmVfdWVub1hVZzhGSjR5SWdPeE5xSnJ1bzdVLTBteFZjR3Z3djRaRTdtSU1JTVZSMGpELW1ISWNMMExLekdTVHZWX09YWDJta1ZwYWR6b0NpTzdYRElMckF5NnhzbVpmM2lnOUVyMnNMTXFaaVAyZUVnVmVmYkJGN2Z2ckh4R2xGWQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,81 +976,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-75f6b6c47f70",
-    "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T13:00:25+00:00",
-    "acquirer": "Socure Secures $156M at $5.2B Valuation",
-    "target": "AI Fraud Investigation Startup Fravity",
-    "headline": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
-    "valueBillions": 0.156,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Crunchbase News",
-    "summary": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity Crunchbase News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZS04WHE2enkwLVp2TXVPcDFqUkZNek1lYktOX0RjSlp0bEJua1o5MEFfLVg4eldSV2dDQUU5cWgtUW52bzhDV0pQZU5jS3Vvc21JN2VIdmRVaHRJWXdWb3Ntd0dnX0RRejQ5d2xLX2owdElWLTBhejZnVlpYRTRhY3dhRU1zVTQ3TnJoM2pfbw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-0714e0a85ff4",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T07:29:46+00:00",
@@ -976,13 +1051,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cfe6474a7470",
-    "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T01:26:00+00:00",
-    "acquirer": "Nvidia",
-    "target": "Open Source AI Platform Hugging Face",
-    "headline": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion",
-    "valueBillions": 12.9,
+    "id": "news-d436b38d69aa",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T21:57:14+00:00",
+    "acquirer": "Globus Medical",
+    "target": "Higgs Boson Health",
+    "headline": "Globus Medical Announces Acquisition of Higgs Boson Health",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Information",
-    "summary": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion The Information",
+    "sourceName": "GlobeNewswire",
+    "summary": "Globus Medical Announces Acquisition of Higgs Boson Health GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1008,87 +1083,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEI3RDRQUjhES3VnelJ4ZmtWUFdsWUJYVGpNQlV6ZTJnU2RySjQ4SnRhNmhWN09kaEx6elNSVThrSzUyS1lWVVY2d0VpeEVtVjlBX3pIUk0tNjhIM3FHZmxqS3JBOHN1VXdTNTNYMjdwbUVoS0Q5Z3d5Y3pRbnhaTUlwck5BNEdxV2ZoV3ItTGlIekJiWGNKRmJUdzdJUWpFQjQ2S0s0cEtLd016T21GRC1B?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcTlHX3RpY0tCbjJrR0hCaWpvZ1QweTJidXczVVJSWDJGTHZQUDU0VW1vNzFSSUpvSlp5Um53WVhFWi1kY2U1RzU0MWFlbE5JYWxMSDcyc0ZxRnlLd0Z0bkNoUFlhOTN1blVhN2NYX1I3UlNLMGdacFdiUlE3RllkdEJMNmdXSWtGanVld2tvbkU4S1RwUlFRSmhwaDk0NDdUZHFpQUlVS1VvR29Na1hBUjNGVHhnVDh5U0dVX09FTVhSRkhhNEN4NXYzZlZZN0U2N0xWVjNPMS00UUN5U3lkTkVuUXBBZ3gwT3FyTmcxbVhQSmZkSGFQdVIxeUhXY2pZeTl6MG9Od3V5eHVZd0VXX1J5bEtQLW1jS3Vid0xGaTVzTEMxZjlhVw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2ce877550392",
-    "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T00:45:00+00:00",
-    "acquirer": "Nvidia",
-    "target": "Hugging Face",
-    "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
-    "valueBillions": 12.9,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 27, 2026"
+        "date": "Aug 26, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GeekWire",
-    "summary": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data GeekWire",
+    "sourceName": "geekwire.com",
+    "summary": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data geekwire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Seeking Alpha",
-    "summary": "Amazon acquires DuckLabs (AMZN:NASDAQ) Seeking Alpha",
+    "sourceName": "seekingalpha.com",
+    "summary": "Amazon acquires DuckLabs (AMZN:NASDAQ) seekingalpha.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1759,6 +1759,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaEZCTTN5R0c1aDQ2SS1WMTRRMTJXalFxeEkyeHc4aXpJTUxaVUVpaW1iWGdONDZnZ24zc0lFeG01WGZpdkFibWNtUnFVTWQwU1otRFdSekFyeFRRcldnRzlncG9BMEU5MWRkRjNHbUV5Z3dqTmtJdlpmdS1GQVctY0RzWHBCRjJzWFNURkZlbm1OV3JWdDNDeThIV3BZZW9zUjI0cDFKWmJMQlhKc2xpVFNNTnRpRjBCVnhWdUhYR296MXh2UHJuZDkyaXBBelFk?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d1a558a7fa62",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T11:30:00+00:00",
+    "acquirer": "Victory Capital to",
+    "target": "First Eagle",
+    "headline": "Victory Capital to Buy First Eagle for $7 Billion",
+    "valueBillions": 7.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Victory Capital to Buy First Eagle for $7 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQU9vLTBQSWtiOU5mTjgzYVQ3T3hjck4ycE9IdEo5SkR3ZTM2UnczdXhYWndubjliS2tTUW9HSjd6a09QRnN3WUhxVTgtZm15MjVZZzdlYUhBLUJKbWRlamRiUl9JYXBQcGdFODlkTENUU1EyNjJ2NUlteEpHbDN2ZWh0WmRqblJzT2dScnZxZ3ZFT1luZy1F?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fdbce2b74c74",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T14:34:03+00:00",
-    "acquirer": "Descartes",
-    "target": "Tai",
-    "headline": "Descartes acquires Tai for $100M",
-    "valueBillions": 0.1,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FreightWaves",
-    "summary": "Descartes acquires Tai for $100M FreightWaves",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56TDI0bllaM2Z6aTZab1FKSmNyRVdEUUY0aTU0ak1nY094ZkVhbkF4QkdfRzVyUnU0S1U4NEpSdW9fUEQtUGlyRzl4aEJuZndJYkV6cEt2M08tSE9mazBMTFQyVmpqWjVvek5JOUdpVS1BQ3M?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
       },
       {
         "stage": "Terms verified",
