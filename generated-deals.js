@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-fd687e152845",
-    "date": "August 28, 2026",
-    "publishedISO": "2026-08-28T19:54:32+00:00",
-    "acquirer": "Sen. Peter Welch calls for making it easier for Vermont schools to",
-    "target": "more food directly from local farms",
-    "headline": "Sen. Peter Welch calls for making it easier for Vermont schools to buy more food directly from local farms",
-    "valueBillions": null,
+    "id": "news-613ee66f8b90",
+    "date": "August 30, 2026",
+    "publishedISO": "2026-08-30T20:46:12+00:00",
+    "acquirer": "Aon nears $17 billion deal to",
+    "target": "insurance broker USI from KKR, WSJ reports",
+    "headline": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
+    "valueBillions": 17.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "VTDigger",
-    "summary": "Sen. Peter Welch calls for making it easier for Vermont schools to buy more food directly from local farms VTDigger",
+    "sourceName": "CNBC",
+    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUlVPcDNheUpxblVXM05xTTgyczgxRTNxZk5xQTNrSTJkY1A2RUNaTXZvQTQybnFBMElXaDd1QV9MRmJERWhMdUllZ1pjaXkzeE5qQVgzcWhISzNSRE16RDByQ09rb1ZESHFDaE04akQ1M2xPbXo2bzVWUmp6enl1OUpqOWFlYTAybnZNcGl6UGhESm1qVXZhZTdKaXlkeUdqcmFwR1JlbnJfRTM4WThyTW5vdTZYQlRMZFg2T01LWGJidUoxUndlWG5xR084SURlNzZEaw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wWldwM0s4X2p6Zzdad1N6VXZQbThZTXRsNVkwZFdrdUdIS1F1cG91MXBPX1dseGR3VmN4Mk5oSzVVVXN6cl9tcmNqVnBiTUNTYXhzM0J5U3NwbTBsaXhNcVRyX1RvcV9GNnl0LTQtS1dOUldf0gF6QVVfeXFMT3hnMC1HRDJKaXctaGtqV3d5clU5OTB1cXZSaXpNWmI5MGFxMHhiNkdvTDVYbF82S2x1c3dfMy1YTzVBSGdpN2Zxak94dnZXSldqMV9XQkJxd3NWdEJLWDYxT3JCWGRTVHI5ZGRYYnZKWTRRLUY5N2RwaFE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 28, 2026"
+        "date": "Aug 30, 2026"
       },
       {
         "stage": "Terms verified",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b0448e05c2af",
+    "id": "news-fd687e152845",
     "date": "August 28, 2026",
-    "publishedISO": "2026-08-28T07:00:00+00:00",
-    "acquirer": "DAZN to",
-    "target": "EverPass Media to expand into US commercial venues",
-    "headline": "DAZN to buy EverPass Media to expand into US commercial venues",
+    "publishedISO": "2026-08-28T19:54:32+00:00",
+    "acquirer": "Sen. Peter Welch calls for making it easier for Vermont schools to",
+    "target": "more food directly from local farms",
+    "headline": "Sen. Peter Welch calls for making it easier for Vermont schools to buy more food directly from local farms",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "DAZN to buy EverPass Media to expand into US commercial venues Reuters",
+    "sourceName": "VTDigger",
+    "summary": "Sen. Peter Welch calls for making it easier for Vermont schools to buy more food directly from local farms VTDigger",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV25ZX1FhNk9IbEU4eVVVZFphcE5pYWJGOWxCb21PWUFqX0k2aDhKcUx1LVhnN3NqMFBydWE3bFd6M295aGdZcUNEcmF5VFN4VUJ2X0IyT2pERF9wXzBfX3JUNEF3ajViZm1nTUFIcWtnZEFYVTAwZnBreHcxdmd1bE15bjVuUVlWVHh5REk1b3pQNGdhX2VIeTVTZExVRGVvaWs0bnBQanJDY0lmRXdMTHlR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUlVPcDNheUpxblVXM05xTTgyczgxRTNxZk5xQTNrSTJkY1A2RUNaTXZvQTQybnFBMElXaDd1QV9MRmJERWhMdUllZ1pjaXkzeE5qQVgzcWhISzNSRE16RDByQ09rb1ZESHFDaE04akQ1M2xPbXo2bzVWUmp6enl1OUpqOWFlYTAybnZNcGl6UGhESm1qVXZhZTdKaXlkeUdqcmFwR1JlbnJfRTM4WThyTW5vdTZYQlRMZFg2T01LWGJidUoxUndlWG5xR084SURlNzZEaw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2ce877550392",
+    "id": "news-cfe6474a7470",
     "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T03:15:38+00:00",
+    "publishedISO": "2026-08-27T01:26:00+00:00",
     "acquirer": "Nvidia",
-    "target": "Hugging Face",
-    "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
+    "target": "Open Source AI Platform Hugging Face",
+    "headline": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion",
     "valueBillions": 12.9,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports Reuters",
+    "sourceName": "The Information",
+    "summary": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion The Information",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEI3RDRQUjhES3VnelJ4ZmtWUFdsWUJYVGpNQlV6ZTJnU2RySjQ4SnRhNmhWN09kaEx6elNSVThrSzUyS1lWVVY2d0VpeEVtVjlBX3pIUk0tNjhIM3FHZmxqS3JBOHN1VXdTNTNYMjdwbUVoS0Q5Z3d5Y3pRbnhaTUlwck5BNEdxV2ZoV3ItTGlIekJiWGNKRmJUdzdJUWpFQjQ2S0s0cEtLd016T21GRC1B?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cfe6474a7470",
+    "id": "news-2ce877550392",
     "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T01:26:00+00:00",
+    "publishedISO": "2026-08-27T00:45:00+00:00",
     "acquirer": "Nvidia",
-    "target": "Open Source AI Platform Hugging Face",
-    "headline": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion",
+    "target": "Hugging Face",
+    "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
     "valueBillions": 12.9,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Information",
-    "summary": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion The Information",
+    "sourceName": "Reuters",
+    "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEI3RDRQUjhES3VnelJ4ZmtWUFdsWUJYVGpNQlV6ZTJnU2RySjQ4SnRhNmhWN09kaEx6elNSVThrSzUyS1lWVVY2d0VpeEVtVjlBX3pIUk0tNjhIM3FHZmxqS3JBOHN1VXdTNTNYMjdwbUVoS0Q5Z3d5Y3pRbnhaTUlwck5BNEdxV2ZoV3ItTGlIekJiWGNKRmJUdzdJUWpFQjQ2S0s0cEtLd016T21GRC1B?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
