@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-b04262ca8393",
+    "date": "August 31, 2026",
+    "publishedISO": "2026-08-31T22:01:30+00:00",
+    "acquirer": "Aon",
+    "target": "USI from KKR",
+    "headline": "Aon Acquires USI from KKR for $17B",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "planadviser",
+    "summary": "Aon Acquires USI from KKR for $17B planadviser",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12OWdKZkppOWJtNmhybzJSSnNIVGFYSThZSmF2bUJSbVpLX0x3cEZ5Y1VyN2tNRXdYaF9QNUc5Vi1ob1RITWRMMW5UaC1hVUdfM2F5N3FJa0hVdXBnOU1iUy11T2U3MjBHdWdzTVYwUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9d847ec31cd2",
+    "date": "August 31, 2026",
+    "publishedISO": "2026-08-31T14:40:12+00:00",
+    "acquirer": "Aon",
+    "target": "USI Insurance From KKR in $17 Billion Deal Targeting Middle Market",
+    "headline": "Aon Acquires USI Insurance From KKR in $17 Billion Deal Targeting Middle Market",
+    "valueBillions": 17.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Insurance Journal",
+    "summary": "Aon Acquires USI Insurance From KKR in $17 Billion Deal Targeting Middle Market Insurance Journal",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWXh6UjRGRnVIMzMwaF9WM2R5SGRaNnZIT3NtbEtCS1F1ajVEUkRwem5sQVN5Z29LVURQeWpRVUN1MktYcWxXc3hrVkZIVDFCN0hlTWhINHoxenV0bFE0aTV3VlM4dTF5a1pnc2k3eEdwRTBKYzRV?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b47638123a81",
     "date": "August 31, 2026",
     "publishedISO": "2026-08-31T13:00:00+00:00",
@@ -78,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-060a026b7c01",
     "date": "August 31, 2026",
-    "publishedISO": "2026-08-31T11:30:38+00:00",
+    "publishedISO": "2026-08-31T11:29:00+00:00",
     "acquirer": "SLB to",
     "target": "Data Center Cooling Firm Kelvion",
     "headline": "SLB to Buy Data Center Cooling Firm Kelvion for $4.1 Billion",
@@ -109,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjNkLVlhWFJPVjVsX3VGb2VwSDQ2UmVmenhCQjU5cktza09NenIwYjdPYklvZU4tdkNDRkhNMnBIbjRSbnh2THdJQ3VNNkZlc3BtUzRxOG1fVDNjN18wMTJsT2pMMlVncHFxMldZRW4yQTBxal9NbHpJNWIzbGkyRDBwNGhKem1LMm1hekdjWVl5S3N4TDdkS0ROSV9SaUtwT3dQQW41TkVOaGxJ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0306e923987e",
-    "date": "August 31, 2026",
-    "publishedISO": "2026-08-31T11:03:01+00:00",
-    "acquirer": "Lilly to",
-    "target": "Merida Biosciences",
-    "headline": "Lilly to buy Merida Biosciences for up to $2.88 billion in autoimmune drug push",
-    "valueBillions": 2.88,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Lilly to buy Merida Biosciences for up to $2.88 billion in autoimmune drug push CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xUFFnZHRVSjg1V00zekVOckxWbWJqaldZLUt1eW10WWk2N0FnUy1mTWxVcE9YYTloY1U2S04yU3dVajk2WWtoR1JKb1hfRzl4OW9EZ0lQVnFTdUxhTlYxb1diR3RmbDhsaVpYcUF1dGFyWXpTSmhfTkdCcHPSAYIBQVVfeXFMT3RRQUpCdGNuMnUzeDJuVVE1ZHJLMF82bzdxTnhSWDlQWnNfcXdNSWxoMzN5SE81ZHo4emhTb0J0QkhkNTU3dE1UTko5OFhxTVltSzhSY012SzdFVk9xRU1MblNUOEVZQTJvckowTUlvNlo3bTItR1llOF84X3E2bHdIZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -676,81 +751,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4df21cc41d51",
-    "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T21:24:00+00:00",
-    "acquirer": "BitGo",
-    "target": "NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities",
-    "headline": "BitGo Acquires NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "BitGo Acquires NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS29EWnRBVWhpUS1MNDdCZHZCQlN4NWhNTEsyREduRTZTWHI1VzFQSU1XM3cyMXI0bzZzbjZKSVJmWm5KMm1YSGw2ZXNyTkJ0QjBBc3o1RGQ1cWhfY3hjX1JnZklaQlpkOEtvTGdGWmVfdWVub1hVZzhGSjR5SWdPeE5xSnJ1bzdVLTBteFZjR3Z3djRaRTdtSU1JTVZSMGpELW1ISWNMMExLekdTVHZWX09YWDJta1ZwYWR6b0NpTzdYRElMckF5NnhzbVpmM2lnOUVyMnNMTXFaaVAyZUVnVmVmYkJGN2Z2ckh4R2xGWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-783d67b04acd",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T15:37:48+00:00",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "MobiHealthNews",
-    "summary": "Sword Health to acquire Headspace in an all-cash deal MobiHealthNews",
+    "sourceName": "mobihealthnews.com",
+    "summary": "Sword Health to acquire Headspace in an all-cash deal mobihealthnews.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Summit Partners",
-    "summary": "Socure Announces Strategic Growth Investment at $5.2B Valuation and Acquires Agentic Operations Platform Fravity Summit Partners",
+    "sourceName": "summitpartners.com",
+    "summary": "Socure Announces Strategic Growth Investment at $5.2B Valuation and Acquires Agentic Operations Platform Fravity summitpartners.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1051,13 +1051,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d436b38d69aa",
-    "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T21:57:14+00:00",
-    "acquirer": "Globus Medical",
-    "target": "Higgs Boson Health",
-    "headline": "Globus Medical Announces Acquisition of Higgs Boson Health",
-    "valueBillions": null,
+    "id": "news-2ce877550392",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T00:45:00+00:00",
+    "acquirer": "Nvidia",
+    "target": "Hugging Face",
+    "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
+    "valueBillions": 12.9,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1065,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GlobeNewswire",
-    "summary": "Globus Medical Announces Acquisition of Higgs Boson Health GlobeNewswire",
+    "sourceName": "Reuters",
+    "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1083,12 +1083,87 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcTlHX3RpY0tCbjJrR0hCaWpvZ1QweTJidXczVVJSWDJGTHZQUDU0VW1vNzFSSUpvSlp5Um53WVhFWi1kY2U1RzU0MWFlbE5JYWxMSDcyc0ZxRnlLd0Z0bkNoUFlhOTN1blVhN2NYX1I3UlNLMGdacFdiUlE3RllkdEJMNmdXSWtGanVld2tvbkU4S1RwUlFRSmhwaDk0NDdUZHFpQUlVS1VvR29Na1hBUjNGVHhnVDh5U0dVX09FTVhSRkhhNEN4NXYzZlZZN0U2N0xWVjNPMS00UUN5U3lkTkVuUXBBZ3gwT3FyTmcxbVhQSmZkSGFQdVIxeUhXY2pZeTl6MG9Od3V5eHVZd0VXX1J5bEtQLW1jS3Vid0xGaTVzTEMxZjlhVw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 26, 2026"
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-09f4856b1af7",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T00:34:00+00:00",
+    "acquirer": "Nvidia has been in talks to",
+    "target": "Hugging Face",
+    "headline": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion",
+    "valueBillions": 13.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Insider",
+    "summary": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion Business Insider",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnlEaHRzVXdnN1k5dFVLd2hFR0ZYSnlzQ2F1dXdCU0pzUXpWMVJvRkt3ak9FOHBlcEg4MWFZQmtKcFliV0ZFemFlTXl3NEl4Zl9FOWdIcE1zLVptYWlPeExzMW0yWFJFWXg2ZENadlk1OGtwOTN3dVhyX3JfblZPSmVWY2dibjhpU2J4bktKMlZXcnQ3V2hkYg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "geekwire.com",
-    "summary": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data geekwire.com",
+    "sourceName": "GeekWire",
+    "summary": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data GeekWire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "seekingalpha.com",
-    "summary": "Amazon acquires DuckLabs (AMZN:NASDAQ) seekingalpha.com",
+    "sourceName": "Seeking Alpha",
+    "summary": "Amazon acquires DuckLabs (AMZN:NASDAQ) Seeking Alpha",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVmRfREZUM1BYY1VBaUtNY0E1NVhFcjRGOEVCNkc3WDJQUmx3ampUaGhDQWQ0NXpTemROMzBHWEJBNkpFN1BtWGpsQ0xwRGRDRUpwelhiZkJDbGU0QXI4c2xMMjdkTFBDMG56ZWhRN3k4UjQ0RWNoSFhfQnhZZFBjeGRGVGQ1OGJudUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1de8949009f7",
-    "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T05:02:56+00:00",
-    "acquirer": "Accenture to",
-    "target": "McCoy, Strengthening SAP Expertise and AI Innovation",
-    "headline": "Accenture to Acquire McCoy, Strengthening SAP Expertise and AI Innovation for Mid-Market",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Accenture",
-    "summary": "Accenture to Acquire McCoy, Strengthening SAP Expertise and AI Innovation for Mid-Market Accenture",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG5uUmNYY2VuVHVDaS1YUHB6SkJTbkdtZFhVZ2p5WW1IRU0xR2E2OXhQT2N1OFpSb1dWSEpjbWN5dFlmUjgwTEsyelF4aExhdzFIbjB5ZXpSZVJva29PUVVCWjlfRFA5THpLUVdKVndoUFdYczRhWnpYcmtReW9BYzl1OWNlY2tMbDBPWkgtUFg4NUJITTluNklrU3M5S21ERm85TkdYdUczTTZaT0JVRGZnSDRkc0FITXBZUHFKSFVpcV9oYkJV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
