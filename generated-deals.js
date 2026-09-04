@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-32e67c297995",
+    "date": "September 3, 2026",
+    "publishedISO": "2026-09-03T21:11:08+00:00",
+    "acquirer": "New York City FC",
+    "target": "$175,000 in General Allocation Money and 2027 MLS SuperDraft Pick",
+    "headline": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "New York City FC",
+    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick New York City FC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3NOb2JmU3BuUm1DX0JrdXkxTFhWMlg4RHFlRW9vWlZaekU2alNjd0FwOFFBMzVkX2FyVHZwd3dSSHFvZnlPeUJ4bFpEM2I2QVlRZk5adVhkSXg2NllJbDNyMXRZakRkU0F2LW9hZ3Qwd1lncEhlNmJhU1NqYkRic1FMWHF5cTRiaGdvUWlRNHJVbVRiUG43WGlNUTEwbzBMUjlsdVVXSGc3TXA1cFM0MTZ5ay1HejFr?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-aea76dc73382",
     "date": "September 3, 2026",
     "publishedISO": "2026-09-03T17:03:05+00:00",
@@ -240,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "sourcenm.com",
-    "summary": "New Mexico groups, residents call on state leaders to buy stake in state’s largest electric provider sourcenm.com",
+    "sourceName": "Source New Mexico",
+    "summary": "New Mexico groups, residents call on state leaders to buy stake in state’s largest electric provider Source New Mexico",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -259,81 +334,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRnY0dE5IWFVuZFJBZ2FNT3RmaXZXeXJteHlXZW5Ja3dGLXZLRlNXUEtzbVljS2Q5Q0syVmZOYWtocWFUNGZFVHlVR0pLeG9hd20wdGFNdVRybW1feWFqRktWVjRIdGJINVI3bHhQTXFDVlg2LXNfS2VTcEpiYU0xLVlfbTc2ZDA4U1FzWGdyYURGMVoxbi0zakFsWmU3MjY4TXZjWW4yVV9SZ1F4Rm1uakxESzg4eEtQc2FaX0RLcFRvQTVWWW1BcTNqTQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a19e294616e2",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T15:38:54+00:00",
-    "acquirer": "New York City FC",
-    "target": "$175,000 in General Allocation Money and 2027 MLS SuperDraft Pick",
-    "headline": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "New York City FC",
-    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick New York City FC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ0JIUE5uMGg3dkUxSnJTWFk3b01uYnhkTDdWZ09rUS1zZ1pSSGluWHJVZl9XbzQzZHVlMi1BSTFZLTJPSnRLZ2J5R2MwTkxrbUVoTHVHYTBJNVV3UFdtSjA3cGtxR1NqLXdOblljZVhELWdITGdCcUxIYVZfLVF5TGlhaTRPT2szb2pCZTdTcXNHRUVPbkZrX3IyU0c4WThMU2FaMm1CRkU1aTlqVHBMQzQ5UnhXeVlUOUs0RGs5VHpUT28?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "variety.com",
-    "summary": "AI Giant Nvidia to Buy Hugging Face for $12.9 Billion variety.com",
+    "sourceName": "Variety",
+    "summary": "AI Giant Nvidia to Buy Hugging Face for $12.9 Billion Variety",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -601,13 +601,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9cee0cb981cf",
+    "id": "news-15aae0475c27",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T11:06:45+00:00",
-    "acquirer": "Wellstar",
-    "target": "another Georgia hospital",
-    "headline": "Wellstar plans to acquire another Georgia hospital",
-    "valueBillions": null,
+    "publishedISO": "2026-09-03T12:11:04+00:00",
+    "acquirer": "Nvidia",
+    "target": "AI Platform Hugging Face",
+    "headline": "Nvidia Acquires AI Platform Hugging Face for About $13 Billion",
+    "valueBillions": 13.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Chief Healthcare Executive",
-    "summary": "Wellstar plans to acquire another Georgia hospital Chief Healthcare Executive",
+    "sourceName": "Bloomberg.com",
+    "summary": "Nvidia Acquires AI Platform Hugging Face for About $13 Billion Bloomberg.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,12 +633,87 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHhLejhpYk0xeE9rUmdTN3VZbXMxZWRvNThXN1VlWXRhQ0xWRlN4Z20wYTZMSm1pd3hLSE5wSHBuaTNKOVVJOTRNZ2tuTFROa3dJOEFmMG5vV0wzNGtYSGpobHdZb3NfVmg0NlVzVU1zUDFYR2tpSVVnckJfdGRadHlmQUIwSVpxeFpYcTFfbnhxaEZ6Q3FSRmM2Tno?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1dYREIzM1Btc0JjU3k2aGlaZGhuODBxQXRYTGtEZnFlTmpmeW4xWnY5RGJfbUEzaHhBQm1tMnBROHZDTDNNdDlpSmZuY2Z3UWxuWDkxSHl3WjVNZHJBVXFEVXZlcEV5RGc0cTNrXzIweVNHSXA4UlprOWFlQzNLMEwxaXJDVjFPTHlsbkdOZFBqQVlzdlR1YVdCeXFkY3Jpa2JkanJVYjJyRTFNaFFIbW1R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9f4c65c88831",
+    "date": "September 2, 2026",
+    "publishedISO": "2026-09-02T21:53:14+00:00",
+    "acquirer": "Cinema preservation group secures enough funding to",
+    "target": "Garden Oaks Theater",
+    "headline": "Cinema preservation group secures enough funding to buy Garden Oaks Theater",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "houstonpublicmedia.org",
+    "summary": "Cinema preservation group secures enough funding to buy Garden Oaks Theater houstonpublicmedia.org",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ05xeEExcFNmNWJnUE9xVzdwN3R0SExpWmpTX2ZFWDRqRFNOOUNobzY4LXVRUWhicEt0SjZHUE14U1ZSYlp3cG5IOVRRcmJYQUtOdU9NcUxnLU52S0dUcE80MmR4T1ExLTJyV2JUWlFERmtQN2Fhd0FydGdLbkVId1V0Mkt5YVkyMXBvTlRSdTJUS1hhbk5yUzF3XzZYdTBGSnp5THNIV01yRkRhU0x0LWl30gG6AUFVX3lxTE5MUm55bC1IdS1NdEpPOFVDeEFjUWhjSGRrdld2ckNmaTJJRDdmamdleUJXNlh4bXg5bnJMaHdVamlOb0V4WE1oOUFMb2U5WU9hN0s1RzNBYTZGNGx6eWM3SWFsaUE0ZlBRcHlHRncwaWdtMnU2RUZ0clJnUDB0NllFTWVrZDUxZTEydkpiekU3eVlYTDBRUVhTb0Y4MjBaeGl5OFlJeXZPRDZpSXU0NjVZNnp0eGY0MVNhQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 2, 2026"
       },
       {
         "stage": "Terms verified",
@@ -709,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDg5YnJGV2RkU1RmcFZPbW5jUGZySkxNczd5R1Z2WldTcFVWWlBrX0NrRFQyb0RYUklDRmJsd2xfV2dad0thU0lVbExQWWtuQ0w2U3YxbHJzaTJWNm5OU3gwbXZMOEVUWFA3RUZhYk9JSkNUdm1jR1o5MVRGeGhBeFYyazlxd2VqMTljVWhlaWZlZjhNNzFWTVgyRktGLUJDVDRzUE9NT3ZKdVhzTUJaeEwxNFZGWGRPUUtDWGdVRQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f3792fcd727a",
+    "date": "September 2, 2026",
+    "publishedISO": "2026-09-02T16:45:46+00:00",
+    "acquirer": "Vertiv to",
+    "target": "Utility Innovation Group",
+    "headline": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push",
+    "valueBillions": 2.6,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzJLNm1lTUp4Z004cGlyeTNXcmJMcVc5RzRPYjVSQ2ZPWFBaS2U3WWo1cUFRQ3JPT0ZORVVYTGEzNmhSQmZWZzdMZ2RxaDZiVUJaVUxMYXNHS051V3YxTWJqbURmYjU5a2NGeHpYdlZldmV5V3NFQlpmcnV3QzcxNGZ5eF94c3M1d0FTanpQNnBzaVpXRGFReGczb3lDTGdzLUxib1I0MUFZdWRXZUxpWmkwOU8yQWJVTGdLVUxnWnNoekMxZmc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say reuters.com",
+    "sourceName": "Reuters",
+    "summary": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1065,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "freightwaves.com",
-    "summary": "Descartes acquires Extensiv for $120M freightwaves.com",
+    "sourceName": "FreightWaves",
+    "summary": "Descartes acquires Extensiv for $120M FreightWaves",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1534,81 +1684,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWXh6UjRGRnVIMzMwaF9WM2R5SGRaNnZIT3NtbEtCS1F1ajVEUkRwem5sQVN5Z29LVURQeWpRVUN1MktYcWxXc3hrVkZIVDFCN0hlTWhINHoxenV0bFE0aTV3VlM4dTF5a1pnc2k3eEdwRTBKYzRV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5d30ff8a9bc9",
-    "date": "August 31, 2026",
-    "publishedISO": "2026-08-31T13:43:30+00:00",
-    "acquirer": "Lilly to",
-    "target": "Merida Biosciences",
-    "headline": "Lilly to buy Merida Biosciences for up to $2.88 billion in autoimmune drug push",
-    "valueBillions": 2.88,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Lilly to buy Merida Biosciences for up to $2.88 billion in autoimmune drug push reuters.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX0g4M0x4Zk1xRGRkS2ktTmo0SEJKZ3dSc2NWQzk2Zm83TkVTODZHaGVsdmtocHBJMEdaQTZKX3pTVnA1a0pweHBlZDZPVWJTWDMyM0l0OTROcnJFdGhCMURwUUtvQlh3OVBwRHQyZjd6cmJxVk1qdE9NUkVMeDY4S2JZQWtFMVc3NGlNbFM3T0s3dHZBVmxWeXdzN05OSUFvZ2xCYQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2040,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4df21cc41d51",
-    "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T21:24:00+00:00",
-    "acquirer": "BitGo",
-    "target": "NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities",
-    "headline": "BitGo Acquires NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "BitGo Acquires NYDIG’s Institutional Trading Business, Expanding Derivatives and Financing Capabilities Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS29EWnRBVWhpUS1MNDdCZHZCQlN4NWhNTEsyREduRTZTWHI1VzFQSU1XM3cyMXI0bzZzbjZKSVJmWm5KMm1YSGw2ZXNyTkJ0QjBBc3o1RGQ1cWhfY3hjX1JnZklaQlpkOEtvTGdGWmVfdWVub1hVZzhGSjR5SWdPeE5xSnJ1bzdVLTBteFZjR3Z3djRaRTdtSU1JTVZSMGpELW1ISWNMMExLekdTVHZWX09YWDJta1ZwYWR6b0NpTzdYRElMckF5NnhzbVpmM2lnOUVyMnNMTXFaaVAyZUVnVmVmYkJGN2Z2ckh4R2xGWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 27, 2026"
       },
       {
         "stage": "Terms verified",
