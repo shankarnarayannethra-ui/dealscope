@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-f4190d4d3493",
+    "id": "news-0e34926935a8",
     "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T04:24:58+00:00",
-    "acquirer": "Williams",
-    "target": "Momentum Midstream",
-    "headline": "Williams Completes Acquisition of Momentum Midstream",
+    "publishedISO": "2026-09-04T11:00:01+00:00",
+    "acquirer": "Why Nvidia's 'defensive move' to",
+    "target": "Hugging Face is about much more than chips",
+    "headline": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Williams Companies",
-    "summary": "Williams Completes Acquisition of Momentum Midstream Williams Companies",
+    "sourceName": "CNBC",
+    "summary": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejFFLXU4bTZOc2lHTTI0QkVIc3VueTJtVXI0bjdRQkFhNzRkdW13RzRwbDMwZmNCOG9qazZ3SzBSSGRWR0pGXzhic0d0UU5tNjdDMlE0Zms4c3pkbEF2eHJkZkoxM24wZGFKeURMM0lreW9seS14MjVrNmNQb0VpRV9RNDZVQkZiQWFJRm05dXdBUDg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0FiNkhvS2wyMUhqdFFKR2RCdkRRbGl0VXZ5Y3Uwc3lOLVZrZFVuVUlIelkyLXoxVEJRVkhHTm9KOVZBXzNCallnell5MVg1clhwMWhRVExfUGRuLWdTQWxCRnVSdDRETUpOYjN1LVdlZEVpTEHSAXtBVV95cUxQNWNHaE1RcFhTVGpWSVFHajMxQjhrTklWSFotSmo2S1ZVWjFBOXYxMTc4M09HOVlCWVQ3cGhfM18zSE44X19qZ2FOWlYxbzVCT1NqWTZ4MEFNMjV6dm5pZzRVbkx5bVdZMVRlbjVpMy1weEZJeWE2RGtuWGc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-15e13f6251f3",
+    "date": "September 4, 2026",
+    "publishedISO": "2026-09-04T11:00:00+00:00",
+    "acquirer": "Weekly Rundown: LeanTaaS",
+    "target": "care transition platform Aidin; Hims expands to Australia",
+    "headline": "Weekly Rundown: LeanTaaS acquires care transition platform Aidin; Hims expands to Australia",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Healthcare",
+    "summary": "Weekly Rundown: LeanTaaS acquires care transition platform Aidin; Hims expands to Australia Fierce Healthcare",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEhHM0xFTTdLdWE5TUNPZnFkUW5FLXJhNVVndDdKSElBWVRVVERhT3VNNlpKOFJFRHpwZE1Nd2loT0xBYWMybmNrR1BYVDBqODJLTmltdWtZOGdRNzhvcU90QnptMHM3TkNjUWVpN2xzM0NxeE95N2wyLW1vV2NkNEdjWl9sTDQ5eGRlNWtMM1F1WEhZRzE0T3J6c0YwVDNXZF9tX1gtMzN0R3c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nycfc.com",
-    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick nycfc.com",
+    "sourceName": "New York City FC",
+    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick New York City FC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -109,81 +184,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3NOb2JmU3BuUm1DX0JrdXkxTFhWMlg4RHFlRW9vWlZaekU2alNjd0FwOFFBMzVkX2FyVHZwd3dSSHFvZnlPeUJ4bFpEM2I2QVlRZk5adVhkSXg2NllJbDNyMXRZakRkU0F2LW9hZ3Qwd1lncEhlNmJhU1NqYkRic1FMWHF5cTRiaGdvUWlRNHJVbVRiUG43WGlNUTEwbzBMUjlsdVVXSGc3TXA1cFM0MTZ5ay1HejFr?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a185093c5485",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T20:05:00+00:00",
-    "acquirer": "Flex to",
-    "target": "EPC Power, Adding Leading Power Conversion Capabilities",
-    "headline": "Flex to Acquire EPC Power, Adding Leading Power Conversion Capabilities for AI Data Centers and Grid Applications",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Flex to Acquire EPC Power, Adding Leading Power Conversion Capabilities for AI Data Centers and Grid Applications PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc191d3Zkal9xb0xJUlFlY2V1cHRCTmpJVHhYa1RTZWxQVzlLR2lKNVp1YXB2bTFMUHpHdUw3LWZ2TnZfWlVoaXlVaUdCMjE0X3JLRDQ2UVlVZjVwSHhFTUNrcXRqaGZDQWFXRHIzRHJaek82NWNTWW82ZVJ6NTRaWnVPRVJsa2tVaU02SDRTelFNSldteGRvYlAwMFBLS0tQR2pjR3hOajg5M1RYb2RzV1Y5Y1Nwc3JuYVFwaTNmUXVnNV9ld2FaNks5MmRpVk1ZSkZaR3FiQkFQOTFfMHpJZFUtWWtEMjREVnBnOTZ6UTBnWDRJeWdsdm5VVjA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,6 +451,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5a55fe2020e3",
+    "date": "September 3, 2026",
+    "publishedISO": "2026-09-03T15:54:00+00:00",
+    "acquirer": "ServiceNow",
+    "target": "Israeli AI startup Sweep in deal estimated at hundreds of millions",
+    "headline": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "calcalistech.com",
+    "summary": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions calcalistech.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SeVUwXzBscDhKMmFoMDExR0x0M19LRTRXMkhRSGNpaEFMYnBXeFprV0xBYS16Um9ERy16bkxoRTNRUFRQckFKbktNdjIzRVJoTHV6VVB3TDFJRDE5UHU0TXhFLTdnNmkz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-1157dbeea5da",
     "date": "September 3, 2026",
     "publishedISO": "2026-09-03T15:47:23+00:00",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "sourcenm.com",
-    "summary": "New Mexico groups, residents call on state leaders to buy stake in state’s largest electric provider sourcenm.com",
+    "sourceName": "Source New Mexico",
+    "summary": "New Mexico groups, residents call on state leaders to buy stake in state’s largest electric provider Source New Mexico",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Houston Public Media",
-    "summary": "Cinema preservation group secures enough funding to buy Garden Oaks Theater Houston Public Media",
+    "sourceName": "houstonpublicmedia.org",
+    "summary": "Cinema preservation group secures enough funding to buy Garden Oaks Theater houstonpublicmedia.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -601,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9a1ce4860f1c",
+    "id": "news-c9d4fc1d32d6",
     "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T19:14:24+00:00",
-    "acquirer": "Nexus Mods",
-    "target": "SteamDB",
-    "headline": "Nexus Mods acquires SteamDB",
+    "publishedISO": "2026-09-02T19:41:20+00:00",
+    "acquirer": "FC Dallas",
+    "target": "Nigerian Winger Daniel Job from Kongsvinger IL",
+    "headline": "FC Dallas Acquires Nigerian Winger Daniel Job from Kongsvinger IL",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GamesIndustry.biz",
-    "summary": "Nexus Mods acquires SteamDB GamesIndustry.biz",
+    "sourceName": "FC Dallas",
+    "summary": "FC Dallas Acquires Nigerian Winger Daniel Job from Kongsvinger IL FC Dallas",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkWngtQ3RscGlKUElrekd5dGd3c1g5TEw3WkpZcUxJUUdFZzAxMUZpVzNHdWJ4NXpwRTZaSHFvQk1ZNVJEVjJTdUhxOU9Vd3c4UTNxcWVZUWNuNVdSWEItbUJDQ0cyNTI5?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXlKTXlHQzM4YnlJa0hjVndPT2ctT1JUdXhjcm9xZTBBTmlLZW5sNzFqVXRxbDUxUkRXOGc5RVBjaDQ0ekZsNjVFXzcxRWhLZUViaGw4Y3lILVRlNU9tdS1jZUttUW5BRnJiRWYzMWVzZXdsNGJCVGJPdFZvWGltb1hhaDhnUDkzU1luOXRYTVpleWUyUDl3NHIwaw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Publishers Weekly",
-    "summary": "U.K.’s SPCK Group Acquires Eerdmans Publishers Weekly",
+    "sourceName": "publishersweekly.com",
+    "summary": "U.K.’s SPCK Group Acquires Eerdmans publishersweekly.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ESPN",
-    "summary": "Stan Kroenke to buy Angels; record $4B valuation, sources say ESPN",
+    "sourceName": "espn.com",
+    "summary": "Stan Kroenke to buy Angels; record $4B valuation, sources say espn.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1309,81 +1384,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2xnUnlyWF9ZQ3BoMWNURm1CbGR5d004NVdCUUZleWJDR1k3dkcxVkhoNFF0UjdaRDhtMDl2eEtXel9JVkdhUGhKOEJjNDFUR3YtTmpfWVRTMHdmTXMwYWt4Q18tZlZ1TjFYNWtFYURxb29lU214MmFRTE9CcnI3cFMzZDVCUko5Mk8zX1hIVWFtQWwwVmc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-446370481b3a",
-    "date": "September 1, 2026",
-    "publishedISO": "2026-09-01T17:07:25+00:00",
-    "acquirer": "Chicago Fire FC",
-    "target": "Norwegian Defender Andreas Hanche-Olsen from Bundesliga Club Mainz 05",
-    "headline": "Chicago Fire FC Acquires Norwegian Defender Andreas Hanche-Olsen from Bundesliga Club Mainz 05",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Chicago Fire FC",
-    "summary": "Chicago Fire FC Acquires Norwegian Defender Andreas Hanche-Olsen from Bundesliga Club Mainz 05 Chicago Fire FC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjlINjE1V1ltbnFwZGs3NUlZakZpWnM4M21UdjFFMGtZWkpXQlBTOWRna3NxdjJPUTJ5dW1HcTdTYnVWakpWdWlCSmljcVJKRFJld2xfczZuWjdFMWNHZ0NQWi1rbDl0dW9jNy03eFNNVG5GYTNpRmM1STJyRWhCMENFQko2TGJxSzgxNW9SbDMteDQ0eVZ2WjNmV2pmVjlWYmlRelZhVzlqQkwyQjYtTXRjeFJiWkk0UVVsNmVBVHZLSDVqcmV5SQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wastedive.com",
-    "summary": "GFL Environmental closes acquisition of Secure Waste Infrastructure wastedive.com",
+    "sourceName": "Waste Dive",
+    "summary": "GFL Environmental closes acquisition of Secure Waste Infrastructure Waste Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
