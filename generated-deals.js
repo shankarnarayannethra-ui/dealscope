@@ -526,6 +526,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-aea76dc73382",
+    "date": "September 3, 2026",
+    "publishedISO": "2026-09-03T17:03:05+00:00",
+    "acquirer": "Chicago Fire FC",
+    "target": "$100,000 in General Allocation Money from Portland Timbers",
+    "headline": "Chicago Fire FC Acquires $100,000 in General Allocation Money from Portland Timbers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "chicagofirefc.com",
+    "summary": "Chicago Fire FC Acquires $100,000 in General Allocation Money from Portland Timbers chicagofirefc.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEpPTTJBdmM5dHhQUS15cHpITDRVZ3pwZmhUUW1GdzNkUndhNUVJRTJwM2F4alJQVWVhdUlydzg0U2xHNmZSZmpXM3lnWkJUdkpBZ0RrR1pUTXZid241SmpsOWNnUmdBMzJRZm5feUR0VGNsQUN5bUpCT3BOSHVvTHpPU3dLSGRfVmFkdFpnTVFFZjJfVzhzVmZiQllITC1zS0xvSTV2c0lEWXdlS29wcXc0dTlsWTRI?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5a55fe2020e3",
     "date": "September 3, 2026",
     "publishedISO": "2026-09-03T15:54:00+00:00",
@@ -603,7 +678,7 @@ window.generatedDeals = [
   {
     "id": "news-99f847841e3d",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T13:29:52+00:00",
+    "publishedISO": "2026-09-03T15:10:00+00:00",
     "acquirer": "Nvidia",
     "target": "AI Platform Hugging Face",
     "headline": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion",
@@ -1201,81 +1276,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-892c54ce95e9",
-    "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T12:07:39+00:00",
-    "acquirer": "KKR to",
-    "target": "A1 Garage Door Service",
-    "headline": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say",
-    "valueBillions": 2.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzBsYXlGY0dqSEdBMnJCNHNJaHo2YUtSNTRIaEcxTFd6dVIxOHhDWDl2TlVEREVYOE1WcEs3dE5IRHYyVXE3TDE4S0pBeHd4SG9MUjVfdzlaTWNLX3JWODU4VEFWS25IdEtnb1BKeHQ2ejU0NFYzZ3dGdmIwajRwc2lVclEwcXRYZ29OOVlYUTFrbmM2dFMzU2N5aWVwN3JHSVJtUDVqM01JTzBfRWd1amZLc3V0QV9Mdncw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-3373031d3a28",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T10:30:00+00:00",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FreightWaves",
-    "summary": "Descartes acquires Extensiv for $120M FreightWaves",
+    "sourceName": "freightwaves.com",
+    "summary": "Descartes acquires Extensiv for $120M freightwaves.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Insurance Journal",
-    "summary": "Aon Acquires USI Insurance From KKR in $17 Billion Deal Targeting Middle Market Insurance Journal",
+    "sourceName": "insurancejournal.com",
+    "summary": "Aon Acquires USI Insurance From KKR in $17 Billion Deal Targeting Middle Market insurancejournal.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2026,9 +2026,9 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-47ee6b692f93",
+    "id": "news-81e06a33f110",
     "date": "August 31, 2026",
-    "publishedISO": "2026-08-31T10:45:00+00:00",
+    "publishedISO": "2026-08-31T10:45:36+00:00",
     "acquirer": "Lilly to",
     "target": "Merida Biosciences to advance treatments",
     "headline": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases PR Newswire",
+    "sourceName": "Eli Lilly",
+    "summary": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases Eli Lilly",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,7 +2058,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ3RNRXE2R3BKZU9VZ1NrcFVjWXZtNlY0Y0tIUWN2RHhlZ0ZmaDROZUV1aGdxT0lTT1RwaVlJZFh4VmVDc3pEMnVtUXhzS3pYRk9CazkyeTBWMmd1UU5DU3o0aEZ0Y3RUMjlBbUNXZURIa2hiY01iTHBmY21obTRPOFlMSlBKUVFCMjExLVFCUHdsSTAwSTVXTk9NR2pPeGE0Wktva2J2TF9ZbWhtM09BblJXNEJRZjE5TWxTTjJlSDNVM3ZfU1NPSXRiSVRORUp1bzNJbkd5NklYdG9QbUQ4NUh4YXVRQi16U3BIczJ1QQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW5wVmVTd2RXdTltQ3pWeVR0X3FObkhIXzdfcmhIWXJEYXBldnFkRHhoOC00YzhObEVXNnYxOVkyVGhtZXpYa1M4eFZaQTZFaUpmS0M4WkxfbTRzWi1MNzh6b3BUVEc5ZmstODV5bnZXQnU1N2RtdVhvYzBhc0d0QWp1d3dGRjcxNUd4M1pjSV9mckxRSFgwSjluRjM1VVVMN2EyNVNnUy0wUnhONGpHMzRGTVJIbnJNbEMzUlRR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
