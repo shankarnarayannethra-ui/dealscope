@@ -526,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-aea76dc73382",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T17:03:05+00:00",
-    "acquirer": "Chicago Fire FC",
-    "target": "$100,000 in General Allocation Money from Portland Timbers",
-    "headline": "Chicago Fire FC Acquires $100,000 in General Allocation Money from Portland Timbers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "chicagofirefc.com",
-    "summary": "Chicago Fire FC Acquires $100,000 in General Allocation Money from Portland Timbers chicagofirefc.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEpPTTJBdmM5dHhQUS15cHpITDRVZ3pwZmhUUW1GdzNkUndhNUVJRTJwM2F4alJQVWVhdUlydzg0U2xHNmZSZmpXM3lnWkJUdkpBZ0RrR1pUTXZid241SmpsOWNnUmdBMzJRZm5feUR0VGNsQUN5bUpCT3BOSHVvTHpPU3dLSGRfVmFkdFpnTVFFZjJfVzhzVmZiQllITC1zS0xvSTV2c0lEWXdlS29wcXc0dTlsWTRI?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-5a55fe2020e3",
     "date": "September 3, 2026",
     "publishedISO": "2026-09-03T15:54:00+00:00",
@@ -678,7 +603,7 @@ window.generatedDeals = [
   {
     "id": "news-99f847841e3d",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T15:10:00+00:00",
+    "publishedISO": "2026-09-03T13:29:52+00:00",
     "acquirer": "Nvidia",
     "target": "AI Platform Hugging Face",
     "headline": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion",
@@ -990,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "shell.com",
-    "summary": "Shell completes acquisition of ARC Resources shell.com",
+    "sourceName": "Shell Global",
+    "summary": "Shell completes acquisition of ARC Resources Shell Global",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1234,6 +1159,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWZVeEdwQzkwLW1MUkhYZnF3clNQaWt0bFlMb205RWJNTnhkd2IyUmxSbVI1bER2czEzVkx0WlduRlRZTWpxZVZ1bEFTREZ3M3Q1ZC04VlM5bk9ObWQ0d3kxcHNyb3FWbVpGNEdDRUl6N05NUC1hYkxKWm95ak9PQnpxanlyNG5kbHFnMHVmWWh3eGdqcWlURnRMeGNNYkNkSUN4blhIaXJCWndRYVptVklESWh0OVRFcEFoY1AzZlh1RGdLRmc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-892c54ce95e9",
+    "date": "September 2, 2026",
+    "publishedISO": "2026-09-02T12:07:39+00:00",
+    "acquirer": "KKR to",
+    "target": "A1 Garage Door Service",
+    "headline": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say",
+    "valueBillions": 2.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzBsYXlGY0dqSEdBMnJCNHNJaHo2YUtSNTRIaEcxTFd6dVIxOHhDWDl2TlVEREVYOE1WcEs3dE5IRHYyVXE3TDE4S0pBeHd4SG9MUjVfdzlaTWNLX3JWODU4VEFWS25IdEtnb1BKeHQ2ejU0NFYzZ3dGdmIwajRwc2lVclEwcXRYZ29OOVlYUTFrbmM2dFMzU2N5aWVwN3JHSVJtUDVqM01JTzBfRWd1amZLc3V0QV9Mdncw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Australia clears Kimberly-Clark's acquisition of Kenvue but requires Carefree, Stayfree divestment reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Australia clears Kimberly-Clark's acquisition of Kenvue but requires Carefree, Stayfree divestment Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
