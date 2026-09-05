@@ -76,81 +76,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a0ba04106ea3",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T16:30:47+00:00",
-    "acquirer": "Bloom Healthcare",
-    "target": "Christian Care House Calls",
-    "headline": "Bloom Healthcare Acquires Christian Care House Calls",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Hospice News",
-    "summary": "Bloom Healthcare Acquires Christian Care House Calls Hospice News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZm5wbXNEZG9lQzhzZUxoMnlmaHdJM2YwaGxFM3hiTnZ2T0l3X0l1UkF6RjhTbGlfUjRSRTR6dG5Na3REdFhWM0dkQmxycXZwem9IZVhIcVl4TGJFZnR2WDdpOTJVb2ZMOExraFJJR2p3ZUsyS01Ic2hjMnRpazllMElZcXJFWm85VVplVjdsc3lEUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ddaadb906713",
     "date": "September 4, 2026",
     "publishedISO": "2026-09-04T13:24:50+00:00",
@@ -334,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnB5QzRyOGVrOXpOTFAxWWxjVXJCcXdqaU5tTnBfRUpkSzFSSUQzbjVtSTR0T3hWelAxdTI1U1htYkRyNjRFTklzVDNNWHd5N2JnT1FFTmc3aW1IMGh6b0xocDVLdHgzNk5Ld3JNbURzUmU4cDQ5OEJNU295UnBhLVZrOC0wUUFOa0piVTJORnNNakE5N2Z5SHBfSVhVM0VR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-15e13f6251f3",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T11:00:00+00:00",
-    "acquirer": "Weekly Rundown: LeanTaaS",
-    "target": "care transition platform Aidin; Hims expands to Australia",
-    "headline": "Weekly Rundown: LeanTaaS acquires care transition platform Aidin; Hims expands to Australia",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "Weekly Rundown: LeanTaaS acquires care transition platform Aidin; Hims expands to Australia Fierce Healthcare",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEhHM0xFTTdLdWE5TUNPZnFkUW5FLXJhNVVndDdKSElBWVRVVERhT3VNNlpKOFJFRHpwZE1Nd2loT0xBYWMybmNrR1BYVDBqODJLTmltdWtZOGdRNzhvcU90QnptMHM3TkNjUWVpN2xzM0NxeE95N2wyLW1vV2NkNEdjWl9sTDQ5eGRlNWtMM1F1WEhZRzE0T3J6c0YwVDNXZF9tX1gtMzN0R3c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ff7c492482cd",
+    "id": "news-5a55fe2020e3",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T16:44:42+00:00",
-    "acquirer": "Charlotte FC",
-    "target": "2026 International Roster Slot From Austin FC in Exchange",
-    "headline": "Charlotte FC Acquires 2026 International Roster Slot From Austin FC in Exchange for $155,000 General Allocation Money",
+    "publishedISO": "2026-09-03T15:54:00+00:00",
+    "acquirer": "ServiceNow",
+    "target": "Israeli AI startup Sweep in deal estimated at hundreds of millions",
+    "headline": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Charlotte FC",
-    "summary": "Charlotte FC Acquires 2026 International Roster Slot From Austin FC in Exchange for $155,000 General Allocation Money Charlotte FC",
+    "sourceName": "calcalistech.com",
+    "summary": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions calcalistech.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS1d2WEZwWDhsQUNNOTk5Vm54YWVLNGVKQ3NOVTVMTGlHcjVib2lFcUxEdHVzeDU5a1BkRkR2NmZYRkRWN2dUNnpkREZVTTdTdkMwQVM5TGpYUmNVQXl1dzM3Zm44ZmpRN0hCRnRVbkhTSzZycHJlOExveXgzSVozTlRmREFNVERMUFo0OTJVVHk0dnZFRFlzNklVcm53cXhid2Z0X1B5c1ZvTm9FLUpyM2U4SGs0bExoem0xbWJNZ3pFdjZ3QzhvZ0x2YVBLUC1Xd0dfY0FzMDZVLUgwU1Y0RDhmN01fUHpIcjVRaDk1UjI?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SeVUwXzBscDhKMmFoMDExR0x0M19LRTRXMkhRSGNpaEFMYnBXeFprV0xBYS16Um9ERy16bkxoRTNRUFRQckFKbktNdjIzRVJoTHV6VVB3TDFJRDE5UHU0TXhFLTdnNmkz?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,13 +676,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-5a55fe2020e3",
+    "id": "news-99f847841e3d",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T15:54:00+00:00",
-    "acquirer": "ServiceNow",
-    "target": "Israeli AI startup Sweep in deal estimated at hundreds of millions",
-    "headline": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions",
-    "valueBillions": null,
+    "publishedISO": "2026-09-03T15:10:00+00:00",
+    "acquirer": "Nvidia",
+    "target": "AI Platform Hugging Face",
+    "headline": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion",
+    "valueBillions": 13.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -840,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "calcalistech.com",
-    "summary": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions calcalistech.com",
+    "sourceName": "WSJ",
+    "summary": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SeVUwXzBscDhKMmFoMDExR0x0M19LRTRXMkhRSGNpaEFMYnBXeFprV0xBYS16Um9ERy16bkxoRTNRUFRQckFKbktNdjIzRVJoTHV6VVB3TDFJRDE5UHU0TXhFLTdnNmkz?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjY5cThVdThiY190NHZEOExnc3hpX1ZZRWthY1hCanVMOGtYOHFjTXp5c254MkpKa19IcUdZR2c3LVFQRS1jTzRvRjhaTHVmRG9KYkJON3BxbWNkdlZqYnVrejBBb0FNeHNsWXVra0RTb1Nua05DVUtRVS1oQWxITE1XNTd0bENlcWtFdG93?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1126,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-f3792fcd727a",
+    "date": "September 2, 2026",
+    "publishedISO": "2026-09-02T16:45:46+00:00",
+    "acquirer": "Vertiv to",
+    "target": "Utility Innovation Group",
+    "headline": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push",
+    "valueBillions": 2.6,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "reuters.com",
+    "summary": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push reuters.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzJLNm1lTUp4Z004cGlyeTNXcmJMcVc5RzRPYjVSQ2ZPWFBaS2U3WWo1cUFRQ3JPT0ZORVVYTGEzNmhSQmZWZzdMZ2RxaDZiVUJaVUxMYXNHS051V3YxTWJqbURmYjU5a2NGeHpYdlZldmV5V3NFQlpmcnV3QzcxNGZ5eF94c3M1d0FTanpQNnBzaVpXRGFReGczb3lDTGdzLUxib1I0MUFZdWRXZUxpWmkwOU8yQWJVTGdLVUxnWnNoekMxZmc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-434509100a27",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T15:06:55+00:00",
@@ -1290,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Shell Global",
-    "summary": "Shell completes acquisition of ARC Resources Shell Global",
+    "sourceName": "shell.com",
+    "summary": "Shell completes acquisition of ARC Resources shell.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1351,13 +1276,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-892c54ce95e9",
+    "id": "news-3373031d3a28",
     "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T12:07:39+00:00",
-    "acquirer": "KKR to",
-    "target": "A1 Garage Door Service",
-    "headline": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say",
-    "valueBillions": 2.0,
+    "publishedISO": "2026-09-02T10:30:00+00:00",
+    "acquirer": "Vertiv Announces Agreement to",
+    "target": "UtilityInnovation Group to Accelerate Time to Power",
+    "headline": "Vertiv Announces Agreement to Acquire UtilityInnovation Group to Accelerate Time to Power for AI Data Centers",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1365,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say Reuters",
+    "sourceName": "PR Newswire",
+    "summary": "Vertiv Announces Agreement to Acquire UtilityInnovation Group to Accelerate Time to Power for AI Data Centers PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1308,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzBsYXlGY0dqSEdBMnJCNHNJaHo2YUtSNTRIaEcxTFd6dVIxOHhDWDl2TlVEREVYOE1WcEs3dE5IRHYyVXE3TDE4S0pBeHd4SG9MUjVfdzlaTWNLX3JWODU4VEFWS25IdEtnb1BKeHQ2ejU0NFYzZ3dGdmIwajRwc2lVclEwcXRYZ29OOVlYUTFrbmM2dFMzU2N5aWVwN3JHSVJtUDVqM01JTzBfRWd1amZLc3V0QV9Mdncw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbi1PbzdfNWttcDB0MDJ6d1dqblVDb0dyZ1BmYnBPR3JHME5jNG14d1JUWUhsSVpuOFVxcy1rR1B5ZHNTaV9tQVhONTdTZTJFWEJnM3kxb056Rk1oS05OdENCZWZFWmpGQi00MGJiVERUTlJrZGp3WXo0S2JMUmpBUE4yMTdnX1hsSkU1dHNmdEd1SlVGNGh6dFdhWGhfNVIxaFBfOXM4QlhiSU45VW9ESDdMckRaZjRuX1F3ZUhRanZBdWYtaHphWkZkWUl0LVdtMnE3dEhZeTRZbEhFUDUzclVxNDh3MzZTUGdPVENneHBDbWtzRmpuNw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-880b934c76c8",
+    "date": "September 2, 2026",
+    "publishedISO": "2026-09-02T07:29:32+00:00",
+    "acquirer": "Australia clears Kimberly-Clark",
+    "target": "Kenvue but requires Carefree, Stayfree divestment",
+    "headline": "Australia clears Kimberly-Clark's acquisition of Kenvue but requires Carefree, Stayfree divestment",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "reuters.com",
+    "summary": "Australia clears Kimberly-Clark's acquisition of Kenvue but requires Carefree, Stayfree divestment reuters.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQUQ0M3R6UWJfWkVpVy1MMG0yQlI3dms3Slo2NGItWmJNckpNUllua0pPR3FWMTE5aThMQm8tVF93OFkteG9xZzlPRzdOMHUxYmxIZUV3NUx4djJnMEYzWG1qeXZZdjVhblVOTW03YUh3WXQ5Nm0wM3dCd2JQczhKSl8wWFBYRlF4ZHllMTVLeno1R2dPelE5RGRTUVYwRHZ4VXZ3SFlldFlLRk9vcXB3QzRad0Z1bWNaVVpuQ0RQYUZ4WVQ2d3dkUHVxNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "freightwaves.com",
-    "summary": "Descartes acquires Extensiv for $120M freightwaves.com",
+    "sourceName": "FreightWaves",
+    "summary": "Descartes acquires Extensiv for $120M FreightWaves",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2026,9 +2026,9 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-81e06a33f110",
+    "id": "news-47ee6b692f93",
     "date": "August 31, 2026",
-    "publishedISO": "2026-08-31T10:45:36+00:00",
+    "publishedISO": "2026-08-31T10:45:00+00:00",
     "acquirer": "Lilly to",
     "target": "Merida Biosciences to advance treatments",
     "headline": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Eli Lilly and Company",
-    "summary": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases Eli Lilly and Company",
+    "sourceName": "PR Newswire",
+    "summary": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,7 +2058,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW5wVmVTd2RXdTltQ3pWeVR0X3FObkhIXzdfcmhIWXJEYXBldnFkRHhoOC00YzhObEVXNnYxOVkyVGhtZXpYa1M4eFZaQTZFaUpmS0M4WkxfbTRzWi1MNzh6b3BUVEc5ZmstODV5bnZXQnU1N2RtdVhvYzBhc0d0QWp1d3dGRjcxNUd4M1pjSV9mckxRSFgwSjluRjM1VVVMN2EyNVNnUy0wUnhONGpHMzRGTVJIbnJNbEMzUlRR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ3RNRXE2R3BKZU9VZ1NrcFVjWXZtNlY0Y0tIUWN2RHhlZ0ZmaDROZUV1aGdxT0lTT1RwaVlJZFh4VmVDc3pEMnVtUXhzS3pYRk9CazkyeTBWMmd1UU5DU3o0aEZ0Y3RUMjlBbUNXZURIa2hiY01iTHBmY21obTRPOFlMSlBKUVFCMjExLVFCUHdsSTAwSTVXTk9NR2pPeGE0Wktva2J2TF9ZbWhtM09BblJXNEJRZjE5TWxTTjJlSDNVM3ZfU1NPSXRiSVRORUp1bzNJbkd5NklYdG9QbUQ4NUh4YXVRQi16U3BIczJ1QQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports cnbc.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
