@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -376,81 +376,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-15e13f6251f3",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T11:00:00+00:00",
-    "acquirer": "Weekly Rundown: LeanTaaS",
-    "target": "care transition platform Aidin; Hims expands to Australia",
-    "headline": "Weekly Rundown: LeanTaaS acquires care transition platform Aidin; Hims expands to Australia",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "Weekly Rundown: LeanTaaS acquires care transition platform Aidin; Hims expands to Australia Fierce Healthcare",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEhHM0xFTTdLdWE5TUNPZnFkUW5FLXJhNVVndDdKSElBWVRVVERhT3VNNlpKOFJFRHpwZE1Nd2loT0xBYWMybmNrR1BYVDBqODJLTmltdWtZOGdRNzhvcU90QnptMHM3TkNjUWVpN2xzM0NxeE95N2wyLW1vV2NkNEdjWl9sTDQ5eGRlNWtMM1F1WEhZRzE0T3J6c0YwVDNXZF9tX1gtMzN0R3c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-32e67c297995",
     "date": "September 3, 2026",
     "publishedISO": "2026-09-03T21:11:08+00:00",
@@ -465,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nycfc.com",
-    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick nycfc.com",
+    "sourceName": "New York City FC",
+    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick New York City FC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -709,6 +634,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SeVUwXzBscDhKMmFoMDExR0x0M19LRTRXMkhRSGNpaEFMYnBXeFprV0xBYS16Um9ERy16bkxoRTNRUFRQckFKbktNdjIzRVJoTHV6VVB3TDFJRDE5UHU0TXhFLTdnNmkz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1157dbeea5da",
+    "date": "September 3, 2026",
+    "publishedISO": "2026-09-03T15:47:23+00:00",
+    "acquirer": "New Mexico groups, residents call on state leaders to",
+    "target": "stake in state’s largest electric provider",
+    "headline": "New Mexico groups, residents call on state leaders to buy stake in state’s largest electric provider",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Source New Mexico",
+    "summary": "New Mexico groups, residents call on state leaders to buy stake in state’s largest electric provider Source New Mexico",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRnY0dE5IWFVuZFJBZ2FNT3RmaXZXeXJteHlXZW5Ja3dGLXZLRlNXUEtzbVljS2Q5Q0syVmZOYWtocWFUNGZFVHlVR0pLeG9hd20wdGFNdVRybW1feWFqRktWVjRIdGJINVI3bHhQTXFDVlg2LXNfS2VTcEpiYU0xLVlfbTc2ZDA4U1FzWGdyYURGMVoxbi0zakFsWmU3MjY4TXZjWW4yVV9SZ1F4Rm1uakxESzg4eEtQc2FaX0RLcFRvQTVWWW1BcTNqTQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1009,81 +1009,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDg5YnJGV2RkU1RmcFZPbW5jUGZySkxNczd5R1Z2WldTcFVWWlBrX0NrRFQyb0RYUklDRmJsd2xfV2dad0thU0lVbExQWWtuQ0w2U3YxbHJzaTJWNm5OU3gwbXZMOEVUWFA3RUZhYk9JSkNUdm1jR1o5MVRGeGhBeFYyazlxd2VqMTljVWhlaWZlZjhNNzFWTVgyRktGLUJDVDRzUE9NT3ZKdVhzTUJaeEwxNFZGWGRPUUtDWGdVRQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f3792fcd727a",
-    "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T16:45:46+00:00",
-    "acquirer": "Vertiv to",
-    "target": "Utility Innovation Group",
-    "headline": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push",
-    "valueBillions": 2.6,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzJLNm1lTUp4Z004cGlyeTNXcmJMcVc5RzRPYjVSQ2ZPWFBaS2U3WWo1cUFRQ3JPT0ZORVVYTGEzNmhSQmZWZzdMZ2RxaDZiVUJaVUxMYXNHS051V3YxTWJqbURmYjU5a2NGeHpYdlZldmV5V3NFQlpmcnV3QzcxNGZ5eF94c3M1d0FTanpQNnBzaVpXRGFReGczb3lDTGdzLUxib1I0MUFZdWRXZUxpWmkwOU8yQWJVTGdLVUxnWnNoekMxZmc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1459,6 +1384,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXk1N1BVQlkxV200Z2xPZkE4T2JVX1hJa0RjaUVCS2UzVjJlb0RLc25UZU5kQzZCS2R4ZlNoeXUybkpZSVdfbTFHNWc5VkpJT3AxNlp3N3E5TVdBRlk0eVhrem9YcnZnYkZManJmNlFmc0NDLXNySW5MSjBnMEpNZjJmaGhDRjFOU0dRZzFPcmJuck9wc3UzS3dDOGt6cTFMSUpyMnJDMTIyaHJyZlhRRXpESExyMWRYMERF?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-90a386c1d7d3",
+    "date": "September 1, 2026",
+    "publishedISO": "2026-09-01T20:05:00+00:00",
+    "acquirer": "Palo Alto Networks",
+    "target": "Console to Agentify Security",
+    "headline": "Palo Alto Networks Acquires Console to Agentify Security",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Palo Alto Networks Acquires Console to Agentify Security PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1RGOU5mWHN4MkVZdG1tQ2Vnc0VFOFVid1lhZW45cTU0UWdQcFFibnIwaU56d2JoSkwxZjFGTnRIODF5RlFLWXJmVXVWQ0NnLTVFTFV0UFBmXy10U0dGeW5xSVMzQU1tNDZTS2UycmxySDA1UHh4QmlITkNxYUVZaExCSlhnR2RjRVo2MzRsZjhab0hsMThLdVRfdlRVRHRLbHB0aVZJWlBXcFJBRlhwMG1n?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
