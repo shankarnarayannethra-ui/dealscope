@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Real Salt Lake",
-    "summary": "Real Salt Lake Acquires 20-Year-Old Canadian World Cup Defender Luc de Fougerolles From Fulham FC Real Salt Lake",
+    "sourceName": "rsl.com",
+    "summary": "Real Salt Lake Acquires 20-Year-Old Canadian World Cup Defender Luc de Fougerolles From Fulham FC rsl.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -184,6 +184,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVRVXdBUTlESnU5VUMwLXo0RERZU2g4V0hMU0d5SHZhLThUTU5WUWFEOXlmbTl1b011UHFIVGlkOTc0WEt4YzNUbFJXRFRiaEE0YjRFN0pZMHgxNjNpQkFLbXV2T3VUdzJEN2pWYUhQSjhTMHZtM2pkMUt4TEx2TTVzQkxlSjZOZ1N2TlQ3U2U4dHZRb2phWWVBVVdnczlLZ3pJUjhFdzJZSEhRUnZfRUNaNFI1SGJVemhB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1e453b29f76c",
+    "date": "September 4, 2026",
+    "publishedISO": "2026-09-04T14:10:07+00:00",
+    "acquirer": "Casella",
+    "target": "Pennsylvania hauler seeking to triple transfer capacity",
+    "headline": "Casella acquires Pennsylvania hauler seeking to triple transfer capacity",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Waste Dive",
+    "summary": "Casella acquires Pennsylvania hauler seeking to triple transfer capacity Waste Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDFrbElDSEdCa2Z6dXJOck51RG9SMExaZWs1WU10UU42ZTFQWkU1dzZQdXFzTnNULTZqSlJyTUNrbWtxQ25WdWxFblQ5Q0VCVE9yZVhvMmI4LTFSU1hIWHYtT1RRTmpkNDlTLXpyd0RhUGdKb3A0RzhkLVFYNUdMWW9ibkNOSmJXNUYzOS1nNFI1bzk5azdtNg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-32e67c297995",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T21:11:08+00:00",
-    "acquirer": "New York City FC",
-    "target": "$175,000 in General Allocation Money and 2027 MLS SuperDraft Pick",
-    "headline": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick",
+    "id": "news-f4190d4d3493",
+    "date": "September 4, 2026",
+    "publishedISO": "2026-09-04T04:24:58+00:00",
+    "acquirer": "Williams",
+    "target": "Momentum Midstream",
+    "headline": "Williams Completes Acquisition of Momentum Midstream",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "New York City FC",
-    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick New York City FC",
+    "sourceName": "Williams Companies",
+    "summary": "Williams Completes Acquisition of Momentum Midstream Williams Companies",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,12 +633,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3NOb2JmU3BuUm1DX0JrdXkxTFhWMlg4RHFlRW9vWlZaekU2alNjd0FwOFFBMzVkX2FyVHZwd3dSSHFvZnlPeUJ4bFpEM2I2QVlRZk5adVhkSXg2NllJbDNyMXRZakRkU0F2LW9hZ3Qwd1lncEhlNmJhU1NqYkRic1FMWHF5cTRiaGdvUWlRNHJVbVRiUG43WGlNUTEwbzBMUjlsdVVXSGc3TXA1cFM0MTZ5ay1HejFr?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejFFLXU4bTZOc2lHTTI0QkVIc3VueTJtVXI0bjdRQkFhNzRkdW13RzRwbDMwZmNCOG9qazZ3SzBSSGRWR0pGXzhic0d0UU5tNjdDMlE0Zms4c3pkbEF2eHJkZkoxM24wZGFKeURMM0lreW9seS14MjVrNmNQb0VpRV9RNDZVQkZiQWFJRm05dXdBUDg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 3, 2026"
+        "date": "Sep 4, 2026"
       },
       {
         "stage": "Terms verified",
@@ -709,156 +784,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1dYREIzM1Btc0JjU3k2aGlaZGhuODBxQXRYTGtEZnFlTmpmeW4xWnY5RGJfbUEzaHhBQm1tMnBROHZDTDNNdDlpSmZuY2Z3UWxuWDkxSHl3WjVNZHJBVXFEVXZlcEV5RGc0cTNrXzIweVNHSXA4UlprOWFlQzNLMEwxaXJDVjFPTHlsbkdOZFBqQVlzdlR1YVdCeXFkY3Jpa2JkanJVYjJyRTFNaFFIbW1R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-aea76dc73382",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T17:03:05+00:00",
-    "acquirer": "Chicago Fire FC",
-    "target": "$100,000 in General Allocation Money from Portland Timbers",
-    "headline": "Chicago Fire FC Acquires $100,000 in General Allocation Money from Portland Timbers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Chicago Fire FC",
-    "summary": "Chicago Fire FC Acquires $100,000 in General Allocation Money from Portland Timbers Chicago Fire FC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEpPTTJBdmM5dHhQUS15cHpITDRVZ3pwZmhUUW1GdzNkUndhNUVJRTJwM2F4alJQVWVhdUlydzg0U2xHNmZSZmpXM3lnWkJUdkpBZ0RrR1pUTXZid241SmpsOWNnUmdBMzJRZm5feUR0VGNsQUN5bUpCT3BOSHVvTHpPU3dLSGRfVmFkdFpnTVFFZjJfVzhzVmZiQllITC1zS0xvSTV2c0lEWXdlS29wcXc0dTlsWTRI?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e21cd43f1023",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T17:02:33+00:00",
-    "acquirer": "RSL",
-    "target": "2026 International Roster Slot From Philadelphia Union",
-    "headline": "RSL Acquires 2026 International Roster Slot From Philadelphia Union",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Real Salt Lake",
-    "summary": "RSL Acquires 2026 International Roster Slot From Philadelphia Union Real Salt Lake",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1cwbFJweU1zS3h5S0RSb0UwUXhtSGxwaF9vdS1VajMtV2RIQWF0Z0d1S1RiNWZmZnZ6NVBSenpubFJIQ0VmelRTQnZiaTgzanVCRzNlQWpJT1Q3d1FaaVdTbjlWVjdEMXg4cjV6dnpTb25obzZCMTlySzVSdVBQd1ZUNjF0aVB6a015cWh6V2w2cktweGxn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1065,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Robot Report",
-    "summary": "NVIDIA plans to acquire Hugging Face and keep AI development platform open The Robot Report",
+    "sourceName": "therobotreport.com",
+    "summary": "NVIDIA plans to acquire Hugging Face and keep AI development platform open therobotreport.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1128,7 +1053,7 @@ window.generatedDeals = [
   {
     "id": "news-99f847841e3d",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T15:10:00+00:00",
+    "publishedISO": "2026-09-03T13:29:52+00:00",
     "acquirer": "Nvidia",
     "target": "AI Platform Hugging Face",
     "headline": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion",
@@ -1290,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Publishers Weekly",
-    "summary": "U.K.’s SPCK Group Acquires Eerdmans Publishers Weekly",
+    "sourceName": "publishersweekly.com",
+    "summary": "U.K.’s SPCK Group Acquires Eerdmans publishersweekly.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1951,6 +1876,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-90a386c1d7d3",
+    "date": "September 1, 2026",
+    "publishedISO": "2026-09-01T20:05:00+00:00",
+    "acquirer": "Palo Alto Networks",
+    "target": "Console to Agentify Security",
+    "headline": "Palo Alto Networks Acquires Console to Agentify Security",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Palo Alto Networks Acquires Console to Agentify Security PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1RGOU5mWHN4MkVZdG1tQ2Vnc0VFOFVid1lhZW45cTU0UWdQcFFibnIwaU56d2JoSkwxZjFGTnRIODF5RlFLWXJmVXVWQ0NnLTVFTFV0UFBmXy10U0dGeW5xSVMzQU1tNDZTS2UycmxySDA1UHh4QmlITkNxYUVZaExCSlhnR2RjRVo2MzRsZjhab0hsMThLdVRfdlRVRHRLbHB0aVZJWlBXcFJBRlhwMG1n?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-527e35574850",
     "date": "September 1, 2026",
     "publishedISO": "2026-09-01T18:32:00+00:00",
@@ -2101,13 +2101,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d1006745e14f",
+    "id": "news-38cb1ca6f1d6",
     "date": "September 1, 2026",
-    "publishedISO": "2026-09-01T13:29:05+00:00",
-    "acquirer": "Descartes",
-    "target": "Extensiv",
-    "headline": "Descartes acquires Extensiv for $120M",
-    "valueBillions": 0.12,
+    "publishedISO": "2026-09-01T14:31:12+00:00",
+    "acquirer": "GFL Environmental",
+    "target": "Secure Waste Infrastructure",
+    "headline": "GFL Environmental closes acquisition of Secure Waste Infrastructure",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "freightwaves.com",
-    "summary": "Descartes acquires Extensiv for $120M freightwaves.com",
+    "sourceName": "Waste Dive",
+    "summary": "GFL Environmental closes acquisition of Secure Waste Infrastructure Waste Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,7 +2133,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GLTZKSF9sVDdqSXdxdUJiTWN5blh6Yy1ERlY2dW04OUwtcUU3dWp3NzkxOHJFb1plOFpjckNDY05jSlh5cFlTb2FlSVlhNnBtSDlZOFlJeXROSktqMFdLQWh6SnhTRU5NanFDQlR6UURtS2czNjVUMVRn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUoyeUVtNk5ILTNHc083WVp2U0RJSkk0ZnQ2XzB4cWFKLVExbjc4U2x6MGhUZkJ5em1RZjRNZ2xaRFNEOWQyNkpBMkstR2FrY0ZzZk1IOC1MZmRwU3ZCVks5VTlWdDVvZ3k3bEwxVmRudVo3UzROdkNLS3JHZm1sRndqb0ZaWXhpSGNLR3J4a1pSeDZtRloxSUZmUVZ3anpzeW5ncw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2176,13 +2176,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9d847ec31cd2",
-    "date": "August 31, 2026",
-    "publishedISO": "2026-08-31T14:40:12+00:00",
-    "acquirer": "Aon",
-    "target": "USI Insurance From KKR in $17 Billion Deal Targeting Middle Market",
-    "headline": "Aon Acquires USI Insurance From KKR in $17 Billion Deal Targeting Middle Market",
-    "valueBillions": 17.0,
+    "id": "news-d1006745e14f",
+    "date": "September 1, 2026",
+    "publishedISO": "2026-09-01T13:29:05+00:00",
+    "acquirer": "Descartes",
+    "target": "Extensiv",
+    "headline": "Descartes acquires Extensiv for $120M",
+    "valueBillions": 0.12,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Insurance Journal",
-    "summary": "Aon Acquires USI Insurance From KKR in $17 Billion Deal Targeting Middle Market Insurance Journal",
+    "sourceName": "FreightWaves",
+    "summary": "Descartes acquires Extensiv for $120M FreightWaves",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,12 +2208,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWXh6UjRGRnVIMzMwaF9WM2R5SGRaNnZIT3NtbEtCS1F1ajVEUkRwem5sQVN5Z29LVURQeWpRVUN1MktYcWxXc3hrVkZIVDFCN0hlTWhINHoxenV0bFE0aTV3VlM4dTF5a1pnc2k3eEdwRTBKYzRV?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GLTZKSF9sVDdqSXdxdUJiTWN5blh6Yy1ERlY2dW04OUwtcUU3dWp3NzkxOHJFb1plOFpjckNDY05jSlh5cFlTb2FlSVlhNnBtSDlZOFlJeXROSktqMFdLQWh6SnhTRU5NanFDQlR6UURtS2czNjVUMVRn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 31, 2026"
+        "date": "Sep 1, 2026"
       },
       {
         "stage": "Terms verified",
