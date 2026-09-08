@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors finance.yahoo.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,13 +301,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1e453b29f76c",
+    "id": "news-4e8754f00ca0",
     "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T14:10:07+00:00",
-    "acquirer": "Casella",
-    "target": "Pennsylvania hauler seeking to triple transfer capacity",
-    "headline": "Casella acquires Pennsylvania hauler seeking to triple transfer capacity",
-    "valueBillions": null,
+    "publishedISO": "2026-09-04T16:09:49+00:00",
+    "acquirer": "EQT to",
+    "target": "Insurance Broker McGill in $2 Billion Deal",
+    "headline": "EQT to Buy Insurance Broker McGill in $2 Billion Deal",
+    "valueBillions": 2.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Waste Dive",
-    "summary": "Casella acquires Pennsylvania hauler seeking to triple transfer capacity Waste Dive",
+    "sourceName": "WSJ",
+    "summary": "EQT to Buy Insurance Broker McGill in $2 Billion Deal WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,82 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDFrbElDSEdCa2Z6dXJOck51RG9SMExaZWs1WU10UU42ZTFQWkU1dzZQdXFzTnNULTZqSlJyTUNrbWtxQ25WdWxFblQ5Q0VCVE9yZVhvMmI4LTFSU1hIWHYtT1RRTmpkNDlTLXpyd0RhUGdKb3A0RzhkLVFYNUdMWW9ibkNOSmJXNUYzOS1nNFI1bzk5azdtNg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ddaadb906713",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T13:24:50+00:00",
-    "acquirer": "Adena Health",
-    "target": "Fairfield Medical Center after antitrust scrutiny",
-    "headline": "Adena Health acquires Fairfield Medical Center after antitrust scrutiny",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Healthcare Dive",
-    "summary": "Adena Health acquires Fairfield Medical Center after antitrust scrutiny Healthcare Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2hGSUhzMV9MYVhWcTFpX1dUME9OVWpYUGhtM1dTY0hMbElYUGk2cmxUdVk3OTdzNF9INkppeDdRblRNTUZaNXcwSHpLVko5ZWoxTnA2WmlSVDhLd0xWd0FiTTRVWGN5NDY5Y0xnclBNV2hTLUh5VHB4UWJWckhtZi14Nmx5ZEFxdElKRXJYS1ZmRXVzZzV4YjlZOHc0UklhakRXU0ItSmloUTJaeV9ONjdPeElqQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnB5QzRyOGVrOXpOTFAxWWxjVXJCcXdqaU5tTnBfRUpkSzFSSUQzbjVtSTR0T3hWelAxdTI1U1htYkRyNjRFTklzVDNNWHd5N2JnT1FFTmc3aW1IMGh6b0xocDVLdHgzNk5Ld3JNbURzUmU4cDQ5OEJNU295UnBhLVZrOC0wUUFOa0piVTJORnNNakE5N2Z5SHBfSVhVM0VR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,87 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4e8754f00ca0",
+    "id": "news-0e34926935a8",
     "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T12:22:00+00:00",
-    "acquirer": "EQT to",
-    "target": "Insurance Broker McGill in $2 Billion Deal",
-    "headline": "EQT to Buy Insurance Broker McGill in $2 Billion Deal",
-    "valueBillions": 2.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "EQT to Buy Insurance Broker McGill in $2 Billion Deal WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnB5QzRyOGVrOXpOTFAxWWxjVXJCcXdqaU5tTnBfRUpkSzFSSUQzbjVtSTR0T3hWelAxdTI1U1htYkRyNjRFTklzVDNNWHd5N2JnT1FFTmc3aW1IMGh6b0xocDVLdHgzNk5Ld3JNbURzUmU4cDQ5OEJNU295UnBhLVZrOC0wUUFOa0piVTJORnNNakE5N2Z5SHBfSVhVM0VR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-15e13f6251f3",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T11:00:00+00:00",
-    "acquirer": "Weekly Rundown: LeanTaaS",
-    "target": "care transition platform Aidin; Hims expands to Australia",
-    "headline": "Weekly Rundown: LeanTaaS acquires care transition platform Aidin; Hims expands to Australia",
+    "publishedISO": "2026-09-04T11:00:01+00:00",
+    "acquirer": "Why Nvidia's 'defensive move' to",
+    "target": "Hugging Face is about much more than chips",
+    "headline": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "Weekly Rundown: LeanTaaS acquires care transition platform Aidin; Hims expands to Australia Fierce Healthcare",
+    "sourceName": "CNBC",
+    "summary": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEhHM0xFTTdLdWE5TUNPZnFkUW5FLXJhNVVndDdKSElBWVRVVERhT3VNNlpKOFJFRHpwZE1Nd2loT0xBYWMybmNrR1BYVDBqODJLTmltdWtZOGdRNzhvcU90QnptMHM3TkNjUWVpN2xzM0NxeE95N2wyLW1vV2NkNEdjWl9sTDQ5eGRlNWtMM1F1WEhZRzE0T3J6c0YwVDNXZF9tX1gtMzN0R3c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0FiNkhvS2wyMUhqdFFKR2RCdkRRbGl0VXZ5Y3Uwc3lOLVZrZFVuVUlIelkyLXoxVEJRVkhHTm9KOVZBXzNCallnell5MVg1clhwMWhRVExfUGRuLWdTQWxCRnVSdDRETUpOYjN1LVdlZEVpTEHSAXtBVV95cUxQNWNHaE1RcFhTVGpWSVFHajMxQjhrTklWSFotSmo2S1ZVWjFBOXYxMTc4M09HOVlCWVQ3cGhfM18zSE44X19qZ2FOWlYxbzVCT1NqWTZ4MEFNMjV6dm5pZzRVbkx5bVdZMVRlbjVpMy1weEZJeWE2RGtuWGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1051,6 +901,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-17e0de0416f9",
+    "date": "September 3, 2026",
+    "publishedISO": "2026-09-03T15:42:16+00:00",
+    "acquirer": "NVIDIA",
+    "target": "Hugging Face and keep AI development platform open",
+    "headline": "NVIDIA plans to acquire Hugging Face and keep AI development platform open",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Robot Report",
+    "summary": "NVIDIA plans to acquire Hugging Face and keep AI development platform open The Robot Report",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVhNZklDZUNsa3FUN0xyZW1tZ2FtYlktalR2akJZV1FNMDZhSi12VXFCbTJTWTVmajBPN0J3bVlPUG5DdHZuRC1jUGRfSG1GTi1KalpQV1Y1QkpYc0hHd3VvRHZrZmp1SjZnd0FYRU1aeE9tWl9sR2stb1dXaWRIRWEwOWtMQmJVaFl4UDlrTTQxVFFLOU5kS2lzMk9mV3g4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-99f847841e3d",
     "date": "September 3, 2026",
     "publishedISO": "2026-09-03T15:10:00+00:00",
@@ -1140,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Atlanta United FC",
-    "summary": "Atlanta United acquires up to $150,000 in General Allocation Money Atlanta United FC",
+    "sourceName": "atlutd.com",
+    "summary": "Atlanta United acquires up to $150,000 in General Allocation Money atlutd.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "gamesindustry.biz",
-    "summary": "Nexus Mods acquires SteamDB gamesindustry.biz",
+    "sourceName": "GamesIndustry.biz",
+    "summary": "Nexus Mods acquires SteamDB GamesIndustry.biz",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1534,6 +1459,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXNkV0tzaFJ2SHVnS3EwdnpKSElmaGNFcTF1aDgzZHpybm9vUFZNQlVtTy03WXlPMVV4ZndiaVVJcVo3UnZTdTh0anRSanNLZkcwa3dzR1ZFVGpyOENxaDZFMGVLWURSMTRMaUtadUJxVHY2UmZyOVpkdWduNXlrZWFXX3NORnJNdFdZX2hsa3VUS1E?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b2c36c409c6e",
+    "date": "September 2, 2026",
+    "publishedISO": "2026-09-02T14:00:00+00:00",
+    "acquirer": "Accrual to",
+    "target": "Puzzle, Expanding Its AI Platform into Client Accounting Services",
+    "headline": "Accrual to Acquire Puzzle, Expanding Its AI Platform into Client Accounting Services",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "Accrual to Acquire Puzzle, Expanding Its AI Platform into Client Accounting Services Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWloREF5TDBDc3VCakZmRXVwWndQbGNOWDFOMkhjaGZxSktNU1F5S2lnUFpwZW5taFhtYnNEbGEtcXVLcVVZWE8wODdDSDlwaERQMXd6REJIRXpXQkprMkF3YjhpblpoYS1XNXMyVEU2SUdlZUpkWUp2X25sclNUWktSZk9RR0E2UnZKaWxHVEd3SXNQRWJILXg1WUJQMHg4enk0TGc0cHl2Q095U0ZiTWN0NEZXZHI5czc4eGVjWjJETFlfT2g0Q2N4cXBEV1NQYnVCY1pSOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FreightWaves",
-    "summary": "Descartes acquires Extensiv for $120M FreightWaves",
+    "sourceName": "freightwaves.com",
+    "summary": "Descartes acquires Extensiv for $120M freightwaves.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
