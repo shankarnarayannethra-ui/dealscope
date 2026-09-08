@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "rsl.com",
-    "summary": "Real Salt Lake Acquires 20-Year-Old Canadian World Cup Defender Luc de Fougerolles From Fulham FC rsl.com",
+    "sourceName": "Real Salt Lake",
+    "summary": "Real Salt Lake Acquires 20-Year-Old Canadian World Cup Defender Luc de Fougerolles From Fulham FC Real Salt Lake",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -34,6 +34,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFdNMTAyV2pxb2Fjamlkb1RCOXZ2UXFrSmtfYWZZRllnbzQwTmFBMU9tY19DdnA3SzVHbjBfVVE4cjZ3MHVQOG15aGdoNFZTc19iMUZaUU03SGNMdDV6MzEwMm5mV05sVS1aODRZYXBncXBfd3pnbm9xVXg1dG16Y2R5Z2V2eDdmRHotNjY3OVRhZlFHTXpLb1pweWl6V3JrSXRDVkhpY1V4NmJFRW81dmN1TWg3V0ZDYVZxSUdoNA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8cac6ad45a3b",
+    "date": "September 5, 2026",
+    "publishedISO": "2026-09-05T15:07:28+00:00",
+    "acquirer": "Adobe Inc. (ADBE)",
+    "target": "Rilo to Accelerate Agentic AI — What It Means",
+    "headline": "Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEpGRDlTNGJuSVd0STFvOEFpN0Nrd3l4Y3dZbEo0Q0NSTXh1ZHZVNDJJZENSOTNMb0ZDaWN4X1ZLRGw5RFZDX2J1Z3pKWF83TjdKcjdoajhKM1JLV3ZWZ01yUXd3QWZVaGFLY08xVGNJaDhGVDcweDMzZmJDTXN6NGxTOGRoMjlXSk84Q21FQlN5R2hPY2ZB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -976,84 +1051,9 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-17e0de0416f9",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T15:42:16+00:00",
-    "acquirer": "NVIDIA",
-    "target": "Hugging Face and keep AI development platform open",
-    "headline": "NVIDIA plans to acquire Hugging Face and keep AI development platform open",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "therobotreport.com",
-    "summary": "NVIDIA plans to acquire Hugging Face and keep AI development platform open therobotreport.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVhNZklDZUNsa3FUN0xyZW1tZ2FtYlktalR2akJZV1FNMDZhSi12VXFCbTJTWTVmajBPN0J3bVlPUG5DdHZuRC1jUGRfSG1GTi1KalpQV1Y1QkpYc0hHd3VvRHZrZmp1SjZnd0FYRU1aeE9tWl9sR2stb1dXaWRIRWEwOWtMQmJVaFl4UDlrTTQxVFFLOU5kS2lzMk9mV3g4?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-99f847841e3d",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T13:29:52+00:00",
+    "publishedISO": "2026-09-03T15:10:00+00:00",
     "acquirer": "Nvidia",
     "target": "AI Platform Hugging Face",
     "headline": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion",
@@ -1126,6 +1126,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-d8a854528f85",
+    "date": "September 3, 2026",
+    "publishedISO": "2026-09-03T07:41:48+00:00",
+    "acquirer": "Atlanta United",
+    "target": "up to $150,000 in General Allocation Money",
+    "headline": "Atlanta United acquires up to $150,000 in General Allocation Money",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Atlanta United FC",
+    "summary": "Atlanta United acquires up to $150,000 in General Allocation Money Atlanta United FC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVZacGZaRHJIeTFFUUE4c0RQYUZPZUFVVV8teEgtY1RteHp5STllV2NLU3FaMWRpYThoMEdqQ1A1LVdBdUdpSXdZSWFZTGhvSEp3WVFkbERtU1I2aE5SMzc5QnBMUll2R0VHTXAtR1J1WHpqQmxOTjFrZXEyeFJSY3ZHZldGUVZXOU1rVTF3UWthM2FD?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9a1ce4860f1c",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T19:14:24+00:00",
@@ -1140,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GamesIndustry.biz",
-    "summary": "Nexus Mods acquires SteamDB GamesIndustry.biz",
+    "sourceName": "gamesindustry.biz",
+    "summary": "Nexus Mods acquires SteamDB gamesindustry.biz",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "publishersweekly.com",
-    "summary": "U.K.’s SPCK Group Acquires Eerdmans publishersweekly.com",
+    "sourceName": "Publishers Weekly",
+    "summary": "U.K.’s SPCK Group Acquires Eerdmans Publishers Weekly",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1459,81 +1534,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXNkV0tzaFJ2SHVnS3EwdnpKSElmaGNFcTF1aDgzZHpybm9vUFZNQlVtTy03WXlPMVV4ZndiaVVJcVo3UnZTdTh0anRSanNLZkcwa3dzR1ZFVGpyOENxaDZFMGVLWURSMTRMaUtadUJxVHY2UmZyOVpkdWduNXlrZWFXX3NORnJNdFdZX2hsa3VUS1E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b2c36c409c6e",
-    "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T14:00:00+00:00",
-    "acquirer": "Accrual to",
-    "target": "Puzzle, Expanding Its AI Platform into Client Accounting Services",
-    "headline": "Accrual to Acquire Puzzle, Expanding Its AI Platform into Client Accounting Services",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Accrual to Acquire Puzzle, Expanding Its AI Platform into Client Accounting Services Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWloREF5TDBDc3VCakZmRXVwWndQbGNOWDFOMkhjaGZxSktNU1F5S2lnUFpwZW5taFhtYnNEbGEtcXVLcVVZWE8wODdDSDlwaERQMXd6REJIRXpXQkprMkF3YjhpblpoYS1XNXMyVEU2SUdlZUpkWUp2X25sclNUWktSZk9RR0E2UnZKaWxHVEd3SXNQRWJILXg1WUJQMHg4enk0TGc0cHl2Q095U0ZiTWN0NEZXZHI5czc4eGVjWjJETFlfT2g0Q2N4cXBEV1NQYnVCY1pSOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
