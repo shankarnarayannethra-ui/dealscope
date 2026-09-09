@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-2c77da355fff",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T23:29:13+00:00",
+    "acquirer": "Chime to",
+    "target": "nationally chartered Stride Bank",
+    "headline": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump",
+    "valueBillions": 0.59,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXIxVTFQOUJmN3FqeU5HY0RxcTJvaDg4UmJ2V1ZNU0YzRWpheEhxRlRCLTdUYU5qZjRIWnlHNG96ZEV1SllyTWg0cUlPOXdlZktNT3BNZXVXTVBRWmQ0UHlGZXRJLU1jeFJjeVcyVWVRVVNJaV9vZ2xpb21XMHVqVnROOEdTVXdrWDV2ZXR3UDlYMWNWNUgxRUY4d0VPcDlha2RFVVpGc1U5cWRmcFdVWUkzOXZ6c050T0h0WnVwYw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3d717b004f6e",
     "date": "September 8, 2026",
     "publishedISO": "2026-09-08T20:05:00+00:00",
@@ -76,13 +151,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-28c160c756cf",
+    "id": "news-de70fcdb8b1d",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T14:40:46+00:00",
-    "acquirer": "Circle",
-    "target": "Tazapay",
-    "headline": "Circle agrees to buy Tazapay for $400 million in one of its largest acquisitions to date",
-    "valueBillions": 0.4,
+    "publishedISO": "2026-09-08T19:00:00+00:00",
+    "acquirer": "Kalmbach",
+    "target": "Upper Sandusky grain facility from Mennel Mining Company",
+    "headline": "Kalmbach acquires Upper Sandusky grain facility from Mennel Mining Company",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CoinDesk",
-    "summary": "Circle agrees to buy Tazapay for $400 million in one of its largest acquisitions to date CoinDesk",
+    "sourceName": "Ohio's Country Journal",
+    "summary": "Kalmbach acquires Upper Sandusky grain facility from Mennel Mining Company Ohio's Country Journal",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3lqT2szNVRLVS02LVVSYVZ5b1dFNHJqLWl2RUdLQjMtS252TFVYSV9RWUp2TUktQWw4SHUzS0Z6U204VUNrVlBRa01fWE9rTm9EcHJfX1FpaWhKSUhjMXdQN2d6S05CMEhid0Y4am5Bc2N0RnM5eHQwaGVRWE9QYUk1V1dWS2xKazVIT2NDZi0wZlREUXNrekhFY1pLR3ctaFBpTXVKLVlJTWRtZFBsUnBvbHREUFFJWmo4?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0JRWU9yRkwwZnNrUFQzMmtlcTc2TUNlUWVmQVZUVzZtYjE4TDJqVjNhaUdzeS1saUY1QUNfbFZDa2NTNXV2WEJIYlp6RHJVS0dGdTRnTUJqVGs0MUo2bm9LbUpqLTZtX3RETXJqV2VHQlJYQl9ta01wOHFHQjBaVjhNX0UxR01wZjVhYXZDRVVteWlNSm9FVGlSbmpud3B5?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,13 +226,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-008191a544bd",
+    "id": "news-e761e6293942",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T14:21:00+00:00",
-    "acquirer": "GE Aerospace to",
-    "target": "Consolidated Precision Products",
-    "headline": "GE Aerospace to Buy Consolidated Precision Products for $11.75 Billion",
-    "valueBillions": 11.75,
+    "publishedISO": "2026-09-08T18:47:16+00:00",
+    "acquirer": "Beacon Behavioral Health Partners",
+    "target": "2 Texas Providers",
+    "headline": "Beacon Behavioral Health Partners Acquires 2 Texas Providers",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "GE Aerospace to Buy Consolidated Precision Products for $11.75 Billion WSJ",
+    "sourceName": "Behavioral Health Business",
+    "summary": "Beacon Behavioral Health Partners Acquires 2 Texas Providers Behavioral Health Business",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +258,232 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTdhQXpLS1I3NVhFWDBwTDRxSkx4XzZBV2Z6QVpaTWV3M2FuODBYc00zNVVZempnelJuSTJSZkJ5ZGdhYWJUbG9SbEdnLWl2RVAtZlRKdTVGYUlYNVJNODg5Uk9DNnp4NWdKSGluendPQmtZcGN4eERDOHVlQVhBc2tCSkNvdVNHbWFLRGRrbGNoQkhyNXE1bk5ZZ0FPX3pndlYxdC1TcTFHM0k5dDYyQ3R1cw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGJFZGljX2RHYTBHa1pNbllDVU95OU9zcjRvWUl2U0NJbnNmNXlTYm83OFl0aGdtcHJHT0JPRldYYUNZY0N5WFZacm1HR29tS3NXNTl3LXJDVVdXckZLb3NfalkyNlFDS0lZb1pILW5vYnlnTEl4T1A4WGxmMlBnNlpxRG5qY253bG5PZ0dieEFOUkludFpzWXE0Yw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-056d31df8a44",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T18:36:41+00:00",
+    "acquirer": "Auburn Engineering",
+    "target": "facility to centralize transportation research",
+    "headline": "Auburn Engineering acquires facility to centralize transportation research",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Auburn University",
+    "summary": "Auburn Engineering acquires facility to centralize transportation research Auburn University",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54NV92aFJueU9iQkxVcmZtaENqbUNZSnl4WVZyT0JhOWVrRDZQR0QtUk5xcHpFZnVQd3dXMDVPWnp6LUd1SmtaWHp3dV9XUm1PN0pxZnFrY3BLV2hRbWVEcWNjVTN6VExVSmRrcUhORlBNVkk1Y0gxcnZZX1o?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8ab8cca5b056",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T17:04:38+00:00",
+    "acquirer": "Atlas VMS",
+    "target": "CloseClear.ai",
+    "headline": "Atlas VMS acquires CloseClear.ai",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "HousingWire",
+    "summary": "Atlas VMS acquires CloseClear.ai HousingWire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YX3hWTlQ4dDNkWmlHN05jeUFCYW56MjNNOXF2MVdWYy1TY0puNWIzU3RIdjFCc0Vkc3NqRmxaeTk4R2RjdDVvVVFpaGhkNnlnS2c4ZXhvUFRWWDMzWERiX0E0dDk3UUE1V3UyeHVqT09KMFFLYy1uSlBR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-599f991c5f9e",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T13:09:46+00:00",
+    "acquirer": "GE Aerospace",
+    "target": "Consolidated Precision Products",
+    "headline": "GE Aerospace acquires Consolidated Precision Products for $11.75B",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "GE Aerospace acquires Consolidated Precision Products for $11.75B Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXJYZ2NoWGJTbUNGMXZHZmRrVnhRSkIzc05WMEd0SndMWS1TcF95eTRjcEJ6eFZvOTg5QkdPNG9QeWhTYkxiV1dsd2dvWGRMVXVrNlhzX3BwQ1N6a2tsS3k0LWhBNHp4LWVqamFhb1dCUDBEYTJfSHdLOUFHa290R0xHQkRQZGxDaEV6NGNZMTZkR2Q2TmJaUS1ENHI5bzJHal9PcGtqNTQzNy1jRUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -315,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Aviation Week",
-    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal Aviation Week",
+    "sourceName": "aviationweek.com",
+    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal aviationweek.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -484,156 +784,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR1hNVy02OFBWb09oUUpEc2F3UWtWSDZOckVXNkdUTm1BSl9zektvTUtqanJzOGlBWkpYbzg2c0x2dmx2SUUyai1ub3BqT0MzMTVoc1diU24zcWRqZlhCQWd4Q0hvZXgydEdETHIyX1k4VTR5MWNCeVo1MV9DOXoyT3l1bmdsSEdIMVhIYmFuREJjWmNaaFBCWThicGM2V0M3bVNUMWFPTU5YWVRSNTd4cXhkME1zRHpzM2p1d3FYRHpKa0VkTGtVenc1NU9VLXdtUVc2c3BoZVJweFJZeXlFd3Y3ellvSGhfUGxoTG1fRm1Vc0o4ZFNiMGp2UEFfb19kdHFqS2VJMA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-715f45a20f63",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T11:30:00+00:00",
-    "acquirer": "Six Flags",
-    "target": "Iconic ArieForce One, Bringing Fan-Favorite Roller Coaster Back to Life",
-    "headline": "Six Flags Acquires Iconic ArieForce One, Bringing Fan-Favorite Roller Coaster Back to Life",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Six Flags Acquires Iconic ArieForce One, Bringing Fan-Favorite Roller Coaster Back to Life PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNlBnZjVoRUI4d3NDdnNyOF9wWnhuV2JkTW9OcGNKSlNFc1lkV2JURWVBd3dKYWNfNm1sTGlWeGh6cldTVE45T3MxVnhLdk9aVURLN2hFRGJIREF5RHBGY0NQRE5CYzdMZnVIbVpJcmJWekJSalRZVjhEcHNVNTlMc29hbWNtSENxalp2c05ndEdMN25RNTR4bWhybDFXekZtZWZ4S3N6emNaOUlrME5oVjFuUW9nSUZqT0hRMldIa0pWMVE0T0JIY0w1cXlUQmZzWlRwWi00dW5BNGFGU1E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-803a621cca23",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T11:00:18+00:00",
-    "acquirer": "Florida Sports Ownership Company",
-    "target": "Controlling Interest Of Havoc",
-    "headline": "Florida Sports Ownership Company Acquires Controlling Interest Of Havoc",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Huntsville Business Journal",
-    "summary": "Florida Sports Ownership Company Acquires Controlling Interest Of Havoc Huntsville Business Journal",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOVY2QURTVUw4bGJ6TjJweFY3cElveklvS1BYUEJSazdOVkFWOVhRMDNtRFBHVS1OYWZob0ZZUkhrT2xySkdpVjRYNk1BdE5fVGJTMGpNQXc3azRVUXRGbjh3VFBKU0dPNndlVmtueVl3US1yb3JQX2tQYmk0ZHRBNGM3VDN2Q1NLdk8tNHZ2d1NqM3JrdGhvX05kd2djOHlZOUtuWkQ5T2xpcWtlNHpxUXh5N1JxNEZtSDcwY19nSEVncHJq?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -859,6 +1009,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnB5QzRyOGVrOXpOTFAxWWxjVXJCcXdqaU5tTnBfRUpkSzFSSUQzbjVtSTR0T3hWelAxdTI1U1htYkRyNjRFTklzVDNNWHd5N2JnT1FFTmc3aW1IMGh6b0xocDVLdHgzNk5Ld3JNbURzUmU4cDQ5OEJNU295UnBhLVZrOC0wUUFOa0piVTJORnNNakE5N2Z5SHBfSVhVM0VR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0e34926935a8",
+    "date": "September 4, 2026",
+    "publishedISO": "2026-09-04T11:00:01+00:00",
+    "acquirer": "Why Nvidia's 'defensive move' to",
+    "target": "Hugging Face is about much more than chips",
+    "headline": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips CNBC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0FiNkhvS2wyMUhqdFFKR2RCdkRRbGl0VXZ5Y3Uwc3lOLVZrZFVuVUlIelkyLXoxVEJRVkhHTm9KOVZBXzNCallnell5MVg1clhwMWhRVExfUGRuLWdTQWxCRnVSdDRETUpOYjN1LVdlZEVpTEHSAXtBVV95cUxQNWNHaE1RcFhTVGpWSVFHajMxQjhrTklWSFotSmo2S1ZVWjFBOXYxMTc4M09HOVlCWVQ3cGhfM18zSE44X19qZ2FOWlYxbzVCT1NqWTZ4MEFNMjV6dm5pZzRVbkx5bVdZMVRlbjVpMy1weEZJeWE2RGtuWGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1203,7 +1428,7 @@ window.generatedDeals = [
   {
     "id": "news-99f847841e3d",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T13:29:52+00:00",
+    "publishedISO": "2026-09-03T15:10:00+00:00",
     "acquirer": "Nvidia",
     "target": "AI Platform Hugging Face",
     "headline": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion",
@@ -1314,81 +1539,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a4704719c0ff",
-    "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T20:05:00+00:00",
-    "acquirer": "CDW to",
-    "target": "Lovelytics to Turn Customer Data into Business Value",
-    "headline": "CDW to Acquire Lovelytics to Turn Customer Data into Business Value",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "finance.yahoo.com",
-    "summary": "CDW to Acquire Lovelytics to Turn Customer Data into Business Value finance.yahoo.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkMzOWxxZmVYMnltTGIwYWVWRzlURFhLcXdUOWl0LUViXzg3RkNnVzczdEZiSjM1THVTWDlWWEhWMVRTa2JQbFd1VVRJS0xzLXlJTEw2YnFZUHVvTlhqY1RCMVpaRVRGUGpmZlA1ZDVWcGVoUGMtaTI5X0NWc0ZBcUhGMkdHUTJzaHV4c2FqRzBjc3NqZVBZS252dXI1MDdLTkE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 2, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1590,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Vertiv to buy Utility Innovation Group for up to $2.6 billion in data center push Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1609,81 +1759,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzJLNm1lTUp4Z004cGlyeTNXcmJMcVc5RzRPYjVSQ2ZPWFBaS2U3WWo1cUFRQ3JPT0ZORVVYTGEzNmhSQmZWZzdMZ2RxaDZiVUJaVUxMYXNHS051V3YxTWJqbURmYjU5a2NGeHpYdlZldmV5V3NFQlpmcnV3QzcxNGZ5eF94c3M1d0FTanpQNnBzaVpXRGFReGczb3lDTGdzLUxib1I0MUFZdWRXZUxpWmkwOU8yQWJVTGdLVUxnWnNoekMxZmc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-95d2e1c36463",
-    "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T16:36:35+00:00",
-    "acquirer": "FNBO to",
-    "target": "Colorado bank in $204M deal",
-    "headline": "FNBO to acquire Colorado bank in $204M deal",
-    "valueBillions": 0.204,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "FNBO to acquire Colorado bank in $204M deal Banking Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcnJYZkl5RFlGWkF0cWdFdW8zV215NkQyTHRnVmpWMC1XU2hMdWllWWRIT0pOaWYxNlNXTUFNOUcwMzdiTjdQVnQ5aHNPN05PTFdKMjNfQXd3VDZRUGZ1UFhmeWg5Wm1CaXlvT3Q2V3J2NHVKZkYtcTEwNm5Dc2pIaGNMX0Y4Ymh2QmNCenJPbWZEaXAxd3dz?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,81 +2026,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4398a2d6370e",
-    "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T13:18:28+00:00",
-    "acquirer": "Empower",
-    "target": "Milliman’s Retirement Administration Business",
-    "headline": "Empower Closes Acquisition of Milliman’s Retirement Administration Business",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Empower",
-    "summary": "Empower Closes Acquisition of Milliman’s Retirement Administration Business Empower",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlVuVV95NjRrd1h5Um5yTU55VHlaOTd1MXNOZ05qbVhRS3hfTU9DTFBqSmZaUDJfVW9QUklZYTV3dHM4WHpzMmZnMHVzZkJuRFFCNFJYUEhQTXNrN2t0dWtvbWxsTmxiUkR3Zmd6V0Jaci1UVzNJa0pHUXF3ZzFGelVjWEllenVpcE9GNk5ndGxRazhDdnpiWGowRmppR1J4bG12dVdMOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-59925fed094d",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T12:30:00+00:00",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say reuters.com",
+    "sourceName": "Reuters",
+    "summary": "KKR to acquire A1 Garage Door Service for around $2 billion, sources say Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
