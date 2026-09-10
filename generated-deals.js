@@ -76,6 +76,156 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-6b3a20abd00c",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T19:49:27+00:00",
+    "acquirer": "Envestnet to",
+    "target": "Vestmark, Expanding WealthTech Capabilities",
+    "headline": "Envestnet to Acquire Vestmark, Expanding WealthTech Capabilities",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WilmerHale",
+    "summary": "Envestnet to Acquire Vestmark, Expanding WealthTech Capabilities WilmerHale",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2RxOFQ0bjJJQjdHaEN1dGljZ212RGlubFlaVHJzcUpGU0hGb2JNNDFYaS02V0picHZaX1R5cjFtei16cFd4MkNKaVllNWdBWTVMaWRubEVTYU8xRFJua0dJN2U5aEl4VHFLaEpzRlJBNUtsVm81ZHFFN0tXb3FYM1NlMGp4TE9OU3hyd2dCWmc4OTJKZEtBcXJpa1pLcEdYdDlBcEUwQ3U4TWxUNHhoei1Ib0hIYjQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-07c981c51b4d",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T19:26:05+00:00",
+    "acquirer": "Envestnet to",
+    "target": "Vestmark in High-Profile WealthTech Deal",
+    "headline": "Envestnet to Acquire Vestmark in High-Profile WealthTech Deal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "401kspecialistmag.com",
+    "summary": "Envestnet to Acquire Vestmark in High-Profile WealthTech Deal 401kspecialistmag.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX21FQ2tpalJIcXRpbWd6d1hXcmk3SlB5VkhYTjZfbVZWbjhvUUJCMmJxUWI3eDZRWVI1V0ZMZnRhMHBqSUQyXzFMMjEzWDRDZXVTR0hQbHdmdkkyQ2plelVsSDUzR3o1VE9xYmdvemFKZ3IxQ1R4QXNNUDFJY3BtUlc4MGEwQ1FDTzRYYnRTdVU1dDJycFE0UUdzNFlTeWRN?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-803bfac18c4f",
     "date": "September 9, 2026",
     "publishedISO": "2026-09-09T18:50:11+00:00",
@@ -90,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Circle to buy Tazapay for $400M Banking Dive",
+    "sourceName": "bankingdive.com",
+    "summary": "Circle to buy Tazapay for $400M bankingdive.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,9 +301,84 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-851905b8cc45",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T18:09:14+00:00",
+    "acquirer": "Private Equity Firm",
+    "target": "Plant City Manufacturer",
+    "headline": "Private Equity Firm Acquires Plant City Manufacturer",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "TBBW",
+    "summary": "Private Equity Firm Acquires Plant City Manufacturer TBBW",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTSmFYLVNhc3VjZDV2S0NvMUtiRXVIdnVjNGhIWVpNM0VHVnVUaTFFVWFTLXNRVFBxalNOZ2NFV1BCT0JZQ0Z2SkkzamQ5NXV2TmoyU2ExVnZhcWZiekdZZm0tZHc0X1I5cGg2UGJtb2d6UQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7028ba3e80da",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T17:34:18+00:00",
+    "publishedISO": "2026-09-09T17:59:58+00:00",
     "acquirer": "Scoop: Meta",
     "target": "Swedish AI startup Stilla.ai",
     "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
@@ -240,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Tribal Business News",
-    "summary": "Mi’kmaq Nation acquires 83 acres beside tribal housing Tribal Business News",
+    "sourceName": "tribalbusinessnews.com",
+    "summary": "Mi’kmaq Nation acquires 83 acres beside tribal housing tribalbusinessnews.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,13 +526,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6dfc5b3a7f6a",
+    "id": "news-7499ceb4a44b",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T16:00:00+00:00",
-    "acquirer": "ENVESTNET TO",
-    "target": "VESTMARK, EXTENDING ITS CAPABILITIES TO MEET THE ADVISOR MARKET'S GROWING DEMAND",
-    "headline": "ENVESTNET TO ACQUIRE VESTMARK, EXTENDING ITS CAPABILITIES TO MEET THE ADVISOR MARKET'S GROWING DEMAND FOR INCREASINGLY SOPHISTICATED TRADING AND TAX SOLUTIONS",
-    "valueBillions": null,
+    "publishedISO": "2026-09-09T13:06:00+00:00",
+    "acquirer": "Analog Devices to",
+    "target": "Alif Semiconductor",
+    "headline": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion",
+    "valueBillions": 1.35,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "ENVESTNET TO ACQUIRE VESTMARK, EXTENDING ITS CAPABILITIES TO MEET THE ADVISOR MARKET'S GROWING DEMAND FOR INCREASINGLY SOPHISTICATED TRADING AND TAX SOLUTIONS PR Newswire",
+    "sourceName": "WSJ",
+    "summary": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,82 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPWG5ER3FIZUxucS13d0piZ2lkMkxQeG01b3NTa3RnakdpSzRQbDhrVlJ0Z2ZRYVY2RVByWnZUYTdFZ3ZNVDVLc3M1MU1ReTZsam9JT3pPakZQRFB1eExtQ3FXa2FkUENHMDZjNUgxWnNSSS1JS19qVkdsd091bmtfVG9oN1VOd2UzSVV1V2J6dzVEQlhJaEl6MGc4Slh6SzFONlVFZXFIQXBRcHhVaWZyRUZaNk41d0hQMUZmVTJuLTVodmhnaDhNYXg1N2xKZldDZ2FjVjNPcmtqZFFEeXNpVmFRZVNvZFQ1LUFYaTBLZ21yU09vM3ZPZTFGaTFoMzBjOUxMeVNwc1pWbkpaUTVzQmFadE9tN3JKUmZKYnctcWRfX0x4NkViT0dQYVpiWXRzUDRaVUJaVQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-49fee9f7230f",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T15:03:58+00:00",
-    "acquirer": "Treasury Department to",
-    "target": "back up to $6 billion in longer-term debt, triple the normal level",
-    "headline": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
-    "valueBillions": 6.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmhJMGVCa0tNRlFoMFRSdkl2Nm84STZYLWRBcVJhR0Nsb3FpZTBnM1BhN1Rybk9tZjVldE5jcW04R3hoTEFXRUgtV2JLLVBtMHJ5Q09ZQWhSR21sZGNURG5QSnItdkZWVXdVMkdscWdDaTdRa0tKQmd1WDJiQXZPZ2JTclBjOEp4UUk1TFRmam1xTFFZZHZWUXdLRDNaOVlvWXpVME9SYXZua1hoNnE4R0t3eHFOVGNtcGtSeHRUNNIBxAFBVV95cUxPOUVVdVBYNHNxenBTWWJSTDZJOWtlU3c1a2R3QV9uMEtoTml6cFkwYzRfSTB2NkJBVzlnaEpFaWh2cGJpT0xfRWdaVHVaRWRzOE92aEVHeUNmb1lyejVFMGVLWmNrMmxzbXFxay1kMktSSDZWdE5FUVh1aHdHTkFNb1pKSXZOcUlUNWVNRjk5bGJoZTVWSVd6dXhwRVRBS012alhNYXYxMW1NenJZMDVoQ3cwQXVCVzZNQUVxUV8yckk5MlNt?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzA3Yk9Dc0tyY0ltcW83OHVKS01FSTNiYS1DVHBFVTAzVzQ1b0d4ZDRKdjlkdXV6dWtaV2RwZzI4aEkxakEzNWF2OXhtQ2RQU0FTLW4yRXBXVGJnLVV0YnRlano1RV9sZ29XWUdfNWdFYjAtZFJ3dE5qWGRQR3FNY1lJZ0t4Y3RzRlVGNmk4OXQtQlMyd3BFbHNHMA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -690,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Chime to buy Stride Bank for $590M Banking Dive",
+    "sourceName": "bankingdive.com",
+    "summary": "Chime to buy Stride Bank for $590M bankingdive.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -709,81 +859,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM291YVVkeXNoWG9IVl9sTEdWZlhLa3I1bVZpS3dfYzd5eXhTU1UwajBYUDltMG5yOW9FOG13OUZsR1dfRzhiMzdILU5LeVZoaV9BdWtidjRYXzJ0Y01TejUweDhKcmxoSXgyZmxXaTVrVDlmSE5sQThjWlB2Z0I4M1liWUw4bVlPM1ZEenViQW5QUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-87ac9fec86db",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T00:57:10+00:00",
-    "acquirer": "Land Back: Mi’kmaq Nation",
-    "target": "More Than 80 Acres",
-    "headline": "Land Back: Mi’kmaq Nation Acquires More Than 80 Acres",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Native News Online",
-    "summary": "Land Back: Mi’kmaq Nation Acquires More Than 80 Acres Native News Online",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkF0dnc4cU1kWnowd1RGejlaZkZoUzNaWFlLOW9NTnloNlIxMDRrS3EyTEg4Q1JHcU5KeEkyWkYzREtrb3JGN3NfRkFyQWFKcWU0NGxPdXpJc01lclNpTFVpSVBkUGdSdVh5eWk2ejFSQ1QwcjNiMUNXX3NnNWhGYzBsa2VrTmtuNXduSmdLaXBaTHpOOWlvQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2103,7 +2178,7 @@ window.generatedDeals = [
   {
     "id": "news-99f847841e3d",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T13:29:52+00:00",
+    "publishedISO": "2026-09-03T15:10:00+00:00",
     "acquirer": "Nvidia",
     "target": "AI Platform Hugging Face",
     "headline": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjY5cThVdThiY190NHZEOExnc3hpX1ZZRWthY1hCanVMOGtYOHFjTXp5c254MkpKa19IcUdZR2c3LVFQRS1jTzRvRjhaTHVmRG9KYkJON3BxbWNkdlZqYnVrejBBb0FNeHNsWXVra0RTb1Nua05DVUtRVS1oQWxITE1XNTd0bENlcWtFdG93?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d8a854528f85",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T07:41:48+00:00",
-    "acquirer": "Atlanta United",
-    "target": "up to $150,000 in General Allocation Money",
-    "headline": "Atlanta United acquires up to $150,000 in General Allocation Money",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Atlanta United FC",
-    "summary": "Atlanta United acquires up to $150,000 in General Allocation Money Atlanta United FC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVZacGZaRHJIeTFFUUE4c0RQYUZPZUFVVV8teEgtY1RteHp5STllV2NLU3FaMWRpYThoMEdqQ1A1LVdBdUdpSXdZSWFZTGhvSEp3WVFkbERtU1I2aE5SMzc5QnBMUll2R0VHTXAtR1J1WHpqQmxOTjFrZXEyeFJSY3ZHZldGUVZXOU1rVTF3UWthM2FD?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
