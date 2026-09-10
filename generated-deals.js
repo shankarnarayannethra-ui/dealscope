@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-7414b093f2b6",
+    "id": "news-dc61df2f3c3d",
     "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T09:30:00+00:00",
-    "acquirer": "The IPO That Asks You to",
-    "target": "AI Hype Today and Get Paid Years Later",
-    "headline": "The IPO That Asks You to Buy AI Hype Today and Get Paid Years Later",
+    "publishedISO": "2026-09-10T14:27:21+00:00",
+    "acquirer": "Salesforce",
+    "target": "Fin",
+    "headline": "Salesforce Completes Acquisition of Fin",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "The IPO That Asks You to Buy AI Hype Today and Get Paid Years Later WSJ",
+    "sourceName": "Salesforce",
+    "summary": "Salesforce Completes Acquisition of Fin Salesforce",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnlXZ3paUlVZSGRCZlVldVYwYXV2S1MyV3lUeXNJZ21TQ0lybDJSaWYzb3Y3VnBFN0dVOHB5U1RMT0Q1eXpXbmFrODNqaG9mU0Z0d2FtWERHRi05aDUtZGpqbnJLUnE3YkRlSklUd0d6Z3d2R0FyZEJsakF1d2NpNHEybkR2Z1BmS3pUNVRpMFkyQi00YkY5Ti11eWlMekZiOHVGWTFmSDV0ck0wRklIaHNuRkczMFk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDJJWmZLTzJPX3ZwcWV0dGhCVlpIQl9sQzBlOTl2M1o0TmxJSldLX1pHQnhpTElwVVhpQkRoRlNwOWhCRWh6VkNGb29OdkZuc1dfeTQ0S2RGSmRUbGU1aV9qdDNzeGtPYXRlUkh1cDhKNl9VckMwUVM4RWR1WnhXSjJXRlQ4TnB5Q2hUNktVb3RsdkhqNlNGQU01U1JHRjA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -78,7 +78,7 @@ window.generatedDeals = [
   {
     "id": "news-7028ba3e80da",
     "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T08:10:02+00:00",
+    "publishedISO": "2026-09-10T11:10:59+00:00",
     "acquirer": "Scoop: Meta",
     "target": "Swedish AI startup Stilla.ai",
     "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
@@ -109,6 +109,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-32f2dec05ee4",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T07:00:00+00:00",
+    "acquirer": "Constellation To",
+    "target": "Rhode Island State Energy Center (RISEC) From Shell",
+    "headline": "Constellation To Acquire Rhode Island State Energy Center (RISEC) From Shell",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "constellationenergy.com",
+    "summary": "Constellation To Acquire Rhode Island State Energy Center (RISEC) From Shell constellationenergy.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbU94bHNRR29MRGJKV1lNR3IzMVEwVi1zbWJucDBIWldMbS1rbDE5blU5YnVrbVpxZEF4ekxNVGNWRjMwN2ZwQUJVTl9POUdraThDSWdhYWxWcmRQWjJVVlpCMlJ4RUlkelVMSkNDbkc2b25CeG5sQldpNnhkQTB6VXNhcC1WZzJOOVBaYWtIa2hJQ0NQazBkdnZDN0paai1RYWlxcnF6UU13a3ZSZzQwRnNOOUdJVHBNdVhyd3ZiUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,6 +376,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-f0a522c05c8c",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T20:06:00+00:00",
+    "acquirer": "Navan",
+    "target": "Leading AI-Powered Events Platform BoomPop, Expanding Offerings",
+    "headline": "Navan Acquires Leading AI-Powered Events Platform BoomPop, Expanding Offerings for Meetings and Events",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "Navan Acquires Leading AI-Powered Events Platform BoomPop, Expanding Offerings for Meetings and Events Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX0pWMExLdG9PTkZ0TnhIUkl0VlItbFMwTzFldWIwZ3RTdW5NaThOckRucHFYVEZmazF2WWhlMUNCTW1iSk90Y0NIZVBaUUNxMHpUc29SREh5YmFQMzlHUmxfREdRMjJzb1g5ZGJ1NV8yVmgyOGxwQ2JENHJrLWxKdDh2TjMyNklIX0JybklrNXpWTDVvTmF6YUJLeFhsUkxDUG44M2RaMW1UTTFYNFAxNk9Rek5hTGV5X19jREQxYWgwSExNNGlXcWJpNlVGcFdSRnM2SzRzMlBPQ3JnMmNIVmNrTWRndEdKSDhIQUliQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-6b3a20abd00c",
     "date": "September 9, 2026",
     "publishedISO": "2026-09-09T19:49:27+00:00",
@@ -334,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2RxOFQ0bjJJQjdHaEN1dGljZ212RGlubFlaVHJzcUpGU0hGb2JNNDFYaS02V0picHZaX1R5cjFtei16cFd4MkNKaVllNWdBWTVMaWRubEVTYU8xRFJua0dJN2U5aEl4VHFLaEpzRlJBNUtsVm81ZHFFN0tXb3FYM1NlMGp4TE9OU3hyd2dCWmc4OTJKZEtBcXJpa1pLcEdYdDlBcEUwQ3U4TWxUNHhoei1Ib0hIYjQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-34cff93b3203",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T19:00:00+00:00",
+    "acquirer": "CBRE",
+    "target": "Net-Lease Specialist Tenet Equity",
+    "headline": "CBRE Acquires Net-Lease Specialist Tenet Equity for $1.6B",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Real Deal",
+    "summary": "CBRE Acquires Net-Lease Specialist Tenet Equity for $1.6B The Real Deal",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNal8yUERlS0h1Y2p4NGR6eWNnQjJSaW11OHRJeDVRQksyUk9VM0xUQTlVbEpMWkYwU01OdkVCLWN0aG5nS1prUmJMLUI5YjF1VlppcEJ6TnBKd2c3bGNYb2dKaU1HQkYyZlUxSTkzQjE3Rk1fVWJ3TVdFQkpSRGk5MHgwOHE0NERvRmZSNFQyV3I5V1FSTjhKRkpfdnpiX3pnNzBN?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,156 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-851905b8cc45",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T18:09:14+00:00",
-    "acquirer": "Private Equity Firm",
-    "target": "Plant City Manufacturer",
-    "headline": "Private Equity Firm Acquires Plant City Manufacturer",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TBBW",
-    "summary": "Private Equity Firm Acquires Plant City Manufacturer TBBW",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTSmFYLVNhc3VjZDV2S0NvMUtiRXVIdnVjNGhIWVpNM0VHVnVUaTFFVWFTLXNRVFBxalNOZ2NFV1BCT0JZQ0Z2SkkzamQ5NXV2TmoyU2ExVnZhcWZiekdZZm0tZHc0X1I5cGg2UGJtb2d6UQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-913f209705eb",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T17:33:22+00:00",
-    "acquirer": "Mi’kmaq Nation",
-    "target": "83 acres beside tribal housing",
-    "headline": "Mi’kmaq Nation acquires 83 acres beside tribal housing",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Tribal Business News",
-    "summary": "Mi’kmaq Nation acquires 83 acres beside tribal housing Tribal Business News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHkyUnh6MW81V1NydVpNZ2JPYTJKYWpGODZRel81cFIteENCNnVwajFJRWtvLTdmX1gwVHRTUVhVR0huM0JkWEU1dGxXR2REZ19UVU02VHNwalMxd2szUlVrWkxiZVd4alJPNG8xalZKelJ1bzhQejFmT1p3N1dWQWp2SXJkUWhTeWJZd29RMXE2QzlTbjZ3QlpxVDdyMHhIR0pZQWV0clBQQ2QzQ3JIbmd3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-6dfc5b3a7f6a",
     "date": "September 9, 2026",
     "publishedISO": "2026-09-09T16:00:00+00:00",
@@ -634,6 +709,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPWG5ER3FIZUxucS13d0piZ2lkMkxQeG01b3NTa3RnakdpSzRQbDhrVlJ0Z2ZRYVY2RVByWnZUYTdFZ3ZNVDVLc3M1MU1ReTZsam9JT3pPakZQRFB1eExtQ3FXa2FkUENHMDZjNUgxWnNSSS1JS19qVkdsd091bmtfVG9oN1VOd2UzSVV1V2J6dzVEQlhJaEl6MGc4Slh6SzFONlVFZXFIQXBRcHhVaWZyRUZaNk41d0hQMUZmVTJuLTVodmhnaDhNYXg1N2xKZldDZ2FjVjNPcmtqZFFEeXNpVmFRZVNvZFQ1LUFYaTBLZ21yU09vM3ZPZTFGaTFoMzBjOUxMeVNwc1pWbkpaUTVzQmFadE9tN3JKUmZKYnctcWRfX0x4NkViT0dQYVpiWXRzUDRaVUJaVQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-49fee9f7230f",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T15:03:58+00:00",
+    "acquirer": "Treasury Department to",
+    "target": "back up to $6 billion in longer-term debt, triple the normal level",
+    "headline": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
+    "valueBillions": 6.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level CNBC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmhJMGVCa0tNRlFoMFRSdkl2Nm84STZYLWRBcVJhR0Nsb3FpZTBnM1BhN1Rybk9tZjVldE5jcW04R3hoTEFXRUgtV2JLLVBtMHJ5Q09ZQWhSR21sZGNURG5QSnItdkZWVXdVMkdscWdDaTdRa0tKQmd1WDJiQXZPZ2JTclBjOEp4UUk1TFRmam1xTFFZZHZWUXdLRDNaOVlvWXpVME9SYXZua1hoNnE4R0t3eHFOVGNtcGtSeHRUNNIBxAFBVV95cUxPOUVVdVBYNHNxenBTWWJSTDZJOWtlU3c1a2R3QV9uMEtoTml6cFkwYzRfSTB2NkJBVzlnaEpFaWh2cGJpT0xfRWdaVHVaRWRzOE92aEVHeUNmb1lyejVFMGVLWmNrMmxzbXFxay1kMktSSDZWdE5FUVh1aHdHTkFNb1pKSXZOcUlUNWVNRjk5bGJoZTVWSVd6dXhwRVRBS012alhNYXYxMW1NenJZMDVoQ3cwQXVCVzZNQUVxUV8yckk5MlNt?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -753,7 +903,7 @@ window.generatedDeals = [
   {
     "id": "news-7499ceb4a44b",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T13:06:00+00:00",
+    "publishedISO": "2026-09-09T13:06:58+00:00",
     "acquirer": "Analog Devices to",
     "target": "Alif Semiconductor",
     "headline": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion",
@@ -1278,7 +1428,7 @@ window.generatedDeals = [
   {
     "id": "news-008191a544bd",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T14:54:08+00:00",
+    "publishedISO": "2026-09-08T14:21:00+00:00",
     "acquirer": "GE Aerospace to",
     "target": "Consolidated Precision Products",
     "headline": "GE Aerospace to Buy Consolidated Precision Products for $11.75 Billion",
@@ -1309,81 +1459,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTdhQXpLS1I3NVhFWDBwTDRxSkx4XzZBV2Z6QVpaTWV3M2FuODBYc00zNVVZempnelJuSTJSZkJ5ZGdhYWJUbG9SbEdnLWl2RVAtZlRKdTVGYUlYNVJNODg5Uk9DNnp4NWdKSGluendPQmtZcGN4eERDOHVlQVhBc2tCSkNvdVNHbWFLRGRrbGNoQkhyNXE1bk5ZZ0FPX3pndlYxdC1TcTFHM0k5dDYyQ3R1cw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fba650c470ca",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T14:15:00+00:00",
-    "acquirer": "Apple",
-    "target": "Startup Working on 'Breakthrough Sensing Technology'",
-    "headline": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology'",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MacRumors",
-    "summary": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology' MacRumors",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1YUpCZTRqZjVnTWU4eXFiY2tldzlCbGs2RDluVC1LOEFhcUo2TTZwdFBKTDdYZEZ3WXJyVDFsNEdnMUEzUHlmZzk0Zy1jQ25JUzdqTnlBNWUwX2IybU1kbWxEUl9sOFBMck5j?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,6 +1651,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3d5fbe42b139",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T12:23:45+00:00",
+    "acquirer": "Apple",
+    "target": "brain imaging firm",
+    "headline": "Apple acquires brain imaging firm for health and accessibility features",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "AppleInsider",
+    "summary": "Apple acquires brain imaging firm for health and accessibility features AppleInsider",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbENvWFdHMlR2LXZrNjhMTGMzMThZZGMxUFhQcFo0bnlQLTNnTXZwSTJqNTJwU010QUVOaWR0WnlNd3gxN3pvUDU2WG0wNU1HTDBJS0ZSVS1JR2d3dVRIY3JTSHdRNnJqNVotMk14REVKMmxBZ3M1eW56ZTJuQzJXYmhnWmJEX2NzS3BrYzhFUVVOc3pBeDJNaklCOFMwQUlTVTlGc1JucVQ1NVVyRFI4N3dScW0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-418e75c392dc",
     "date": "September 8, 2026",
     "publishedISO": "2026-09-08T12:04:15+00:00",
@@ -1590,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Aviation Week",
-    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal Aviation Week",
+    "sourceName": "aviationweek.com",
+    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal aviationweek.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1651,12 +1801,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3d5fbe42b139",
+    "id": "news-e88d00b842c3",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T11:46:00+00:00",
-    "acquirer": "Apple",
-    "target": "brain imaging firm",
-    "headline": "Apple acquires brain imaging firm for health and accessibility features",
+    "publishedISO": "2026-09-08T11:30:00+00:00",
+    "acquirer": "GE Aerospace to",
+    "target": "Consolidated Precision Products (CPP), Expanding Mission-Critical Castings Capacity",
+    "headline": "GE Aerospace to Acquire Consolidated Precision Products (CPP), Expanding Mission-Critical Castings Capacity",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1665,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AppleInsider",
-    "summary": "Apple acquires brain imaging firm for health and accessibility features AppleInsider",
+    "sourceName": "GlobeNewswire",
+    "summary": "GE Aerospace to Acquire Consolidated Precision Products (CPP), Expanding Mission-Critical Castings Capacity GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbENvWFdHMlR2LXZrNjhMTGMzMThZZGMxUFhQcFo0bnlQLTNnTXZwSTJqNTJwU010QUVOaWR0WnlNd3gxN3pvUDU2WG0wNU1HTDBJS0ZSVS1JR2d3dVRIY3JTSHdRNnJqNVotMk14REVKMmxBZ3M1eW56ZTJuQzJXYmhnWmJEX2NzS3BrYzhFUVVOc3pBeDJNaklCOFMwQUlTVTlGc1JucVQ1NVVyRFI4N3dScW0?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR1hNVy02OFBWb09oUUpEc2F3UWtWSDZOckVXNkdUTm1BSl9zektvTUtqanJzOGlBWkpYbzg2c0x2dmx2SUUyai1ub3BqT0MzMTVoc1diU24zcWRqZlhCQWd4Q0hvZXgydEdETHIyX1k4VTR5MWNCeVo1MV9DOXoyT3l1bmdsSEdIMVhIYmFuREJjWmNaaFBCWThicGM2V0M3bVNUMWFPTU5YWVRSNTd4cXhkME1zRHpzM2p1d3FYRHpKa0VkTGtVenc1NU9VLXdtUVc2c3BoZVJweFJZeXlFd3Y3ellvSGhfUGxoTG1fRm1Vc0o4ZFNiMGp2UEFfb19kdHFqS2VJMA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1815,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "vtdigger.org",
-    "summary": "Nonprofit to acquire Vermont newspaper company vtdigger.org",
+    "sourceName": "VTDigger",
+    "summary": "Nonprofit to acquire Vermont newspaper company VTDigger",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2064,156 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-368bcc4968a5",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T20:14:44+00:00",
-    "acquirer": "Flex to",
-    "target": "EPC Power, Adding Leading Power Conversion Capabilities",
-    "headline": "Flex to Acquire EPC Power, Adding Leading Power Conversion Capabilities for AI Data Centers and Grid Applications",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "investors.flex.com",
-    "summary": "Flex to Acquire EPC Power, Adding Leading Power Conversion Capabilities for AI Data Centers and Grid Applications investors.flex.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTGJTRWdmcEpzdEZ6aHhGb3FRVEdTazh3QUFVWlc2Z0lGUTMtbHRPQk5RTlVBc0Q3WGFSbFVGUURWSzdyMzJSX0FGVlc4WHVCLUlvWi00eFRGR20zMzVXM3NwaTZLT2JOUmFBX0FudFl2QjJ5emtNNUZHTUktazlNa3FmWDlvQ3VpdUZaZzBBVzZxeG5aX2E4djA5MmxLS01JUHRIM1JtbGt5bWR6Y05jU3k5Y3JDcndramNJcmk5OW1kSkJXRXFDWFZlTHZqMjZ2Z1pIV1lvaU02czNDV2FWMHJJMFVQcWN4d0pHaWxnSkdUOGlNY0JweHYyZHc5SGV1OGdhTUhn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-15aae0475c27",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T18:20:15+00:00",
-    "acquirer": "Nvidia",
-    "target": "AI Platform Hugging Face",
-    "headline": "Nvidia Acquires AI Platform Hugging Face for About $13 Billion",
-    "valueBillions": 13.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Nvidia Acquires AI Platform Hugging Face for About $13 Billion Bloomberg.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1dYREIzM1Btc0JjU3k2aGlaZGhuODBxQXRYTGtEZnFlTmpmeW4xWnY5RGJfbUEzaHhBQm1tMnBROHZDTDNNdDlpSmZuY2Z3UWxuWDkxSHl3WjVNZHJBVXFEVXZlcEV5RGc0cTNrXzIweVNHSXA4UlprOWFlQzNLMEwxaXJDVjFPTHlsbkdOZFBqQVlzdlR1YVdCeXFkY3Jpa2JkanJVYjJyRTFNaFFIbW1R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
       },
       {
         "stage": "Terms verified",
