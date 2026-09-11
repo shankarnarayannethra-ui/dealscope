@@ -1,156 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-1b9dfcbd900c",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T21:36:45+00:00",
-    "acquirer": "Copart to",
-    "target": "ACV Auctions in $1.9 billion deal",
-    "headline": "Copart to buy ACV Auctions in $1.9 billion deal",
-    "valueBillions": 1.9,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhwcVJ1aVRqNFlKdHJFMFdGY0hBd3A0QXlib2J2MEU0ZXJ4VnFOMEowdG1NWWtRVkhWVXdCTUdOdE84QWN5bnVDZEJOZlV3TVZqT1Bia0VBUzB0TV93Vy1OOF9keWJxLXU4cGJrUXVDWW1vUDBGX0U2UmdDOC1XcnEtOXdwci1BRnRwZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-85702649f7bf",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T21:06:37+00:00",
-    "acquirer": "Vern Eide",
-    "target": "former Citibank property",
-    "headline": "Vern Eide acquires former Citibank property",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "SiouxFalls.Business",
-    "summary": "Vern Eide acquires former Citibank property SiouxFalls.Business",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WZllzVzJZR1N5SGw0ZUhUWmtsclRGNGZqNVNkVHBVc3pWemNWRkl2T2d5b3Z6cWVEc1FRX1RvWnowRnB0Ym1zLXpjZGNVUmlWV0dGc0dTd2pTSzRlcVYxTWY4UHJiQWpZTnQ3YlNZOHg2YWlJbkF1eVFibTI?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-f47243a10998",
     "date": "September 10, 2026",
     "publishedISO": "2026-09-10T20:33:00+00:00",
@@ -184,6 +34,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQTdXSVVHQmFsM2J6UE1jUHRCZy1XQmVsak16OElfaGZaRFRtMVFya21qQjRtOUc1TnVGMnpIWnd3ZUkzT3BWUlF3bzdieUVNamNqZmNYVkRCb3U5NWtOR0JPbWN0TnQxTkRydGxFRkJtdGtEX0RHbUJ4Q0g3Sms2aVFJMEh5a1ViNDBpanl1a3dEV1dCRjFrOGlxNUdjZ0IyX21SanJEWm01WDJhX0o0Mkdtb1NSM19pMXpTdVFHcmFLMUJYY0V0NExKMnhaNEtxQW1RZVVCbEJ2T3BZMGtEXzdhMVBibDJvaHdqMGFGZFl2YUxVUW8wVE1oNTROdEc5TXc1cXp1Tml6QQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1b9dfcbd900c",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T20:23:00+00:00",
+    "acquirer": "Copart to",
+    "target": "ACV Auctions in $1.9 billion deal",
+    "headline": "Copart to buy ACV Auctions in $1.9 billion deal",
+    "valueBillions": 1.9,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhwcVJ1aVRqNFlKdHJFMFdGY0hBd3A0QXlib2J2MEU0ZXJ4VnFOMEowdG1NWWtRVkhWVXdCTUdOdE84QWN5bnVDZEJOZlV3TVZqT1Bia0VBUzB0TV93Vy1OOF9keWJxLXU4cGJrUXVDWW1vUDBGX0U2UmdDOC1XcnEtOXdwci1BRnRwZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6dfc5b3a7f6a",
+    "id": "news-f0a522c05c8c",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T16:00:00+00:00",
-    "acquirer": "ENVESTNET TO",
-    "target": "VESTMARK, EXTENDING ITS CAPABILITIES TO MEET THE ADVISOR MARKET'S GROWING DEMAND",
-    "headline": "ENVESTNET TO ACQUIRE VESTMARK, EXTENDING ITS CAPABILITIES TO MEET THE ADVISOR MARKET'S GROWING DEMAND FOR INCREASINGLY SOPHISTICATED TRADING AND TAX SOLUTIONS",
+    "publishedISO": "2026-09-09T20:06:00+00:00",
+    "acquirer": "Navan",
+    "target": "Leading AI-Powered Events Platform BoomPop, Expanding Offerings",
+    "headline": "Navan Acquires Leading AI-Powered Events Platform BoomPop, Expanding Offerings for Meetings and Events",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "ENVESTNET TO ACQUIRE VESTMARK, EXTENDING ITS CAPABILITIES TO MEET THE ADVISOR MARKET'S GROWING DEMAND FOR INCREASINGLY SOPHISTICATED TRADING AND TAX SOLUTIONS PR Newswire",
+    "sourceName": "Business Wire",
+    "summary": "Navan Acquires Leading AI-Powered Events Platform BoomPop, Expanding Offerings for Meetings and Events Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +708,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPWG5ER3FIZUxucS13d0piZ2lkMkxQeG01b3NTa3RnakdpSzRQbDhrVlJ0Z2ZRYVY2RVByWnZUYTdFZ3ZNVDVLc3M1MU1ReTZsam9JT3pPakZQRFB1eExtQ3FXa2FkUENHMDZjNUgxWnNSSS1JS19qVkdsd091bmtfVG9oN1VOd2UzSVV1V2J6dzVEQlhJaEl6MGc4Slh6SzFONlVFZXFIQXBRcHhVaWZyRUZaNk41d0hQMUZmVTJuLTVodmhnaDhNYXg1N2xKZldDZ2FjVjNPcmtqZFFEeXNpVmFRZVNvZFQ1LUFYaTBLZ21yU09vM3ZPZTFGaTFoMzBjOUxMeVNwc1pWbkpaUTVzQmFadE9tN3JKUmZKYnctcWRfX0x4NkViT0dQYVpiWXRzUDRaVUJaVQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX0pWMExLdG9PTkZ0TnhIUkl0VlItbFMwTzFldWIwZ3RTdW5NaThOckRucHFYVEZmazF2WWhlMUNCTW1iSk90Y0NIZVBaUUNxMHpUc29SREh5YmFQMzlHUmxfREdRMjJzb1g5ZGJ1NV8yVmgyOGxwQ2JENHJrLWxKdDh2TjMyNklIX0JybklrNXpWTDVvTmF6YUJLeFhsUkxDUG44M2RaMW1UTTFYNFAxNk9Rek5hTGV5X19jREQxYWgwSExNNGlXcWJpNlVGcFdSRnM2SzRzMlBPQ3JnMmNIVmNrTWRndEdKSDhIQUliQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-aff61457d7b9",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T16:13:15+00:00",
+    "acquirer": "Google to",
+    "target": "energy from solar-storage project at former coal mine",
+    "headline": "Google to buy energy from solar-storage project at former coal mine",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Facilities Dive",
+    "summary": "Google to buy energy from solar-storage project at former coal mine Facilities Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnR5SzVleFdhbnJmM1V1UmdiRlpqaUdkc1lPcWxhVElfbTJxT1JUR0JHSDlic2NrVmotN2FsWlJKTmI5YWZ2bUZkWnF0WWpuYmRCN3dTS3VSS3pFcHRGUmFfakV1U1FPV0xHMVdsMW5mODRWZzdhb3NkZkNqMWx2ODM5WTNQcnR4clVrVVRfbl96YVZ5WTRHeTJZU1M1ck9uQWhHY1Nic3hqamZlMW54TQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -915,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "EE Times",
-    "summary": "Nvidia Acquires HuggingFace for $12.9B EE Times",
+    "sourceName": "eetimes.com",
+    "summary": "Nvidia Acquires HuggingFace for $12.9B eetimes.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "bankingdive.com",
-    "summary": "Chime to buy Stride Bank for $590M bankingdive.com",
+    "sourceName": "Banking Dive",
+    "summary": "Chime to buy Stride Bank for $590M Banking Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1578,7 +1578,7 @@ window.generatedDeals = [
   {
     "id": "news-008191a544bd",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T14:54:08+00:00",
+    "publishedISO": "2026-09-08T14:21:00+00:00",
     "acquirer": "GE Aerospace to",
     "target": "Consolidated Precision Products",
     "headline": "GE Aerospace to Buy Consolidated Precision Products for $11.75 Billion",
@@ -1609,6 +1609,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTdhQXpLS1I3NVhFWDBwTDRxSkx4XzZBV2Z6QVpaTWV3M2FuODBYc00zNVVZempnelJuSTJSZkJ5ZGdhYWJUbG9SbEdnLWl2RVAtZlRKdTVGYUlYNVJNODg5Uk9DNnp4NWdKSGluendPQmtZcGN4eERDOHVlQVhBc2tCSkNvdVNHbWFLRGRrbGNoQkhyNXE1bk5ZZ0FPX3pndlYxdC1TcTFHM0k5dDYyQ3R1cw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-fba650c470ca",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T14:15:00+00:00",
+    "acquirer": "Apple",
+    "target": "Startup Working on 'Breakthrough Sensing Technology'",
+    "headline": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology'",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MacRumors",
+    "summary": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology' MacRumors",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1YUpCZTRqZjVnTWU4eXFiY2tldzlCbGs2RDluVC1LOEFhcUo2TTZwdFBKTDdYZEZ3WXJyVDFsNEdnMUEzUHlmZzk0Zy1jQ25JUzdqTnlBNWUwX2IybU1kbWxEUl9sOFBMck5j?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1801,81 +1876,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3d5fbe42b139",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T12:23:45+00:00",
-    "acquirer": "Apple",
-    "target": "brain imaging firm",
-    "headline": "Apple acquires brain imaging firm for health and accessibility features",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AppleInsider",
-    "summary": "Apple acquires brain imaging firm for health and accessibility features AppleInsider",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbENvWFdHMlR2LXZrNjhMTGMzMThZZGMxUFhQcFo0bnlQLTNnTXZwSTJqNTJwU010QUVOaWR0WnlNd3gxN3pvUDU2WG0wNU1HTDBJS0ZSVS1JR2d3dVRIY3JTSHdRNnJqNVotMk14REVKMmxBZ3M1eW56ZTJuQzJXYmhnWmJEX2NzS3BrYzhFUVVOc3pBeDJNaklCOFMwQUlTVTlGc1JucVQ1NVVyRFI4N3dScW0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-418e75c392dc",
     "date": "September 8, 2026",
     "publishedISO": "2026-09-08T12:04:15+00:00",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GlobeNewswire",
-    "summary": "GE Aerospace to Acquire Consolidated Precision Products (CPP), Expanding Mission-Critical Castings Capacity GlobeNewswire",
+    "sourceName": "globenewswire.com",
+    "summary": "GE Aerospace to Acquire Consolidated Precision Products (CPP), Expanding Mission-Critical Castings Capacity globenewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1984,6 +1984,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR1hNVy02OFBWb09oUUpEc2F3UWtWSDZOckVXNkdUTm1BSl9zektvTUtqanJzOGlBWkpYbzg2c0x2dmx2SUUyai1ub3BqT0MzMTVoc1diU24zcWRqZlhCQWd4Q0hvZXgydEdETHIyX1k4VTR5MWNCeVo1MV9DOXoyT3l1bmdsSEdIMVhIYmFuREJjWmNaaFBCWThicGM2V0M3bVNUMWFPTU5YWVRSNTd4cXhkME1zRHpzM2p1d3FYRHpKa0VkTGtVenc1NU9VLXdtUVc2c3BoZVJweFJZeXlFd3Y3ellvSGhfUGxoTG1fRm1Vc0o4ZFNiMGp2UEFfb19kdHFqS2VJMA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-54cac5e5fc75",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T10:53:53+00:00",
+    "acquirer": "Anthropic Scuttles",
+    "target": "AI Company Decart",
+    "headline": "Anthropic Scuttles Plans to Acquire AI Company Decart",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "pymnts.com",
+    "summary": "Anthropic Scuttles Plans to Acquire AI Company Decart pymnts.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkxvTjRnTkxDRnhRaGl0MHpHX0I3dHVKMFhackZOZzFDb28teGhzaFRMaEd5VUdmcFhuUzRGQ0l4RS15YUtudkUxMW1mbzJtMzhpYU5EaVdYWm1lbjhrV0ZGcTVPQzVndGxmVE1pV3ZGM002TUx6SXd1YTVac2VaWjBLcG13TFF3S1NURTJIaGwxODZ1UlpsTWFSWFBqZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2101,13 +2176,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-34db01913a3a",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T12:44:17+00:00",
-    "acquirer": "Nonprofit to",
-    "target": "Vermont newspaper company",
-    "headline": "Nonprofit to acquire Vermont newspaper company",
-    "valueBillions": null,
+    "id": "news-2db70e9c9507",
+    "date": "September 5, 2026",
+    "publishedISO": "2026-09-05T12:42:19+00:00",
+    "acquirer": "Enovis to",
+    "target": "surgical tech provider eCential Robotics",
+    "headline": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
+    "valueBillions": 0.18,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -2115,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "VTDigger",
-    "summary": "Nonprofit to acquire Vermont newspaper company VTDigger",
+    "sourceName": "The Robot Report",
+    "summary": "Enovis to acquire surgical tech provider eCential Robotics for $180M The Robot Report",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,87 +2208,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOckIxM3prelg1QktnNEgwbTBlTC1KWXRCMXJJcXNxTHVXb1B2WG9EMV9VV3hHbmhVcndxb3NldF9nVXpGLW5FRjZWQ1JOVGEtX1Zub0hCTGFmcHJPSGRRVXVEQk52YmNROG5SbEtaR254WDZKZjFBR2RPcWJrSXVkdHltR3hmdw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmF6eFozRjRDbmRQOWJ4ajhtMXhGNkpuNFZSZEtvd2drX2tReVB3YUxrUkZVdWwxWl8yTlhMY0g1VVFLY2NrWm0zSTdsTFZQS3dNdmVsYmJhQmNjS1dROTVyMWM2UDRpb0Y5aFFKdGR3VUh0WkdYaW9XY1NNcVRNWkln?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4e8754f00ca0",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T12:22:00+00:00",
-    "acquirer": "EQT to",
-    "target": "Insurance Broker McGill in $2 Billion Deal",
-    "headline": "EQT to Buy Insurance Broker McGill in $2 Billion Deal",
-    "valueBillions": 2.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "EQT to Buy Insurance Broker McGill in $2 Billion Deal WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnB5QzRyOGVrOXpOTFAxWWxjVXJCcXdqaU5tTnBfRUpkSzFSSUQzbjVtSTR0T3hWelAxdTI1U1htYkRyNjRFTklzVDNNWHd5N2JnT1FFTmc3aW1IMGh6b0xocDVLdHgzNk5Ld3JNbURzUmU4cDQ5OEJNU295UnBhLVZrOC0wUUFOa0piVTJORnNNakE5N2Z5SHBfSVhVM0VR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
+        "date": "Sep 5, 2026"
       },
       {
         "stage": "Terms verified",
