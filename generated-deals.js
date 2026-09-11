@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-85702649f7bf",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T21:06:37+00:00",
+    "acquirer": "Vern Eide",
+    "target": "former Citibank property",
+    "headline": "Vern Eide acquires former Citibank property",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "SiouxFalls.Business",
+    "summary": "Vern Eide acquires former Citibank property SiouxFalls.Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WZllzVzJZR1N5SGw0ZUhUWmtsclRGNGZqNVNkVHBVc3pWemNWRkl2T2d5b3Z6cWVEc1FRX1RvWnowRnB0Ym1zLXpjZGNVUmlWV0dGc0dTd2pTSzRlcVYxTWY4UHJiQWpZTnQ3YlNZOHg2YWlJbkF1eVFibTI?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f47243a10998",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T20:33:00+00:00",
+    "acquirer": "County Commission approves LOI for Ascension",
+    "target": "Williamson Health",
+    "headline": "County Commission approves LOI for Ascension’s acquisition of Williamson Health",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Williamson Herald",
+    "summary": "County Commission approves LOI for Ascension’s acquisition of Williamson Health Williamson Herald",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQTdXSVVHQmFsM2J6UE1jUHRCZy1XQmVsak16OElfaGZaRFRtMVFya21qQjRtOUc1TnVGMnpIWnd3ZUkzT3BWUlF3bzdieUVNamNqZmNYVkRCb3U5NWtOR0JPbWN0TnQxTkRydGxFRkJtdGtEX0RHbUJ4Q0g3Sms2aVFJMEh5a1ViNDBpanl1a3dEV1dCRjFrOGlxNUdjZ0IyX21SanJEWm01WDJhX0o0Mkdtb1NSM19pMXpTdVFHcmFLMUJYY0V0NExKMnhaNEtxQW1RZVVCbEJ2T3BZMGtEXzdhMVBibDJvaHdqMGFGZFl2YUxVUW8wVE1oNTROdEc5TXc1cXp1Tml6QQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-dc61df2f3c3d",
     "date": "September 10, 2026",
     "publishedISO": "2026-09-10T14:27:21+00:00",
@@ -76,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7028ba3e80da",
+    "id": "news-8be8fea1b038",
     "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T11:10:59+00:00",
-    "acquirer": "Scoop: Meta",
-    "target": "Swedish AI startup Stilla.ai",
-    "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
+    "publishedISO": "2026-09-10T14:00:00+00:00",
+    "acquirer": "CBTS",
+    "target": "Recovery Point Systems, Expanding Enterprise Disaster Recovery, Cyber Resiliency, and AI Infrastruct",
+    "headline": "CBTS Acquires Recovery Point Systems, Expanding Enterprise Disaster Recovery, Cyber Resiliency, and AI Infrastructure Hosting Capabilities",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Axios",
-    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai Axios",
+    "sourceName": "Business Wire",
+    "summary": "CBTS Acquires Recovery Point Systems, Expanding Enterprise Disaster Recovery, Cyber Resiliency, and AI Infrastructure Hosting Capabilities Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWGVDdUcwM1E5eUxWYlNNLXpxaWlRZ1VHeDlYLVJ5N2xneC1NNDFfVWtzdzczTllydTJzTXlSXzZVMDg4S0V5cW5YSFV5MXU4ZW1CTC16NW5NMFVRcExKOGhvaEtQMXYtYXNGSktTaDJZNm9MN1hDcE0yVy1yeFFZaGpKQUNnREdSaEdMbnhudm1VVV9BcVkxQ0MxQ1NCRVRDT3RFTXAwSk1lX2NvS3RNR2hrU093eVpUVGtjSjRGbE1DcDR4VExqaWw4cWtiOV83ZHZ2ekwwc2xjRVN5ZWxFOUVheXlHQUFvaG1VbkltbXprT3NQSWpYVWRFdEEwVTljNzdqMzAxMDV3N1ZPSHAwdXMwMUM4NUF2d3NJYw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,12 +301,87 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-32f2dec05ee4",
+    "id": "news-2ec8df927286",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T12:58:04+00:00",
+    "acquirer": "Bending Spoons to",
+    "target": "Miro in $1.36 billion cash deal",
+    "headline": "Bending Spoons to buy Miro in $1.36 billion cash deal",
+    "valueBillions": 1.36,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY1VUMzhySVdyTkNEd0ZfN3VhSDc0TG9saDNCRkk4M1lSa21tNEt2TzJlTUpSZzVRdkNJcHF4WWxucEptcndoWmVTUmJUbjkzWjM3aVBTQkR6bkRlaEFjZ05tVkxRMVF6VEFiWjZxSjFXV2lJR0JFY3RDU0t4eWEzdmJwcmJNZHluV0V5d1N1T3k4eGhxRF9GczlISGVYMDhhUWJj?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c64bed039434",
     "date": "September 10, 2026",
     "publishedISO": "2026-09-10T07:00:00+00:00",
-    "acquirer": "Constellation To",
+    "acquirer": "Constellation to",
     "target": "Rhode Island State Energy Center (RISEC) From Shell",
-    "headline": "Constellation To Acquire Rhode Island State Energy Center (RISEC) From Shell",
+    "headline": "Constellation to Acquire Rhode Island State Energy Center (RISEC) From Shell",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -166,7 +391,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "constellationenergy.com",
-    "summary": "Constellation To Acquire Rhode Island State Energy Center (RISEC) From Shell constellationenergy.com",
+    "summary": "Constellation to Acquire Rhode Island State Energy Center (RISEC) From Shell constellationenergy.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7eeda649a5c4",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T21:08:22+00:00",
-    "acquirer": "Envestnet",
-    "target": "Vestmark",
-    "headline": "Envestnet Acquires Vestmark",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "planadviser",
-    "summary": "Envestnet Acquires Vestmark planadviser",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aSkZrYjNLMDZUWENEcEtpZXJNcHVGYjJMMW81VGFod2JMNDdkdzVDN3lQOC1DaDhTS2VJaHowU3A2QTBoTHhuaEF3dHFud1VyU2xsajBteXhIaGlfU0dUN3puaHVjS3M?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-f0a522c05c8c",
     "date": "September 9, 2026",
     "publishedISO": "2026-09-09T20:06:00+00:00",
@@ -451,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6b3a20abd00c",
+    "id": "news-7028ba3e80da",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T19:49:27+00:00",
-    "acquirer": "Envestnet to",
-    "target": "Vestmark, Expanding WealthTech Capabilities",
-    "headline": "Envestnet to Acquire Vestmark, Expanding WealthTech Capabilities",
+    "publishedISO": "2026-09-09T16:34:01+00:00",
+    "acquirer": "Scoop: Meta",
+    "target": "Swedish AI startup Stilla.ai",
+    "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WilmerHale",
-    "summary": "Envestnet to Acquire Vestmark, Expanding WealthTech Capabilities WilmerHale",
+    "sourceName": "Axios",
+    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai Axios",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,157 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2RxOFQ0bjJJQjdHaEN1dGljZ212RGlubFlaVHJzcUpGU0hGb2JNNDFYaS02V0picHZaX1R5cjFtei16cFd4MkNKaVllNWdBWTVMaWRubEVTYU8xRFJua0dJN2U5aEl4VHFLaEpzRlJBNUtsVm81ZHFFN0tXb3FYM1NlMGp4TE9OU3hyd2dCWmc4OTJKZEtBcXJpa1pLcEdYdDlBcEUwQ3U4TWxUNHhoei1Ib0hIYjQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-34cff93b3203",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T19:00:00+00:00",
-    "acquirer": "CBRE",
-    "target": "Net-Lease Specialist Tenet Equity",
-    "headline": "CBRE Acquires Net-Lease Specialist Tenet Equity for $1.6B",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Real Deal",
-    "summary": "CBRE Acquires Net-Lease Specialist Tenet Equity for $1.6B The Real Deal",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNal8yUERlS0h1Y2p4NGR6eWNnQjJSaW11OHRJeDVRQksyUk9VM0xUQTlVbEpMWkYwU01OdkVCLWN0aG5nS1prUmJMLUI5YjF1VlppcEJ6TnBKd2c3bGNYb2dKaU1HQkYyZlUxSTkzQjE3Rk1fVWJ3TVdFQkpSRGk5MHgwOHE0NERvRmZSNFQyV3I5V1FSTjhKRkpfdnpiX3pnNzBN?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-803bfac18c4f",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T18:50:11+00:00",
-    "acquirer": "Circle to",
-    "target": "Tazapay",
-    "headline": "Circle to buy Tazapay for $400M",
-    "valueBillions": 0.4,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Circle to buy Tazapay for $400M Banking Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXNmtJd0g5NExVX0JJdU83OE1sX0xhbnl0TGZmU3kzN1M4bE1JWExmRFFFYW5wV3BWeFBDVTRkd2tvNFNEN2xDUnVmdzdZSllPc1VPNzl5NmVQdEN4Z3d0NTJuTkItdWVvdXlwN21kNjh0RGk2b3VJZ19Jbw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -903,7 +903,7 @@ window.generatedDeals = [
   {
     "id": "news-7499ceb4a44b",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T13:06:58+00:00",
+    "publishedISO": "2026-09-09T13:06:00+00:00",
     "acquirer": "Analog Devices to",
     "target": "Alif Semiconductor",
     "headline": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "aviationweek.com",
-    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal aviationweek.com",
+    "sourceName": "Aviation Week",
+    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal Aviation Week",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1834,6 +1834,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR1hNVy02OFBWb09oUUpEc2F3UWtWSDZOckVXNkdUTm1BSl9zektvTUtqanJzOGlBWkpYbzg2c0x2dmx2SUUyai1ub3BqT0MzMTVoc1diU24zcWRqZlhCQWd4Q0hvZXgydEdETHIyX1k4VTR5MWNCeVo1MV9DOXoyT3l1bmdsSEdIMVhIYmFuREJjWmNaaFBCWThicGM2V0M3bVNUMWFPTU5YWVRSNTd4cXhkME1zRHpzM2p1d3FYRHpKa0VkTGtVenc1NU9VLXdtUVc2c3BoZVJweFJZeXlFd3Y3ellvSGhfUGxoTG1fRm1Vc0o4ZFNiMGp2UEFfb19kdHFqS2VJMA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-715f45a20f63",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T11:30:00+00:00",
+    "acquirer": "Six Flags",
+    "target": "Iconic ArieForce One, Bringing Fan-Favorite Roller Coaster Back to Life",
+    "headline": "Six Flags Acquires Iconic ArieForce One, Bringing Fan-Favorite Roller Coaster Back to Life",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Six Flags Acquires Iconic ArieForce One, Bringing Fan-Favorite Roller Coaster Back to Life PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNlBnZjVoRUI4d3NDdnNyOF9wWnhuV2JkTW9OcGNKSlNFc1lkV2JURWVBd3dKYWNfNm1sTGlWeGh6cldTVE45T3MxVnhLdk9aVURLN2hFRGJIREF5RHBGY0NQRE5CYzdMZnVIbVpJcmJWekJSalRZVjhEcHNVNTlMc29hbWNtSENxalp2c05ndEdMN25RNTR4bWhybDFXekZtZWZ4S3N6emNaOUlrME5oVjFuUW9nSUZqT0hRMldIa0pWMVE0T0JIY0w1cXlUQmZzWlRwWi00dW5BNGFGU1E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0FiNkhvS2wyMUhqdFFKR2RCdkRRbGl0VXZ5Y3Uwc3lOLVZrZFVuVUlIelkyLXoxVEJRVkhHTm9KOVZBXzNCallnell5MVg1clhwMWhRVExfUGRuLWdTQWxCRnVSdDRETUpOYjN1LVdlZEVpTEHSAXtBVV95cUxQNWNHaE1RcFhTVGpWSVFHajMxQjhrTklWSFotSmo2S1ZVWjFBOXYxMTc4M09HOVlCWVQ3cGhfM18zSE44X19qZ2FOWlYxbzVCT1NqWTZ4MEFNMjV6dm5pZzRVbkx5bVdZMVRlbjVpMy1weEZJeWE2RGtuWGc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f4190d4d3493",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T04:24:58+00:00",
-    "acquirer": "Williams",
-    "target": "Momentum Midstream",
-    "headline": "Williams Completes Acquisition of Momentum Midstream",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Williams Companies",
-    "summary": "Williams Completes Acquisition of Momentum Midstream Williams Companies",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejFFLXU4bTZOc2lHTTI0QkVIc3VueTJtVXI0bjdRQkFhNzRkdW13RzRwbDMwZmNCOG9qazZ3SzBSSGRWR0pGXzhic0d0UU5tNjdDMlE0Zms4c3pkbEF2eHJkZkoxM24wZGFKeURMM0lreW9seS14MjVrNmNQb0VpRV9RNDZVQkZiQWFJRm05dXdBUDg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
