@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-009e0c698522",
+    "date": "September 11, 2026",
+    "publishedISO": "2026-09-11T13:35:52+00:00",
+    "acquirer": "Frazier Healthcare",
+    "target": "MatrixCare, Appoints Lujan CEO",
+    "headline": "Frazier Healthcare Acquires MatrixCare, Appoints Lujan CEO",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Hospice News",
+    "summary": "Frazier Healthcare Acquires MatrixCare, Appoints Lujan CEO Hospice News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnNFa2hCOFRncXpqbzhuRDdwZFp6eFNQZ1ZIMkM3Y1ZkZGhHZU9jV2RDNHdlWGloLUlVdVhJVUZ1YW0zZzRiNDQ2dnZSSTBIT3diY01UWkdkT3l3Tkt0bWVYODdEVXlVeDM3XzRxVm0wQ3Y5QXZGZHNXU2xQMWEtb1lSSXowVGNzTFZUZVduUGN3ZThsSnk1cg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0194f9a86cf0",
+    "date": "September 11, 2026",
+    "publishedISO": "2026-09-11T13:02:00+00:00",
+    "acquirer": "Lilly",
+    "target": "AtaiBeckley to advance therapies",
+    "headline": "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaGEwbkdNSWVFNXZlY0xHa0lac1l5TC1IS2dGSGVlQ2RpWk1PckcwbXBJS0tpNjFSbzVjVmlrcFZ3M1FYdnFZS3J3V0xScm1NZklqdHFycXpPSFNtOGoxY2p6X29NQkZCaVMxT212ZFZfcFJEQnpHRldVQnpxVjkwTkl3bzNDNFVxdnB2ajJ1RTFqZVktd0RSdVk4cXduRnpxbTlUbHRMZkJ4V0JCbzJnTHg0WklGQWhDZDlwSVRfMmNWUDNxQTNDSUM0QmRBZjd6cjQxcjgyOW9XQjJqcjQ1WVMyTUpRYUcxdGFaYnFpY2lnUm0tNGRkNzBrMWdBbzlFbEtpNzA1NEl0dWxzZ2NCaEZBNlVIUUhq?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f47243a10998",
     "date": "September 10, 2026",
     "publishedISO": "2026-09-10T20:33:00+00:00",
@@ -90,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Copart to buy ACV Auctions in $1.9 billion deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,81 +301,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4cddbf0c5b90",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T16:48:29+00:00",
-    "acquirer": "Fintech Company Envestnet",
-    "target": "Vestmark",
-    "headline": "Fintech Company Envestnet Acquires Vestmark",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "plansponsor",
-    "summary": "Fintech Company Envestnet Acquires Vestmark plansponsor",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5meWpQZWFuQ0NJUWlPcmV2QVkzbThYWGFsOEwzbjhTOUhSUkVGRnZlM0c4YzVCVjhzWXhtZmFBcjFRSTFFSFdnTmZ2UWhfOVRJXzVLX1lLbUxMbE5TdVdCc0hCLUNEVnB2aUNYLVR3UjlZekpuQXVzV2ZDN1A?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-dc61df2f3c3d",
     "date": "September 10, 2026",
     "publishedISO": "2026-09-10T14:27:21+00:00",
@@ -240,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Salesforce",
-    "summary": "Salesforce Completes Acquisition of Fin Salesforce",
+    "sourceName": "salesforce.com",
+    "summary": "Salesforce Completes Acquisition of Fin salesforce.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -259,81 +334,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDJJWmZLTzJPX3ZwcWV0dGhCVlpIQl9sQzBlOTl2M1o0TmxJSldLX1pHQnhpTElwVVhpQkRoRlNwOWhCRWh6VkNGb29OdkZuc1dfeTQ0S2RGSmRUbGU1aV9qdDNzeGtPYXRlUkh1cDhKNl9VckMwUVM4RWR1WnhXSjJXRlQ4TnB5Q2hUNktVb3RsdkhqNlNGQU01U1JHRjA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7028ba3e80da",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T14:11:44+00:00",
-    "acquirer": "Scoop: Meta",
-    "target": "Swedish AI startup Stilla.ai",
-    "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai Axios",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -751,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-aff61457d7b9",
+    "id": "news-7028ba3e80da",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T16:13:15+00:00",
-    "acquirer": "Google to",
-    "target": "energy from solar-storage project at former coal mine",
-    "headline": "Google to buy energy from solar-storage project at former coal mine",
+    "publishedISO": "2026-09-09T16:34:01+00:00",
+    "acquirer": "Scoop: Meta",
+    "target": "Swedish AI startup Stilla.ai",
+    "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Facilities Dive",
-    "summary": "Google to buy energy from solar-storage project at former coal mine Facilities Dive",
+    "sourceName": "Axios",
+    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai Axios",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnR5SzVleFdhbnJmM1V1UmdiRlpqaUdkc1lPcWxhVElfbTJxT1JUR0JHSDlic2NrVmotN2FsWlJKTmI5YWZ2bUZkWnF0WWpuYmRCN3dTS3VSS3pFcHRGUmFfakV1U1FPV0xHMVdsMW5mODRWZzdhb3NkZkNqMWx2ODM5WTNQcnR4clVrVVRfbl96YVZ5WTRHeTJZU1M1ck9uQWhHY1Nic3hqamZlMW54TQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -915,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "eetimes.com",
-    "summary": "Nvidia Acquires HuggingFace for $12.9B eetimes.com",
+    "sourceName": "EE Times",
+    "summary": "Nvidia Acquires HuggingFace for $12.9B EE Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1065,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Analog Devices to buy Alif Semiconductor for $1.35 billion Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Analog Devices to buy Alif Semiconductor for $1.35 billion reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Chime to buy Stride Bank for $590M Banking Dive",
+    "sourceName": "bankingdive.com",
+    "summary": "Chime to buy Stride Bank for $590M bankingdive.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "GE Aerospace to buy castings supplier for nearly $12 billion to tackle engine bottleneck Reuters",
+    "sourceName": "reuters.com",
+    "summary": "GE Aerospace to buy castings supplier for nearly $12 billion to tackle engine bottleneck reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1534,6 +1534,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWThkdUhhV0Y3cUZ0c1ZpcHlGd29DaFlhdEdlTlJPVmU1TEY2TmV5TkVlOS1UeFVZLS1nZENLa3B0bnR6MTd2R1g2ZTVYN0FKZ2RjVHlXbXRiMVVvVTV0UVhsTXBYWnZpTVQteUFHa0ZyLTc1QnZlbTZCWHFGdVJoSnhYWVFfVjB1OGhoVDlNX2NjOXo3Yk54cGZfN1U2aHpId2wyMWtkVDFUc1kxTHc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8ab8cca5b056",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T17:04:38+00:00",
+    "acquirer": "Atlas VMS",
+    "target": "CloseClear.ai",
+    "headline": "Atlas VMS acquires CloseClear.ai",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "HousingWire",
+    "summary": "Atlas VMS acquires CloseClear.ai HousingWire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YX3hWTlQ4dDNkWmlHN05jeUFCYW56MjNNOXF2MVdWYy1TY0puNWIzU3RIdjFCc0Vkc3NqRmxaeTk4R2RjdDVvVVFpaGhkNnlnS2c4ZXhvUFRWWDMzWERiX0E0dDk3UUE1V3UyeHVqT09KMFFLYy1uSlBR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1684,81 +1759,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1YUpCZTRqZjVnTWU4eXFiY2tldzlCbGs2RDluVC1LOEFhcUo2TTZwdFBKTDdYZEZ3WXJyVDFsNEdnMUEzUHlmZzk0Zy1jQ25JUzdqTnlBNWUwX2IybU1kbWxEUl9sOFBMck5j?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-599f991c5f9e",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T13:09:46+00:00",
-    "acquirer": "GE Aerospace",
-    "target": "Consolidated Precision Products",
-    "headline": "GE Aerospace acquires Consolidated Precision Products for $11.75B",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "GE Aerospace acquires Consolidated Precision Products for $11.75B Yahoo Finance",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXJYZ2NoWGJTbUNGMXZHZmRrVnhRSkIzc05WMEd0SndMWS1TcF95eTRjcEJ6eFZvOTg5QkdPNG9QeWhTYkxiV1dsd2dvWGRMVXVrNlhzX3BwQ1N6a2tsS3k0LWhBNHp4LWVqamFhb1dCUDBEYTJfSHdLOUFHa290R0xHQkRQZGxDaEV6NGNZMTZkR2Q2TmJaUS1ENHI5bzJHal9PcGtqNTQzNy1jRUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "globenewswire.com",
-    "summary": "GE Aerospace to Acquire Consolidated Precision Products (CPP), Expanding Mission-Critical Castings Capacity globenewswire.com",
+    "sourceName": "GlobeNewswire",
+    "summary": "GE Aerospace to Acquire Consolidated Precision Products (CPP), Expanding Mission-Critical Castings Capacity GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "pymnts.com",
-    "summary": "Anthropic Scuttles Plans to Acquire AI Company Decart pymnts.com",
+    "sourceName": "PYMNTS.com",
+    "summary": "Anthropic Scuttles Plans to Acquire AI Company Decart PYMNTS.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
