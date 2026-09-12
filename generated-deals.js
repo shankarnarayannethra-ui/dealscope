@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "macrumors.com",
-    "summary": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology' macrumors.com",
+    "sourceName": "MacRumors",
+    "summary": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology' MacRumors",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
