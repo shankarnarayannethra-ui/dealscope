@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-18e2e62bb9f9",
-    "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T19:47:27+00:00",
-    "acquirer": "Copart To",
-    "target": "ACV, Expanding Position Across The Vehicle Remarketing Ecosystem",
-    "headline": "Copart To Acquire ACV, Expanding Position Across The Vehicle Remarketing Ecosystem",
+    "id": "news-dff04eded5dc",
+    "date": "September 12, 2026",
+    "publishedISO": "2026-09-12T04:01:15+00:00",
+    "acquirer": "India Wants to",
+    "target": "Fewer Chinese Imports, but Keeps Needing More",
+    "headline": "India Wants to Buy Fewer Chinese Imports, but Keeps Needing More",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Auto Recycling World",
-    "summary": "Copart To Acquire ACV, Expanding Position Across The Vehicle Remarketing Ecosystem Auto Recycling World",
+    "sourceName": "The New York Times",
+    "summary": "India Wants to Buy Fewer Chinese Imports, but Keeps Needing More The New York Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTFzRUNLU21XMTZzTVhWeGNpeWh2NEh3Ym8yU0xPNURUOW9MSzVmRzZGZHYwcDZqeFV2QlR3OXlzU1BjbXEzcEZ6MHY5SzJOQmN0aUwwNnQ2SDJjdUtiTW9MNlNEbFRNdmpiWC04S1N1cGl6d25OaWE1aXUtUV80a195Q2dtMkl5RmYxQWljcVFLYVhIMDkxYzRrX1dwYmdjV2hsR2ZNSzNUaEphUjBacl9qOA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tVk4yX1lwOXBBZ2o1ZHE5N0JJVXdxRWllZU5peVF5dklheHhwNGw0UGxhNmZzRXpxNnBaeG9SS0xjOWFiQUNJa2pmeFpEeUVLVElQeS1DYkJ0ZjBCWGxZNEVNMnBVeGdzOTNzZXR3dHNGallZ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 11, 2026"
+        "date": "Sep 12, 2026"
       },
       {
         "stage": "Terms verified",
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Hospice News",
-    "summary": "Frazier Healthcare Acquires MatrixCare, Appoints Lujan CEO Hospice News",
+    "sourceName": "hospicenews.com",
+    "summary": "Frazier Healthcare Acquires MatrixCare, Appoints Lujan CEO hospicenews.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1b9dfcbd900c",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T20:23:00+00:00",
+    "id": "news-012ea076b150",
+    "date": "September 11, 2026",
+    "publishedISO": "2026-09-11T11:01:45+00:00",
     "acquirer": "Copart to",
-    "target": "ACV Auctions in $1.9 billion deal",
-    "headline": "Copart to buy ACV Auctions in $1.9 billion deal",
+    "target": "ACV Auctions",
+    "headline": "Copart to Acquire ACV Auctions for $1.9 Billion in All-Cash Deal",
     "valueBillions": 1.9,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
+    "sourceName": "Yahoo Finance",
+    "summary": "Copart to Acquire ACV Auctions for $1.9 Billion in All-Cash Deal Yahoo Finance",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,12 +258,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhwcVJ1aVRqNFlKdHJFMFdGY0hBd3A0QXlib2J2MEU0ZXJ4VnFOMEowdG1NWWtRVkhWVXdCTUdOdE84QWN5bnVDZEJOZlV3TVZqT1Bia0VBUzB0TV93Vy1OOF9keWJxLXU4cGJrUXVDWW1vUDBGX0U2UmdDOC1XcnEtOXdwci1BRnRwZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXQ3cFNCUGVTTmdRZ0JNY3J5V012MVFESlVIVkdWRUJKbG1qRkE1WjlIcklVMFVpMVdESjNtOFZORWRPbTROMDF6ZG9BNzBaNFMzdWNkYVFoNWd4M2xKY2ZsSEFvOEtucWhudVNBdXgza05SUE9WRnlRVVlvdVR5S21IZnJrcERJSjBEbWgzVVRGYnRsWHY3MWNR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 10, 2026"
+        "date": "Sep 11, 2026"
       },
       {
         "stage": "Terms verified",
@@ -301,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4cddbf0c5b90",
+    "id": "news-f459f092c658",
     "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T16:48:29+00:00",
-    "acquirer": "Fintech Company Envestnet",
-    "target": "Vestmark",
-    "headline": "Fintech Company Envestnet Acquires Vestmark",
+    "publishedISO": "2026-09-10T19:01:56+00:00",
+    "acquirer": "H1",
+    "target": "healthcare data company Defacto Health",
+    "headline": "H1 acquires healthcare data company Defacto Health",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "plansponsor.com",
-    "summary": "Fintech Company Envestnet Acquires Vestmark plansponsor.com",
+    "sourceName": "MobiHealthNews",
+    "summary": "H1 acquires healthcare data company Defacto Health MobiHealthNews",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5meWpQZWFuQ0NJUWlPcmV2QVkzbThYWGFsOEwzbjhTOUhSUkVGRnZlM0c4YzVCVjhzWXhtZmFBcjFRSTFFSFdnTmZ2UWhfOVRJXzVLX1lLbUxMbE5TdVdCc0hCLUNEVnB2aUNYLVR3UjlZekpuQXVzV2ZDN1A?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0dObk1NVkFzb2JhaUloLXFGcEFLRThmRWh5dTl0Y2NBNDJTY2lfa201MmZLazlQMUtyek04di01ZFBCX1VDV2kzVTJQVHhQUDBkenNoaGYyYU53QkZ2cVY5ejJHLUlfOWtaSlJpcV9oX1ZDbm9TUm0yaGFBT3kwR0s3VFZlRHRPRm5mdDBMcw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Santa Barbara News-Press",
-    "summary": "City of Santa Barbara in talks to buy Latino community center La Casa de la Raza Santa Barbara News-Press",
+    "sourceName": "newspress.com",
+    "summary": "City of Santa Barbara in talks to buy Latino community center La Casa de la Raza newspress.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "HousingWire",
-    "summary": "Atlas VMS acquires CloseClear.ai HousingWire",
+    "sourceName": "housingwire.com",
+    "summary": "Atlas VMS acquires CloseClear.ai housingwire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1684,6 +1684,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTdhQXpLS1I3NVhFWDBwTDRxSkx4XzZBV2Z6QVpaTWV3M2FuODBYc00zNVVZempnelJuSTJSZkJ5ZGdhYWJUbG9SbEdnLWl2RVAtZlRKdTVGYUlYNVJNODg5Uk9DNnp4NWdKSGluendPQmtZcGN4eERDOHVlQVhBc2tCSkNvdVNHbWFLRGRrbGNoQkhyNXE1bk5ZZ0FPX3pndlYxdC1TcTFHM0k5dDYyQ3R1cw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-fba650c470ca",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T14:15:00+00:00",
+    "acquirer": "Apple",
+    "target": "Startup Working on 'Breakthrough Sensing Technology'",
+    "headline": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology'",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MacRumors",
+    "summary": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology' MacRumors",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1YUpCZTRqZjVnTWU4eXFiY2tldzlCbGs2RDluVC1LOEFhcUo2TTZwdFBKTDdYZEZ3WXJyVDFsNEdnMUEzUHlmZzk0Zy1jQ25JUzdqTnlBNWUwX2IybU1kbWxEUl9sOFBMck5j?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1890,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AppleInsider",
-    "summary": "Apple acquires brain imaging firm for health and accessibility features AppleInsider",
+    "sourceName": "appleinsider.com",
+    "summary": "Apple acquires brain imaging firm for health and accessibility features appleinsider.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Aviation Week",
-    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal Aviation Week",
+    "sourceName": "aviationweek.com",
+    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal aviationweek.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2db70e9c9507",
-    "date": "September 5, 2026",
-    "publishedISO": "2026-09-05T12:42:19+00:00",
-    "acquirer": "Enovis to",
-    "target": "surgical tech provider eCential Robotics",
-    "headline": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
-    "valueBillions": 0.18,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Robot Report",
-    "summary": "Enovis to acquire surgical tech provider eCential Robotics for $180M The Robot Report",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmF6eFozRjRDbmRQOWJ4ajhtMXhGNkpuNFZSZEtvd2drX2tReVB3YUxrUkZVdWwxWl8yTlhMY0g1VVFLY2NrWm0zSTdsTFZQS3dNdmVsYmJhQmNjS1dROTVyMWM2UDRpb0Y5aFFKdGR3VUh0WkdYaW9XY1NNcVRNWkln?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 5, 2026"
       },
       {
         "stage": "Terms verified",
