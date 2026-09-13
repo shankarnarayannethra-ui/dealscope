@@ -151,81 +151,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-012ea076b150",
-    "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T11:01:45+00:00",
-    "acquirer": "Copart to",
-    "target": "ACV Auctions",
-    "headline": "Copart to Acquire ACV Auctions for $1.9 Billion in All-Cash Deal",
-    "valueBillions": 1.9,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Copart to Acquire ACV Auctions for $1.9 Billion in All-Cash Deal Yahoo Finance",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXQ3cFNCUGVTTmdRZ0JNY3J5V012MVFESlVIVkdWRUJKbG1qRkE1WjlIcklVMFVpMVdESjNtOFZORWRPbTROMDF6ZG9BNzBaNFMzdWNkYVFoNWd4M2xKY2ZsSEFvOEtucWhudVNBdXgza05SUE9WRnlRVVlvdVR5S21IZnJrcERJSjBEbWgzVVRGYnRsWHY3MWNR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-76fbf7b78eb5",
     "date": "September 11, 2026",
     "publishedISO": "2026-09-11T07:48:20+00:00",
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Copart to buy ACV Auctions in $1.9 billion deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -540,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Salesforce",
-    "summary": "Salesforce Completes Acquisition of Fin Salesforce",
+    "sourceName": "salesforce.com",
+    "summary": "Salesforce Completes Acquisition of Fin salesforce.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -615,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "GE Aerospace to buy castings supplier for nearly $12 billion to tackle engine bottleneck reuters.com",
+    "sourceName": "Reuters",
+    "summary": "GE Aerospace to buy castings supplier for nearly $12 billion to tackle engine bottleneck Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "aviationweek.com",
-    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal aviationweek.com",
+    "sourceName": "Aviation Week",
+    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal Aviation Week",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,6 +2059,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR1hNVy02OFBWb09oUUpEc2F3UWtWSDZOckVXNkdUTm1BSl9zektvTUtqanJzOGlBWkpYbzg2c0x2dmx2SUUyai1ub3BqT0MzMTVoc1diU24zcWRqZlhCQWd4Q0hvZXgydEdETHIyX1k4VTR5MWNCeVo1MV9DOXoyT3l1bmdsSEdIMVhIYmFuREJjWmNaaFBCWThicGM2V0M3bVNUMWFPTU5YWVRSNTd4cXhkME1zRHpzM2p1d3FYRHpKa0VkTGtVenc1NU9VLXdtUVc2c3BoZVJweFJZeXlFd3Y3ellvSGhfUGxoTG1fRm1Vc0o4ZFNiMGp2UEFfb19kdHFqS2VJMA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-54cac5e5fc75",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T10:53:53+00:00",
+    "acquirer": "Anthropic Scuttles",
+    "target": "AI Company Decart",
+    "headline": "Anthropic Scuttles Plans to Acquire AI Company Decart",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PYMNTS.com",
+    "summary": "Anthropic Scuttles Plans to Acquire AI Company Decart PYMNTS.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkxvTjRnTkxDRnhRaGl0MHpHX0I3dHVKMFhackZOZzFDb28teGhzaFRMaEd5VUdmcFhuUzRGQ0l4RS15YUtudkUxMW1mbzJtMzhpYU5EaVdYWm1lbjhrV0ZGcTVPQzVndGxmVE1pV3ZGM002TUx6SXd1YTVac2VaWjBLcG13TFF3S1NURTJIaGwxODZ1UlpsTWFSWFBqZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
