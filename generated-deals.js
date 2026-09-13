@@ -151,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-012ea076b150",
-    "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T11:01:45+00:00",
+    "id": "news-1b9dfcbd900c",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T20:23:00+00:00",
     "acquirer": "Copart to",
-    "target": "ACV Auctions",
-    "headline": "Copart to Acquire ACV Auctions for $1.9 Billion in All-Cash Deal",
+    "target": "ACV Auctions in $1.9 billion deal",
+    "headline": "Copart to buy ACV Auctions in $1.9 billion deal",
     "valueBillions": 1.9,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Copart to Acquire ACV Auctions for $1.9 Billion in All-Cash Deal Yahoo Finance",
+    "sourceName": "Reuters",
+    "summary": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,12 +183,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXQ3cFNCUGVTTmdRZ0JNY3J5V012MVFESlVIVkdWRUJKbG1qRkE1WjlIcklVMFVpMVdESjNtOFZORWRPbTROMDF6ZG9BNzBaNFMzdWNkYVFoNWd4M2xKY2ZsSEFvOEtucWhudVNBdXgza05SUE9WRnlRVVlvdVR5S21IZnJrcERJSjBEbWgzVVRGYnRsWHY3MWNR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhwcVJ1aVRqNFlKdHJFMFdGY0hBd3A0QXlib2J2MEU0ZXJ4VnFOMEowdG1NWWtRVkhWVXdCTUdOdE84QWN5bnVDZEJOZlV3TVZqT1Bia0VBUzB0TV93Vy1OOF9keWJxLXU4cGJrUXVDWW1vUDBGX0U2UmdDOC1XcnEtOXdwci1BRnRwZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 11, 2026"
+        "date": "Sep 10, 2026"
       },
       {
         "stage": "Terms verified",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Enbridge Inc.",
-    "summary": "Rocky Mountain high: Enbridge acquires Tallgrass Energy assets for US$2.55 billion Enbridge Inc.",
+    "sourceName": "enbridge.com",
+    "summary": "Rocky Mountain high: Enbridge acquires Tallgrass Energy assets for US$2.55 billion enbridge.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Navan Acquires Leading AI-Powered Events Platform BoomPop, Expanding Offerings for Meetings and Events Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Navan Acquires Leading AI-Powered Events Platform BoomPop, Expanding Offerings for Meetings and Events businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1065,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "EE Times",
-    "summary": "Nvidia Acquires HuggingFace for $12.9B EE Times",
+    "sourceName": "eetimes.com",
+    "summary": "Nvidia Acquires HuggingFace for $12.9B eetimes.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Chime Announces Agreement to Acquire Stride Bank Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Chime Announces Agreement to Acquire Stride Bank businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "housingwire.com",
-    "summary": "Atlas VMS acquires CloseClear.ai housingwire.com",
+    "sourceName": "HousingWire",
+    "summary": "Atlas VMS acquires CloseClear.ai HousingWire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Circle Expands Global Payments Infrastructure with Agreement to Acquire Singapore-Based Cross-Border Payments Platform, Tazapay Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Circle Expands Global Payments Infrastructure with Agreement to Acquire Singapore-Based Cross-Border Payments Platform, Tazapay businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
