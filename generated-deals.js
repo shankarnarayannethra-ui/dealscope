@@ -1,6 +1,306 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-74fd887f03bc",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T13:42:00+00:00",
+    "acquirer": "Barnes & Noble to",
+    "target": "Joseph-Beth Booksellers",
+    "headline": "Barnes & Noble to buy Joseph-Beth Booksellers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WVXU",
+    "summary": "Barnes & Noble to buy Joseph-Beth Booksellers WVXU",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXlZMTVKQlAwTDlfZllkalp3b2gyblNrOThNSTVEcG81WGg5VzZIaTEzd3d5VzRkZ0NIdnNHZjk0V1VGU21XSF80VWxQN3FINmVhUnNVVVE0dTE2eUF1X2xhdWw3cklmNU9QMl9fNnVBQzF1US1EOXV4UUt2LS1LZVFCeW8zWEcySHd5bndIYw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0cf1f3c29e31",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T13:03:00+00:00",
+    "acquirer": "Medallion",
+    "target": "Andros to Expand AI-Native Credentialing Across Health Plans and Provider Organizations",
+    "headline": "Medallion Acquires Andros to Expand AI-Native Credentialing Across Health Plans and Provider Organizations",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Medallion Acquires Andros to Expand AI-Native Credentialing Across Health Plans and Provider Organizations PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaW9EZldJZ1djZHVQeVZnYUhqWXI1eVNHXzhHSlNESGgySWNCRmIwcWtGSDJMVmRfRG5Ea3Z1U0hORGhZZG5MY05UQnBYSEVOOXhjV3RWRzhaSEMtNElOdFVVbFY4Sm1iMWFRdDdTWTh6RWE3WnowRDB5U0NDZDFsclRkRzk3MHVDS3V0dFdmRzBPUEZfREl4RXk2ZWRYOU1FdlotXy1RTVc1cnlzLUVuYU1kYVhWcHVKU3d5MVE2a245bEw5Q1ZPZ0ZwQnRzT29JVC1kUXZvLW5jRlRXUEtOY2pTMFVHZE9pdGRSbUVXX00zRDE2?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-37a532f650b0",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T10:45:00+00:00",
+    "acquirer": "Grab to",
+    "target": "Majority Stake in SoftBank-Backed Atome",
+    "headline": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion",
+    "valueBillions": 1.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1VHczlrZEZMck90S2FtdzgzNjJZR0xuejUyZmdNbkx1eHhaZUhNVnFTd2tSOGRrem1wTnJjRWRXeTl6WXRhNENERjZYemZUNXZXQVlFQzZ0YllDa1M3NzNXNnUzRUJnZWkwTjM5ZFNZcjFvRElnekU0UDFQSEE1WERteWVWUG5FZnB1c0ltVjBmclVhMXdyY1BRZmdWRmhUVUY4TU91Zjh2UEx4TlZ3NkVIX2lVWDRHZlh0Yw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9bd48fd44d1e",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T10:24:17+00:00",
+    "acquirer": "Envestnet to",
+    "target": "portfolio management tech provider Vestmark",
+    "headline": "Envestnet to acquire portfolio management tech provider Vestmark",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FinTech Futures",
+    "summary": "Envestnet to acquire portfolio management tech provider Vestmark FinTech Futures",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVUjVjaTZaTGZCUmtlblJfVFhua3gyRDFpTElXRHJELUdjZFRCZ28zam40WmtCNFBNV2U5X2t1aEdoY3NnLVpEMlNPSlVzZ3dTb2o2Z05EaUtaN1RGSXN1cWJpM2tHOWIzMUFURW1yejhZZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ecddb7cd2a18",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T21:49:00+00:00",
@@ -76,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6953675a02cd",
+    "id": "news-82d372b0df58",
     "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T20:51:43+00:00",
-    "acquirer": "Corgan",
-    "target": "Duda|Paine Architects, a North Carolina firm",
-    "headline": "Corgan acquires Duda|Paine Architects, a North Carolina firm",
+    "publishedISO": "2026-09-14T20:59:49+00:00",
+    "acquirer": "Calais City Council votes to pursue financing to",
+    "target": "armory",
+    "headline": "Calais City Council votes to pursue financing to buy armory",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Architect’s Newspaper",
-    "summary": "Corgan acquires Duda|Paine Architects, a North Carolina firm The Architect’s Newspaper",
+    "sourceName": "The Maine Monitor",
+    "summary": "Calais City Council votes to pursue financing to buy armory The Maine Monitor",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lWF9wbFpDMXRzdUJEWlVReFFNLVBqdHFPazJCbWhxbkFjSW5rcFJwcVdqUExabURZa3d1TGpGbDRudU1PZUJicmtWdDVCV3huaHU1ckVpc3ZKMlg2OWV6ajl1SE93a1hGN0I4WVZNY2E?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jQUI0c010UDJHQ21zakVDaDhQYms3ejdBOFVMdjluelVvcWxVd2lSckhKTXhaMEd4dV82OUR4LTJoTURoR1hQQ1FvTHUxd3ZNUkc4VXlLTFNTYkVuWEE2Z252bkRHWThUYjAxeDF2Y0hEQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,6 +826,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-292d7d8f9924",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T13:26:50+00:00",
+    "acquirer": "Ondas",
+    "target": "GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & ",
+    "headline": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ir.ondas.com",
+    "summary": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology ir.ondas.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0Y5TXd5ZlVDV1haV3RmcXFiWXlDLWtwRDM5WUpFOEdCWWVfLTRXZVRIVUE5ZHhRYm44YTZ1NTFLN0poZ1BLR3JOdGZwWVR5aE1hcFV3a2N1Z0JZWTdrQlFtbkNpS3hNbG1rSFpJTUs2VHowS0NvTFRTdXc4T195SmxqeXZXLWFVWUZHRmpRWFVRanZQWG5zcFJzT0NwcUpnR0RR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-863922b6555c",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T13:04:08+00:00",
@@ -540,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "hr-brew.com",
-    "summary": "Wellthy acquires Cleo in bid to become ‘singular platform for family care’ hr-brew.com",
+    "sourceName": "HR Brew",
+    "summary": "Wellthy acquires Cleo in bid to become ‘singular platform for family care’ HR Brew",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -714,81 +1089,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-876cd9479a9b",
-    "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T16:02:00+00:00",
-    "acquirer": "Shell",
-    "target": "PJM Gas Power Plant",
-    "headline": "Shell Acquires PJM Gas Power Plant",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Rigzone",
-    "summary": "Shell Acquires PJM Gas Power Plant Rigzone",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWRKUjdrc3RyRFlPOW9EQ0ozV2NtT0lEOVdHcE93VEplbkc3WTBqcWJaX284TmlmLVNxR3d6TmhtWG1mTnZVb1lHU09MX2xNb1UtNUVnZ3pHcGpwMVpvS04tTUhQWjhKT1RMLTBXT2tzTkl3OWlwNWQtRHZ5ajJwZlRfcF9FSm5YUWdxRDlYTmE1dm1nZlE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 11, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1578,7 +1878,7 @@ window.generatedDeals = [
   {
     "id": "news-7499ceb4a44b",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T13:06:00+00:00",
+    "publishedISO": "2026-09-09T13:06:58+00:00",
     "acquirer": "Analog Devices to",
     "target": "Alif Semiconductor",
     "headline": "Analog Devices to Acquire Alif Semiconductor for $1.35 Billion",
@@ -1609,6 +1909,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzA3Yk9Dc0tyY0ltcW83OHVKS01FSTNiYS1DVHBFVTAzVzQ1b0d4ZDRKdjlkdXV6dWtaV2RwZzI4aEkxakEzNWF2OXhtQ2RQU0FTLW4yRXBXVGJnLVV0YnRlano1RV9sZ29XWUdfNWdFYjAtZFJ3dE5qWGRQR3FNY1lJZ0t4Y3RzRlVGNmk4OXQtQlMyd3BFbHNHMA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f7de977a9426",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T05:50:00+00:00",
+    "acquirer": "L Catterton-Led Consortium to",
+    "target": "Majority Stake in Hyrox",
+    "headline": "L Catterton-Led Consortium to Buy Majority Stake in Hyrox",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "L Catterton-Led Consortium to Buy Majority Stake in Hyrox WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM09Tc2dsTGdOcjdadlB6TkE2LWh5VEFENnZ2M2FaVVQydWdSNWhkNWxkc3RnTHVtVjk3d09ybHRldnhrTW1ka1FvMjVOeFBqbXlIVHZ3QVI1RjVvaWdYMjg4U2pEVTZkUk5ETDFRVzZVcEEwbmN2bi1yaHNMQXdCVkFPTnFza2p2SHVoaUcyNW5IWkJrV3k5czl2bGNnS1JJTVE4?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1834,381 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWThkdUhhV0Y3cUZ0c1ZpcHlGd29DaFlhdEdlTlJPVmU1TEY2TmV5TkVlOS1UeFVZLS1nZENLa3B0bnR6MTd2R1g2ZTVYN0FKZ2RjVHlXbXRiMVVvVTV0UVhsTXBYWnZpTVQteUFHa0ZyLTc1QnZlbTZCWHFGdVJoSnhYWVFfVjB1OGhoVDlNX2NjOXo3Yk54cGZfN1U2aHpId2wyMWtkVDFUc1kxTHc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-008191a544bd",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T14:21:00+00:00",
-    "acquirer": "GE Aerospace to",
-    "target": "Consolidated Precision Products",
-    "headline": "GE Aerospace to Buy Consolidated Precision Products for $11.75 Billion",
-    "valueBillions": 11.75,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "GE Aerospace to Buy Consolidated Precision Products for $11.75 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTdhQXpLS1I3NVhFWDBwTDRxSkx4XzZBV2Z6QVpaTWV3M2FuODBYc00zNVVZempnelJuSTJSZkJ5ZGdhYWJUbG9SbEdnLWl2RVAtZlRKdTVGYUlYNVJNODg5Uk9DNnp4NWdKSGluendPQmtZcGN4eERDOHVlQVhBc2tCSkNvdVNHbWFLRGRrbGNoQkhyNXE1bk5ZZ0FPX3pndlYxdC1TcTFHM0k5dDYyQ3R1cw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-599f991c5f9e",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T13:09:46+00:00",
-    "acquirer": "GE Aerospace",
-    "target": "Consolidated Precision Products",
-    "headline": "GE Aerospace acquires Consolidated Precision Products for $11.75B",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "GE Aerospace acquires Consolidated Precision Products for $11.75B Yahoo Finance",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXJYZ2NoWGJTbUNGMXZHZmRrVnhRSkIzc05WMEd0SndMWS1TcF95eTRjcEJ6eFZvOTg5QkdPNG9QeWhTYkxiV1dsd2dvWGRMVXVrNlhzX3BwQ1N6a2tsS3k0LWhBNHp4LWVqamFhb1dCUDBEYTJfSHdLOUFHa290R0xHQkRQZGxDaEV6NGNZMTZkR2Q2TmJaUS1ENHI5bzJHal9PcGtqNTQzNy1jRUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-13665153b4fe",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T13:05:00+00:00",
-    "acquirer": "Labcorp",
-    "target": "MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities",
-    "headline": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3d5fbe42b139",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T12:23:45+00:00",
-    "acquirer": "Apple",
-    "target": "brain imaging firm",
-    "headline": "Apple acquires brain imaging firm for health and accessibility features",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AppleInsider",
-    "summary": "Apple acquires brain imaging firm for health and accessibility features AppleInsider",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbENvWFdHMlR2LXZrNjhMTGMzMThZZGMxUFhQcFo0bnlQLTNnTXZwSTJqNTJwU010QUVOaWR0WnlNd3gxN3pvUDU2WG0wNU1HTDBJS0ZSVS1JR2d3dVRIY3JTSHdRNnJqNVotMk14REVKMmxBZ3M1eW56ZTJuQzJXYmhnWmJEX2NzS3BrYzhFUVVOc3pBeDJNaklCOFMwQUlTVTlGc1JucVQ1NVVyRFI4N3dScW0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-418e75c392dc",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T12:04:15+00:00",
-    "acquirer": "GE Aerospace To",
-    "target": "Consolidated Precision Products In $12B Deal",
-    "headline": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "aviationweek.com",
-    "summary": "GE Aerospace To Buy Consolidated Precision Products In $12B Deal aviationweek.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEJ3bmZ5VVNRTTd6S3ZvTG55ZmNabFVoQ2lCZFFaMUF6M3FiU2Rpak81WHpieXpaZDRvLWptaE4zWF9kTlY0VzZpVTJRdkktOW1ZUmdNUjJFd1diVHVUQ21fWjFKTjRCdWtKYklBTnhGS1BwUm1XMVlra1M1aDFkeEFTalVSeDRrbXdhUXppZ3hKVVZmSk9EcEJSTTN0NEd4MnB4bU0xczEwdHlvcF85Qlp6VWU1UUtUcFhv?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
