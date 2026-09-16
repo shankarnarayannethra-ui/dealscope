@@ -1,9 +1,159 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-0dd124d9f662",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T22:00:00+00:00",
+    "acquirer": "CareTrust REIT",
+    "target": "Nursing Home Portfolio",
+    "headline": "CareTrust REIT Acquires Nursing Home Portfolio for $400M",
+    "valueBillions": 0.4,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Skilled Nursing News",
+    "summary": "CareTrust REIT Acquires Nursing Home Portfolio for $400M Skilled Nursing News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTdudWtVSUw0VnB0QnNyeWtKdjh6N1RfVmVQMkhPZDYyaGhfLUJmRWpnTzBvbkVSSXZ1ck9EWk8xRHhqNWVCNFQwbXhJZTFmOW9MU3JiTHlIWlprdFlKUlRmRmRfd3VQY0UtY1JMdkR0TFFjREIzWHQ5Nlo1b1otdWlHNEVKZlB4U3hqcVlXTVVNOWhSUE0yRXk2WTBDN2VmVTZPT1puQ3pDbWN5aWRMYTJPQ3oyQ1Y3LWVrV1Rva2pLVTBPV0l3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-3ad263c7c3ce",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T20:28:49+00:00",
+    "acquirer": "PayNearMe",
+    "target": "Marr Labs, Envestnet Acquires Vestmark",
+    "headline": "PayNearMe Acquires Marr Labs, Envestnet Acquires Vestmark",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Finovate",
+    "summary": "PayNearMe Acquires Marr Labs, Envestnet Acquires Vestmark Finovate",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkZXSkZmYjdtOHZwdENPTlFYTjBPak5pQlpyN2MyNWZmR1dpTmxBd0JRYS1kRDNueHdaTFA2TW5sZG1YdE1HNlVlVC16VHphRHd2NFZHVUl4ZXZNT0hmLVlsdGVuR2ItYmRVcEY0MkhHWWZmdkJZV3VMUmJKU2JhazBwaVc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5870647b13d8",
     "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T18:17:45+00:00",
+    "publishedISO": "2026-09-15T18:17:58+00:00",
     "acquirer": "Fairfax-based ITC Federal to",
     "target": "govcon business tied to ICE",
     "headline": "Fairfax-based ITC Federal to acquire govcon business tied to ICE",
@@ -109,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFbEhLRzFOY1huTGNqTG1BV0swXzhpMXVtalFTUU1oMUthRkM1VmQwbExZZ19SUUFxX0pzSHZ0TFZhTElSQzlfMnpOOXFuT1lMRXFSSEpadVBBdTI2Y1RNcF84VU1RRW9BNDc4ZVQxNlZpcDdhS3c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-74fd887f03bc",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T13:42:00+00:00",
-    "acquirer": "Barnes & Noble to",
-    "target": "Joseph-Beth Booksellers",
-    "headline": "Barnes & Noble to buy Joseph-Beth Booksellers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WVXU",
-    "summary": "Barnes & Noble to buy Joseph-Beth Booksellers WVXU",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXlZMTVKQlAwTDlfZllkalp3b2gyblNrOThNSTVEcG81WGg5VzZIaTEzd3d5VzRkZ0NIdnNHZjk0V1VGU21XSF80VWxQN3FINmVhUnNVVVE0dTE2eUF1X2xhdWw3cklmNU9QMl9fNnVBQzF1US1EOXV4UUt2LS1LZVFCeW8zWEcySHd5bndIYw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work TechCrunch",
+    "sourceName": "techcrunch.com",
+    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work techcrunch.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1276,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1571e119f8f3",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T07:00:00+00:00",
+    "acquirer": "Constellation Energy in deal to",
+    "target": "609-MW Rhode Island gas plant from Shell",
+    "headline": "Constellation Energy in deal to buy 609-MW Rhode Island gas plant from Shell",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Utility Dive",
+    "summary": "Constellation Energy in deal to buy 609-MW Rhode Island gas plant from Shell Utility Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmJ5dndvUkdHSVhUanBrbjdDYlExRFNLdkpRMjZuRFp6bFFlbmlwR1N5Sng3SHBtV3Z1LUQ3cGtNOC11VGpCNVU3OVd6eHNxbzk3TlBqWVF1Qm0wYzMxcER0bnpabDU4Uy00N1hPTmJvUTN2ckRYZmVhb0dYLUVmaVhJTGZHMmY4emF2azJVWlhUMVlOYWNua25vV0xjNGx3VE9majNRbHNsZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-1b9dfcbd900c",
     "date": "September 11, 2026",
     "publishedISO": "2026-09-11T00:28:48+00:00",
@@ -1290,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Copart to buy ACV Auctions in $1.9 billion deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1951,81 +2101,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-722e3eaca5da",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T13:59:40+00:00",
-    "acquirer": "Nvidia",
-    "target": "HuggingFace",
-    "headline": "Nvidia Acquires HuggingFace for $12.9B",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "eetimes.com",
-    "summary": "Nvidia Acquires HuggingFace for $12.9B eetimes.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRU1ljYmxwdFlTOWpUZFU4T1BtMTY1ejYwN0MyWHZzY1R4OEdfNW1IN1lmcUt5WDNhNUhkMUx3WmVlYUswWFJfdnROMHUzRTFlMk5ISHp4WHIycTJTbWJlVzJqbmhyNlV5YkFKWkRKaw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-7499ceb4a44b",
     "date": "September 9, 2026",
     "publishedISO": "2026-09-09T13:06:00+00:00",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2c77da355fff",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T23:29:13+00:00",
-    "acquirer": "Chime to",
-    "target": "nationally chartered Stride Bank",
-    "headline": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump",
-    "valueBillions": 0.59,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump reuters.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXIxVTFQOUJmN3FqeU5HY0RxcTJvaDg4UmJ2V1ZNU0YzRWpheEhxRlRCLTdUYU5qZjRIWnlHNG96ZEV1SllyTWg0cUlPOXdlZktNT3BNZXVXTVBRWmQ0UHlGZXRJLU1jeFJjeVcyVWVRVVNJaV9vZ2xpb21XMHVqVnROOEdTVXdrWDV2ZXR3UDlYMWNWNUgxRUY4d0VPcDlha2RFVVpGc1U5cWRmcFdVWUkzOXZ6c050T0h0WnVwYw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
       },
       {
         "stage": "Terms verified",
