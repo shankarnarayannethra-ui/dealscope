@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-0dd124d9f662",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T22:00:00+00:00",
-    "acquirer": "CareTrust REIT",
-    "target": "Nursing Home Portfolio",
-    "headline": "CareTrust REIT Acquires Nursing Home Portfolio for $400M",
-    "valueBillions": 0.4,
+    "id": "news-d9a79c21cdc6",
+    "date": "September 16, 2026",
+    "publishedISO": "2026-09-16T04:40:59+00:00",
+    "acquirer": "NFP",
+    "target": "Moores Insurance Management",
+    "headline": "NFP acquires Moores Insurance Management",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Skilled Nursing News",
-    "summary": "CareTrust REIT Acquires Nursing Home Portfolio for $400M Skilled Nursing News",
+    "sourceName": "Insurance Business",
+    "summary": "NFP acquires Moores Insurance Management Insurance Business",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTdudWtVSUw0VnB0QnNyeWtKdjh6N1RfVmVQMkhPZDYyaGhfLUJmRWpnTzBvbkVSSXZ1ck9EWk8xRHhqNWVCNFQwbXhJZTFmOW9MU3JiTHlIWlprdFlKUlRmRmRfd3VQY0UtY1JMdkR0TFFjREIzWHQ5Nlo1b1otdWlHNEVKZlB4U3hqcVlXTVVNOWhSUE0yRXk2WTBDN2VmVTZPT1puQ3pDbWN5aWRMYTJPQ3oyQ1Y3LWVrV1Rva2pLVTBPV0l3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjltUngwTGE3MVFIVEp1MEkwYkduOXN5anVPZlMwb05Hdks0RE43bm15blc3R0tYa2FUOGhIUGxZYi1YU1M5N1RmalYwdnVHR0ZVQU54dWNuSDBDY25DQjU3ZVBVTzFLVVBhNHdia3g4Q2NVaWtxbjJjVWMtc2ttVHd6SGQ5ejc5Ml8yaXBiMmVPdXREQ09xOXVsSk9uRF81Ykt3REpkUUtXTEpnNkZnVnRIYl9nN3JrNHc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 15, 2026"
+        "date": "Sep 16, 2026"
       },
       {
         "stage": "Terms verified",
@@ -76,13 +76,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3ad263c7c3ce",
+    "id": "news-0dd124d9f662",
     "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T20:28:49+00:00",
-    "acquirer": "PayNearMe",
-    "target": "Marr Labs, Envestnet Acquires Vestmark",
-    "headline": "PayNearMe Acquires Marr Labs, Envestnet Acquires Vestmark",
-    "valueBillions": null,
+    "publishedISO": "2026-09-15T22:00:00+00:00",
+    "acquirer": "CareTrust REIT",
+    "target": "Nursing Home Portfolio",
+    "headline": "CareTrust REIT Acquires Nursing Home Portfolio for $400M",
+    "valueBillions": 0.4,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Finovate",
-    "summary": "PayNearMe Acquires Marr Labs, Envestnet Acquires Vestmark Finovate",
+    "sourceName": "Skilled Nursing News",
+    "summary": "CareTrust REIT Acquires Nursing Home Portfolio for $400M Skilled Nursing News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkZXSkZmYjdtOHZwdENPTlFYTjBPak5pQlpyN2MyNWZmR1dpTmxBd0JRYS1kRDNueHdaTFA2TW5sZG1YdE1HNlVlVC16VHphRHd2NFZHVUl4ZXZNT0hmLVlsdGVuR2ItYmRVcEY0MkhHWWZmdkJZV3VMUmJKU2JhazBwaVc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTdudWtVSUw0VnB0QnNyeWtKdjh6N1RfVmVQMkhPZDYyaGhfLUJmRWpnTzBvbkVSSXZ1ck9EWk8xRHhqNWVCNFQwbXhJZTFmOW9MU3JiTHlIWlprdFlKUlRmRmRfd3VQY0UtY1JMdkR0TFFjREIzWHQ5Nlo1b1otdWlHNEVKZlB4U3hqcVlXTVVNOWhSUE0yRXk2WTBDN2VmVTZPT1puQ3pDbWN5aWRMYTJPQ3oyQ1Y3LWVrV1Rva2pLVTBPV0l3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-9ce167287d64",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T13:35:40+00:00",
+    "acquirer": "ODNR Launches New Website to",
+    "target": "Ohio-Grown Trees",
+    "headline": "ODNR Launches New Website to Buy Ohio-Grown Trees",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Ohio Department of Natural Resources (.gov)",
+    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees Ohio Department of Natural Resources (.gov)",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkRpNDdRWksxN0dOOWlyRnJMZ2ZXc2wwMGtZQ1R2WjA3UVVKbHF3aE1Eb2lER0FrRW50X2FxZk9qNWJwbFhfeGNXc1I5QnZjR0EtNWNkd3FPZUsxbmpEUDV4NHo0TGxTbTVDaVJ5NE40TE4tQVVvSXBidkYtdXlNRUl1d0xwQ2prWDZqUFJZdjMwcWRjNU9IOUx3MUh2dS1Hbk8teU1YUDNrQnBuVzNEUGIwdzBDV0E?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0cf1f3c29e31",
     "date": "September 15, 2026",
     "publishedISO": "2026-09-15T13:03:00+00:00",
@@ -409,81 +484,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcy1YV0FEZTBZa0dFMEFnNGwxY0x2REZMdGdZTlc5VHRJeGFfakZnMThrbmNFMWZFdzVfOXhYaFd4STZ5eTVKM0RXMjU4cDRPN1ZXanJrMzZHWksxV0lET2MzYTlQdW12bko3bjNUcUhvUjBGNW56QXJNYS1mbWo5ejMwUEt4NS1PakVHNFRkTlg5MDQyaUNqWjRqWjhkRVJtMHFCYlR2UE5SejFkdmhXN0NfeThtVHI2NUFv?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-74ed4ccbbdba",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T12:20:00+00:00",
-    "acquirer": "Barnes & Noble",
-    "target": "both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
-    "headline": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WKYT",
-    "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati WKYT",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHdsRWphTzdTQWwxUVJhekFReU53R3kycWFGdzVyUk1GbnpXaXVRT01NZGVSMmRlNnRXenRxZHliYkRKMTVza3hWemdjQ3JCREZWdE1oeHBjOWgzaFdmSS1icjNZRzdicnZ0TjZRdHZ5cnhpTWxPcW5IaFB3cHJsSHNRRU1vRlhKcFp2eDBVRThrQ3oyby1WTUNEcXI0dFcxSEdhTEhkVlo1SVFCcGVmamFBN0rSAcgBQVVfeXFMUHhDM2VJanlmaVoxX0x2Z29EakVvYnpTVzB0bHV4M3FWc3RTZFB2TVJDNVpXNm5rRm8wSE5xekJ5UG5JZ0VNY2xjVXVyRGFNcGFlckc2MGNQNzRnSnZMSWNqZmZoQnNxc2Noc0lrODM5NVF4Um1jeUtDQWkzTWNSMkJlUDZ2NkN6Y3RDUUJGZzduVlFVSjEtbHlGaW9oOXU3RG15Q3dLMmxmQjhFMnlnWUJXejFUTlRsbk81SmpBSmVIWFllR1BIS3Y?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Center for European Policy Analysis (CEPA)",
-    "summary": "Armenia Battles to Buy Time Center for European Policy Analysis (CEPA)",
+    "sourceName": "cepa.org",
+    "summary": "Armenia Battles to Buy Time cepa.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ondas Holdings",
-    "summary": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology Ondas Holdings",
+    "sourceName": "ir.ondas.com",
+    "summary": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology ir.ondas.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Auto Remarketing",
-    "summary": "Copart agrees to acquire ACV for $1.9B Auto Remarketing",
+    "sourceName": "autoremarketing.com",
+    "summary": "Copart agrees to acquire ACV for $1.9B autoremarketing.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1609,81 +1609,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDJJWmZLTzJPX3ZwcWV0dGhCVlpIQl9sQzBlOTl2M1o0TmxJSldLX1pHQnhpTElwVVhpQkRoRlNwOWhCRWh6VkNGb29OdkZuc1dfeTQ0S2RGSmRUbGU1aV9qdDNzeGtPYXRlUkh1cDhKNl9VckMwUVM4RWR1WnhXSjJXRlQ4TnB5Q2hUNktVb3RsdkhqNlNGQU01U1JHRjA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2ec8df927286",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T12:58:04+00:00",
-    "acquirer": "Bending Spoons to",
-    "target": "Miro in $1.36 billion cash deal",
-    "headline": "Bending Spoons to buy Miro in $1.36 billion cash deal",
-    "valueBillions": 1.36,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY1VUMzhySVdyTkNEd0ZfN3VhSDc0TG9saDNCRkk4M1lSa21tNEt2TzJlTUpSZzVRdkNJcHF4WWxucEptcndoWmVTUmJUbjkzWjM3aVBTQkR6bkRlaEFjZ05tVkxRMVF6VEFiWjZxSjFXV2lJR0JFY3RDU0t4eWEzdmJwcmJNZHluV0V5d1N1T3k4eGhxRF9GczlISGVYMDhhUWJj?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1890,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Enbridge Inc.",
-    "summary": "Rocky Mountain high: Enbridge acquires Tallgrass Energy assets for US$2.55 billion Enbridge Inc.",
+    "sourceName": "enbridge.com",
+    "summary": "Rocky Mountain high: Enbridge acquires Tallgrass Energy assets for US$2.55 billion enbridge.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2101,6 +2026,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-722e3eaca5da",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T13:59:40+00:00",
+    "acquirer": "Nvidia",
+    "target": "HuggingFace",
+    "headline": "Nvidia Acquires HuggingFace for $12.9B",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "EE Times",
+    "summary": "Nvidia Acquires HuggingFace for $12.9B EE Times",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRU1ljYmxwdFlTOWpUZFU4T1BtMTY1ejYwN0MyWHZzY1R4OEdfNW1IN1lmcUt5WDNhNUhkMUx3WmVlYUswWFJfdnROMHUzRTFlMk5ISHp4WHIycTJTbWJlVzJqbmhyNlV5YkFKWkRKaw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7499ceb4a44b",
     "date": "September 9, 2026",
     "publishedISO": "2026-09-09T13:06:00+00:00",
@@ -2176,13 +2176,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f7de977a9426",
+    "id": "news-4d1e8dddcd57",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T05:50:00+00:00",
-    "acquirer": "L Catterton-Led Consortium to",
-    "target": "Majority Stake in Hyrox",
-    "headline": "L Catterton-Led Consortium to Buy Majority Stake in Hyrox",
-    "valueBillions": null,
+    "publishedISO": "2026-09-09T12:57:43+00:00",
+    "acquirer": "Analog Devices to",
+    "target": "Alif Semiconductor",
+    "headline": "Analog Devices to buy Alif Semiconductor for $1.35 billion",
+    "valueBillions": 1.35,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "L Catterton-Led Consortium to Buy Majority Stake in Hyrox WSJ",
+    "sourceName": "Reuters",
+    "summary": "Analog Devices to buy Alif Semiconductor for $1.35 billion Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM09Tc2dsTGdOcjdadlB6TkE2LWh5VEFENnZ2M2FaVVQydWdSNWhkNWxkc3RnTHVtVjk3d09ybHRldnhrTW1ka1FvMjVOeFBqbXlIVHZ3QVI1RjVvaWdYMjg4U2pEVTZkUk5ETDFRVzZVcEEwbmN2bi1yaHNMQXdCVkFPTnFza2p2SHVoaUcyNW5IWkJrV3k5czl2bGNnS1JJTVE4?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmI0Ym1wdlpTVDlBV0RQdVhpY19wS1lLcFFIZ3FLd2Y4TjZoOTNaY1NHZGoxWERJLWRGOVFTMlBjeXF2dGZPVjFmU1VjMFBqUFBzMjBILUw5ekZ4UU1EeTB1cnVfbFZIcVBidERqNXFSSUJRNjFxVVVMZTFkVTkwYnhxdnJOZDJfc1IwdExVUzhJVUx1a3NFR0VBcHg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
