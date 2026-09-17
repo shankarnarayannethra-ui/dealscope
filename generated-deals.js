@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-00b9849c5e81",
+    "date": "September 17, 2026",
+    "publishedISO": "2026-09-17T12:00:00+00:00",
+    "acquirer": "S&P Global Announces Agreement to",
+    "target": "OpenZeppelin",
+    "headline": "S&P Global Announces Agreement to Acquire OpenZeppelin",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "S&P Global Announces Agreement to Acquire OpenZeppelin PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlFJUDdReWx0LVJhWE1EUHh4bUNUQm5fZGtxZ1NMUUh4d2l1UHZUdkV0WlR6X0hEZDRpLWh6cFVrR216NlZIY3lRTTQ3RzN3TW1JTS1Ec3c4M2FzYWN1YUlzUlcyUVRZSUhNa0syZWRQQzJodjJqOWx4VEd3YUUxQ1Q0aGpNMXhZNkxyV083emhmTGxQVDV4aEVMWUpRUzZTRUFxMXA3NVJfamF6TXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-34d1e323543a",
     "date": "September 16, 2026",
     "publishedISO": "2026-09-16T22:57:00+00:00",
@@ -15,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "siliconangle.com",
-    "summary": "Cohere and Aleph Alpha agree to merge in reported $20B deal siliconangle.com",
+    "sourceName": "SiliconANGLE",
+    "summary": "Cohere and Aleph Alpha agree to merge in reported $20B deal SiliconANGLE",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ca66a41f7eb7",
+    "id": "news-f3ca18198e2f",
     "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T21:02:35+00:00",
-    "acquirer": "Amazon obtains right to",
-    "target": "stock in Generac, boosting power company's share price by over 40%",
-    "headline": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+    "publishedISO": "2026-09-16T21:32:00+00:00",
+    "acquirer": "Local booksellers react to Barnes & Noble",
+    "target": "Joseph-Beth Booksellers",
+    "headline": "Local booksellers react to Barnes & Noble’s acquisition of Joseph-Beth Booksellers",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40% CNBC",
+    "sourceName": "WKYT",
+    "summary": "Local booksellers react to Barnes & Noble’s acquisition of Joseph-Beth Booksellers WKYT",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +183,157 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXpFZWNDWmVNLW8zRy1tWDlCVDFQel9nbjk4RXJHcE9IX3lhUlIxUUh5VFpJdTdIMnBRX2ZuQUtRMmZwem9YbS1MWVpzaFZfQXgyalRiYldJcDlUZWdfZEJxRUp0SjZmcEE1YURPaGRGSFJ6empReHdCQ05zMXRTMnR3TklzUGtCSl9rOUw1VjFQYnhjX05zWTNOMWlqNVppcHhYVNIBqgFBVV95cUxPMENjTFY4VEJEMXZ6S2drREJLc05wWkswUnlfQWFxN2VWTkJocENKRlRHWkM5Z2RDWXN1cW1kNmFJNGVZdTdUN2toUkt0T0hMSmhKVEZhS21KcnNadERGTzFZUzJlNXh2bWJlX3k4bE5paGhrdkppZjhHeVh0QmljemRkTXJoYTltVkkzREpXMHI2WVdnV1VEdWc4MVh5QnhsYW9Zd3dXdnR2QQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGowRi1jbDlLUzZMc1htVUpfR3l0RXdlYWotX0lZVTVwUDBYTGpudzJNUHgtN1hHMW12UzhRVDhyNkstUUtlYjFxbVlaUDd0UVEwS1FfNUN2c1dLMEhyYXN4QmxSV096WXpjTHBzNDl1MUV3ZjVrNzJ6UmdMMkxMWWREbFVRWEdkNHV4ZmRZY2hHMWhHb2xLRTF1MVI0RVl6RVBJNDNUUzQ1QdIBvgFBVV95cUxPN1FkZ1pJR3ZHWERGQVRtYWJsVXhVZFg3WTNtZUlndElJTTRVM0xQWEJaUTVVUGZrVUxEZVhHLXgzN1RjNGFSTzlkTHktSFpLeE5iY04yR2lYRjlycVNxRkxkNFY3dUFpZDZVLWlVVkRBR0VMRUJoQTVZYTA5NEt3QzY0VmJOSm9teEJsX2hGMW1NakJDazBKVXN1WU1NNGxSRTEybXJpVmtEMVRWamF3d1hxdURnWkU0UGdzX0p3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1e72a44d7ba0",
+    "date": "September 16, 2026",
+    "publishedISO": "2026-09-16T21:10:04+00:00",
+    "acquirer": "W.Va. American Water To",
+    "target": "3 Fayette County Utilities",
+    "headline": "W.Va. American Water To Buy 3 Fayette County Utilities",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "West Virginia Public Broadcasting",
+    "summary": "W.Va. American Water To Buy 3 Fayette County Utilities West Virginia Public Broadcasting",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd05LM3dJQnpDaW12NkpFX1MyLThwUmRNaFk2aDVncWtESjRFOHdBNTJUOGtLUGlvdjdqYk5mVHhqSU1uNXIydUh2QWYzR00yb0JmOHFNQm9kMDgyRDE3d29ieHUzOFRLLXo5T1g5bW1FdEdnQTIzZU12S2NJcUhfZHlDZHd1Mmx5Q1hBWVFpcWlqdUROdWdubDQ1Z3ZHQ2V3Mm1tRWR4U1M?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-297fdc7e0f8a",
+    "date": "September 16, 2026",
+    "publishedISO": "2026-09-16T19:22:06+00:00",
+    "acquirer": "Afognak",
+    "target": "Weaver Bros. Family of Trucking Companies",
+    "headline": "Afognak Acquires Weaver Bros. Family of Trucking Companies",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Alaska Business Magazine",
+    "summary": "Afognak Acquires Weaver Bros. Family of Trucking Companies Alaska Business Magazine",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTllhVHFjSU5ZSmV3NnpFQTlXcDJ3dnJxN2dsUVhYcXA5NFdPd01WYjdMVEFJaWQ5bTN1Q2FESkFjUmszY1VTamFqWWdxMU5Pd3dSSW1kdXB3RmhKcHFqVXFPOFo2Z3FIa1NYaER5NnRfVURwVW1BNi1kdzh2LXhRTWlMUnR4SHBhYTF6Zkxma2dZV2g4WmNrem9SWERabk5ZUVA5VmU3d3gxQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -165,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Crain's Detroit",
-    "summary": "Wayne County to buy former Comerica building for $25M in office consolidation plan Crain's Detroit",
+    "sourceName": "crainsdetroit.com",
+    "summary": "Wayne County to buy former Comerica building for $25M in office consolidation plan crainsdetroit.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -315,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "variety.com",
-    "summary": "Macro Acquires Allblk Streaming Service From AMC Global Media variety.com",
+    "sourceName": "Variety",
+    "summary": "Macro Acquires Allblk Streaming Service From AMC Global Media Variety",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -465,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -676,312 +901,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d0145f874247",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T06:00:00+00:00",
-    "acquirer": "ASSA ABLOY",
-    "target": "PACLOCK in the US",
-    "headline": "ASSA ABLOY acquires PACLOCK in the US",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Assa Abloy",
-    "summary": "ASSA ABLOY acquires PACLOCK in the US Assa Abloy",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmhTR2tScUkwcnU3TVBBdWdRRHJrN200OWFYajg0TFBabmlINFRjRVQyQVdtaFBQamYtLUY4NEI4a1JQZXpFeVp6MG5XWmpzS1JaYTh6Q2xUUG1pS3pWUV85VG1BM3dfUFNDMncwNUw4eVJYOFZZbkpzMl9vWW9WNHdPMmZnMGM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d9a79c21cdc6",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T04:40:59+00:00",
-    "acquirer": "NFP",
-    "target": "Moores Insurance Management",
-    "headline": "NFP acquires Moores Insurance Management",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Insurance Business",
-    "summary": "NFP acquires Moores Insurance Management Insurance Business",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjltUngwTGE3MVFIVEp1MEkwYkduOXN5anVPZlMwb05Hdks0RE43bm15blc3R0tYa2FUOGhIUGxZYi1YU1M5N1RmalYwdnVHR0ZVQU54dWNuSDBDY25DQjU3ZVBVTzFLVVBhNHdia3g4Q2NVaWtxbjJjVWMtc2ttVHd6SGQ5ejc5Ml8yaXBiMmVPdXREQ09xOXVsSk9uRF81Ykt3REpkUUtXTEpnNkZnVnRIYl9nN3JrNHc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a95c6b5f77f0",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T04:30:00+00:00",
-    "acquirer": "The Independents",
-    "target": "Production Studio Smuggler",
-    "headline": "The Independents Acquires Production Studio Smuggler",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Business of Fashion",
-    "summary": "The Independents Acquires Production Studio Smuggler The Business of Fashion",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0VDaVUxUWM3N1pwTUhUbktPSmJzdmR6clFqQVo4TFlFUVk4VnU0OHFjYjhBc0pfWXN3RjhkV0NnRTlsbWpsX29YeU1vSFRKRXpHbDhKOVZ0djhWQ1ZuWmFfZDBHbEpON2UzVUpEMWdfZE0zV0IwejIxeWRBOG9pbDRBV1I1N2JLNzhRcGdFTFVLNEZGMTM3N1R3a2Rtdi1icXlCX3hFaVRNU1lSVG5GMFhqVWlMdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0dd124d9f662",
+    "id": "news-c940fdd2a74b",
     "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T22:00:00+00:00",
-    "acquirer": "CareTrust REIT",
-    "target": "Nursing Home Portfolio",
-    "headline": "CareTrust REIT Acquires Nursing Home Portfolio for $400M",
-    "valueBillions": 0.4,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Skilled Nursing News",
-    "summary": "CareTrust REIT Acquires Nursing Home Portfolio for $400M Skilled Nursing News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTdudWtVSUw0VnB0QnNyeWtKdjh6N1RfVmVQMkhPZDYyaGhfLUJmRWpnTzBvbkVSSXZ1ck9EWk8xRHhqNWVCNFQwbXhJZTFmOW9MU3JiTHlIWlprdFlKUlRmRmRfd3VQY0UtY1JMdkR0TFFjREIzWHQ5Nlo1b1otdWlHNEVKZlB4U3hqcVlXTVVNOWhSUE0yRXk2WTBDN2VmVTZPT1puQ3pDbWN5aWRMYTJPQ3oyQ1Y3LWVrV1Rva2pLVTBPV0l3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3ad263c7c3ce",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T20:28:49+00:00",
-    "acquirer": "PayNearMe",
-    "target": "Marr Labs, Envestnet Acquires Vestmark",
-    "headline": "PayNearMe Acquires Marr Labs, Envestnet Acquires Vestmark",
+    "publishedISO": "2026-09-15T20:30:00+00:00",
+    "acquirer": "Australian battery tech firm",
+    "target": "New Orleans company and bets on drones to boost demand",
+    "headline": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -990,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Finovate",
-    "summary": "PayNearMe Acquires Marr Labs, Envestnet Acquires Vestmark Finovate",
+    "sourceName": "NOLA.com",
+    "summary": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand NOLA.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1008,7 +933,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkZXSkZmYjdtOHZwdENPTlFYTjBPak5pQlpyN2MyNWZmR1dpTmxBd0JRYS1kRDNueHdaTFA2TW5sZG1YdE1HNlVlVC16VHphRHd2NFZHVUl4ZXZNT0hmLVlsdGVuR2ItYmRVcEY0MkhHWWZmdkJZV3VMUmJKU2JhazBwaVc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQME5ZeFR4RUdQTUJ5c3IyYkpObXU5a0VWRzZuNVZ4ZEIzd2UtRTEtMWdMSXZROERRa3htb3dpYVo3RExjNWkwRll0ZXVFQjAtTGYwZFJfbkkzZEtzNzAyRTRwdS1kUVUzaTl4YTMxZVV1WFpRMEZSbDVXaVRqNTl3RE40Wldfd0EzMHg0d3lVeUY4Tk93c295dWlyQ0pXUUpkM0ZjQkdNVXgxMmZiVWhLWlRHM1I3WHR4RlROZ1ZqdVpwMlVWejI0cXpJMUtuMWk0cFNXWklBWlJjM3ZPQ18xbmYzUVplNUw0MTlMekdLZ2Fyc2RnOEM0c3VUcF9lV1JVY3l3LVRwdDNZd05CX2FCRzRvODhhTDE5U2NfTkk4eFZqWjBkM3cxYkd30gGvAkFVX3lxTFB1enlOUVBLNVBZbDIwOW1iQ2lJUVE3WU1ub2FJYnJMZEJlNFJ5X2dkQzdzd2ptekxxTk1OMUs0d1hmVFpHZzUxbDNNOWYwVXNpamFMV2lVVG1NeUt1ZlNaaUNjdndvMHo3V1ZnRG5FbGJsME81MlVKTjhfSjhRM2p2WXZ3Y2V4RHFYcEJGVjlZbUt2T21JYVdDX2JQRkxlZVZFdUhFYk9NaUg1NjYxZjh4eGJuLXVYb0tpUndFdkZuaktFRDctWEtRZGMwRDNlS3NJaUoyeHlPSzdiNUJTaDFnd1A5TEgtMS13bzlQQmQwVERyc05fSkc5ZlBnWTllQ3pvYVJBNlBBY3hVa2piVnk0VFdPOHB0MWg3eVNNZnJXRXdGVkNZUmZVMHRHQldsSQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,6 +1126,156 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-9ce167287d64",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T13:35:40+00:00",
+    "acquirer": "ODNR Launches New Website to",
+    "target": "Ohio-Grown Trees",
+    "headline": "ODNR Launches New Website to Buy Ohio-Grown Trees",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Ohio Department of Natural Resources (.gov)",
+    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees Ohio Department of Natural Resources (.gov)",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkRpNDdRWksxN0dOOWlyRnJMZ2ZXc2wwMGtZQ1R2WjA3UVVKbHF3aE1Eb2lER0FrRW50X2FxZk9qNWJwbFhfeGNXc1I5QnZjR0EtNWNkd3FPZUsxbmpEUDV4NHo0TGxTbTVDaVJ5NE40TE4tQVVvSXBidkYtdXlNRUl1d0xwQ2prWDZqUFJZdjMwcWRjNU9IOUx3MUh2dS1Hbk8teU1YUDNrQnBuVzNEUGIwdzBDV0E?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-37a532f650b0",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T10:45:00+00:00",
+    "acquirer": "Grab to",
+    "target": "Majority Stake in SoftBank-Backed Atome",
+    "headline": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion",
+    "valueBillions": 1.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1VHczlrZEZMck90S2FtdzgzNjJZR0xuejUyZmdNbkx1eHhaZUhNVnFTd2tSOGRrem1wTnJjRWRXeTl6WXRhNENERjZYemZUNXZXQVlFQzZ0YllDa1M3NzNXNnUzRUJnZWkwTjM5ZFNZcjFvRElnekU0UDFQSEE1WERteWVWUG5FZnB1c0ltVjBmclVhMXdyY1BRZmdWRmhUVUY4TU91Zjh2UEx4TlZ3NkVIX2lVWDRHZlh0Yw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ab8ca770e702",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T20:27:00+00:00",
@@ -1351,6 +1426,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-025728cbf948",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T15:45:52+00:00",
+    "acquirer": "The Best Time To",
+    "target": "a Home Is the Week of Sept. 27 – Oct. 3",
+    "headline": "The Best Time To Buy a Home Is the Week of Sept. 27 – Oct. 3",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Realtor.com",
+    "summary": "The Best Time To Buy a Home Is the Week of Sept. 27 – Oct. 3 Realtor.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03WUJLSmpZZGdPSGZvTVEybUx3NGdCREhjUzFkak1rQ29vdlpBbXBYdGUzZ21uQjhkcUtnOWF0Z3Y4STRpQnhSVnlPbUNHdl9WdEY0R1ZDbHJHb3hCd1Z2UXBvTFhKdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ce059ed94882",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T15:00:00+00:00",
@@ -1365,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Superhuman Acquires Fathom, AI Notetaker businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "Superhuman Acquires Fathom, AI Notetaker Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Perdoceo Education Corporation Signs Definitive Agreement to Acquire South University businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "Perdoceo Education Corporation Signs Definitive Agreement to Acquire South University Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1801,12 +1951,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1571e119f8f3",
+    "id": "news-3c73b30843bc",
     "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T07:00:00+00:00",
-    "acquirer": "Constellation Energy in deal to",
-    "target": "609-MW Rhode Island gas plant from Shell",
-    "headline": "Constellation Energy in deal to buy 609-MW Rhode Island gas plant from Shell",
+    "publishedISO": "2026-09-14T11:30:00+00:00",
+    "acquirer": "Crane Company Announces Agreement to",
+    "target": "U.S. Water Pump Business from First Reserve-Backed Trillium Flow Technologies",
+    "headline": "Crane Company Announces Agreement to Acquire U.S. Water Pump Business from First Reserve-Backed Trillium Flow Technologies",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1815,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Utility Dive",
-    "summary": "Constellation Energy in deal to buy 609-MW Rhode Island gas plant from Shell Utility Dive",
+    "sourceName": "Business Wire",
+    "summary": "Crane Company Announces Agreement to Acquire U.S. Water Pump Business from First Reserve-Backed Trillium Flow Technologies Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1833,7 +1983,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmJ5dndvUkdHSVhUanBrbjdDYlExRFNLdkpRMjZuRFp6bFFlbmlwR1N5Sng3SHBtV3Z1LUQ3cGtNOC11VGpCNVU3OVd6eHNxbzk3TlBqWVF1Qm0wYzMxcER0bnpabDU4Uy00N1hPTmJvUTN2ckRYZmVhb0dYLUVmaVhJTGZHMmY4emF2azJVWlhUMVlOYWNua25vV0xjNGx3VE9majNRbHNsZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMU5yQW15RnFuM1QxR196QXRrRUttbDRyVTU5WWRQYlFNR011VGtqUDF5MFdvcHdGSzVveGZ2THNXNnhkTkFTR3MzR3ZuVHFpYUxJamNnMmtNcEpuUVZVbVY1UmJXb2NBUnYzTFdqajFtOTI4T0p4S255S3lQYjVWbnJUb3Q2d3Mtb3poYkVCbFBoT29zR3hmQ09vZ1Zkdko4RWlxeVpkYXFDZWxxb09RZ2toN3Y4Q0VKbEJWS20tbUZySjlKRTRsYi1fSVpBMmlLM0xPVE5BNmwzcUxFWHRkU0Z6c1l4anprMzdTcElyU2xaX0wwZFd2YW4zS2lFX3ZKaVh2Skk3aVBpbnM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTlGdFMwZWNfWWNLei1vdTA3Nl9KU3pLSXVkOHF0U0k3cDJoWDVFeEs5Q09RcmRXdEVaQnYzS3lmTkp2aW5WbUc0WjV0Sl8xbWRfS194V2RMUzdkMWdzZ3V0clZnTWFFRUgydzNfY2ltZnkxQlVqbGtsMXNYdFFHaFhNN1ozakV3Uklr?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-dc61df2f3c3d",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T14:27:21+00:00",
-    "acquirer": "Salesforce",
-    "target": "Fin",
-    "headline": "Salesforce Completes Acquisition of Fin",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Salesforce",
-    "summary": "Salesforce Completes Acquisition of Fin Salesforce",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDJJWmZLTzJPX3ZwcWV0dGhCVlpIQl9sQzBlOTl2M1o0TmxJSldLX1pHQnhpTElwVVhpQkRoRlNwOWhCRWh6VkNGb29OdkZuc1dfeTQ0S2RGSmRUbGU1aV9qdDNzeGtPYXRlUkh1cDhKNl9VckMwUVM4RWR1WnhXSjJXRlQ4TnB5Q2hUNktVb3RsdkhqNlNGQU01U1JHRjA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2ec8df927286",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T12:58:04+00:00",
-    "acquirer": "Bending Spoons to",
-    "target": "Miro in $1.36 billion cash deal",
-    "headline": "Bending Spoons to buy Miro in $1.36 billion cash deal",
-    "valueBillions": 1.36,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Bending Spoons to buy Miro in $1.36 billion cash deal Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY1VUMzhySVdyTkNEd0ZfN3VhSDc0TG9saDNCRkk4M1lSa21tNEt2TzJlTUpSZzVRdkNJcHF4WWxucEptcndoWmVTUmJUbjkzWjM3aVBTQkR6bkRlaEFjZ05tVkxRMVF6VEFiWjZxSjFXV2lJR0JFY3RDU0t4eWEzdmJwcmJNZHluV0V5d1N1T3k4eGhxRF9GczlISGVYMDhhUWJj?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
