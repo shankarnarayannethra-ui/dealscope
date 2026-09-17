@@ -151,81 +151,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f3ca18198e2f",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T21:32:00+00:00",
-    "acquirer": "Local booksellers react to Barnes & Noble",
-    "target": "Joseph-Beth Booksellers",
-    "headline": "Local booksellers react to Barnes & Noble’s acquisition of Joseph-Beth Booksellers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WKYT",
-    "summary": "Local booksellers react to Barnes & Noble’s acquisition of Joseph-Beth Booksellers WKYT",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGowRi1jbDlLUzZMc1htVUpfR3l0RXdlYWotX0lZVTVwUDBYTGpudzJNUHgtN1hHMW12UzhRVDhyNkstUUtlYjFxbVlaUDd0UVEwS1FfNUN2c1dLMEhyYXN4QmxSV096WXpjTHBzNDl1MUV3ZjVrNzJ6UmdMMkxMWWREbFVRWEdkNHV4ZmRZY2hHMWhHb2xLRTF1MVI0RVl6RVBJNDNUUzQ1QdIBvgFBVV95cUxPN1FkZ1pJR3ZHWERGQVRtYWJsVXhVZFg3WTNtZUlndElJTTRVM0xQWEJaUTVVUGZrVUxEZVhHLXgzN1RjNGFSTzlkTHktSFpLeE5iY04yR2lYRjlycVNxRkxkNFY3dUFpZDZVLWlVVkRBR0VMRUJoQTVZYTA5NEt3QzY0VmJOSm9teEJsX2hGMW1NakJDazBKVXN1WU1NNGxSRTEybXJpVmtEMVRWamF3d1hxdURnWkU0UGdzX0p3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-1e72a44d7ba0",
     "date": "September 16, 2026",
     "publishedISO": "2026-09-16T21:10:04+00:00",
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Alaska Business Magazine",
-    "summary": "Afognak Acquires Weaver Bros. Family of Trucking Companies Alaska Business Magazine",
+    "sourceName": "akbizmag.com",
+    "summary": "Afognak Acquires Weaver Bros. Family of Trucking Companies akbizmag.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -390,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "crainsdetroit.com",
-    "summary": "Wayne County to buy former Comerica building for $25M in office consolidation plan crainsdetroit.com",
+    "sourceName": "Crain's Detroit",
+    "summary": "Wayne County to buy former Comerica building for $25M in office consolidation plan Crain's Detroit",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -559,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRW11MUtsbWJqOTZuWkxJcVEzM0J0dEtOWUdKYW16OTVQN1pROVZmS1JIUTFTRFl0QUU3NURleUlBbERKbTZibnp3STUxclJiOURTRGh0aVFtR2hEUS01R2xLVW1oZXJBcjhCa2trSXVmcGs0WFpLdzd4eEFyb2pBZHNrcm43TDNuOUxmRmRwa0lhWXFTVi1N?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2eff17d5af3b",
+    "date": "September 16, 2026",
+    "publishedISO": "2026-09-16T14:46:30+00:00",
+    "acquirer": "PPC-Backed C.H. Guenther",
+    "target": "Family-Owned House-Autry",
+    "headline": "PPC-Backed C.H. Guenther Acquires Family-Owned House-Autry",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "thedeal.com",
+    "summary": "PPC-Backed C.H. Guenther Acquires Family-Owned House-Autry thedeal.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVENYY0d5N1A3ZFFkMEhTZ2ZablY4S09fUDhMTFNWNkRDaEpvSUxzNVFjYmdJaXlQZFpJNGJkNEktcHk2UjF3RzEwZnphSGJiTTM3ZzRYZ3B2cmw3S3RoU0U5b2tZai1CRTYzTTdHal96WXAyeWhnb0pZS3Y1eUJkbEtVZS15NXlqWldOVUZaZTlwSDNvZnYzZWhxcFVKWi1YdkE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -915,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NOLA.com",
-    "summary": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand NOLA.com",
+    "sourceName": "nola.com",
+    "summary": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand nola.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1201,6 +1201,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-74ed4ccbbdba",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T12:20:00+00:00",
+    "acquirer": "Barnes & Noble",
+    "target": "both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
+    "headline": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WKYT",
+    "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati WKYT",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHdsRWphTzdTQWwxUVJhekFReU53R3kycWFGdzVyUk1GbnpXaXVRT01NZGVSMmRlNnRXenRxZHliYkRKMTVza3hWemdjQ3JCREZWdE1oeHBjOWgzaFdmSS1icjNZRzdicnZ0TjZRdHZ5cnhpTWxPcW5IaFB3cHJsSHNRRU1vRlhKcFp2eDBVRThrQ3oyby1WTUNEcXI0dFcxSEdhTEhkVlo1SVFCcGVmamFBN0rSAcgBQVVfeXFMUHhDM2VJanlmaVoxX0x2Z29EakVvYnpTVzB0bHV4M3FWc3RTZFB2TVJDNVpXNm5rRm8wSE5xekJ5UG5JZ0VNY2xjVXVyRGFNcGFlckc2MGNQNzRnSnZMSWNqZmZoQnNxc2Noc0lrODM5NVF4Um1jeUtDQWkzTWNSMkJlUDZ2NkN6Y3RDUUJGZzduVlFVSjEtbHlGaW9oOXU3RG15Q3dLMmxmQjhFMnlnWUJXejFUTlRsbk81SmpBSmVIWFllR1BIS3Y?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-37a532f650b0",
     "date": "September 15, 2026",
     "publishedISO": "2026-09-15T10:45:00+00:00",
@@ -1440,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Realtor.com",
-    "summary": "The Best Time To Buy a Home Is the Week of Sept. 27 – Oct. 3 Realtor.com",
+    "sourceName": "realtor.com",
+    "summary": "The Best Time To Buy a Home Is the Week of Sept. 27 – Oct. 3 realtor.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ondas Holdings",
-    "summary": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology Ondas Holdings",
+    "sourceName": "ir.ondas.com",
+    "summary": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology ir.ondas.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1ac122a0b7aa",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T20:39:29+00:00",
-    "acquirer": "Copart",
-    "target": "ACV",
-    "headline": "Copart agrees to acquire ACV for $1.9B",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Auto Remarketing",
-    "summary": "Copart agrees to acquire ACV for $1.9B Auto Remarketing",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTlGdFMwZWNfWWNLei1vdTA3Nl9KU3pLSXVkOHF0U0k3cDJoWDVFeEs5Q09RcmRXdEVaQnYzS3lmTkp2aW5WbUc0WjV0Sl8xbWRfS194V2RMUzdkMWdzZ3V0clZnTWFFRUgydzNfY2ltZnkxQlVqbGtsMXNYdFFHaFhNN1ozakV3Uklr?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
       },
       {
         "stage": "Terms verified",
