@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-9381ba0b52d1",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T08:04:40+00:00",
+    "acquirer": "Indonesia",
+    "target": "first aircraft carrier amid military upgrade",
+    "headline": "Indonesia acquires first aircraft carrier amid military upgrade",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Al Jazeera",
+    "summary": "Indonesia acquires first aircraft carrier amid military upgrade Al Jazeera",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXhLWGZOQnQ2Y0tUNkx3T3M0SGk5cVR0YmlSZW1KdjcwT0VhR1VGZk9Zd1FjSmRPSkVOcEZkNEFfbW5XcWlYdFViSVpZMVM1YllGVkdQYnpTQVd3MmFwOHV2bFdnUGppVUxVWVQxcFpReTd3T19rMW5hRTlSMVVtRElCcHhWODl2ZWM3TmVnV0Q5NXhYajI2NXFaSE1VaklQZFNhRHFhc9IBrAFBVV95cUxOMzMxXzVNXzJ0alRDeF94TU05eE13SFJmQmhuU0p2cUhiYjZFOVdDTDg0R0VkVGQ2djZmcmJXZ2VMOXZLYm1BS1d2R0x3RGVLTzlCdmhsQzZrTF83TVF1R1cxbjVweTdPbERfQmpmcDczVVRLZUM2Uko5dHZHSGNuZUtRdWVQYk84V3U2TFZhMWFuUmFnRzB0b2NLU0NaaDRMMDlTUHhocnVpYlJw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-91ab2e954f50",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T08:00:00+00:00",
+    "acquirer": "Pearson",
+    "target": "Assessment Technology Provider, ITS",
+    "headline": "Pearson Acquires Assessment Technology Provider, ITS",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Pearson Acquires Assessment Technology Provider, ITS PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDFCU2gta3YwMFhvTTh6RTQ3LUc2R2VzQ20ybmk4blVrT0t1b2tHYTVUSWI5cmxTT1lDV0hTWkVtVXNGSEZDTjNfNGcwSktGNmRhTzlVMllRU2xTcVlxUzJYXzNrRUFXaHd6bTRMMGdSd3JoZE90OFp5TzB0VDFaNFNVTXBXZ1AwYlh1V1hnMXlTZ2lzcVpoeGRuN1l0ZkRoSkZDZ3ZVMTgyQ3M?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ca9d5c63f282",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T20:43:51+00:00",
@@ -151,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e2e31c827c17",
+    "id": "news-1d9bdd94d755",
     "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T20:15:00+00:00",
-    "acquirer": "Landfill company",
-    "target": "120+ acres of Eau Claire County Forest",
-    "headline": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest",
+    "publishedISO": "2026-09-17T19:46:15+00:00",
+    "acquirer": "TerrAscend",
+    "target": "Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey",
+    "headline": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WEAU",
-    "summary": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest WEAU",
+    "sourceName": "Cannabis Business Times",
+    "summary": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey Cannabis Business Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0laeEV6UmFYazZYVW13dFA0Q2U1ZG1EMGxfSWphaWpSYWg0a1ZKZ3lZSmkzTGUzU2V0WG9yclJDX0RNMjQ5OGdDT0U2elY3QmQ4amQ5dWp1clFXVHlTOEJ3dDBQZHlWejBfTXdTdmJ5M2UxbWhpS1N5aEl5ZFN2Q0YzVEVjNzJmbHlBbWZpM1AxMVBBZ2l6LVl30gGuAUFVX3lxTE93b2xxcE93OGFQNTMyYlZyLTBKZ010bUdWa29hTUZoRGc0RDJ3aEU1MkJ0X05XOThObThnNDJVRFc4WjlxdkI4MlJ0c011WGp6VHdyVTU3ZFY3VlZ6Uk1xSnFlWncxZXVuVkZGY09fQWpnS016MHpiQnk2SGF5VmVZZ2tfOGtyUWlLVE9FYmlvNkRrZ2pFaU9UT18wd3ZYRVV2dFB6c25nbW9kTDUwZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQm5kLVdWMy1IV1dVQ0UzNVp5RVczOW9LSHlVdUF5cWlWM3h6dlpobjh3S2xXMnlaOXJCa2RnNFM3QXBKTjBaWFE5Y3ZTa2RRZ3RkbFo4VGxxakhoSzZVNWNCdVYwd09GaXFyMXAyVmJfVk9iM25kWk1ZeUNyVmVYMXU2NzhiaktsYUdVRHNZRFBDbGs2UUQyeU44NXNVMjVYQWF2c2RnQjFxeUdoVm1qbTJncjFBc3E0NDJXaC05UTBZcHdmbE5kVHRnQ212MkJ4aU1TbHZ2aUw2a1lLRzI1dnhlSFNnc3dGSk9RUkFtREhGT1BnNHNQWDByUHpob3E5SFhDbUJURHJFaF9NRUdSSG9TQ3IzX1BUVVFR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -228,7 +378,7 @@ window.generatedDeals = [
   {
     "id": "news-4337092d6100",
     "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T19:07:00+00:00",
+    "publishedISO": "2026-09-17T19:13:53+00:00",
     "acquirer": "Softcat",
     "target": "GDT In $1.05B ‘Enterprise Value’ Global Channel Blockbuster Deal",
     "headline": "Softcat Acquires GDT In $1.05B ‘Enterprise Value’ Global Channel Blockbuster Deal",
@@ -259,6 +409,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1lUWWVvX2d0WFBtMER2UHd4UFMta2pLTklDdERWNjJBQW9XTW1uOUxaUFRTbHY1QUZVUVdXYjNZaHZaeXA4WFhkMzM5ME01TkYxS0xCdDlpLVdwd2g5Ti1nZDZRZzFWZmxJbklCSV9yUkp3TjlBUVVrMFRDbUNhLThsSzBSSlVpTC02ZWR2aDFoRlAzeElmdnRqZ1EtQTZ6S2pQZVA2UmNqNk4wZEM4U0ZSRkl0SUZjV1cwVnlR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f3fa2ec09d29",
+    "date": "September 17, 2026",
+    "publishedISO": "2026-09-17T17:29:40+00:00",
+    "acquirer": "JOST",
+    "target": "CTJ to Strengthen Presence in Europe’s Largest Logistics Market",
+    "headline": "JOST Acquires CTJ to Strengthen Presence in Europe’s Largest Logistics Market",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "orrick.com",
+    "summary": "JOST Acquires CTJ to Strengthen Presence in Europe’s Largest Logistics Market orrick.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbk5MM3VLbTFzbDl5NC1BaEJMdnNYMXJoQmRZRmRDUVZjaGxEdUZXaWlaQWxwVnFfT05VUWE5b2x1SURoUTQ3b0t5a0lnejQwZU5xLU9Sd2Q3dW4yOVI1enlLaVBfZzhKV2ZqNU5JVjVRMU9kYXlJcGFPdDc3UnA0Q0xEOGlZbWF1Vm5kWlVta1JoQ3J5b0xKbTExU3BTNExELTBRR1picWlUYW9sZk9VSjdYSkN5Zw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-34d1e323543a",
+    "id": "news-ca66a41f7eb7",
     "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T22:57:00+00:00",
-    "acquirer": "Cohere",
-    "target": "Aleph Alpha",
-    "headline": "Cohere and Aleph Alpha agree to merge in reported $20B deal",
+    "publishedISO": "2026-09-16T21:02:35+00:00",
+    "acquirer": "Amazon obtains right to",
+    "target": "stock in Generac, boosting power company's share price by over 40%",
+    "headline": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "SiliconANGLE",
-    "summary": "Cohere and Aleph Alpha agree to merge in reported $20B deal SiliconANGLE",
+    "sourceName": "CNBC",
+    "summary": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40% CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,157 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjdLbFl0R2V0U0YzaXowb19oa2RtcjMwNl85d2xCdURkenVJbWE2YUZWMXhqcVd2cktXZGo0M0FLMmdRYXRodlR5UENUcUQzNlZSUVY5QXBkSlB2WG9OYmZaajh3bkhWUzY5YXFvV2NfeGtqR1pEdnFaT0VTTWpWNV9Zc3U3VEFDLUVwQm9QVUlydzhadThjeFdKdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-297fdc7e0f8a",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T19:22:06+00:00",
-    "acquirer": "Afognak",
-    "target": "Weaver Bros. Family of Trucking Companies",
-    "headline": "Afognak Acquires Weaver Bros. Family of Trucking Companies",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Alaska Business Magazine",
-    "summary": "Afognak Acquires Weaver Bros. Family of Trucking Companies Alaska Business Magazine",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTllhVHFjSU5ZSmV3NnpFQTlXcDJ3dnJxN2dsUVhYcXA5NFdPd01WYjdMVEFJaWQ5bTN1Q2FESkFjUmszY1VTamFqWWdxMU5Pd3dSSW1kdXB3RmhKcHFqVXFPOFo2Z3FIa1NYaER5NnRfVURwVW1BNi1kdzh2LXhRTWlMUnR4SHBhYTF6Zkxma2dZV2g4WmNrem9SWERabk5ZUVA5VmU3d3gxQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4c185da7f1c6",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T19:06:00+00:00",
-    "acquirer": "Wayne County to",
-    "target": "former Comerica building",
-    "headline": "Wayne County to buy former Comerica building for $25M in office consolidation plan",
-    "valueBillions": 0.025,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Crain's Detroit",
-    "summary": "Wayne County to buy former Comerica building for $25M in office consolidation plan Crain's Detroit",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlNzelpCOU9VbldHdmpaYUJoMzhNN2hNdTVfY2tQQjlFaF9mbG9kX1RCbUVGWU9DWW5hcW9OM2hHSm5Ta3RSQWFhODZ1eFJHRXhrcTFPeDVDWTdNRmZRZ21ycEp6Tk04c1BUVmRvT2FnX0xyUEQ1WlE5TzhzLWc5RUxxZnloeUFJcHlWbEdsTW5XLWwtTmlTRjk4Z2hWUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXpFZWNDWmVNLW8zRy1tWDlCVDFQel9nbjk4RXJHcE9IX3lhUlIxUUh5VFpJdTdIMnBRX2ZuQUtRMmZwem9YbS1MWVpzaFZfQXgyalRiYldJcDlUZWdfZEJxRUp0SjZmcEE1YURPaGRGSFJ6empReHdCQ05zMXRTMnR3TklzUGtCSl9rOUw1VjFQYnhjX05zWTNOMWlqNVppcHhYVNIBqgFBVV95cUxPMENjTFY4VEJEMXZ6S2drREJLc05wWkswUnlfQWFxN2VWTkJocENKRlRHWkM5Z2RDWXN1cW1kNmFJNGVZdTdUN2toUkt0T0hMSmhKVEZhS21KcnNadERGTzFZUzJlNXh2bWJlX3k4bE5paGhrdkppZjhHeVh0QmljemRkTXJoYTltVkkzREpXMHI2WVdnV1VEdWc4MVh5QnhsYW9Zd3dXdnR2QQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,12 +901,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c3694e879416",
+    "id": "news-46aa1424840e",
     "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T11:00:00+00:00",
-    "acquirer": "IDEXX Laboratories",
-    "target": "CoVetAI to Advance Veterinary Workflow Intelligence",
-    "headline": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence",
+    "publishedISO": "2026-09-16T15:51:00+00:00",
+    "acquirer": "Tallvine Partners’ North America Marine Infrastructure Platform",
+    "target": "Crosby Enterprises’ Assets",
+    "headline": "Tallvine Partners’ North America Marine Infrastructure Platform Completes Acquisition of Crosby Enterprises’ Assets",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -841,7 +916,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Business Wire",
-    "summary": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence Business Wire",
+    "summary": "Tallvine Partners’ North America Marine Infrastructure Platform Completes Acquisition of Crosby Enterprises’ Assets Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +933,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaENwd3A0WGNIUzhqRllXbzhQYXlEU0FHQ3lWczYwTW9JZ0loS0I5emg2bkQ5ajB0YTVmZTY2RUVGaWNoX3FUNkpCdkV3XzJPRW1NaHoyOVA0ODctT2oycV83RDBBTHpJWGZTY3J3ZU1USHZzejQ1UTRBcjBYWUZuejNoVmpGT0FDc0FZWklNdkhFZTFlZGVZd1NwS3lnX1JiX2E1MWRWenE1emlEMnlLUnE1M052d3BuQ3ZBUmUxQUd0T3dtTlE2QUQyTEpXbDhELUE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbC03SkZDTi0wZmhBS0d3N0MxU2VucGNfRGhmY01BeTNNbkVSRDBwZ0E0ODR4ckpkMFdWOHdGTHdhaVlfdkRPcnlZdmhuQjBHY1dneHJfMDlOZXZVU1ZVZVZsMVhnQVJRdFFGS3ViN2dLLXQ1UTNmSUhYb2dVcHF2NENQc21ZN1BqMEw3QUtDR05HeTJpZTNWbmNjYmVHWS05RUtYQzRTS3RQUmxNNzZGbWtua3FTbDBOeGJiemt2eGQ0RGJ6U2VmR3RxS1NlVHNnUXZNSm9DSmQzaUpOX3pUMmtxbU1UbXItNFM4cnRXQS12b3FpQms1azZiVWRkcXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,12 +976,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f11584b03548",
+    "id": "news-c3694e879416",
     "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T10:32:00+00:00",
-    "acquirer": "New website makes it easier to",
-    "target": "Ohio-grown trees",
-    "headline": "New website makes it easier to buy Ohio-grown trees",
+    "publishedISO": "2026-09-16T11:00:00+00:00",
+    "acquirer": "IDEXX Laboratories",
+    "target": "CoVetAI to Advance Veterinary Workflow Intelligence",
+    "headline": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Spectrum News",
-    "summary": "New website makes it easier to buy Ohio-grown trees Spectrum News",
+    "sourceName": "Business Wire",
+    "summary": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,7 +1008,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTlHbGE3UnRRREVDYVBvVTVLMXI2VXdiZnEwejFTS2plSEN2WkZ6YmY2SlVjbk9OQjA0RC1lVHNmcTFWT3ZYUmVrSm5GZml2UnlZdmpiYWViQ3cwdjlwSTdOWDNEUUJsZ0ctdXZlSlN4MTlzTlluU0EyLU1JamQ4NFBfNkZ2WmZST1JtU25uUUJkOENwMGV5bl9nYjE5ZXd4?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaENwd3A0WGNIUzhqRllXbzhQYXlEU0FHQ3lWczYwTW9JZ0loS0I5emg2bkQ5ajB0YTVmZTY2RUVGaWNoX3FUNkpCdkV3XzJPRW1NaHoyOVA0ODctT2oycV83RDBBTHpJWGZTY3J3ZU1USHZzejQ1UTRBcjBYWUZuejNoVmpGT0FDc0FZWklNdkhFZTFlZGVZd1NwS3lnX1JiX2E1MWRWenE1emlEMnlLUnE1M052d3BuQ3ZBUmUxQUd0T3dtTlE2QUQyTEpXbDhELUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1084,81 +1159,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcW9ZQ3dNbWJUdFQxcDE1cW9INHcwRkhPS0lwWWM5YXRXVy1KaFpJZjJRMy12V2R1c3BEOHlJWHhCT05hNmRzZm9ENTlRNGFZaTc2XzA2ZXlwRzVpREJrZkdhN0RHa3ZDN0pYdGpXNUZ1OC0xZ3lpOWh3TXVwVnBEaE9MOUNYcHJYVlZuOGwxc096RE5od1pSMzlkb0FpcFoweVQ2RjVGS0plTDd6eHdiaHdkVnp5Q3JFeVBCVjJKdkE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c99ddc7019ce",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T17:13:34+00:00",
-    "acquirer": "GSK to",
-    "target": "potential best-in-class T cell-engager (TCE)",
-    "headline": "GSK to acquire potential best-in-class T cell-engager (TCE) for multiple myeloma from Chimagen Biosciences",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "GSK",
-    "summary": "GSK to acquire potential best-in-class T cell-engager (TCE) for multiple myeloma from Chimagen Biosciences GSK",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSEFmRVdSR1FKSGw2TzN3R2RnU1o4cjdkckpXSDJMMkVmQzdZVEg4NGFmakJ6R3ZXczhlaG9uS3NoTVUxSlFpZklXMjNSR0t6TmlKS3BvdkFmSU05eFY4TFNFdFlGV052LUpuUlVYam9nNmRNZW1NUVplWFNLbUZFNkpuNVgtT1otc0EwcmhuTUZpbUw0b1UtQTRFcFhwOTd5ZkRhRDlBNDgxRXhkT0FHd3YyaWJ4dmVqZGY2TnQzN0dmMUh2VlJVNHVaemp4UjNGcExVVHdQcnd2X1BPcGx2dTdQNkU1R00?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,13 +1426,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ab8ca770e702",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T20:27:00+00:00",
-    "acquirer": "OpenAI",
-    "target": "Israeli-founded camera startup Glass Imaging",
-    "headline": "OpenAI acquires Israeli-founded camera startup Glass Imaging for over $300 million",
-    "valueBillions": 0.3,
+    "id": "news-c1b4eda41c8c",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T12:30:00+00:00",
+    "acquirer": "HCA Healthcare",
+    "target": "the College of Health Care Professions",
+    "headline": "HCA Healthcare Completes Acquisition of the College of Health Care Professions",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "calcalistech.com",
-    "summary": "OpenAI acquires Israeli-founded camera startup Glass Imaging for over $300 million calcalistech.com",
+    "sourceName": "Business Wire",
+    "summary": "HCA Healthcare Completes Acquisition of the College of Health Care Professions Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1458,12 +1458,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJcEZqWDRINERPWDdvNW9UckZSQk9nZHc2a2JzZldTS1BJSlpNd1d5cXdaTHdTbE9GU3dyTUo1My1qOVZVd2haVWFGdEtMX1F4eDNTYlFacmdOYWlrTmRxUzBHVUtGTkxa?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUENrcXc5Sk16bWdieWZPYkJWSHNfSGU4UDJjbUFWY2dRWnZLblJvRzFuajlZRVl1d1BicGtsZS1XRjJaX0R6d3lYazg5RkJpZEFoWXFxaHZLdDJZRFY1QUJZdGRZWFVoYVRzd2xFdVhVNjlMaE5GNFdEa0RIUmVkTGo0TGhPWHl0cnNSWG5lTkp1d2NKbjBrNnFUbzR5N0RtN2lKeURkdmlTOWYyNXpaSksxR3IxMkFMOFVwd1R3UlBuRXFiSmU4SmFxV01sUVd5?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 14, 2026"
+        "date": "Sep 15, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1501,12 +1501,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-86a46798e7b1",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T17:41:28+00:00",
-    "acquirer": "Armenia Battles to",
-    "target": "Time",
-    "headline": "Armenia Battles to Buy Time",
+    "id": "news-74ed4ccbbdba",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T12:20:00+00:00",
+    "acquirer": "Barnes & Noble",
+    "target": "both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
+    "headline": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cepa.org",
-    "summary": "Armenia Battles to Buy Time cepa.org",
+    "sourceName": "WKYT",
+    "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati WKYT",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1533,7 +1533,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FTVFtUGRxRVJKZExBbXowejJwa1pFS0NsU3AzSVRQWlJaX0lSQ1lJeXBHYVRpQ1dSOTVkTEdPdHF1cjJkSlFKVnpsVG8yRW5zdFRJRjQ5dUd4N3U3cDBCQzQyTQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHdsRWphTzdTQWwxUVJhekFReU53R3kycWFGdzVyUk1GbnpXaXVRT01NZGVSMmRlNnRXenRxZHliYkRKMTVza3hWemdjQ3JCREZWdE1oeHBjOWgzaFdmSS1icjNZRzdicnZ0TjZRdHZ5cnhpTWxPcW5IaFB3cHJsSHNRRU1vRlhKcFp2eDBVRThrQ3oyby1WTUNEcXI0dFcxSEdhTEhkVlo1SVFCcGVmamFBN0rSAcgBQVVfeXFMUHhDM2VJanlmaVoxX0x2Z29EakVvYnpTVzB0bHV4M3FWc3RTZFB2TVJDNVpXNm5rRm8wSE5xekJ5UG5JZ0VNY2xjVXVyRGFNcGFlckc2MGNQNzRnSnZMSWNqZmZoQnNxc2Noc0lrODM5NVF4Um1jeUtDQWkzTWNSMkJlUDZ2NkN6Y3RDUUJGZzduVlFVSjEtbHlGaW9oOXU3RG15Q3dLMmxmQjhFMnlnWUJXejFUTlRsbk81SmpBSmVIWFllR1BIS3Y?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ab8ca770e702",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T20:27:00+00:00",
+    "acquirer": "OpenAI",
+    "target": "Israeli-founded camera startup Glass Imaging",
+    "headline": "OpenAI acquires Israeli-founded camera startup Glass Imaging for over $300 million",
+    "valueBillions": 0.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "calcalistech.com",
+    "summary": "OpenAI acquires Israeli-founded camera startup Glass Imaging for over $300 million calcalistech.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJcEZqWDRINERPWDdvNW9UckZSQk9nZHc2a2JzZldTS1BJSlpNd1d5cXdaTHdTbE9GU3dyTUo1My1qOVZVd2haVWFGdEtMX1F4eDNTYlFacmdOYWlrTmRxUzBHVUtGTkxa?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-750419ad0145",
-    "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T10:05:38+00:00",
-    "acquirer": "Greenly",
-    "target": "Normative as Carbon Accounting Consolidation Accelerates",
-    "headline": "Greenly Acquires Normative as Carbon Accounting Consolidation Accelerates",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "esgtoday.com",
-    "summary": "Greenly Acquires Normative as Carbon Accounting Consolidation Accelerates esgtoday.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0dNRHN3N1FFckZXamZDbkdDSlVDbW9sdmp4VjkxVVEyekZ4aVdrWTNReUdCYTFQcXNMV2VDbjY2dkw2c1k0QzBXc3Bpc3IxTWZYU0NrajJWZk56NjNCQXFvXzhQdzVBaGpLMVRETGNyQ0tDekxSamhSa1h2U25ua3J6bE9QcTg0ZjhadUplY0ZfOFo0Y3hhZ2JFbHhQZV9r?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 11, 2026"
       },
       {
         "stage": "Terms verified",
