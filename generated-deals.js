@@ -1,6 +1,381 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-6898b6afb54a",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T19:36:18+00:00",
+    "acquirer": "Chewy",
+    "target": "SmartPak — $175.0M SEC",
+    "headline": "Chewy acquires SmartPak — $175.0M SEC",
+    "valueBillions": 0.175,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Dealroom",
+    "summary": "Chewy acquires SmartPak — $175.0M SEC Dealroom",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SNzdIVmZVVG8tWkNsRjBDbmFKNDVoVkZ5bnB0OHFpRVhFaUFIbE1uc3p0OTNOZ2l2SE1CcnhwNFJiZnN2eEY1cEhBZU1rSmEyLWZobTBrMFFLMThrSHZXbVJ2NW40N3lBYlZQbktiZ3VfU1RuUVUw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e1875faf1dd9",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T19:25:37+00:00",
+    "acquirer": "Exclusive: Infillion",
+    "target": "location data company Foursquare",
+    "headline": "Exclusive: Infillion acquires location data company Foursquare",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "Exclusive: Infillion acquires location data company Foursquare Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-afd0f1122048",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T19:11:57+00:00",
+    "acquirer": "D.C. United",
+    "target": "$50,000 in 2026 General Allocation Money from Real Salt Lake in Exchange",
+    "headline": "D.C. United Acquires $50,000 in 2026 General Allocation Money from Real Salt Lake in Exchange for Homegrown Priority to Defender Judah Pritchett",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "D.C. United",
+    "summary": "D.C. United Acquires $50,000 in 2026 General Allocation Money from Real Salt Lake in Exchange for Homegrown Priority to Defender Judah Pritchett D.C. United",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeDdJMG1vQ0dtamwwa2hPczVYWHhyQld4akhwQTBhcTh4WXBHTGtOMGpoZjZOMmZJcGhMNVpEbFJacDhudWRmQ1E0ektBYndmbm1RMXdFSnMydTJneXZGMUZXd2tEd3dET0psaDdiWUdibzVjXzc3NWM2b3RyQk9adzdFSUFvREY2TUZHRTVjckcwa0drUTZ3MVBYOHBKeXU2VmFIQVltS3F3UGwxblR6QnBWNHY0MWstRjhJSGtHVlVrUEhicXFia2JqZ2prZkxDYkU1bVdJVUZ4RW1VTnFjV3pOT2hER1JJamc5Sk5mNU9CQnQxLWlVWkk5R2p3X0U2OFE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-16446515bb51",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T18:47:12+00:00",
+    "acquirer": "Real Salt Lake",
+    "target": "Judah Pritchett From D.C. United",
+    "headline": "Real Salt Lake Acquires Judah Pritchett From D.C. United",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Real Salt Lake",
+    "summary": "Real Salt Lake Acquires Judah Pritchett From D.C. United Real Salt Lake",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkdYbWJ3bVhLeDBVQlE0X1pkazNQTDBlZHlxclVNX3Rad2pYazU0ekhZeWRlQmtJLWJadndlZFpjNjg0THFQbkkxcVlYcGJXMHc2SHE1QmxQNjFjekJ5OU05dXl2TkJDMkRfemNIX0F5QTBxSENvVUd6N2lHZEFOMVhaVzBiOU4yYjg0V0N0aDlOdHM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b51a2592810c",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T17:44:00+00:00",
+    "acquirer": "The Farmer's Dog",
+    "target": "Woof",
+    "headline": "The Farmer's Dog Completes Acquisition of Woof",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "The Farmer's Dog Completes Acquisition of Woof PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTk4S3I5MVh1RUd6MHVkX0dzbGZSRUMwOEtjNHByUmo2ekcyQzBFcnllTVFjeGo0SERTRHV2cDViMFFtLW5SOExOb2FUbTU2UDNoN2FRNTh4Q0VDdU44VlhXX0JqZDNQSWw4Mi1PRG5SeTJIbFh3UWQxS2ZiQ3poczFYN3pEOGFvQnJ2WmZGRWxNaWMyQTU1RkgyWkFadkg5aU1z?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9381ba0b52d1",
     "date": "September 18, 2026",
     "publishedISO": "2026-09-18T08:04:40+00:00",
@@ -301,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1d9bdd94d755",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T19:46:15+00:00",
-    "acquirer": "TerrAscend",
-    "target": "Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey",
-    "headline": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cannabis Business Times",
-    "summary": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey Cannabis Business Times",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQm5kLVdWMy1IV1dVQ0UzNVp5RVczOW9LSHlVdUF5cWlWM3h6dlpobjh3S2xXMnlaOXJCa2RnNFM3QXBKTjBaWFE5Y3ZTa2RRZ3RkbFo4VGxxakhoSzZVNWNCdVYwd09GaXFyMXAyVmJfVk9iM25kWk1ZeUNyVmVYMXU2NzhiaktsYUdVRHNZRFBDbGs2UUQyeU44NXNVMjVYQWF2c2RnQjFxeUdoVm1qbTJncjFBc3E0NDJXaC05UTBZcHdmbE5kVHRnQ212MkJ4aU1TbHZ2aUw2a1lLRzI1dnhlSFNnc3dGSk9RUkFtREhGT1BnNHNQWDByUHpob3E5SFhDbUJURHJFaF9NRUdSSG9TQ3IzX1BUVVFR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-4337092d6100",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T19:07:00+00:00",
@@ -409,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1lUWWVvX2d0WFBtMER2UHd4UFMta2pLTklDdERWNjJBQW9XTW1uOUxaUFRTbHY1QUZVUVdXYjNZaHZaeXA4WFhkMzM5ME01TkYxS0xCdDlpLVdwd2g5Ti1nZDZRZzFWZmxJbklCSV9yUkp3TjlBUVVrMFRDbUNhLThsSzBSSlVpTC02ZWR2aDFoRlAzeElmdnRqZ1EtQTZ6S2pQZVA2UmNqNk4wZEM4U0ZSRkl0SUZjV1cwVnlR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f3fa2ec09d29",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T17:29:40+00:00",
-    "acquirer": "JOST",
-    "target": "CTJ to Strengthen Presence in Europe’s Largest Logistics Market",
-    "headline": "JOST Acquires CTJ to Strengthen Presence in Europe’s Largest Logistics Market",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "orrick.com",
-    "summary": "JOST Acquires CTJ to Strengthen Presence in Europe’s Largest Logistics Market orrick.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbk5MM3VLbTFzbDl5NC1BaEJMdnNYMXJoQmRZRmRDUVZjaGxEdUZXaWlaQWxwVnFfT05VUWE5b2x1SURoUTQ3b0t5a0lnejQwZU5xLU9Sd2Q3dW4yOVI1enlLaVBfZzhKV2ZqNU5JVjVRMU9kYXlJcGFPdDc3UnA0Q0xEOGlZbWF1Vm5kWlVta1JoQ3J5b0xKbTExU3BTNExELTBRR1picWlUYW9sZk9VSjdYSkN5Zw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -564,81 +789,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ca66a41f7eb7",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T21:02:35+00:00",
-    "acquirer": "Amazon obtains right to",
-    "target": "stock in Generac, boosting power company's share price by over 40%",
-    "headline": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40% CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXpFZWNDWmVNLW8zRy1tWDlCVDFQel9nbjk4RXJHcE9IX3lhUlIxUUh5VFpJdTdIMnBRX2ZuQUtRMmZwem9YbS1MWVpzaFZfQXgyalRiYldJcDlUZWdfZEJxRUp0SjZmcEE1YURPaGRGSFJ6empReHdCQ05zMXRTMnR3TklzUGtCSl9rOUw1VjFQYnhjX05zWTNOMWlqNVppcHhYVNIBqgFBVV95cUxPMENjTFY4VEJEMXZ6S2drREJLc05wWkswUnlfQWFxN2VWTkJocENKRlRHWkM5Z2RDWXN1cW1kNmFJNGVZdTdUN2toUkt0T0hMSmhKVEZhS21KcnNadERGTzFZUzJlNXh2bWJlX3k4bE5paGhrdkppZjhHeVh0QmljemRkTXJoYTltVkkzREpXMHI2WVdnV1VEdWc4MVh5QnhsYW9Zd3dXdnR2QQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1014,81 +1164,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c940fdd2a74b",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T20:30:00+00:00",
-    "acquirer": "Australian battery tech firm",
-    "target": "New Orleans company and bets on drones to boost demand",
-    "headline": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "NOLA.com",
-    "summary": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand NOLA.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQME5ZeFR4RUdQTUJ5c3IyYkpObXU5a0VWRzZuNVZ4ZEIzd2UtRTEtMWdMSXZROERRa3htb3dpYVo3RExjNWkwRll0ZXVFQjAtTGYwZFJfbkkzZEtzNzAyRTRwdS1kUVUzaTl4YTMxZVV1WFpRMEZSbDVXaVRqNTl3RE40Wldfd0EzMHg0d3lVeUY4Tk93c295dWlyQ0pXUUpkM0ZjQkdNVXgxMmZiVWhLWlRHM1I3WHR4RlROZ1ZqdVpwMlVWejI0cXpJMUtuMWk0cFNXWklBWlJjM3ZPQ18xbmYzUVplNUw0MTlMekdLZ2Fyc2RnOEM0c3VUcF9lV1JVY3l3LVRwdDNZd05CX2FCRzRvODhhTDE5U2NfTkk4eFZqWjBkM3cxYkd30gGvAkFVX3lxTFB1enlOUVBLNVBZbDIwOW1iQ2lJUVE3WU1ub2FJYnJMZEJlNFJ5X2dkQzdzd2ptekxxTk1OMUs0d1hmVFpHZzUxbDNNOWYwVXNpamFMV2lVVG1NeUt1ZlNaaUNjdndvMHo3V1ZnRG5FbGJsME81MlVKTjhfSjhRM2p2WXZ3Y2V4RHFYcEJGVjlZbUt2T21JYVdDX2JQRkxlZVZFdUhFYk9NaUg1NjYxZjh4eGJuLXVYb0tpUndFdkZuaktFRDctWEtRZGMwRDNlS3NJaUoyeHlPSzdiNUJTaDFnd1A5TEgtMS13bzlQQmQwVERyc05fSkc5ZlBnWTllQ3pvYVJBNlBBY3hVa2piVnk0VFdPOHB0MWg3eVNNZnJXRXdGVkNZUmZVMHRHQldsSQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1651,81 +1726,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-025728cbf948",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T15:45:52+00:00",
-    "acquirer": "The Best Time To",
-    "target": "a Home Is the Week of Sept. 27 – Oct. 3",
-    "headline": "The Best Time To Buy a Home Is the Week of Sept. 27 – Oct. 3",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Realtor.com",
-    "summary": "The Best Time To Buy a Home Is the Week of Sept. 27 – Oct. 3 Realtor.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03WUJLSmpZZGdPSGZvTVEybUx3NGdCREhjUzFkak1rQ29vdlpBbXBYdGUzZ21uQjhkcUtnOWF0Z3Y4STRpQnhSVnlPbUNHdl9WdEY0R1ZDbHJHb3hCd1Z2UXBvTFhKdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ce059ed94882",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T15:00:00+00:00",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "techcrunch.com",
-    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work techcrunch.com",
+    "sourceName": "TechCrunch",
+    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work TechCrunch",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
