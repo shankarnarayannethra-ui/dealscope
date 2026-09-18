@@ -151,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ca9d5c63f282",
+    "id": "news-d16b0223e62e",
     "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T20:43:51+00:00",
-    "acquirer": "Gateway First Bank to",
-    "target": "Colonial Savings",
-    "headline": "Gateway First Bank to acquire Colonial Savings",
+    "publishedISO": "2026-09-17T20:15:00+00:00",
+    "acquirer": "Residents of a mobile home park try to",
+    "target": "their community before someone else does",
+    "headline": "Residents of a mobile home park try to buy their community before someone else does",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "HousingWire",
-    "summary": "Gateway First Bank to acquire Colonial Savings HousingWire",
+    "sourceName": "marketplace.org",
+    "summary": "Residents of a mobile home park try to buy their community before someone else does marketplace.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVy1jZFFKRlVaYm56a3JOcEkzUjl2TVh3TVpSUzNFSjEzU2hvUG1BYnplVDQ0U3NKcWg4T0VjclRiUm4tZVQwSFNsNDdZQUgwLVp0LVFBaXMxUmJRU19Gd1Y4Nzc5eEU3U3VjYTlLSUNkRVBSdFRBbEZLZllqYWNUY1dtcklIMTVRaTVhaFV6ODFQcUVUdEZ1SHJRTVBETEZzNUpCMHljSktzRmc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGtodGFEWFFUcUJ1elpNSjVub0FweFMtR2JZaWxRMG8xRi1CMlVFZjRQMVF4M2Rka05vUmpiTVlDZG1qWkk5YllZazUwRm1pOUhHSjFBNjFqOGwwNlYzS2l3MHZ0U2hXOGt3WnlDd0FTU1VzU3poZ2hoUFY1c0tCWlZfcTZ2TXVOZW8wcllQMll1QzBvYmZ6RnJyMlJ5dnhwMDBkMWJTQWp6Zw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d16b0223e62e",
+    "id": "news-e2e31c827c17",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T20:15:00+00:00",
-    "acquirer": "Residents of a mobile home park try to",
-    "target": "their community before someone else does",
-    "headline": "Residents of a mobile home park try to buy their community before someone else does",
+    "acquirer": "Landfill company",
+    "target": "120+ acres of Eau Claire County Forest",
+    "headline": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "marketplace.org",
-    "summary": "Residents of a mobile home park try to buy their community before someone else does marketplace.org",
+    "sourceName": "WEAU",
+    "summary": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest WEAU",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGtodGFEWFFUcUJ1elpNSjVub0FweFMtR2JZaWxRMG8xRi1CMlVFZjRQMVF4M2Rka05vUmpiTVlDZG1qWkk5YllZazUwRm1pOUhHSjFBNjFqOGwwNlYzS2l3MHZ0U2hXOGt3WnlDd0FTU1VzU3poZ2hoUFY1c0tCWlZfcTZ2TXVOZW8wcllQMll1QzBvYmZ6RnJyMlJ5dnhwMDBkMWJTQWp6Zw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0laeEV6UmFYazZYVW13dFA0Q2U1ZG1EMGxfSWphaWpSYWg0a1ZKZ3lZSmkzTGUzU2V0WG9yclJDX0RNMjQ5OGdDT0U2elY3QmQ4amQ5dWp1clFXVHlTOEJ3dDBQZHlWejBfTXdTdmJ5M2UxbWhpS1N5aEl5ZFN2Q0YzVEVjNzJmbHlBbWZpM1AxMVBBZ2l6LVl30gGuAUFVX3lxTE93b2xxcE93OGFQNTMyYlZyLTBKZ010bUdWa29hTUZoRGc0RDJ3aEU1MkJ0X05XOThObThnNDJVRFc4WjlxdkI4MlJ0c011WGp6VHdyVTU3ZFY3VlZ6Uk1xSnFlWncxZXVuVkZGY09fQWpnS016MHpiQnk2SGF5VmVZZ2tfOGtyUWlLVE9FYmlvNkRrZ2pFaU9UT18wd3ZYRVV2dFB6c25nbW9kTDUwZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -378,7 +378,7 @@ window.generatedDeals = [
   {
     "id": "news-4337092d6100",
     "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T19:13:53+00:00",
+    "publishedISO": "2026-09-17T19:07:00+00:00",
     "acquirer": "Softcat",
     "target": "GDT In $1.05B ‘Enterprise Value’ Global Channel Blockbuster Deal",
     "headline": "Softcat Acquires GDT In $1.05B ‘Enterprise Value’ Global Channel Blockbuster Deal",
@@ -484,81 +484,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbk5MM3VLbTFzbDl5NC1BaEJMdnNYMXJoQmRZRmRDUVZjaGxEdUZXaWlaQWxwVnFfT05VUWE5b2x1SURoUTQ3b0t5a0lnejQwZU5xLU9Sd2Q3dW4yOVI1enlLaVBfZzhKV2ZqNU5JVjVRMU9kYXlJcGFPdDc3UnA0Q0xEOGlZbWF1Vm5kWlVta1JoQ3J5b0xKbTExU3BTNExELTBRR1picWlUYW9sZk9VSjdYSkN5Zw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5f9ff74b527b",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T13:56:59+00:00",
-    "acquirer": "Daxko",
-    "target": "Alaris",
-    "headline": "Daxko acquires Alaris",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Alabama Magazine",
-    "summary": "Daxko acquires Alaris Business Alabama Magazine",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhNVBJR1d5N1d3dmllYjNJbWI1ZFlvNFN3NWI0ampsc19JUFdqQVdBOXZjdmstS2k1Y2ZJODRYM0NETGNOUVhQbTN5Z25jYjRJVk1hSDhRMU5TRU9mNFg0?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1089,6 +1014,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c940fdd2a74b",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T20:30:00+00:00",
+    "acquirer": "Australian battery tech firm",
+    "target": "New Orleans company and bets on drones to boost demand",
+    "headline": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NOLA.com",
+    "summary": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand NOLA.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQME5ZeFR4RUdQTUJ5c3IyYkpObXU5a0VWRzZuNVZ4ZEIzd2UtRTEtMWdMSXZROERRa3htb3dpYVo3RExjNWkwRll0ZXVFQjAtTGYwZFJfbkkzZEtzNzAyRTRwdS1kUVUzaTl4YTMxZVV1WFpRMEZSbDVXaVRqNTl3RE40Wldfd0EzMHg0d3lVeUY4Tk93c295dWlyQ0pXUUpkM0ZjQkdNVXgxMmZiVWhLWlRHM1I3WHR4RlROZ1ZqdVpwMlVWejI0cXpJMUtuMWk0cFNXWklBWlJjM3ZPQ18xbmYzUVplNUw0MTlMekdLZ2Fyc2RnOEM0c3VUcF9lV1JVY3l3LVRwdDNZd05CX2FCRzRvODhhTDE5U2NfTkk4eFZqWjBkM3cxYkd30gGvAkFVX3lxTFB1enlOUVBLNVBZbDIwOW1iQ2lJUVE3WU1ub2FJYnJMZEJlNFJ5X2dkQzdzd2ptekxxTk1OMUs0d1hmVFpHZzUxbDNNOWYwVXNpamFMV2lVVG1NeUt1ZlNaaUNjdndvMHo3V1ZnRG5FbGJsME81MlVKTjhfSjhRM2p2WXZ3Y2V4RHFYcEJGVjlZbUt2T21JYVdDX2JQRkxlZVZFdUhFYk9NaUg1NjYxZjh4eGJuLXVYb0tpUndFdkZuaktFRDctWEtRZGMwRDNlS3NJaUoyeHlPSzdiNUJTaDFnd1A5TEgtMS13bzlQQmQwVERyc05fSkc5ZlBnWTllQ3pvYVJBNlBBY3hVa2piVnk0VFdPOHB0MWg3eVNNZnJXRXdGVkNZUmZVMHRHQldsSQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work TechCrunch",
+    "sourceName": "techcrunch.com",
+    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work techcrunch.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says reuters.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
