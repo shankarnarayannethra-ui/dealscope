@@ -1,9 +1,84 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-6898b6afb54a",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T19:36:18+00:00",
+    "acquirer": "Chewy",
+    "target": "SmartPak — $175.0M SEC",
+    "headline": "Chewy acquires SmartPak — $175.0M SEC",
+    "valueBillions": 0.175,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Dealroom",
+    "summary": "Chewy acquires SmartPak — $175.0M SEC Dealroom",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SNzdIVmZVVG8tWkNsRjBDbmFKNDVoVkZ5bnB0OHFpRVhFaUFIbE1uc3p0OTNOZ2l2SE1CcnhwNFJiZnN2eEY1cEhBZU1rSmEyLWZobTBrMFFLMThrSHZXbVJ2NW40N3lBYlZQbktiZ3VfU1RuUVUw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e1875faf1dd9",
     "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T21:05:37+00:00",
+    "publishedISO": "2026-09-18T19:26:28+00:00",
     "acquirer": "Exclusive: Infillion",
     "target": "location data company Foursquare",
     "headline": "Exclusive: Infillion acquires location data company Foursquare",
@@ -376,81 +451,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b51a2592810c",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T17:44:00+00:00",
-    "acquirer": "The Farmer's Dog",
-    "target": "Woof",
-    "headline": "The Farmer's Dog Completes Acquisition of Woof",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "The Farmer's Dog Completes Acquisition of Woof PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTk4S3I5MVh1RUd6MHVkX0dzbGZSRUMwOEtjNHByUmo2ekcyQzBFcnllTVFjeGo0SERTRHV2cDViMFFtLW5SOExOb2FUbTU2UDNoN2FRNTh4Q0VDdU44VlhXX0JqZDNQSWw4Mi1PRG5SeTJIbFh3UWQxS2ZiQ3poczFYN3pEOGFvQnJ2WmZGRWxNaWMyQTU1RkgyWkFadkg5aU1z?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-9381ba0b52d1",
     "date": "September 18, 2026",
     "publishedISO": "2026-09-18T08:04:40+00:00",
@@ -601,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d16b0223e62e",
+    "id": "news-e2e31c827c17",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T20:15:00+00:00",
-    "acquirer": "Residents of a mobile home park try to",
-    "target": "their community before someone else does",
-    "headline": "Residents of a mobile home park try to buy their community before someone else does",
+    "acquirer": "Landfill company",
+    "target": "120+ acres of Eau Claire County Forest",
+    "headline": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "marketplace.org",
-    "summary": "Residents of a mobile home park try to buy their community before someone else does marketplace.org",
+    "sourceName": "WEAU",
+    "summary": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest WEAU",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +633,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGtodGFEWFFUcUJ1elpNSjVub0FweFMtR2JZaWxRMG8xRi1CMlVFZjRQMVF4M2Rka05vUmpiTVlDZG1qWkk5YllZazUwRm1pOUhHSjFBNjFqOGwwNlYzS2l3MHZ0U2hXOGt3WnlDd0FTU1VzU3poZ2hoUFY1c0tCWlZfcTZ2TXVOZW8wcllQMll1QzBvYmZ6RnJyMlJ5dnhwMDBkMWJTQWp6Zw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0laeEV6UmFYazZYVW13dFA0Q2U1ZG1EMGxfSWphaWpSYWg0a1ZKZ3lZSmkzTGUzU2V0WG9yclJDX0RNMjQ5OGdDT0U2elY3QmQ4amQ5dWp1clFXVHlTOEJ3dDBQZHlWejBfTXdTdmJ5M2UxbWhpS1N5aEl5ZFN2Q0YzVEVjNzJmbHlBbWZpM1AxMVBBZ2l6LVl30gGuAUFVX3lxTE93b2xxcE93OGFQNTMyYlZyLTBKZ010bUdWa29hTUZoRGc0RDJ3aEU1MkJ0X05XOThObThnNDJVRFc4WjlxdkI4MlJ0c011WGp6VHdyVTU3ZFY3VlZ6Uk1xSnFlWncxZXVuVkZGY09fQWpnS016MHpiQnk2SGF5VmVZZ2tfOGtyUWlLVE9FYmlvNkRrZ2pFaU9UT18wd3ZYRVV2dFB6c25nbW9kTDUwZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1d9bdd94d755",
+    "date": "September 17, 2026",
+    "publishedISO": "2026-09-17T19:46:15+00:00",
+    "acquirer": "TerrAscend",
+    "target": "Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey",
+    "headline": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Cannabis Business Times",
+    "summary": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey Cannabis Business Times",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQm5kLVdWMy1IV1dVQ0UzNVp5RVczOW9LSHlVdUF5cWlWM3h6dlpobjh3S2xXMnlaOXJCa2RnNFM3QXBKTjBaWFE5Y3ZTa2RRZ3RkbFo4VGxxakhoSzZVNWNCdVYwd09GaXFyMXAyVmJfVk9iM25kWk1ZeUNyVmVYMXU2NzhiaktsYUdVRHNZRFBDbGs2UUQyeU44NXNVMjVYQWF2c2RnQjFxeUdoVm1qbTJncjFBc3E0NDJXaC05UTBZcHdmbE5kVHRnQ212MkJ4aU1TbHZ2aUw2a1lLRzI1dnhlSFNnc3dGSk9RUkFtREhGT1BnNHNQWDByUHpob3E5SFhDbUJURHJFaF9NRUdSSG9TQ3IzX1BUVVFR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "HCA Healthcare Completes Acquisition of the College of Health Care Professions Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "HCA Healthcare Completes Acquisition of the College of Health Care Professions businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1576,81 +1651,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-86a46798e7b1",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T17:41:28+00:00",
-    "acquirer": "Armenia Battles to",
-    "target": "Time",
-    "headline": "Armenia Battles to Buy Time",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "cepa.org",
-    "summary": "Armenia Battles to Buy Time cepa.org",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FTVFtUGRxRVJKZExBbXowejJwa1pFS0NsU3AzSVRQWlJaX0lSQ1lJeXBHYVRpQ1dSOTVkTEdPdHF1cjJkSlFKVnpsVG8yRW5zdFRJRjQ5dUd4N3U3cDBCQzQyTQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-025728cbf948",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T15:45:52+00:00",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Superhuman Acquires Fathom, AI Notetaker Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Superhuman Acquires Fathom, AI Notetaker businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ir.ondas.com",
-    "summary": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology ir.ondas.com",
+    "sourceName": "Ondas Holdings",
+    "summary": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology Ondas Holdings",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "hr-brew.com",
-    "summary": "Wellthy acquires Cleo in bid to become ‘singular platform for family care’ hr-brew.com",
+    "sourceName": "HR Brew",
+    "summary": "Wellthy acquires Cleo in bid to become ‘singular platform for family care’ HR Brew",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Perdoceo Education Corporation Signs Definitive Agreement to Acquire South University Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Perdoceo Education Corporation Signs Definitive Agreement to Acquire South University businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Crane Company Announces Agreement to Acquire U.S. Water Pump Business from First Reserve-Backed Trillium Flow Technologies Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Crane Company Announces Agreement to Acquire U.S. Water Pump Business from First Reserve-Backed Trillium Flow Technologies businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
