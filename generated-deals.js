@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-e1875faf1dd9",
+    "date": "September 19, 2026",
+    "publishedISO": "2026-09-19T12:17:40+00:00",
+    "acquirer": "Exclusive: Infillion",
+    "target": "location data company Foursquare",
+    "headline": "Exclusive: Infillion acquires location data company Foursquare",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "Exclusive: Infillion acquires location data company Foursquare Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-2dba25845ec9",
     "date": "September 18, 2026",
     "publishedISO": "2026-09-18T22:24:56+00:00",
@@ -15,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AdExchanger",
-    "summary": "Infillion Acquires Foursquare, Adding More Location Data To Its Ever-Growing Ad Tech Stack AdExchanger",
+    "sourceName": "adexchanger.com",
+    "summary": "Infillion Acquires Foursquare, Adding More Location Data To Its Ever-Growing Ad Tech Stack adexchanger.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -109,81 +184,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SNzdIVmZVVG8tWkNsRjBDbmFKNDVoVkZ5bnB0OHFpRVhFaUFIbE1uc3p0OTNOZ2l2SE1CcnhwNFJiZnN2eEY1cEhBZU1rSmEyLWZobTBrMFFLMThrSHZXbVJ2NW40N3lBYlZQbktiZ3VfU1RuUVUw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e1875faf1dd9",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T19:13:36+00:00",
-    "acquirer": "Exclusive: Infillion",
-    "target": "location data company Foursquare",
-    "headline": "Exclusive: Infillion acquires location data company Foursquare",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Exclusive: Infillion acquires location data company Foursquare Axios",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -676,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e2e31c827c17",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T20:15:00+00:00",
-    "acquirer": "Landfill company",
-    "target": "120+ acres of Eau Claire County Forest",
-    "headline": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WEAU",
-    "summary": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest WEAU",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0laeEV6UmFYazZYVW13dFA0Q2U1ZG1EMGxfSWphaWpSYWg0a1ZKZ3lZSmkzTGUzU2V0WG9yclJDX0RNMjQ5OGdDT0U2elY3QmQ4amQ5dWp1clFXVHlTOEJ3dDBQZHlWejBfTXdTdmJ5M2UxbWhpS1N5aEl5ZFN2Q0YzVEVjNzJmbHlBbWZpM1AxMVBBZ2l6LVl30gGuAUFVX3lxTE93b2xxcE93OGFQNTMyYlZyLTBKZ010bUdWa29hTUZoRGc0RDJ3aEU1MkJ0X05XOThObThnNDJVRFc4WjlxdkI4MlJ0c011WGp6VHdyVTU3ZFY3VlZ6Uk1xSnFlWncxZXVuVkZGY09fQWpnS016MHpiQnk2SGF5VmVZZ2tfOGtyUWlLVE9FYmlvNkRrZ2pFaU9UT18wd3ZYRVV2dFB6c25nbW9kTDUwZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-4337092d6100",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T19:07:00+00:00",
@@ -1051,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-46aa1424840e",
+    "date": "September 16, 2026",
+    "publishedISO": "2026-09-16T15:51:00+00:00",
+    "acquirer": "Tallvine Partners’ North America Marine Infrastructure Platform",
+    "target": "Crosby Enterprises’ Assets",
+    "headline": "Tallvine Partners’ North America Marine Infrastructure Platform Completes Acquisition of Crosby Enterprises’ Assets",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "Tallvine Partners’ North America Marine Infrastructure Platform Completes Acquisition of Crosby Enterprises’ Assets Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbC03SkZDTi0wZmhBS0d3N0MxU2VucGNfRGhmY01BeTNNbkVSRDBwZ0E0ODR4ckpkMFdWOHdGTHdhaVlfdkRPcnlZdmhuQjBHY1dneHJfMDlOZXZVU1ZVZVZsMVhnQVJRdFFGS3ViN2dLLXQ1UTNmSUhYb2dVcHF2NENQc21ZN1BqMEw3QUtDR05HeTJpZTNWbmNjYmVHWS05RUtYQzRTS3RQUmxNNzZGbWtua3FTbDBOeGJiemt2eGQ0RGJ6U2VmR3RxS1NlVHNnUXZNSm9DSmQzaUpOX3pUMmtxbU1UbXItNFM4cnRXQS12b3FpQms1azZiVWRkcXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c3694e879416",
     "date": "September 16, 2026",
     "publishedISO": "2026-09-16T11:00:00+00:00",
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Vermont Public",
-    "summary": "Northeast Kingdom housing group signs deal to buy Sterling College campus Vermont Public",
+    "sourceName": "vermontpublic.org",
+    "summary": "Northeast Kingdom housing group signs deal to buy Sterling College campus vermontpublic.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WVXU",
-    "summary": "Barnes & Noble to buy Joseph-Beth Booksellers WVXU",
+    "sourceName": "wvxu.org",
+    "summary": "Barnes & Noble to buy Joseph-Beth Booksellers wvxu.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ohio Department of Natural Resources (.gov)",
-    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees Ohio Department of Natural Resources (.gov)",
+    "sourceName": "ohiodnr.gov",
+    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees ohiodnr.gov",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "techcrunch.com",
-    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work techcrunch.com",
+    "sourceName": "TechCrunch",
+    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work TechCrunch",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
