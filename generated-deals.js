@@ -2,8 +2,8 @@
 window.generatedDeals = [
   {
     "id": "news-e1875faf1dd9",
-    "date": "September 19, 2026",
-    "publishedISO": "2026-09-19T18:24:18+00:00",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T23:50:28+00:00",
     "acquirer": "Exclusive: Infillion",
     "target": "location data company Foursquare",
     "headline": "Exclusive: Infillion acquires location data company Foursquare",
@@ -38,7 +38,7 @@ window.generatedDeals = [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 19, 2026"
+        "date": "Sep 18, 2026"
       },
       {
         "stage": "Terms verified",
@@ -451,6 +451,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1489875aee07",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T18:08:50+00:00",
+    "acquirer": "SoftBank",
+    "target": "Robotics and AI Institute",
+    "headline": "SoftBank agrees to acquire Robotics and AI Institute",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Robot Report",
+    "summary": "SoftBank agrees to acquire Robotics and AI Institute The Robot Report",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWZsb0FQZ2R0QzdGd19rUTdLbjJwenBrYzBtMGtlSTZ2cEpLVUcxZ0xFcGZZbjUyeVRtWE9BelhxaF9UYU53OUVYT2UtTXJVYmZmSmU4NmVma3ptTWNJSlVhVkItamZhWGVQdDUzeXdFcUhYRDBWSTJETUJZOXVFVTRPeGV0RzBBNTNXSw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9381ba0b52d1",
     "date": "September 18, 2026",
     "publishedISO": "2026-09-18T08:04:40+00:00",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Al Jazeera",
-    "summary": "Indonesia acquires first aircraft carrier amid military upgrade Al Jazeera",
+    "sourceName": "aljazeera.com",
+    "summary": "Indonesia acquires first aircraft carrier amid military upgrade aljazeera.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Pearson Acquires Assessment Technology Provider, ITS PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Pearson Acquires Assessment Technology Provider, ITS prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -564,81 +639,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e2e31c827c17",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T20:15:00+00:00",
-    "acquirer": "Landfill company",
-    "target": "120+ acres of Eau Claire County Forest",
-    "headline": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WEAU",
-    "summary": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest WEAU",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0laeEV6UmFYazZYVW13dFA0Q2U1ZG1EMGxfSWphaWpSYWg0a1ZKZ3lZSmkzTGUzU2V0WG9yclJDX0RNMjQ5OGdDT0U2elY3QmQ4amQ5dWp1clFXVHlTOEJ3dDBQZHlWejBfTXdTdmJ5M2UxbWhpS1N5aEl5ZFN2Q0YzVEVjNzJmbHlBbWZpM1AxMVBBZ2l6LVl30gGuAUFVX3lxTE93b2xxcE93OGFQNTMyYlZyLTBKZ010bUdWa29hTUZoRGc0RDJ3aEU1MkJ0X05XOThObThnNDJVRFc4WjlxdkI4MlJ0c011WGp6VHdyVTU3ZFY3VlZ6Uk1xSnFlWncxZXVuVkZGY09fQWpnS016MHpiQnk2SGF5VmVZZ2tfOGtyUWlLVE9FYmlvNkRrZ2pFaU9UT18wd3ZYRVV2dFB6c25nbW9kTDUwZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
       },
       {
         "stage": "Terms verified",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "S&P Global Announces Agreement to Acquire OpenZeppelin PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "S&P Global Announces Agreement to Acquire OpenZeppelin prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1351,81 +1351,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c1b4eda41c8c",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T18:50:00+00:00",
-    "acquirer": "HCA Healthcare",
-    "target": "the College of Health Care Professions",
-    "headline": "HCA Healthcare Completes Acquisition of the College of Health Care Professions",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "HCA Healthcare Completes Acquisition of the College of Health Care Professions Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUENrcXc5Sk16bWdieWZPYkJWSHNfSGU4UDJjbUFWY2dRWnZLblJvRzFuajlZRVl1d1BicGtsZS1XRjJaX0R6d3lYazg5RkJpZEFoWXFxaHZLdDJZRFY1QUJZdGRZWFVoYVRzd2xFdVhVNjlMaE5GNFdEa0RIUmVkTGo0TGhPWHl0cnNSWG5lTkp1d2NKbjBrNnFUbzR5N0RtN2lKeURkdmlTOWYyNXpaSksxR3IxMkFMOFVwd1R3UlBuRXFiSmU4SmFxV01sUVd5?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ffb373491b60",
     "date": "September 15, 2026",
     "publishedISO": "2026-09-15T15:18:14+00:00",
@@ -1651,6 +1576,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-c1b4eda41c8c",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T12:30:00+00:00",
+    "acquirer": "HCA Healthcare",
+    "target": "the College of Health Care Professions",
+    "headline": "HCA Healthcare Completes Acquisition of the College of Health Care Professions",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Business Wire",
+    "summary": "HCA Healthcare Completes Acquisition of the College of Health Care Professions Business Wire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUENrcXc5Sk16bWdieWZPYkJWSHNfSGU4UDJjbUFWY2dRWnZLblJvRzFuajlZRVl1d1BicGtsZS1XRjJaX0R6d3lYazg5RkJpZEFoWXFxaHZLdDJZRFY1QUJZdGRZWFVoYVRzd2xFdVhVNjlMaE5GNFdEa0RIUmVkTGo0TGhPWHl0cnNSWG5lTkp1d2NKbjBrNnFUbzR5N0RtN2lKeURkdmlTOWYyNXpaSksxR3IxMkFMOFVwd1R3UlBuRXFiSmU4SmFxV01sUVd5?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ab8ca770e702",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T20:27:00+00:00",
@@ -1684,6 +1684,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJcEZqWDRINERPWDdvNW9UckZSQk9nZHc2a2JzZldTS1BJSlpNd1d5cXdaTHdTbE9GU3dyTUo1My1qOVZVd2haVWFGdEtMX1F4eDNTYlFacmdOYWlrTmRxUzBHVUtGTkxa?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-86a46798e7b1",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T17:41:28+00:00",
+    "acquirer": "Armenia Battles to",
+    "target": "Time",
+    "headline": "Armenia Battles to Buy Time",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Center for European Policy Analysis (CEPA)",
+    "summary": "Armenia Battles to Buy Time Center for European Policy Analysis (CEPA)",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FTVFtUGRxRVJKZExBbXowejJwa1pFS0NsU3AzSVRQWlJaX0lSQ1lJeXBHYVRpQ1dSOTVkTEdPdHF1cjJkSlFKVnpsVG8yRW5zdFRJRjQ5dUd4N3U3cDBCQzQyTQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmJGNWxfWW4zbXpyekR1eWN1V0ZKYTFEeXdGM2FhSm80UnF1ZzZLSlBKb2FhOHNuVUtxdXpMajZONWxwZDV1bUtsUUVGaXpIbF81bVZ6TUtsMHB0a1VoQkJzSE55bGlPYjNOd3NraGV6WkF5a1QwT1pwRHdGWGJ5Y2lCNUx1clpzLU5BcmNkdEpvVC1fZVFSMUhKSVJHMWMwblJpbTQ4WHF3MXA2RjBUNlN0X2ZjX2paVlY5X2NKaXYxbVEyeWF0T2FVckVWUXR0MXVfVWxIdFRNZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3c73b30843bc",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T11:30:00+00:00",
-    "acquirer": "Crane Company Announces Agreement to",
-    "target": "U.S. Water Pump Business from First Reserve-Backed Trillium Flow Technologies",
-    "headline": "Crane Company Announces Agreement to Acquire U.S. Water Pump Business from First Reserve-Backed Trillium Flow Technologies",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Crane Company Announces Agreement to Acquire U.S. Water Pump Business from First Reserve-Backed Trillium Flow Technologies Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMU5yQW15RnFuM1QxR196QXRrRUttbDRyVTU5WWRQYlFNR011VGtqUDF5MFdvcHdGSzVveGZ2THNXNnhkTkFTR3MzR3ZuVHFpYUxJamNnMmtNcEpuUVZVbVY1UmJXb2NBUnYzTFdqajFtOTI4T0p4S255S3lQYjVWbnJUb3Q2d3Mtb3poYkVCbFBoT29zR3hmQ09vZ1Zkdko4RWlxeVpkYXFDZWxxb09RZ2toN3Y4Q0VKbEJWS20tbUZySjlKRTRsYi1fSVpBMmlLM0xPVE5BNmwzcUxFWHRkU0Z6c1l4anprMzdTcElyU2xaX0wwZFd2YW4zS2lFX3ZKaVh2Skk3aVBpbnM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
