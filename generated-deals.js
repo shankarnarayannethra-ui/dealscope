@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "dcunited.com",
-    "summary": "D.C. United Acquires $50,000 in 2026 General Allocation Money from Real Salt Lake in Exchange for Homegrown Priority to Defender Judah Pritchett dcunited.com",
+    "sourceName": "D.C. United",
+    "summary": "D.C. United Acquires $50,000 in 2026 General Allocation Money from Real Salt Lake in Exchange for Homegrown Priority to Defender Judah Pritchett D.C. United",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -526,6 +526,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3a4320642e74",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T17:49:57+00:00",
+    "acquirer": "Equal Parts",
+    "target": "Texas’ ProSource",
+    "headline": "Equal Parts Acquires Texas’ ProSource",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Insurance Journal",
+    "summary": "Equal Parts Acquires Texas’ ProSource Insurance Journal",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tUG1QQ0hKcEl4eGlNTDVBajFSdG5lVzZkcjhOVjlSWlpla3Bmdk1CQ1hXUlBLQ2gyeFBuUm9QQnpHYTFCSnFUYkg1QW5ET2ZqMG9ZQmsyckxhbC10V1dqTW4zNlJ6OHlPd0gwY1dZSm1mYUFuV0NQXzdkLU0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9381ba0b52d1",
     "date": "September 18, 2026",
     "publishedISO": "2026-09-18T08:04:40+00:00",
@@ -676,81 +751,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e2e31c827c17",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T20:15:00+00:00",
-    "acquirer": "Landfill company",
-    "target": "120+ acres of Eau Claire County Forest",
-    "headline": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WEAU",
-    "summary": "Landfill company seeks to buy 120+ acres of Eau Claire County Forest WEAU",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0laeEV6UmFYazZYVW13dFA0Q2U1ZG1EMGxfSWphaWpSYWg0a1ZKZ3lZSmkzTGUzU2V0WG9yclJDX0RNMjQ5OGdDT0U2elY3QmQ4amQ5dWp1clFXVHlTOEJ3dDBQZHlWejBfTXdTdmJ5M2UxbWhpS1N5aEl5ZFN2Q0YzVEVjNzJmbHlBbWZpM1AxMVBBZ2l6LVl30gGuAUFVX3lxTE93b2xxcE93OGFQNTMyYlZyLTBKZ010bUdWa29hTUZoRGc0RDJ3aEU1MkJ0X05XOThObThnNDJVRFc4WjlxdkI4MlJ0c011WGp6VHdyVTU3ZFY3VlZ6Uk1xSnFlWncxZXVuVkZGY09fQWpnS016MHpiQnk2SGF5VmVZZ2tfOGtyUWlLVE9FYmlvNkRrZ2pFaU9UT18wd3ZYRVV2dFB6c25nbW9kTDUwZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-1d9bdd94d755",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T19:46:15+00:00",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cannabisbusinesstimes.com",
-    "summary": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey cannabisbusinesstimes.com",
+    "sourceName": "Cannabis Business Times",
+    "summary": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey Cannabis Business Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -901,7 +901,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-00b9849c5e81",
+    "id": "news-24541a2f699a",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T12:00:00+00:00",
     "acquirer": "S&P Global Announces Agreement to",
@@ -915,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "S&P Global Announces Agreement to Acquire OpenZeppelin PR Newswire",
+    "sourceName": "investor.spglobal.com",
+    "summary": "S&P Global Announces Agreement to Acquire OpenZeppelin investor.spglobal.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,87 +933,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlFJUDdReWx0LVJhWE1EUHh4bUNUQm5fZGtxZ1NMUUh4d2l1UHZUdkV0WlR6X0hEZDRpLWh6cFVrR216NlZIY3lRTTQ3RzN3TW1JTS1Ec3c4M2FzYWN1YUlzUlcyUVRZSUhNa0syZWRQQzJodjJqOWx4VEd3YUUxQ1Q0aGpNMXhZNkxyV083emhmTGxQVDV4aEVMWUpRUzZTRUFxMXA3NVJfamF6TXc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd093WEhMajZFeHF2R2xVbWFnMFNaUG9KRkhBamVweHdtTGlHajBZemc3Nnp2ZTd6VzJUR3hDRTBieFpfQkE4OWxFRjVNcjJCZXFUd3dEOUY5bWZsLTZKWEllSmhybi1EbWhQelRXTFVxWTMwdURBcjd5VmdkR21vU0N5NksyamVBRHdVNzdQenlwUlpIRzVXTzVLZFU4azctRlI1TEt3a0ZxUjZzT1pwLVFBaldueS1EZGJCZTljTjJfcHNTUEhV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-34d1e323543a",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T22:57:00+00:00",
-    "acquirer": "Cohere",
-    "target": "Aleph Alpha",
-    "headline": "Cohere and Aleph Alpha agree to merge in reported $20B deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "SiliconANGLE",
-    "summary": "Cohere and Aleph Alpha agree to merge in reported $20B deal SiliconANGLE",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjdLbFl0R2V0U0YzaXowb19oa2RtcjMwNl85d2xCdURkenVJbWE2YUZWMXhqcVd2cktXZGo0M0FLMmdRYXRodlR5UENUcUQzNlZSUVY5QXBkSlB2WG9OYmZaajh3bkhWUzY5YXFvV2NfeGtqR1pEdnFaT0VTTWpWNV9Zc3U3VEFDLUVwQm9QVUlydzhadThjeFdKdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1590,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Publishers Weekly",
-    "summary": "B&N Agrees to Buy Joseph-Beth Booksellers Publishers Weekly",
+    "sourceName": "publishersweekly.com",
+    "summary": "B&N Agrees to Buy Joseph-Beth Booksellers publishersweekly.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1684,6 +1609,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXlZMTVKQlAwTDlfZllkalp3b2gyblNrOThNSTVEcG81WGg5VzZIaTEzd3d5VzRkZ0NIdnNHZjk0V1VGU21XSF80VWxQN3FINmVhUnNVVVE0dTE2eUF1X2xhdWw3cklmNU9QMl9fNnVBQzF1US1EOXV4UUt2LS1LZVFCeW8zWEcySHd5bndIYw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9ce167287d64",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T13:35:40+00:00",
+    "acquirer": "ODNR Launches New Website to",
+    "target": "Ohio-Grown Trees",
+    "headline": "ODNR Launches New Website to Buy Ohio-Grown Trees",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ohiodnr.gov",
+    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees ohiodnr.gov",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkRpNDdRWksxN0dOOWlyRnJMZ2ZXc2wwMGtZQ1R2WjA3UVVKbHF3aE1Eb2lER0FrRW50X2FxZk9qNWJwbFhfeGNXc1I5QnZjR0EtNWNkd3FPZUsxbmpEUDV4NHo0TGxTbTVDaVJ5NE40TE4tQVVvSXBidkYtdXlNRUl1d0xwQ2prWDZqUFJZdjMwcWRjNU9IOUx3MUh2dS1Hbk8teU1YUDNrQnBuVzNEUGIwdzBDV0E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
