@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-728d382cb984",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T05:38:00+00:00",
+    "acquirer": "US spirits maker Sazerac",
+    "target": "Germany's Berentzen",
+    "headline": "US spirits maker Sazerac launches takeover bid for Germany's Berentzen",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "reuters.com",
+    "summary": "US spirits maker Sazerac launches takeover bid for Germany's Berentzen reuters.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2hTOGc0WEFsM0hETjBNa3RNVjUtTC1ON3c4dm1RWDIyTVZxZmR0anNfWGxqS2IwTlRxXzdGUW5aRmc1LVFuTzlaN05Dbzltd1BFR1VUTE9JWW5hN0FOYkIyQnRsbi15NlpuWXZxRnJSSndvZVpMVjhzREs0TlRlNzFrSHEwTHBsenhYVGlXV0RSck55SHJQeUl0ekdWVGpHbmNubFBtMjk?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9f68be8a7c72",
+    "date": "September 19, 2026",
+    "publishedISO": "2026-09-19T08:36:32+00:00",
+    "acquirer": "TerrAscend",
+    "target": "Hunterdon County cannabis dispensary",
+    "headline": "TerrAscend acquires Hunterdon County cannabis dispensary",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WRNJ Radio",
+    "summary": "TerrAscend acquires Hunterdon County cannabis dispensary WRNJ Radio",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYlVSQW9GZTNZdmoyV2pPWkJ4M1dnNlByQ1hyT19ScTZrV3BrTno2WVZENUZwLWhTYkZzNE1JNlR1MVUtaWZCdmNuSkdtU2ZTMk94VUFwQjR2dVItMGFkc3BTYlNWOHVHWVl6d2VSVGVaUEZpRHVsWUhHMGZVWkJkc2c5eEQ3QQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e1875faf1dd9",
     "date": "September 18, 2026",
     "publishedISO": "2026-09-18T23:50:28+00:00",
@@ -240,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "rsl.com",
-    "summary": "Real Salt Lake Acquires Judah Pritchett From D.C. United rsl.com",
+    "sourceName": "Real Salt Lake",
+    "summary": "Real Salt Lake Acquires Judah Pritchett From D.C. United Real Salt Lake",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks cnbc.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -334,81 +484,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkNoYThWR01oZWdmLTZkdjgyNGZXWF9lVW1FYXNMNkJrOWRKb09GSkxBRjJ1SVBHQnBoaHhUU0Z2U1hnZEFJX3haV3ZWN0dlNE1uMW9VQk9JWmFKNG5PRnFLMzllZ0ZrekM2NTBfZEdjT3lTR3l1N0JvLURpSHc1cVhNLXlpbFI3ZjhEbHQ2Ml9oTDlDS3VQSmxqbTNjR3doM0Z4SHRLalZVZHhhMnhwemJtNlVWX29iZHMwUndzVWY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5906e0e6c0f5",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T18:16:40+00:00",
-    "acquirer": "3 Reasons to Avoid TSLA and 1 Stock to",
-    "target": "Instead",
-    "headline": "3 Reasons to Avoid TSLA and 1 Stock to Buy Instead",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "3 Reasons to Avoid TSLA and 1 Stock to Buy Instead Yahoo Finance",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMG9lbjZnVk1odkJreDlrU2o1ZFdmRThpcnlaZWRCZjIydTJDcHRWV2E3U19FVUNYeUYxU1AyQjVDdFVrUXY4MDRTU1ZUblAtUmMtQlpiNW5nZ0FmOS1qYWU4RDR2cUtEdTJFV1dmMENIcVJwcWlzd00ySmpqQnhnRFhsMm1vOWxPRy10Wi1ZVWk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Al Jazeera",
-    "summary": "Indonesia acquires first aircraft carrier amid military upgrade Al Jazeera",
+    "sourceName": "aljazeera.com",
+    "summary": "Indonesia acquires first aircraft carrier amid military upgrade aljazeera.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -709,81 +784,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDFCU2gta3YwMFhvTTh6RTQ3LUc2R2VzQ20ybmk4blVrT0t1b2tHYTVUSWI5cmxTT1lDV0hTWkVtVXNGSEZDTjNfNGcwSktGNmRhTzlVMllRU2xTcVlxUzJYXzNrRUFXaHd6bTRMMGdSd3JoZE90OFp5TzB0VDFaNFNVTXBXZ1AwYlh1V1hnMXlTZ2lzcVpoeGRuN1l0ZkRoSkZDZ3ZVMTgyQ3M?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-db4b920a993d",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T03:03:45+00:00",
-    "acquirer": "GO Riteway",
-    "target": "Thomas Bus Service",
-    "headline": "GO Riteway acquires Thomas Bus Service",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "biztimes.com",
-    "summary": "GO Riteway acquires Thomas Bus Service biztimes.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qUzB6VlJlMW1ZWjBORE9fWmN1ekk3eWtpTHhRVlZnNmtIb0hpTGZ4Nk1FenFOS0RDazJrd2s0ME5ENm5PWUR4T1djMXVrekY3MXlKODJ6bXBwUG5OV3h3U3JvZmNwS1FPODg2Vw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,13 +1651,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-74ed4ccbbdba",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T12:20:00+00:00",
-    "acquirer": "Barnes & Noble",
-    "target": "both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
-    "headline": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
-    "valueBillions": null,
+    "id": "news-ab8ca770e702",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T20:27:00+00:00",
+    "acquirer": "OpenAI",
+    "target": "Israeli-founded camera startup Glass Imaging",
+    "headline": "OpenAI acquires Israeli-founded camera startup Glass Imaging for over $300 million",
+    "valueBillions": 0.3,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WKYT",
-    "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati WKYT",
+    "sourceName": "calcalistech.com",
+    "summary": "OpenAI acquires Israeli-founded camera startup Glass Imaging for over $300 million calcalistech.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,12 +1683,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHdsRWphTzdTQWwxUVJhekFReU53R3kycWFGdzVyUk1GbnpXaXVRT01NZGVSMmRlNnRXenRxZHliYkRKMTVza3hWemdjQ3JCREZWdE1oeHBjOWgzaFdmSS1icjNZRzdicnZ0TjZRdHZ5cnhpTWxPcW5IaFB3cHJsSHNRRU1vRlhKcFp2eDBVRThrQ3oyby1WTUNEcXI0dFcxSEdhTEhkVlo1SVFCcGVmamFBN0rSAcgBQVVfeXFMUHhDM2VJanlmaVoxX0x2Z29EakVvYnpTVzB0bHV4M3FWc3RTZFB2TVJDNVpXNm5rRm8wSE5xekJ5UG5JZ0VNY2xjVXVyRGFNcGFlckc2MGNQNzRnSnZMSWNqZmZoQnNxc2Noc0lrODM5NVF4Um1jeUtDQWkzTWNSMkJlUDZ2NkN6Y3RDUUJGZzduVlFVSjEtbHlGaW9oOXU3RG15Q3dLMmxmQjhFMnlnWUJXejFUTlRsbk81SmpBSmVIWFllR1BIS3Y?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJcEZqWDRINERPWDdvNW9UckZSQk9nZHc2a2JzZldTS1BJSlpNd1d5cXdaTHdTbE9GU3dyTUo1My1qOVZVd2haVWFGdEtMX1F4eDNTYlFacmdOYWlrTmRxUzBHVUtGTkxa?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 15, 2026"
+        "date": "Sep 14, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1726,13 +1726,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ab8ca770e702",
+    "id": "news-86a46798e7b1",
     "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T20:27:00+00:00",
-    "acquirer": "OpenAI",
-    "target": "Israeli-founded camera startup Glass Imaging",
-    "headline": "OpenAI acquires Israeli-founded camera startup Glass Imaging for over $300 million",
-    "valueBillions": 0.3,
+    "publishedISO": "2026-09-14T17:41:28+00:00",
+    "acquirer": "Armenia Battles to",
+    "target": "Time",
+    "headline": "Armenia Battles to Buy Time",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "calcalistech.com",
-    "summary": "OpenAI acquires Israeli-founded camera startup Glass Imaging for over $300 million calcalistech.com",
+    "sourceName": "Center for European Policy Analysis (CEPA)",
+    "summary": "Armenia Battles to Buy Time Center for European Policy Analysis (CEPA)",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1758,7 +1758,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJcEZqWDRINERPWDdvNW9UckZSQk9nZHc2a2JzZldTS1BJSlpNd1d5cXdaTHdTbE9GU3dyTUo1My1qOVZVd2haVWFGdEtMX1F4eDNTYlFacmdOYWlrTmRxUzBHVUtGTkxa?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FTVFtUGRxRVJKZExBbXowejJwa1pFS0NsU3AzSVRQWlJaX0lSQ1lJeXBHYVRpQ1dSOTVkTEdPdHF1cjJkSlFKVnpsVG8yRW5zdFRJRjQ5dUd4N3U3cDBCQzQyTQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1b3dc66d78b7",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T15:53:41+00:00",
+    "acquirer": "China's GAC",
+    "target": "FAW stake in an auto JV, filing shows",
+    "headline": "China's GAC plans to buy FAW stake in an auto JV, filing shows",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "reuters.com",
+    "summary": "China's GAC plans to buy FAW stake in an auto JV, filing shows reuters.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN19EV1ZBM0t5aDRGVFRjNzNLYWtNb2RzX0wwdWJOMzR5Y2FxeHpscUl1d0l4ZldoU19DZWNsMEpqblg1VG8zZENUQ1Z3cFBHUTdJTml6dl8tYjU0MThTRmNRclhpTTdlZy1EU2RWalNtSkNGei1CcU53bzh0SUV1V1l5OGM4clRKV0pMR2dBNGd6SHg4Q2YtWEFUVVp6bl9vRTl3em05WnFkeDlPMjUwZllBWi1KckJtR3R5aHdjU25ycXBieTBRYzh1cmVmS2M?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5MnFRX2o2cTVnMUExV0dfLWFxVXBqV042bWJZX0ZrMGpjSjlzWUpDblpTOS1GRGxlbVZtd0tTaWJlWDBSenk1cTdtRmxJcktZX01tSFpqN1Zkb0FESzBFSmVZcTEwbUpYc0VYUjU3dGtza1k?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-76e14539561c",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T12:00:00+00:00",
-    "acquirer": "Perdoceo Education Corporation Signs Definitive Agreement to",
-    "target": "South University",
-    "headline": "Perdoceo Education Corporation Signs Definitive Agreement to Acquire South University",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Perdoceo Education Corporation Signs Definitive Agreement to Acquire South University businesswire.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmJGNWxfWW4zbXpyekR1eWN1V0ZKYTFEeXdGM2FhSm80UnF1ZzZLSlBKb2FhOHNuVUtxdXpMajZONWxwZDV1bUtsUUVGaXpIbF81bVZ6TUtsMHB0a1VoQkJzSE55bGlPYjNOd3NraGV6WkF5a1QwT1pwRHdGWGJ5Y2lCNUx1clpzLU5BcmNkdEpvVC1fZVFSMUhKSVJHMWMwblJpbTQ4WHF3MXA2RjBUNlN0X2ZjX2paVlY5X2NKaXYxbVEyeWF0T2FVckVWUXR0MXVfVWxIdFRNZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
