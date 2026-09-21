@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Real Salt Lake",
-    "summary": "Real Salt Lake Acquires Judah Pritchett From D.C. United Real Salt Lake",
+    "sourceName": "rsl.com",
+    "summary": "Real Salt Lake Acquires Judah Pritchett From D.C. United rsl.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -751,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1d9bdd94d755",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T19:46:15+00:00",
-    "acquirer": "TerrAscend",
-    "target": "Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey",
-    "headline": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey",
+    "id": "news-db4b920a993d",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T03:03:45+00:00",
+    "acquirer": "GO Riteway",
+    "target": "Thomas Bus Service",
+    "headline": "GO Riteway acquires Thomas Bus Service",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Cannabis Business Times",
-    "summary": "TerrAscend Acquires Aunt Mary’s Dispensary, Strengthens Leadership Position in New Jersey Cannabis Business Times",
+    "sourceName": "biztimes.com",
+    "summary": "GO Riteway acquires Thomas Bus Service biztimes.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,87 +783,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQm5kLVdWMy1IV1dVQ0UzNVp5RVczOW9LSHlVdUF5cWlWM3h6dlpobjh3S2xXMnlaOXJCa2RnNFM3QXBKTjBaWFE5Y3ZTa2RRZ3RkbFo4VGxxakhoSzZVNWNCdVYwd09GaXFyMXAyVmJfVk9iM25kWk1ZeUNyVmVYMXU2NzhiaktsYUdVRHNZRFBDbGs2UUQyeU44NXNVMjVYQWF2c2RnQjFxeUdoVm1qbTJncjFBc3E0NDJXaC05UTBZcHdmbE5kVHRnQ212MkJ4aU1TbHZ2aUw2a1lLRzI1dnhlSFNnc3dGSk9RUkFtREhGT1BnNHNQWDByUHpob3E5SFhDbUJURHJFaF9NRUdSSG9TQ3IzX1BUVVFR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qUzB6VlJlMW1ZWjBORE9fWmN1ekk3eWtpTHhRVlZnNmtIb0hpTGZ4Nk1FenFOS0RDazJrd2s0ME5ENm5PWUR4T1djMXVrekY3MXlKODJ6bXBwUG5OV3h3U3JvZmNwS1FPODg2Vw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4337092d6100",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T19:07:00+00:00",
-    "acquirer": "Softcat",
-    "target": "GDT In $1.05B ‘Enterprise Value’ Global Channel Blockbuster Deal",
-    "headline": "Softcat Acquires GDT In $1.05B ‘Enterprise Value’ Global Channel Blockbuster Deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "crn.com",
-    "summary": "Softcat Acquires GDT In $1.05B ‘Enterprise Value’ Global Channel Blockbuster Deal crn.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1lUWWVvX2d0WFBtMER2UHd4UFMta2pLTklDdERWNjJBQW9XTW1uOUxaUFRTbHY1QUZVUVdXYjNZaHZaeXA4WFhkMzM5ME01TkYxS0xCdDlpLVdwd2g5Ti1nZDZRZzFWZmxJbklCSV9yUkp3TjlBUVVrMFRDbUNhLThsSzBSSlVpTC02ZWR2aDFoRlAzeElmdnRqZ1EtQTZ6S2pQZVA2UmNqNk4wZEM4U0ZSRkl0SUZjV1cwVnlR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
+        "date": "Sep 18, 2026"
       },
       {
         "stage": "Terms verified",
@@ -915,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "investor.spglobal.com",
-    "summary": "S&P Global Announces Agreement to Acquire OpenZeppelin investor.spglobal.com",
+    "sourceName": "S&P Global",
+    "summary": "S&P Global Announces Agreement to Acquire OpenZeppelin S&P Global",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Tallvine Partners’ North America Marine Infrastructure Platform Completes Acquisition of Crosby Enterprises’ Assets Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Tallvine Partners’ North America Marine Infrastructure Platform Completes Acquisition of Crosby Enterprises’ Assets businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "globenewswire.com",
-    "summary": "SPX Technologies Announces Acquisition of FIS Water globenewswire.com",
+    "sourceName": "GlobeNewswire",
+    "summary": "SPX Technologies Announces Acquisition of FIS Water GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "publishersweekly.com",
-    "summary": "B&N Agrees to Buy Joseph-Beth Booksellers publishersweekly.com",
+    "sourceName": "Publishers Weekly",
+    "summary": "B&N Agrees to Buy Joseph-Beth Booksellers Publishers Weekly",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ohiodnr.gov",
-    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees ohiodnr.gov",
+    "sourceName": "Ohio Department of Natural Resources (.gov)",
+    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees Ohio Department of Natural Resources (.gov)",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1726,12 +1651,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c1b4eda41c8c",
+    "id": "news-74ed4ccbbdba",
     "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T12:30:00+00:00",
-    "acquirer": "HCA Healthcare",
-    "target": "the College of Health Care Professions",
-    "headline": "HCA Healthcare Completes Acquisition of the College of Health Care Professions",
+    "publishedISO": "2026-09-15T12:20:00+00:00",
+    "acquirer": "Barnes & Noble",
+    "target": "both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
+    "headline": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1740,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "HCA Healthcare Completes Acquisition of the College of Health Care Professions Business Wire",
+    "sourceName": "WKYT",
+    "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati WKYT",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1758,7 +1683,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUENrcXc5Sk16bWdieWZPYkJWSHNfSGU4UDJjbUFWY2dRWnZLblJvRzFuajlZRVl1d1BicGtsZS1XRjJaX0R6d3lYazg5RkJpZEFoWXFxaHZLdDJZRFY1QUJZdGRZWFVoYVRzd2xFdVhVNjlMaE5GNFdEa0RIUmVkTGo0TGhPWHl0cnNSWG5lTkp1d2NKbjBrNnFUbzR5N0RtN2lKeURkdmlTOWYyNXpaSksxR3IxMkFMOFVwd1R3UlBuRXFiSmU4SmFxV01sUVd5?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHdsRWphTzdTQWwxUVJhekFReU53R3kycWFGdzVyUk1GbnpXaXVRT01NZGVSMmRlNnRXenRxZHliYkRKMTVza3hWemdjQ3JCREZWdE1oeHBjOWgzaFdmSS1icjNZRzdicnZ0TjZRdHZ5cnhpTWxPcW5IaFB3cHJsSHNRRU1vRlhKcFp2eDBVRThrQ3oyby1WTUNEcXI0dFcxSEdhTEhkVlo1SVFCcGVmamFBN0rSAcgBQVVfeXFMUHhDM2VJanlmaVoxX0x2Z29EakVvYnpTVzB0bHV4M3FWc3RTZFB2TVJDNVpXNm5rRm8wSE5xekJ5UG5JZ0VNY2xjVXVyRGFNcGFlckc2MGNQNzRnSnZMSWNqZmZoQnNxc2Noc0lrODM5NVF4Um1jeUtDQWkzTWNSMkJlUDZ2NkN6Y3RDUUJGZzduVlFVSjEtbHlGaW9oOXU3RG15Q3dLMmxmQjhFMnlnWUJXejFUTlRsbk81SmpBSmVIWFllR1BIS3Y?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1878,7 +1803,7 @@ window.generatedDeals = [
   {
     "id": "news-025728cbf948",
     "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T15:45:52+00:00",
+    "publishedISO": "2026-09-14T15:44:03+00:00",
     "acquirer": "The Best Time To",
     "target": "a Home Is the Week of Sept. 27 – Oct. 3",
     "headline": "The Best Time To Buy a Home Is the Week of Sept. 27 – Oct. 3",
@@ -1965,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Superhuman Acquires Fathom, AI Notetaker Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Superhuman Acquires Fathom, AI Notetaker businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2101,6 +2026,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-292d7d8f9924",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T13:26:50+00:00",
+    "acquirer": "Ondas",
+    "target": "GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & ",
+    "headline": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Ondas Holdings",
+    "summary": "Ondas Acquires GATE Technologies and Bron Technologies, Expanding Precision-Strike Platform with Electronic Safe & Arm and Fuze Technology Ondas Holdings",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0Y5TXd5ZlVDV1haV3RmcXFiWXlDLWtwRDM5WUpFOEdCWWVfLTRXZVRIVUE5ZHhRYm44YTZ1NTFLN0poZ1BLR3JOdGZwWVR5aE1hcFV3a2N1Z0JZWTdrQlFtbkNpS3hNbG1rSFpJTUs2VHowS0NvTFRTdXc4T195SmxqeXZXLWFVWUZHRmpRWFVRanZQWG5zcFJzT0NwcUpnR0RR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-863922b6555c",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T13:04:08+00:00",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Perdoceo Education Corporation Signs Definitive Agreement to Acquire South University Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Perdoceo Education Corporation Signs Definitive Agreement to Acquire South University businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
