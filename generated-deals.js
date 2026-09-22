@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-35e494a61e90",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T22:48:26+00:00",
+    "acquirer": "Trump looks to",
+    "target": "potash from Belarus; counterpart says no deal possible",
+    "headline": "Trump looks to buy potash from Belarus; counterpart says no deal possible",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Capital Press",
+    "summary": "Trump looks to buy potash from Belarus; counterpart says no deal possible Capital Press",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVjgwa05oeE1fRmMxWjBIT21MQzVYNmk0bHhxTHptbTN0WC1tX21CN2hSNHpPeGZKNlFsakhwYjFWRjVPV25rdnRXaUw2dEt1UERGbFdWRV90ZFZmdENNcUNuRlB2cmNCbi1CeXpZclY3cHpmRDZYb1ZPMVJOdTQ4Y0dTT0pJYzBoQy03WjY5dEp1c1puX0lZVlRZOUJaU2xPUTRKQzBkMXZmalhuOGc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-bed1982cb50e",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T21:54:51+00:00",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "idahobusinessreview.com",
-    "summary": "Barnes & Noble acquires lifestyle brand Levenger idahobusinessreview.com",
+    "sourceName": "Idaho Business Review",
+    "summary": "Barnes & Noble acquires lifestyle brand Levenger Idaho Business Review",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Waste Dive",
-    "summary": "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters Waste Dive",
+    "sourceName": "wastedive.com",
+    "summary": "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters wastedive.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AARP",
-    "summary": "The 10 Worst Things to Buy Online AARP",
+    "sourceName": "aarp.org",
+    "summary": "The 10 Worst Things to Buy Online aarp.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -601,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-47788aaa2bc1",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T13:03:35+00:00",
-    "acquirer": "Microchip Technology",
-    "target": "Hailo",
-    "headline": "Microchip Technology Completes Acquisition of Hailo",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Microchip Technology",
-    "summary": "Microchip Technology Completes Acquisition of Hailo Microchip Technology",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV183NnJTTFZncXliZkN1VTRQdnlxYko1R0dZTmRYR1V6SlBQbzZvemYtZ0QzYnhLSGhheUJJQWpHM3JqWVJnUkZia3NfblgxVThtaFo0WHM3elM3VGV2Vmc0SFZQSXA4WDV4R2c0TUItMDd0YVMtVkRVckp5YkxLdjIzd001ellQMG5hSXBfUVh4ekNiWmxIMUdydlNmNHJjcERHUHV4OF8zUEMwcnVxVDdlOG5QQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-172230dd049a",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T11:12:04+00:00",
@@ -709,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pWUEzOTYxOXp5TE9udEVUaHl0N2lJSWtwSUhxS2JEcDN6cmlGdkFNcm1ZYWwyV3FfeWNCZE80ZW41UzlTald6SGdiM3c2RThvcklicjJKdzd4N1hkeHV5WnhYbGRFbkE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5e4b03e067d4",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T09:13:26+00:00",
-    "acquirer": "Telix to",
-    "target": "ITM in deal worth up to $2.35bn",
-    "headline": "Telix to acquire ITM in deal worth up to $2.35bn",
-    "valueBillions": 2.35,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "pharmaceutical-technology.com",
-    "summary": "Telix to acquire ITM in deal worth up to $2.35bn pharmaceutical-technology.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Kc3dEaXdUOEhvNzdVRGpxNFNoTzl4RjRvaHhXSkRSM3BfUVdnOGpmeHJZaTROQjJpLWRfRGZqa3lWWDFfWEhsaUE1TmxXN2FoWjJ2X3RaVjNFOHJRdGdyRGZ2R2psb0NsZjBGUTdvWWJ5b3IwSzJB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1065,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Robot Report",
-    "summary": "SoftBank agrees to acquire Robotics and AI Institute The Robot Report",
+    "sourceName": "therobotreport.com",
+    "summary": "SoftBank agrees to acquire Robotics and AI Institute therobotreport.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1876,6 +1801,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-c940fdd2a74b",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T20:30:00+00:00",
+    "acquirer": "Australian battery tech firm",
+    "target": "New Orleans company and bets on drones to boost demand",
+    "headline": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NOLA.com",
+    "summary": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand NOLA.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQME5ZeFR4RUdQTUJ5c3IyYkpObXU5a0VWRzZuNVZ4ZEIzd2UtRTEtMWdMSXZROERRa3htb3dpYVo3RExjNWkwRll0ZXVFQjAtTGYwZFJfbkkzZEtzNzAyRTRwdS1kUVUzaTl4YTMxZVV1WFpRMEZSbDVXaVRqNTl3RE40Wldfd0EzMHg0d3lVeUY4Tk93c295dWlyQ0pXUUpkM0ZjQkdNVXgxMmZiVWhLWlRHM1I3WHR4RlROZ1ZqdVpwMlVWejI0cXpJMUtuMWk0cFNXWklBWlJjM3ZPQ18xbmYzUVplNUw0MTlMekdLZ2Fyc2RnOEM0c3VUcF9lV1JVY3l3LVRwdDNZd05CX2FCRzRvODhhTDE5U2NfTkk4eFZqWjBkM3cxYkd30gGvAkFVX3lxTFB1enlOUVBLNVBZbDIwOW1iQ2lJUVE3WU1ub2FJYnJMZEJlNFJ5X2dkQzdzd2ptekxxTk1OMUs0d1hmVFpHZzUxbDNNOWYwVXNpamFMV2lVVG1NeUt1ZlNaaUNjdndvMHo3V1ZnRG5FbGJsME81MlVKTjhfSjhRM2p2WXZ3Y2V4RHFYcEJGVjlZbUt2T21JYVdDX2JQRkxlZVZFdUhFYk9NaUg1NjYxZjh4eGJuLXVYb0tpUndFdkZuaktFRDctWEtRZGMwRDNlS3NJaUoyeHlPSzdiNUJTaDFnd1A5TEgtMS13bzlQQmQwVERyc05fSkc5ZlBnWTllQ3pvYVJBNlBBY3hVa2piVnk0VFdPOHB0MWg3eVNNZnJXRXdGVkNZUmZVMHRHQldsSQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-8d0b32188978",
     "date": "September 15, 2026",
     "publishedISO": "2026-09-15T20:15:00+00:00",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wvxu.org",
-    "summary": "Barnes & Noble to buy Joseph-Beth Booksellers wvxu.org",
+    "sourceName": "WVXU",
+    "summary": "Barnes & Noble to buy Joseph-Beth Booksellers WVXU",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ohiodnr.gov",
-    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees ohiodnr.gov",
+    "sourceName": "Ohio Department of Natural Resources (.gov)",
+    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees Ohio Department of Natural Resources (.gov)",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WKYT",
-    "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati WKYT",
+    "sourceName": "wkyt.com",
+    "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati wkyt.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
