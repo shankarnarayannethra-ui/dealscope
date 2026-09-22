@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-c9ec38fc5fc6",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T11:00:00+00:00",
+    "acquirer": "Cognex to",
+    "target": "RealSense, Expanding Machine Vision Leadership into High-Growth Robotic Perception Market",
+    "headline": "Cognex to Acquire RealSense, Expanding Machine Vision Leadership into High-Growth Robotic Perception Market",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Cognex to Acquire RealSense, Expanding Machine Vision Leadership into High-Growth Robotic Perception Market PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcENBTVpXZ0V4V0FocFhoZGJFWkNQMXVTRE5DZDEtNTVGejBQZ1Q4S3BQcDhQYVJWSTA2SHh2RHRtQU5FcFh6Sllwc3d5LXZmMWVZQW5oTmJqQ3p0eklUWlZwbF85bGtCdG1DVVVxMzRwWGc3dzlDSjNKbllhc1RqSGMydDlOamJvRkJQd1NPaU0tSmxFY3VXWDc1RXdTZU5JTldPNk41ckxSZXU0eGl2ejNwRWxueUdrT3V3OHFpb2tJVU9VNUluUW4wNjV4b2MxaUxQa1Bkd3pnTXhpMXd5UGphRDBlRHRoM1BtNkZiRVdNQktF?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-35e494a61e90",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T22:48:26+00:00",
@@ -76,6 +151,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-6d2f6a5c5b80",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T22:33:23+00:00",
+    "acquirer": "The best time to",
+    "target": "a house is coming up fast",
+    "headline": "The best time to buy a house is coming up fast",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "The best time to buy a house is coming up fast Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlZCS0ZkLWNtb25vMExwb3NWUWprYWV3a0ZxTl9nWnlwYnd6WkVxMEtEQjhKc1p5ZnZVRHk5UXhkTDV2T1VwMWd0OU5BdmpOXzJibDB0bFRtOVRLblVva0F0T3UxLUNjdWlKUUFSVVZSMTdjQWNDaFFBaUdOSTBVNzBvQUJKYTg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-bed1982cb50e",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T21:54:51+00:00",
@@ -90,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Paramount Cleared to Buy Warner Bros. The New York Times",
+    "sourceName": "nytimes.com",
+    "summary": "Paramount Cleared to Buy Warner Bros. nytimes.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -165,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Idaho Business Review",
-    "summary": "Barnes & Noble acquires lifestyle brand Levenger Idaho Business Review",
+    "sourceName": "idahobusinessreview.com",
+    "summary": "Barnes & Noble acquires lifestyle brand Levenger idahobusinessreview.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -540,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "aarp.org",
-    "summary": "The 10 Worst Things to Buy Online aarp.org",
+    "sourceName": "AARP",
+    "summary": "The 10 Worst Things to Buy Online AARP",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -676,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-172230dd049a",
+    "id": "news-fcbbc29ba72a",
     "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T11:12:04+00:00",
-    "acquirer": "Air Jordan 6 ‘Pinnacle Metallic Gold': Where to",
-    "target": "the Luxury Gold AJ6",
-    "headline": "Air Jordan 6 ‘Pinnacle Metallic Gold': Where to Buy the Luxury Gold AJ6",
+    "publishedISO": "2026-09-21T12:30:00+00:00",
+    "acquirer": "Ascend Learning",
+    "target": "M7 Health, Connecting the Full Healthcare Career to Scheduling",
+    "headline": "Ascend Learning Acquires M7 Health, Connecting the Full Healthcare Career to Scheduling",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Centre Daily Times",
-    "summary": "Air Jordan 6 ‘Pinnacle Metallic Gold': Where to Buy the Luxury Gold AJ6 Centre Daily Times",
+    "sourceName": "GlobeNewswire",
+    "summary": "Ascend Learning Acquires M7 Health, Connecting the Full Healthcare Career to Scheduling GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pWUEzOTYxOXp5TE9udEVUaHl0N2lJSWtwSUhxS2JEcDN6cmlGdkFNcm1ZYWwyV3FfeWNCZE80ZW41UzlTald6SGdiM3c2RThvcklicjJKdzd4N1hkeHV5WnhYbGRFbkE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd1Y5TUNEZGp0emxsa2pXY3FFTXdHeFY2bTdCSkZEd1lOblZsdUtkbGUtZEJhek9JRzBoaThLcUNfZldBeFQ5LUp4cHA4TDYtRzR6amI2cHBHbm83M1V6dHFDRGJnRG93eENVajlKeDktMHZvLUZUZEZkc3dKZ3NfS25adkNZZmhUSWxLdGdLaTROWkJiYWNNWFA2ZlplVHZzSzZQM0NqUE55M2tPM2NrNjZ3V1FYVDJZdjIwc3JGUWF0UWtIYkdFT0k5ZjB2TkNDbDZrSWlPUDBQTTd0MW84NWNHRFpXUnp3NlQtYllIRQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1065,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "therobotreport.com",
-    "summary": "SoftBank agrees to acquire Robotics and AI Institute therobotreport.com",
+    "sourceName": "The Robot Report",
+    "summary": "SoftBank agrees to acquire Robotics and AI Institute The Robot Report",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1084,6 +1234,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWZsb0FQZ2R0QzdGd19rUTdLbjJwenBrYzBtMGtlSTZ2cEpLVUcxZ0xFcGZZbjUyeVRtWE9BelhxaF9UYU53OUVYT2UtTXJVYmZmSmU4NmVma3ptTWNJSlVhVkItamZhWGVQdDUzeXdFcUhYRDBWSTJETUJZOXVFVTRPeGV0RzBBNTNXSw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-3a4320642e74",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T17:49:57+00:00",
+    "acquirer": "Equal Parts",
+    "target": "Texas’ ProSource",
+    "headline": "Equal Parts Acquires Texas’ ProSource",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Insurance Journal",
+    "summary": "Equal Parts Acquires Texas’ ProSource Insurance Journal",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tUG1QQ0hKcEl4eGlNTDVBajFSdG5lVzZkcjhOVjlSWlpla3Bmdk1CQ1hXUlBLQ2gyeFBuUm9QQnpHYTFCSnFUYkg1QW5ET2ZqMG9ZQmsyckxhbC10V1dqTW4zNlJ6OHlPd0gwY1dZSm1mYUFuV0NQXzdkLU0?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1801,6 +2026,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-2ce67a674065",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T21:25:01+00:00",
+    "acquirer": "ODNR Launches New Website to",
+    "target": "Ohio-Grown Trees",
+    "headline": "ODNR Launches New Website to Buy Ohio-Grown Trees",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Ohio Department of Natural Resources (.gov)",
+    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees Ohio Department of Natural Resources (.gov)",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeHNFQ2k5LXBHNzVhWklfRUljY2lKYnQ0VHpSRU9QTW1BS1JGcS1jNVhTalRxLXNCY2tPNlVKX1Vnb1RYbkg5UmlidXBZMlJtWmNPRXhpYzRlQU85UXBVVTZVQ3FqcC1LZDFPZ205MjJFRFBkbjNEeEFiYzMzNzRaVkk2dTJXRWNiZ2lLMGFPTlpELUloUlFNakFuOHM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c940fdd2a74b",
     "date": "September 15, 2026",
     "publishedISO": "2026-09-15T20:30:00+00:00",
@@ -1815,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NOLA.com",
-    "summary": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand NOLA.com",
+    "sourceName": "nola.com",
+    "summary": "Australian battery tech firm acquires New Orleans company and bets on drones to boost demand nola.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "globenewswire.com",
-    "summary": "SPX Technologies Announces Acquisition of FIS Water globenewswire.com",
+    "sourceName": "GlobeNewswire",
+    "summary": "SPX Technologies Announces Acquisition of FIS Water GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1909,306 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcW9ZQ3dNbWJUdFQxcDE1cW9INHcwRkhPS0lwWWM5YXRXVy1KaFpJZjJRMy12V2R1c3BEOHlJWHhCT05hNmRzZm9ENTlRNGFZaTc2XzA2ZXlwRzVpREJrZkdhN0RHa3ZDN0pYdGpXNUZ1OC0xZ3lpOWh3TXVwVnBEaE9MOUNYcHJYVlZuOGwxc096RE5od1pSMzlkb0FpcFoweVQ2RjVGS0plTDd6eHdiaHdkVnp5Q3JFeVBCVjJKdkE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ffb373491b60",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T15:18:14+00:00",
-    "acquirer": "B&N",
-    "target": "Joseph-Beth Booksellers",
-    "headline": "B&N Agrees to Buy Joseph-Beth Booksellers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Publishers Weekly",
-    "summary": "B&N Agrees to Buy Joseph-Beth Booksellers Publishers Weekly",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNblRWTERNUV9HeExHZmp1YUt1QkxEaVVYN2hHTk9jTEk4cUFfNFRHUmJHeHB6eE41My1zOFFFZkMzakN4SFdlMTY1MTl2WHh5anhFeUk3Um9aVktoVFZiTU1jX2wzNDd4SlZhMWVrdi0zNHRsMUlJRll2bkNfYUpXd1o3a3NqQW5MVE1Dc2RoOWxHeGhDWm0xOGRTTFFvNG9ZZVpIMmdveUo4QkNNYkRSeVdBR1k3U3p6cXF1ck5LcGJJSXNxblQ1d0MwUVA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-74fd887f03bc",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T13:42:00+00:00",
-    "acquirer": "Barnes & Noble to",
-    "target": "Joseph-Beth Booksellers",
-    "headline": "Barnes & Noble to buy Joseph-Beth Booksellers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WVXU",
-    "summary": "Barnes & Noble to buy Joseph-Beth Booksellers WVXU",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXlZMTVKQlAwTDlfZllkalp3b2gyblNrOThNSTVEcG81WGg5VzZIaTEzd3d5VzRkZ0NIdnNHZjk0V1VGU21XSF80VWxQN3FINmVhUnNVVVE0dTE2eUF1X2xhdWw3cklmNU9QMl9fNnVBQzF1US1EOXV4UUt2LS1LZVFCeW8zWEcySHd5bndIYw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9ce167287d64",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T13:35:40+00:00",
-    "acquirer": "ODNR Launches New Website to",
-    "target": "Ohio-Grown Trees",
-    "headline": "ODNR Launches New Website to Buy Ohio-Grown Trees",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Ohio Department of Natural Resources (.gov)",
-    "summary": "ODNR Launches New Website to Buy Ohio-Grown Trees Ohio Department of Natural Resources (.gov)",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkRpNDdRWksxN0dOOWlyRnJMZ2ZXc2wwMGtZQ1R2WjA3UVVKbHF3aE1Eb2lER0FrRW50X2FxZk9qNWJwbFhfeGNXc1I5QnZjR0EtNWNkd3FPZUsxbmpEUDV4NHo0TGxTbTVDaVJ5NE40TE4tQVVvSXBidkYtdXlNRUl1d0xwQ2prWDZqUFJZdjMwcWRjNU9IOUx3MUh2dS1Hbk8teU1YUDNrQnBuVzNEUGIwdzBDV0E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-74ed4ccbbdba",
-    "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T12:20:00+00:00",
-    "acquirer": "Barnes & Noble",
-    "target": "both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
-    "headline": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "wkyt.com",
-    "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati wkyt.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHdsRWphTzdTQWwxUVJhekFReU53R3kycWFGdzVyUk1GbnpXaXVRT01NZGVSMmRlNnRXenRxZHliYkRKMTVza3hWemdjQ3JCREZWdE1oeHBjOWgzaFdmSS1icjNZRzdicnZ0TjZRdHZ5cnhpTWxPcW5IaFB3cHJsSHNRRU1vRlhKcFp2eDBVRThrQ3oyby1WTUNEcXI0dFcxSEdhTEhkVlo1SVFCcGVmamFBN0rSAcgBQVVfeXFMUHhDM2VJanlmaVoxX0x2Z29EakVvYnpTVzB0bHV4M3FWc3RTZFB2TVJDNVpXNm5rRm8wSE5xekJ5UG5JZ0VNY2xjVXVyRGFNcGFlckc2MGNQNzRnSnZMSWNqZmZoQnNxc2Noc0lrODM5NVF4Um1jeUtDQWkzTWNSMkJlUDZ2NkN6Y3RDUUJGZzduVlFVSjEtbHlGaW9oOXU3RG15Q3dLMmxmQjhFMnlnWUJXejFUTlRsbk81SmpBSmVIWFllR1BIS3Y?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
