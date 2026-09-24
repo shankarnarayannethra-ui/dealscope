@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-9d8a6b4cbb5f",
+    "id": "news-1908013782fc",
     "date": "September 24, 2026",
-    "publishedISO": "2026-09-24T12:00:00+00:00",
-    "acquirer": "Specialty Program Group",
-    "target": "HCM Unlocked, Expanding Technology-Enabled Employee Benefits and Workforce Services Capabilities",
-    "headline": "Specialty Program Group Acquires HCM Unlocked, Expanding Technology-Enabled Employee Benefits and Workforce Services Capabilities for Human Capital Management",
+    "publishedISO": "2026-09-24T18:07:26+00:00",
+    "acquirer": "Chicago Fire FC",
+    "target": "2026 International Roster Slot from D.C. United",
+    "headline": "Chicago Fire FC Acquires 2026 International Roster Slot from D.C. United",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Specialty Program Group Acquires HCM Unlocked, Expanding Technology-Enabled Employee Benefits and Workforce Services Capabilities for Human Capital Management PR Newswire",
+    "sourceName": "Chicago Fire FC",
+    "summary": "Chicago Fire FC Acquires 2026 International Roster Slot from D.C. United Chicago Fire FC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,157 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOeVdDWkVfVW8ySS1mYmhRX2JPREhMWTQyNE94Zm9FcHZoV0RnT1B6NmNhYUl5OTJYOVlHdkZSNEJlMFg3UXZrM1poMXo5eDA5SjBZNFpRaUY3UzQ2RkpuckdoczZDSDE5TmdMWE1Xa0JKVU1hcGpFd1NVS1pZckhIMXU2bzhGZU1KaG9oWmlLSDBBd1hCNEhUVndKVnBtTUd2azNDeGxIWjJsZHhKRlltTHdJWFY3eVNNaWkwLUVSRWRTaHI5ZV82SGtWdng3WnplYnZsMy13TmhkQXozQkd5U1RITFdzU0xzQUw5R2FRM3JzRHZQVFkxYzRZeUdfM2h4bUEyV1JaeTJnVDEzV0J3dUJBZjVnT1JIc29rSGxWSFVyZjBDRUtDTm9JRGVaMHJzblVFSE9PUEs?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3hEdC04cll4RU1uTGx1NVRDazFCLVFZS0dhNFBmcHN6WE5tTlJ2N0o1aWxhbzZaZ3VHMFdQNXo3X2NpVUNROTBKazVJZmZFQUtkZEU3X0NBWDFWUE5zZEpITHNLcEkwVGxQdmtiZWZZdTl2X2JGdThkdUNCOVYzaTliVk1Od3FUU1BvSVdNQTJSV0xvQU1nbzdPV29lbVpzRVUwUzVra3BOUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-32a9f1141ae2",
+    "date": "September 24, 2026",
+    "publishedISO": "2026-09-24T14:18:00+00:00",
+    "acquirer": "People Inc. withdraws proposal to",
+    "target": "out MGM Resorts",
+    "headline": "People Inc. withdraws proposal to buy out MGM Resorts",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FOX5 Vegas",
+    "summary": "People Inc. withdraws proposal to buy out MGM Resorts FOX5 Vegas",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOREdwamVFMXhpeEJPeHVjU2pwZDBFTWRZSG1zRC1Sb1V5cWdqd1pDRnUycVVKVUlIc21zVWJtUVA5MWdacHVhV21YREl5TlhMSXZfdEIwVEMxWGxOUkQ2c0xXOGtTV1ExMDhPeDN4eXFTNHp6M01CaFdHMWhUbW1RTWlZV21sSnhQTFkyOTZzZUvSAaQBQVVfeXFMTks1LS11TXM4VnZRSnJfSmdNU29ycldEUnhiTUJ1bmhuUVNrY25CMVVjU0stS3pHa25reW92QTl5b1N3eTZZNHJ2TEE3YkJXNWpPRDZpTkRYTUpFRzQ3azBwU3pDMV9VRUhqRWJNd01BR3Z6Wk5abEpMR19ia0tmbnJmMV9PNUhvUnhkS1c0M1QwUnk2T2hnR0FHMlUxVnJvSDBkM2g?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f21b5285aa54",
+    "date": "September 24, 2026",
+    "publishedISO": "2026-09-24T13:39:10+00:00",
+    "acquirer": "Equus Capital",
+    "target": "Chicagoland Multifamily Asset",
+    "headline": "Equus Capital Acquires Chicagoland Multifamily Asset",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Multi-Housing News",
+    "summary": "Equus Capital Acquires Chicagoland Multifamily Asset Multi-Housing News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDM0V01vX0hOay1ZVlh4LVZCUmNJc3FVajRhMi1Ick9yTmg0b1lKWGtMcnhlLXNsald0VTgxdDFJZHJnMml6R3N0TDFYOUx3VFE2Z2loY1ZuZUNRYjBpeXhLenlyNVBWSmFURjNvUjRBQmpQSGxjb3Q3NlI5Yzc1S2xLeHlBVVJvZWtlVVJfNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -189,81 +339,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2c27d8506ae7",
-    "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T23:52:00+00:00",
-    "acquirer": "Barry Diller Drops Bid To",
-    "target": "Full Control Of MGM Resorts",
-    "headline": "Barry Diller Drops Bid To Acquire Full Control Of MGM Resorts",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Deadline",
-    "summary": "Barry Diller Drops Bid To Acquire Full Control Of MGM Resorts Deadline",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNencwUUI0Wkd2Y1FRb1VCamh2ZmxORzVUQzFwQVUwZjlhUmxteTBmc0ZQejVFSVg0eFZuR2tWekduYVJzeGhKVVBnbnZCUXhUd1hYOXVRTUlTcnpYb1FmRlJwYjR3OVJKY1o4QkZTRFQxY2hrbjFUMHgxUkxEek5CVHZaOTkyRE0zVENLYWxUNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 23, 2026"
       },
       {
         "stage": "Terms verified",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WECT",
-    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT",
+    "sourceName": "wect.com",
+    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul wect.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -601,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-16570efd379c",
+    "id": "news-6d5aec812a3a",
     "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T18:37:05+00:00",
-    "acquirer": "Nebraska US Sen. Pete Ricketts asks Trump to push China to",
-    "target": "more ag goods",
-    "headline": "Nebraska US Sen. Pete Ricketts asks Trump to push China to buy more ag goods",
+    "publishedISO": "2026-09-23T19:37:00+00:00",
+    "acquirer": "Lipman",
+    "target": "Farm Fresh, Expands West Coast Fresh-Cut Footprint",
+    "headline": "Lipman Acquires Farm Fresh, Expands West Coast Fresh-Cut Footprint",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Nebraska Examiner",
-    "summary": "Nebraska US Sen. Pete Ricketts asks Trump to push China to buy more ag goods Nebraska Examiner",
+    "sourceName": "The Packer",
+    "summary": "Lipman Acquires Farm Fresh, Expands West Coast Fresh-Cut Footprint The Packer",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzU252YnA2d2FtN3p2ellRUXlQWE9nZDR5MU1VbkoyVlU3Q0JDMWZfYlFCM29VUTRDckFLRzlacHN6UUJlNl95Skw3ZjFPZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUZ0bDNvX3VYNlhMR29WaGtUbGQ5X1VXZld0MmtoQjBRaFFQanZPNTJ1MGpKU2dySmg2R3o2Tm45WWJCLU5USlJUclZDaXdvNHNqT2pndHM5RU1QYnd4ZWcyc3NCZUJNQ2EyUjQtQmtOMGRPX0lsTy0xQzA1eTZ5QlJBSWJQdWFzQXNtQV9FalllRTRSc3Z3bGZSejk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -976,12 +1051,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1f38cadc3d2f",
+    "id": "news-0b210c93bd1b",
     "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T12:03:46+00:00",
+    "publishedISO": "2026-09-23T11:38:13+00:00",
     "acquirer": "Qualcomm to",
-    "target": "PickNik to Advance the Future of Open Robotics and Physical AI",
-    "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
+    "target": "PickNik Robotics and keep MoveIt open-source",
+    "headline": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Qualcomm",
-    "summary": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI Qualcomm",
+    "sourceName": "The Robot Report",
+    "summary": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source The Robot Report",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1008,7 +1083,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3RrQmxZV1B0S3MxUVl1V0V2eFBzbklkWlVoUUF3NFoyZndqSVlEbUZSYnVJNTNpNktHalBTNVFSTFhXUHVxZkdLUjhqN1B1WVNBUU1EQVA5enFtdVFyTHNLQlhnOVlRMDVsMFNGaXZ1dHdpVHZ1OWtZdVFqYWZyZE9tTGpSckRFRkpZUlpZUXVUclNx?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1051,12 +1126,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0b210c93bd1b",
+    "id": "news-1f38cadc3d2f",
     "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T11:38:13+00:00",
+    "publishedISO": "2026-09-23T07:00:00+00:00",
     "acquirer": "Qualcomm to",
-    "target": "PickNik Robotics and keep MoveIt open-source",
-    "headline": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
+    "target": "PickNik to Advance the Future of Open Robotics and Physical AI",
+    "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1065,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Robot Report",
-    "summary": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source The Robot Report",
+    "sourceName": "Qualcomm",
+    "summary": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI Qualcomm",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1083,7 +1158,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3RrQmxZV1B0S3MxUVl1V0V2eFBzbklkWlVoUUF3NFoyZndqSVlEbUZSYnVJNTNpNktHalBTNVFSTFhXUHVxZkdLUjhqN1B1WVNBUU1EQVA5enFtdVFyTHNLQlhnOVlRMDVsMFNGaXZ1dHdpVHZ1OWtZdVFqYWZyZE9tTGpSckRFRkpZUlpZUXVUclNx?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1164,81 +1239,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9e8e890b8fb6",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T13:38:00+00:00",
-    "acquirer": "Egypt's NBE steps in to",
-    "target": "Banque Misr's UAE operations after sanctions threat",
-    "headline": "Egypt's NBE steps in to buy Banque Misr's UAE operations after sanctions threat",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Egypt's NBE steps in to buy Banque Misr's UAE operations after sanctions threat Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1V6cVZXYmhuN2pBWXZKc2s3VUdNNlg3N0dKeVpNQmhtamE3NXQ1NFhqRUdObVBGZms1dDdQaWswNUNnaktFczEtb19zc09fcFRYWmx2OERxakN6VUhtdGFfTnprWG94ZExiVmstMlV2akFCaHNkMml0SW5mSEY3UDl4SmZyT3o0R3gzT00xbnRQWXpPN0ZJSUd4YVRCelZabjBBNzZvNlN6elkyQWJlcGxnQ1UzTzNSX0ZpVzVpQkJramgyaEE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1590,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wfmz.com",
-    "summary": "Victaulic announces acquisition of 'key' supplier wfmz.com",
+    "sourceName": "WFMZ.com",
+    "summary": "Victaulic announces acquisition of 'key' supplier WFMZ.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AdExchanger",
-    "summary": "Infillion Acquires Foursquare, Adding More Location Data To Its Ever-Growing Ad Tech Stack AdExchanger",
+    "sourceName": "adexchanger.com",
+    "summary": "Infillion Acquires Foursquare, Adding More Location Data To Its Ever-Growing Ad Tech Stack adexchanger.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
