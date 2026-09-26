@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Eaton to acquire Italy's grid equipment maker COL Group for €810 million to expand in Europe reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Eaton to acquire Italy's grid equipment maker COL Group for €810 million to expand in Europe Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c303b624f413",
+    "id": "news-089810468fb0",
     "date": "September 25, 2026",
-    "publishedISO": "2026-09-25T00:43:20+00:00",
-    "acquirer": "Revolut Wins Central Bank Approval to",
-    "target": "Argentine Bank",
-    "headline": "Revolut Wins Central Bank Approval to Acquire Argentine Bank",
+    "publishedISO": "2026-09-25T09:14:09+00:00",
+    "acquirer": "Inpex exercises pre-emptive rights to",
+    "target": "JERA's stake in Ichthys LNG project",
+    "headline": "Inpex exercises pre-emptive rights to buy JERA's stake in Ichthys LNG project",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PYMNTS.com",
-    "summary": "Revolut Wins Central Bank Approval to Acquire Argentine Bank PYMNTS.com",
+    "sourceName": "Reuters",
+    "summary": "Inpex exercises pre-emptive rights to buy JERA's stake in Ichthys LNG project Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSW5yQUhHbGJZYkNVUnk4ZE1iY1dsSEJRS0h0TXZqUExGYXRObldvNEZSUF8tbmFJU2tpZjhwREEzZG9VTXU3R1FPMTFnTnFJWTV2Qy01eTNFSEM1dFlqUlBEZ0VFLUczZTdncGl5cmhIUWl5QU9VanFHamxmYVhPT0UxOExLVjJZUmVfVy1NdVlZeWZhNDhQd25JOFdyb2V3TFZoZQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1ZkaGlld25wZDJpcm1PZzhfZi1fXzN6XzY2X3ZCRnBJTzB1eGdqLUZhZUpfakR3dkhTVEdvaGRUZy10V19jQ3F4T2xJRnV1YWRqM2hOenFqWFhGYkpNS1h6YXVBX3QtSzQtd0x1eC1GRHA3OUpHX3I0Y1M5QkhOVkJIdG5mVWdORzUxaUhpV0c1Skt4YTFFSlNPVlMxcWlUN0VIeDBodzFadGdVZFNBZlJhX2NtVWJSanpLb3l3Yw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-206c3fdff85b",
-    "date": "September 24, 2026",
-    "publishedISO": "2026-09-24T21:42:40+00:00",
-    "acquirer": "D.C. United",
-    "target": "$75,000 in 2026 GAM from Chicago Fire FC in Exchange",
-    "headline": "D.C. United Acquires $75,000 in 2026 GAM from Chicago Fire FC in Exchange for a 2026 International Roster Slot",
+    "id": "news-c303b624f413",
+    "date": "September 25, 2026",
+    "publishedISO": "2026-09-25T00:43:20+00:00",
+    "acquirer": "Revolut Wins Central Bank Approval to",
+    "target": "Argentine Bank",
+    "headline": "Revolut Wins Central Bank Approval to Acquire Argentine Bank",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "D.C. United",
-    "summary": "D.C. United Acquires $75,000 in 2026 GAM from Chicago Fire FC in Exchange for a 2026 International Roster Slot D.C. United",
+    "sourceName": "PYMNTS.com",
+    "summary": "Revolut Wins Central Bank Approval to Acquire Argentine Bank PYMNTS.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,12 +408,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakJuZU5sOGttdTFBTWEzVFNuRmRqYWZXQ2ZPM2ZlZGZ0aUlqWV9lcE56TUpvM2tvcVp3aHdRYzNXS3lOUlplY3NmOVVkXy1VMDgxbHpFRW43TWF6UGZjZlhqT0IwS25CRWF3S0pjVlhGUXdBT2h2WTJfTjFMSUlRQ1lCQU5Fc0tETWkxUE0waXhJVG9taGYwRXhyVFVENUw2bGNMVzU3SWpSQVFVQkFMb3FXekFnN3Z0UGE3b2RMLVV3SlpYSFpKZlJEOFlDY3hyRnhaQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSW5yQUhHbGJZYkNVUnk4ZE1iY1dsSEJRS0h0TXZqUExGYXRObldvNEZSUF8tbmFJU2tpZjhwREEzZG9VTXU3R1FPMTFnTnFJWTV2Qy01eTNFSEM1dFlqUlBEZ0VFLUczZTdncGl5cmhIUWl5QU9VanFHamxmYVhPT0UxOExLVjJZUmVfVy1NdVlZeWZhNDhQd25JOFdyb2V3TFZoZQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 24, 2026"
+        "date": "Sep 25, 2026"
       },
       {
         "stage": "Terms verified",
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Hospice News",
-    "summary": "Circle of Life to Acquire Washington Regional Hospice Hospice News",
+    "sourceName": "hospicenews.com",
+    "summary": "Circle of Life to Acquire Washington Regional Hospice hospicenews.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -751,6 +751,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-327b19df500e",
+    "date": "September 24, 2026",
+    "publishedISO": "2026-09-24T13:41:19+00:00",
+    "acquirer": "Databricks",
+    "target": "Row Zero, Bringing Live, Governed Spreadsheets to Genie",
+    "headline": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "databricks.com",
+    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie databricks.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlBFYndHR2RMcWhjYjYyaTUtMWsyM1B5RS1PbmdmbzRhMlk1bzR5bHZHaFptMFEybzY4UC0xVHMydVNPWmRNbWphZTloXzRDTDhFWmJsT0M5UEhYUU85Y2ZkbUc1dnZQbjdrMWZ2b3NzbUJQeXctWXZfbEtnbEdSYldYM3dYZjJEZHd0RHpxVlNSNWtSMWczTmM1cDVBX1g4eFJHMVlyNWszckt6ZHMtb2tVc18xQjJRZ24xR3poYUg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-566fb136d2c2",
     "date": "September 24, 2026",
     "publishedISO": "2026-09-24T13:00:00+00:00",
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "General Mills",
-    "summary": "What to Buy for Halloween: Our Top Cereals, Snacks and Treats General Mills",
+    "sourceName": "generalmills.com",
+    "summary": "What to Buy for Halloween: Our Top Cereals, Snacks and Treats generalmills.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WECT",
-    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT",
+    "sourceName": "WECT | TV6",
+    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT | TV6",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "qualcomm.com",
-    "summary": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI qualcomm.com",
+    "sourceName": "Qualcomm",
+    "summary": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI Qualcomm",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Egypt's NBE steps in to buy Banque Misr's UAE operations after sanctions threat reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Egypt's NBE steps in to buy Banque Misr's UAE operations after sanctions threat Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1951,81 +2026,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-bed1982cb50e",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T21:54:51+00:00",
-    "acquirer": "Paramount Cleared to",
-    "target": "Warner Bros.",
-    "headline": "Paramount Cleared to Buy Warner Bros.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Paramount Cleared to Buy Warner Bros. The New York Times",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3Zzc5Y28wMDhiSkpHRnI0SUh0cW9OVmhVVm1lTkNrOVlJeWJMSEJ1X0dXUVllVHpyRmJrMXVEWGlfN3BtOXQ0ajJTcmdIRjhTVFJFdnR0ZzdZNnVwYndsaFlTSVFHRi1ZOHhfa3Blbms0NVVuZE8yN0Jn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-84e28b303702",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T16:39:44+00:00",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Australia's Telix Pharma agrees to buy Germany's ITM Isotope for about $1.65 billion reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Australia's Telix Pharma agrees to buy Germany's ITM Isotope for about $1.65 billion Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
