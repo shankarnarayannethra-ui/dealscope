@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-40482bfbcaa7",
+    "date": "September 25, 2026",
+    "publishedISO": "2026-09-25T20:55:00+00:00",
+    "acquirer": "KPTV FOX 12 Reaches Agreement to",
+    "target": "Telemundo Affiliates Serving Portland/Salem and Eugene",
+    "headline": "KPTV FOX 12 Reaches Agreement to Acquire Telemundo Affiliates Serving Portland/Salem and Eugene",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "KPTV",
+    "summary": "KPTV FOX 12 Reaches Agreement to Acquire Telemundo Affiliates Serving Portland/Salem and Eugene KPTV",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVF5ZFVIczYzbWdGMWdBNHlaajhwQ2lzRENHd191alJaUjN0TGF1UTlOajltdjVXMTBVdThPUlk5WEhQQlRBLVlJU3ExMmNrRG1pQ3BOVGlodkM4ckFDSGI4VHZQX1pJMzhpd0FYR09Id1hMc3FtaXJLUEdUNURqQWRDdy1PZDR6UVZKcVRhT2hsQXpvRzhGRUp2UTkxSnpUVmpiY05MSEZCdFN5SWlZa2dGVVI5WmJOd2xFatIB0AFBVV95cUxNUWJQMzdLSE8zV1dWOTlfc3ppUzF1QkFXV3pud1NRUDBfTzFISVN6RzRyUnItWmgzZ2J4WkZZdkRfR2l2elFBRm5LV0h1UHFIM1R4bEY3TThoaXJ2emE4UU5CN2gyZ1UtXzJCYUZaOEJrX2Y4MUlENnlfcWUxNDBTVWtSTXdEV3ZvZlJ2LUVycmxxZXNjZUtrZUQyWEZsX1NmY2NTWmRGd21YVUkwZzZ0QVJLbmJXcXN2eDFRSnk1NUJtbGFWUzh6V0d1WmJ4YmxU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 25, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-614ad55bb5fe",
     "date": "September 25, 2026",
     "publishedISO": "2026-09-25T17:12:03+00:00",
@@ -226,81 +301,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-933d320327f0",
-    "date": "September 25, 2026",
-    "publishedISO": "2026-09-25T10:45:00+00:00",
-    "acquirer": "Eaton signs agreement to",
-    "target": "COL Group, expanding manufacturing capacity and capabilities",
-    "headline": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA businesswire.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingJBVV95cUxOeHloaUhuNWFBNjE5bG1VaWtqeWctMXdyV2hvS1pVZzJCNWxXTjdfRnZiWk1LXzJxbUppbzdFZTlMVHB3eDVNc0xTaVBnU0w1X0RoU094NzJ3QnBFSElhVW9JaU5IeWw4YklsZ2Q2N3JnNXdxcE05eGZwcVQ5YllJazhBenc0VlJLY3NZUFdKV2lHMmR6LUFNQW1oQnFsUlBGWVQ3VEl5MV9ydW1wNmlFTGlVWU1zZzNIZlJQekc0V2JEODV3TldXeEpnWjFTUi1pUGhaYVpLcWRRdm91bU52WWh0aGJqb0xramxLMExSZF9ocTR3cFFVNHd6UUtRS056R1h2aEh2WUQzX0cyalNvRC1tSjQ5LWhtZTNJZ01B?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-c303b624f413",
     "date": "September 25, 2026",
     "publishedISO": "2026-09-25T00:43:20+00:00",
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PYMNTS.com",
-    "summary": "Revolut Wins Central Bank Approval to Acquire Argentine Bank PYMNTS.com",
+    "sourceName": "pymnts.com",
+    "summary": "Revolut Wins Central Bank Approval to Acquire Argentine Bank pymnts.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -540,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Chicago Fire FC",
-    "summary": "Chicago Fire FC Acquires 2026 International Roster Slot from D.C. United Chicago Fire FC",
+    "sourceName": "chicagofirefc.com",
+    "summary": "Chicago Fire FC Acquires 2026 International Roster Slot from D.C. United chicagofirefc.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -826,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c134acbec695",
+    "id": "news-73771e8a30b6",
     "date": "September 24, 2026",
-    "publishedISO": "2026-09-24T10:30:00+00:00",
-    "acquirer": "Vertiv Announces Agreement to",
-    "target": "King Environmental Services Ltd., Expanding Global Fluid Management Services",
-    "headline": "Vertiv Announces Agreement to Acquire King Environmental Services Ltd., Expanding Global Fluid Management Services",
+    "publishedISO": "2026-09-24T07:00:00+00:00",
+    "acquirer": "What to",
+    "target": "for Halloween: Our Top Cereals, Snacks and Treats",
+    "headline": "What to Buy for Halloween: Our Top Cereals, Snacks and Treats",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Vertiv Announces Agreement to Acquire King Environmental Services Ltd., Expanding Global Fluid Management Services PR Newswire",
+    "sourceName": "General Mills",
+    "summary": "What to Buy for Halloween: Our Top Cereals, Snacks and Treats General Mills",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeEQzbzE0ajg5MGl3ZlBYUGg1dlVBUzhrNGdyOHBOLWZSWHVDN0JOZWV6YW5sbUFZMXZYV0FDSVliVDdFZXBBZXhpaW53bHVSSlE2TDRqQmwtdHFlX3VMc0Jwa2ZQZ2VuZEthX19mTHQzU1AzT3JOR0x5QkEtNVlMY1BjOGRnbmpJTzlPSjVpcms5Q3FOeEExOGJ2Ul93LUI3Y2xDc0Y0STdmZnNwdko3MlZQakVJZGFNRmt2RHkyVVRmQkRNWUZ5MVA0Rjhya1Q3cUpyQzgweGlpVkpTeGlWWFE4MV9HM3AyUW1LbDJLS3R2dHBnUjJIRHFaeWk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUTZaYUVqRmc1d2ZlVHFkdHd6UmtjSlZhU0JBWWcxTjMzZGxFT1VQWkJFeFdZa1hSOXNNa3hRd0tjTW1GYVdoc0lhMmNGQVljbTFYZ2tNUWdBaVI3TzkxQTBvYS1vR1prNGFDeFdyUVJNbnZldXdETHR5UFllakEwV3Q3Q2ZKZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1009,6 +1009,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmUzNEdVSF9nMDVzRWZmQVZtQzVxOXZWNUJBTlRHLTRMeVFVZkl0eFhLTmh3aEtHdW1zTHRRaDd5THp6RzZQSk5obG4yTzlMZnhYS1lmQ3A2MDlMaHZ0V3AtejFoOFhtMk10aVdOUGxFelJKeUljTnhDV2VyaVdjQVNXVjFmeTY5aWJfazBVR2hLaGxfeWE2Y1o0M3lXUDBzZjN2N0dxVmprNENBYmc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6c48dc17bfdd",
+    "date": "September 23, 2026",
+    "publishedISO": "2026-09-23T15:07:53+00:00",
+    "acquirer": "Walser",
+    "target": "two Eden Prairie dealerships",
+    "headline": "Walser acquires two Eden Prairie dealerships",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Eden Prairie Local News",
+    "summary": "Walser acquires two Eden Prairie dealerships Eden Prairie Local News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGJSXzRna2ROSnM5a2JuZ1owakNSTW5ldUFWYkR2WDFRNjFwd3gwWFY4a3FwVHVONmE0TlU0ZDB0c3BxQXI1RFdNTS1VMFRzZlB1S0hXaUdGcXpkNjVDSmVhUk4yalpQRzNOM3lCSTN1Z0c3R0hUUEdHZmxzME05NXhvTVpPd2M?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,6 +1501,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-437ad754bd87",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T18:18:46+00:00",
+    "acquirer": "Developer",
+    "target": "global rights to Parkinson’s drug in deal worth $300M",
+    "headline": "Developer acquires global rights to Parkinson’s drug in deal worth $300M",
+    "valueBillions": 0.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Parkinson's News Today",
+    "summary": "Developer acquires global rights to Parkinson’s drug in deal worth $300M Parkinson's News Today",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMklTUXk3OGJ2U3hRVlNQOGtXR2M3YkV2TWdES3NwcE5IS2NkTFFtMm9Md0NQeG0wT3YwUjZZal9YM0lXSWg0MHNqWE1XWWpldHhMTTRxa3JHQjhiVF9qb0ptbVlncEZ2MXZUTm5Bb2FSQ09NZWdPVUhNZ0VkQWhWakM4dTZWbUVzUk93WTlkM1NzeUpRVnU5Z28yalM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b069c2d322a9",
     "date": "September 22, 2026",
     "publishedISO": "2026-09-22T18:13:00+00:00",
@@ -1590,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "TJC Completes Acquisition of Luna Innovations Incorporated businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "TJC Completes Acquisition of Luna Innovations Incorporated Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "Butterfly Acquires Sabert, a Leading Global Provider of Innovative and Sustainable Food Packaging Solutions businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "Butterfly Acquires Sabert, a Leading Global Provider of Innovative and Sustainable Food Packaging Solutions Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2027,8 +2177,8 @@ window.generatedDeals = [
   },
   {
     "id": "news-150468b4946f",
-    "date": "September 20, 2026",
-    "publishedISO": "2026-09-20T23:01:00+00:00",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T03:13:29+00:00",
     "acquirer": "Australia's Telix Pharma",
     "target": "Germany's ITM Isotope",
     "headline": "Australia's Telix Pharma agrees to buy Germany's ITM Isotope for about $1.65 billion",
@@ -2063,157 +2213,7 @@ window.generatedDeals = [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e1875faf1dd9",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T23:50:28+00:00",
-    "acquirer": "Exclusive: Infillion",
-    "target": "location data company Foursquare",
-    "headline": "Exclusive: Infillion acquires location data company Foursquare",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Exclusive: Infillion acquires location data company Foursquare Axios",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2dba25845ec9",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T22:24:56+00:00",
-    "acquirer": "Infillion",
-    "target": "Foursquare, Adding More Location Data To Its Ever-Growing Ad Tech Stack",
-    "headline": "Infillion Acquires Foursquare, Adding More Location Data To Its Ever-Growing Ad Tech Stack",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AdExchanger",
-    "summary": "Infillion Acquires Foursquare, Adding More Location Data To Its Ever-Growing Ad Tech Stack AdExchanger",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGszUnB1RW5FOG1mVE1MTGVNZWJTSk9henNaTmF0ajRPZGRYZG9JMmw1bFlOWXV5ZS1lYjJQUXk3eGRvR1FuaEN5UkgyM09MMFFveF9POHBzNDBpbzI3cXJlYTVWZTZSdjJfMVhNd2dtQV8xcFpETDB6YkdhY0FxN3g2dDcwRm5Zb3lQUGVGNkQ4ZUtTbGlXY3RlZl94THJzeFo5czhwVlVmejVFZzQzZVZjZGpGTmZNSVhVb3otUVRISllZMUQ0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
+        "date": "Sep 21, 2026"
       },
       {
         "stage": "Terms verified",
