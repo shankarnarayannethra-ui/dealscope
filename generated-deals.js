@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Hotel Dive",
-    "summary": "People Inc. drops bid to acquire MGM Resorts Hotel Dive",
+    "sourceName": "hoteldive.com",
+    "summary": "People Inc. drops bid to acquire MGM Resorts hoteldive.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "hospicenews.com",
-    "summary": "Circle of Life to Acquire Washington Regional Hospice hospicenews.com",
+    "sourceName": "Hospice News",
+    "summary": "Circle of Life to Acquire Washington Regional Hospice Hospice News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "databricks.com",
-    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie databricks.com",
+    "sourceName": "Databricks",
+    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie Databricks",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -826,81 +826,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-566fb136d2c2",
-    "date": "September 24, 2026",
-    "publishedISO": "2026-09-24T13:00:00+00:00",
-    "acquirer": "Arcline-Backed DwyerOmega",
-    "target": "SOR Controls Group",
-    "headline": "Arcline-Backed DwyerOmega Acquires SOR Controls Group",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Arcline-Backed DwyerOmega Acquires SOR Controls Group PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZVk0MnBMaVZlY3lKS3hzc1lreUFjNlVHQ1QtNXQtNGdEWXRTZmdpNHpIYlpkd3NKVXY3UkFXZ3EyUjJWOFg4MmlRWldxWm9RVEpVUzlNbVpDMU1jME84a0RwN3M2Q1V0b2MwSzNtLXlHM0s4U2lMYk1FVEs2eXEzaWJEZTRrQ1N4aERrVVptSkpEMFU3aEgzTE4yekxsTWZPUnZWU0xHMkVCMXhpaEE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-73771e8a30b6",
     "date": "September 24, 2026",
     "publishedISO": "2026-09-24T07:00:00+00:00",
@@ -915,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "generalmills.com",
-    "summary": "What to Buy for Halloween: Our Top Cereals, Snacks and Treats generalmills.com",
+    "sourceName": "General Mills",
+    "summary": "What to Buy for Halloween: Our Top Cereals, Snacks and Treats General Mills",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1053,7 +978,7 @@ window.generatedDeals = [
   {
     "id": "news-0b44b04bebe4",
     "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T15:25:25+00:00",
+    "publishedISO": "2026-09-23T16:45:43+00:00",
     "acquirer": "Royal Caribbean",
     "target": "stake in resort operator Sandals",
     "headline": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion",
@@ -1365,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "C-Store Dive",
-    "summary": "Casey’s to acquire 20-store Oklahoma chain C-Store Dive",
+    "sourceName": "cstoredive.com",
+    "summary": "Casey’s to acquire 20-store Oklahoma chain cstoredive.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1614,6 +1539,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-437ad754bd87",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T18:18:46+00:00",
+    "acquirer": "Developer",
+    "target": "global rights to Parkinson’s drug in deal worth $300M",
+    "headline": "Developer acquires global rights to Parkinson’s drug in deal worth $300M",
+    "valueBillions": 0.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Parkinson's News Today",
+    "summary": "Developer acquires global rights to Parkinson’s drug in deal worth $300M Parkinson's News Today",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMklTUXk3OGJ2U3hRVlNQOGtXR2M3YkV2TWdES3NwcE5IS2NkTFFtMm9Md0NQeG0wT3YwUjZZal9YM0lXSWg0MHNqWE1XWWpldHhMTTRxa3JHQjhiVF9qb0ptbVlncEZ2MXZUTm5Bb2FSQ09NZWdPVUhNZ0VkQWhWakM4dTZWbUVzUk93WTlkM1NzeUpRVnU5Z28yalM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 22, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2026,12 +2026,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-84e28b303702",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T16:39:44+00:00",
-    "acquirer": "Vanguard Renewables to",
-    "target": "Generate Upcycle’s US, Canada digesters",
-    "headline": "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters",
+    "id": "news-bb328c37164a",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T04:17:27+00:00",
+    "acquirer": "Adirondack Railroad",
+    "target": "Metro-North P32 ‘Genesis’ Locomotive",
+    "headline": "Adirondack Railroad Acquires Metro-North P32 ‘Genesis’ Locomotive",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Waste Dive",
-    "summary": "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters Waste Dive",
+    "sourceName": "Railfan & Railroad Magazine",
+    "summary": "Adirondack Railroad Acquires Metro-North P32 ‘Genesis’ Locomotive Railfan & Railroad Magazine",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,12 +2058,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNKREJvUkRicXJtZnBMbWNYN052eDl0cHR3MWsxc3daZVdxVTYyaFpmYmw5cjBZNWZEeXJsZk1DWWdHVHpLclhWeGNPUURCMmFYVjhEcDZHSnI1X1FwX0NHRl9ZWmRqY2pDdVVCUEU3VjNoM2k0dkdZSVowcmw0WE5fNTg4cHRid0ozUk1URVpydmpiZ19Wd1lkTVpvUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUhYSlF2c1FQMUVnaU5BbUNsRUZpaXAyTVFLYlF5UkhyMXd5eWFiU3RueXByTXZqajAwVXY2cnBxcHRFNHdmb0NidDE5SWwwT2hJZmZBdnhWR0JVb19qSEJXT1FWT2Vvbm1UYkVtNEd5SG90b2xPQklHZlBnUGEzY1hKU19nS0dZVVE4Yg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 21, 2026"
+        "date": "Sep 22, 2026"
       },
       {
         "stage": "Terms verified",
