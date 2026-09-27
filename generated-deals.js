@@ -301,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-089810468fb0",
+    "id": "news-933d320327f0",
     "date": "September 25, 2026",
-    "publishedISO": "2026-09-25T09:14:09+00:00",
-    "acquirer": "Inpex exercises pre-emptive rights to",
-    "target": "JERA's stake in Ichthys LNG project",
-    "headline": "Inpex exercises pre-emptive rights to buy JERA's stake in Ichthys LNG project",
+    "publishedISO": "2026-09-25T10:45:00+00:00",
+    "acquirer": "Eaton signs agreement to",
+    "target": "COL Group, expanding manufacturing capacity and capabilities",
+    "headline": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Inpex exercises pre-emptive rights to buy JERA's stake in Ichthys LNG project Reuters",
+    "sourceName": "Business Wire",
+    "summary": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1ZkaGlld25wZDJpcm1PZzhfZi1fXzN6XzY2X3ZCRnBJTzB1eGdqLUZhZUpfakR3dkhTVEdvaGRUZy10V19jQ3F4T2xJRnV1YWRqM2hOenFqWFhGYkpNS1h6YXVBX3QtSzQtd0x1eC1GRHA3OUpHX3I0Y1M5QkhOVkJIdG5mVWdORzUxaUhpV0c1Skt4YTFFSlNPVlMxcWlUN0VIeDBodzFadGdVZFNBZlJhX2NtVWJSanpLb3l3Yw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMingJBVV95cUxOeHloaUhuNWFBNjE5bG1VaWtqeWctMXdyV2hvS1pVZzJCNWxXTjdfRnZiWk1LXzJxbUppbzdFZTlMVHB3eDVNc0xTaVBnU0w1X0RoU094NzJ3QnBFSElhVW9JaU5IeWw4YklsZ2Q2N3JnNXdxcE05eGZwcVQ5YllJazhBenc0VlJLY3NZUFdKV2lHMmR6LUFNQW1oQnFsUlBGWVQ3VEl5MV9ydW1wNmlFTGlVWU1zZzNIZlJQekc0V2JEODV3TldXeEpnWjFTUi1pUGhaYVpLcWRRdm91bU52WWh0aGJqb0xramxLMExSZF9ocTR3cFFVNHd6UUtRS056R1h2aEh2WUQzX0cyalNvRC1tSjQ5LWhtZTNJZ01B?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -690,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "techcrunch.com",
-    "summary": "Databricks buys Row Zero and is scouting for more startups to acquire techcrunch.com",
+    "sourceName": "TechCrunch",
+    "summary": "Databricks buys Row Zero and is scouting for more startups to acquire TechCrunch",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Databricks",
-    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie Databricks",
+    "sourceName": "databricks.com",
+    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie databricks.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -826,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-566fb136d2c2",
+    "id": "news-c134acbec695",
     "date": "September 24, 2026",
-    "publishedISO": "2026-09-24T13:00:00+00:00",
-    "acquirer": "Arcline-Backed DwyerOmega",
-    "target": "SOR Controls Group",
-    "headline": "Arcline-Backed DwyerOmega Acquires SOR Controls Group",
+    "publishedISO": "2026-09-24T10:30:00+00:00",
+    "acquirer": "Vertiv Announces Agreement to",
+    "target": "King Environmental Services Ltd., Expanding Global Fluid Management Services",
+    "headline": "Vertiv Announces Agreement to Acquire King Environmental Services Ltd., Expanding Global Fluid Management Services",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -841,7 +841,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "PR Newswire",
-    "summary": "Arcline-Backed DwyerOmega Acquires SOR Controls Group PR Newswire",
+    "summary": "Vertiv Announces Agreement to Acquire King Environmental Services Ltd., Expanding Global Fluid Management Services PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +858,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZVk0MnBMaVZlY3lKS3hzc1lreUFjNlVHQ1QtNXQtNGdEWXRTZmdpNHpIYlpkd3NKVXY3UkFXZ3EyUjJWOFg4MmlRWldxWm9RVEpVUzlNbVpDMU1jME84a0RwN3M2Q1V0b2MwSzNtLXlHM0s4U2lMYk1FVEs2eXEzaWJEZTRrQ1N4aERrVVptSkpEMFU3aEgzTE4yekxsTWZPUnZWU0xHMkVCMXhpaEE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeEQzbzE0ajg5MGl3ZlBYUGg1dlVBUzhrNGdyOHBOLWZSWHVDN0JOZWV6YW5sbUFZMXZYV0FDSVliVDdFZXBBZXhpaW53bHVSSlE2TDRqQmwtdHFlX3VMc0Jwa2ZQZ2VuZEthX19mTHQzU1AzT3JOR0x5QkEtNVlMY1BjOGRnbmpJTzlPSjVpcms5Q3FOeEExOGJ2Ul93LUI3Y2xDc0Y0STdmZnNwdko3MlZQakVJZGFNRmt2RHkyVVRmQkRNWUZ5MVA0Rjhya1Q3cUpyQzgweGlpVkpTeGlWWFE4MV9HM3AyUW1LbDJLS3R2dHBnUjJIRHFaeWk?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-73771e8a30b6",
+    "date": "September 24, 2026",
+    "publishedISO": "2026-09-24T07:00:00+00:00",
+    "acquirer": "What to",
+    "target": "for Halloween: Our Top Cereals, Snacks and Treats",
+    "headline": "What to Buy for Halloween: Our Top Cereals, Snacks and Treats",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "General Mills",
+    "summary": "What to Buy for Halloween: Our Top Cereals, Snacks and Treats General Mills",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUTZaYUVqRmc1d2ZlVHFkdHd6UmtjSlZhU0JBWWcxTjMzZGxFT1VQWkJFeFdZa1hSOXNNa3hRd0tjTW1GYVdoc0lhMmNGQVljbTFYZ2tNUWdBaVI3TzkxQTBvYS1vR1prNGFDeFdyUVJNbnZldXdETHR5UFllakEwV3Q3Q2ZKZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WECT",
-    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT",
+    "sourceName": "WECT | TV6",
+    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT | TV6",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "eplocalnews.org",
-    "summary": "Walser acquires two Eden Prairie dealerships eplocalnews.org",
+    "sourceName": "Eden Prairie Local News",
+    "summary": "Walser acquires two Eden Prairie dealerships Eden Prairie Local News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1989,81 +2064,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d26a794e96f4",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T15:58:00+00:00",
-    "acquirer": "Victaulic",
-    "target": "'key' supplier",
-    "headline": "Victaulic announces acquisition of 'key' supplier",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WFMZ.com",
-    "summary": "Victaulic announces acquisition of 'key' supplier WFMZ.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZDh4WUV4UEJEeFlmYXlVa0tPNnAwS0hjb2xhSzFqZlVabEl0WVFWbXk3NTBZU2llVUtqYkI2TlQ3TzltQmhkeDBNdTFQYWZhVjM2M1lpeTJGUG8xZGp1bndLN0pfb1REOWdSdlJvUjU2SVZrdFY4R2pnR3ZaampSQ2dYZ0RpWnp1OVVhTml1SWhXMDRFWTZmbWFqUm51N0xtN2V3S2kwUUhLaU0xZ2FhNG9hcEsyM1JJYlgwdllrYi1ZTW9jZV94V191Zi1ZYnNXTWs2ZC00bElUS3JIbXhWajBFNTBaLWtvVHUwbWtOTGpHckVMY0tNTTM3dEJ0aDBMRXc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
       },
       {
         "stage": "Terms verified",
