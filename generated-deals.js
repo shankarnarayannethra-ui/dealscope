@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-bf449329546c",
+    "date": "September 27, 2026",
+    "publishedISO": "2026-09-27T15:25:44+00:00",
+    "acquirer": "China weighs allowing ByteDance, Alibaba to",
+    "target": "new Nvidia chips, The Information reports",
+    "headline": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-40482bfbcaa7",
     "date": "September 25, 2026",
     "publishedISO": "2026-09-25T20:55:00+00:00",
@@ -301,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-933d320327f0",
+    "id": "news-089810468fb0",
     "date": "September 25, 2026",
-    "publishedISO": "2026-09-25T10:45:00+00:00",
-    "acquirer": "Eaton signs agreement to",
-    "target": "COL Group, expanding manufacturing capacity and capabilities",
-    "headline": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA",
+    "publishedISO": "2026-09-25T09:14:09+00:00",
+    "acquirer": "Inpex exercises pre-emptive rights to",
+    "target": "JERA's stake in Ichthys LNG project",
+    "headline": "Inpex exercises pre-emptive rights to buy JERA's stake in Ichthys LNG project",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA Business Wire",
+    "sourceName": "Reuters",
+    "summary": "Inpex exercises pre-emptive rights to buy JERA's stake in Ichthys LNG project Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMingJBVV95cUxOeHloaUhuNWFBNjE5bG1VaWtqeWctMXdyV2hvS1pVZzJCNWxXTjdfRnZiWk1LXzJxbUppbzdFZTlMVHB3eDVNc0xTaVBnU0w1X0RoU094NzJ3QnBFSElhVW9JaU5IeWw4YklsZ2Q2N3JnNXdxcE05eGZwcVQ5YllJazhBenc0VlJLY3NZUFdKV2lHMmR6LUFNQW1oQnFsUlBGWVQ3VEl5MV9ydW1wNmlFTGlVWU1zZzNIZlJQekc0V2JEODV3TldXeEpnWjFTUi1pUGhaYVpLcWRRdm91bU52WWh0aGJqb0xramxLMExSZF9ocTR3cFFVNHd6UUtRS056R1h2aEh2WUQzX0cyalNvRC1tSjQ5LWhtZTNJZ01B?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1ZkaGlld25wZDJpcm1PZzhfZi1fXzN6XzY2X3ZCRnBJTzB1eGdqLUZhZUpfakR3dkhTVEdvaGRUZy10V19jQ3F4T2xJRnV1YWRqM2hOenFqWFhGYkpNS1h6YXVBX3QtSzQtd0x1eC1GRHA3OUpHX3I0Y1M5QkhOVkJIdG5mVWdORzUxaUhpV0c1Skt4YTFFSlNPVlMxcWlUN0VIeDBodzFadGdVZFNBZlJhX2NtVWJSanpLb3l3Yw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "databricks.com",
-    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie databricks.com",
+    "sourceName": "Databricks",
+    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie Databricks",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Robot Report",
-    "summary": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source The Robot Report",
+    "sourceName": "therobotreport.com",
+    "summary": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source therobotreport.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1984,81 +2059,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcENBTVpXZ0V4V0FocFhoZGJFWkNQMXVTRE5DZDEtNTVGejBQZ1Q4S3BQcDhQYVJWSTA2SHh2RHRtQU5FcFh6Sllwc3d5LXZmMWVZQW5oTmJqQ3p0eklUWlZwbF85bGtCdG1DVVVxMzRwWGc3dzlDSjNKbllhc1RqSGMydDlOamJvRkJQd1NPaU0tSmxFY3VXWDc1RXdTZU5JTldPNk41ckxSZXU0eGl2ejNwRWxueUdrT3V3OHFpb2tJVU9VNUluUW4wNjV4b2MxaUxQa1Bkd3pnTXhpMXd5UGphRDBlRHRoM1BtNkZiRVdNQktF?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bb328c37164a",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T04:17:27+00:00",
-    "acquirer": "Adirondack Railroad",
-    "target": "Metro-North P32 ‘Genesis’ Locomotive",
-    "headline": "Adirondack Railroad Acquires Metro-North P32 ‘Genesis’ Locomotive",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Railfan & Railroad Magazine",
-    "summary": "Adirondack Railroad Acquires Metro-North P32 ‘Genesis’ Locomotive Railfan & Railroad Magazine",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUhYSlF2c1FQMUVnaU5BbUNsRUZpaXAyTVFLYlF5UkhyMXd5eWFiU3RueXByTXZqajAwVXY2cnBxcHRFNHdmb0NidDE5SWwwT2hJZmZBdnhWR0JVb19qSEJXT1FWT2Vvbm1UYkVtNEd5SG90b2xPQklHZlBnUGEzY1hKU19nS0dZVVE4Yg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
