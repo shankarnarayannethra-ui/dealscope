@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-ac1ebee6e41e",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T12:23:18+00:00",
+    "acquirer": "Garmin’s",
+    "target": "Moxy, and Garmin Gets Sued",
+    "headline": "Garmin’s Acquires Moxy, and Garmin Gets Sued",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "DC Rainmaker",
+    "summary": "Garmin’s Acquires Moxy, and Garmin Gets Sued DC Rainmaker",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzlPQlc4NFNsVnNodmlQalB3OGFTS2dod1JJSDdnejNUdDdsVkpIdlJ1TW9HSG5qYjZ5aXJtU0FEMjU4aTl6Z3FZYjJUTjJQblMyQlRkay1na2ZXLVQtMzRVV0JrU1NEQXFfYnhDTEtxeHRlaGNjYjJfTFRNMDJtcjNicW9KeGRabmsw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-40482bfbcaa7",
     "date": "September 25, 2026",
     "publishedISO": "2026-09-25T20:55:00+00:00",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Eaton to acquire Italy's grid equipment maker COL Group for €810 million to expand in Europe reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Eaton to acquire Italy's grid equipment maker COL Group for €810 million to expand in Europe Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "France's Rexel to buy US distributor GCG for $1.4 billion reuters.com",
+    "sourceName": "Reuters",
+    "summary": "France's Rexel to buy US distributor GCG for $1.4 billion Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -303,7 +378,7 @@ window.generatedDeals = [
   {
     "id": "news-933d320327f0",
     "date": "September 25, 2026",
-    "publishedISO": "2026-09-25T10:46:49+00:00",
+    "publishedISO": "2026-09-25T10:45:00+00:00",
     "acquirer": "Eaton signs agreement to",
     "target": "COL Group, expanding manufacturing capacity and capabilities",
     "headline": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA",
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Inpex exercises pre-emptive rights to buy JERA's stake in Ichthys LNG project reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Inpex exercises pre-emptive rights to buy JERA's stake in Ichthys LNG project Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-206c3fdff85b",
-    "date": "September 24, 2026",
-    "publishedISO": "2026-09-24T21:42:40+00:00",
-    "acquirer": "D.C. United",
-    "target": "$75,000 in 2026 GAM from Chicago Fire FC in Exchange",
-    "headline": "D.C. United Acquires $75,000 in 2026 GAM from Chicago Fire FC in Exchange for a 2026 International Roster Slot",
+    "id": "news-c303b624f413",
+    "date": "September 25, 2026",
+    "publishedISO": "2026-09-25T00:43:20+00:00",
+    "acquirer": "Revolut Wins Central Bank Approval to",
+    "target": "Argentine Bank",
+    "headline": "Revolut Wins Central Bank Approval to Acquire Argentine Bank",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "dcunited.com",
-    "summary": "D.C. United Acquires $75,000 in 2026 GAM from Chicago Fire FC in Exchange for a 2026 International Roster Slot dcunited.com",
+    "sourceName": "PYMNTS.com",
+    "summary": "Revolut Wins Central Bank Approval to Acquire Argentine Bank PYMNTS.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,12 +558,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakJuZU5sOGttdTFBTWEzVFNuRmRqYWZXQ2ZPM2ZlZGZ0aUlqWV9lcE56TUpvM2tvcVp3aHdRYzNXS3lOUlplY3NmOVVkXy1VMDgxbHpFRW43TWF6UGZjZlhqT0IwS25CRWF3S0pjVlhGUXdBT2h2WTJfTjFMSUlRQ1lCQU5Fc0tETWkxUE0waXhJVG9taGYwRXhyVFVENUw2bGNMVzU3SWpSQVFVQkFMb3FXekFnN3Z0UGE3b2RMLVV3SlpYSFpKZlJEOFlDY3hyRnhaQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSW5yQUhHbGJZYkNVUnk4ZE1iY1dsSEJRS0h0TXZqUExGYXRObldvNEZSUF8tbmFJU2tpZjhwREEzZG9VTXU3R1FPMTFnTnFJWTV2Qy01eTNFSEM1dFlqUlBEZ0VFLUczZTdncGl5cmhIUWl5QU9VanFHamxmYVhPT0UxOExLVjJZUmVfVy1NdVlZeWZhNDhQd25JOFdyb2V3TFZoZQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 24, 2026"
+        "date": "Sep 25, 2026"
       },
       {
         "stage": "Terms verified",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "databricks.com",
-    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie databricks.com",
+    "sourceName": "Databricks",
+    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie Databricks",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WECT | TV6",
-    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT | TV6",
+    "sourceName": "WECT",
+    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Adobe",
-    "summary": "Adobe completes acquisition of Topaz Labs, bringing Emmy Award-winning AI enhancement capabilities to Adobe’s creative ecosystem Adobe",
+    "sourceName": "blog.adobe.com",
+    "summary": "Adobe completes acquisition of Topaz Labs, bringing Emmy Award-winning AI enhancement capabilities to Adobe’s creative ecosystem blog.adobe.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1234,6 +1309,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vTU9WUE9QQmpFTzR2eG9WdXByY3lidXFsTWlWdzhxT1pHSi1pNU0tZjdqRzJxeFFYTWhWUjlCNG14b1MxcF9zalZzX0VBVjU2RWpvVmNha0JBajl6aGtTOVpJR1FlYUdaUEE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-06eebe5ac908",
+    "date": "September 23, 2026",
+    "publishedISO": "2026-09-23T13:39:30+00:00",
+    "acquirer": "Casey’s to",
+    "target": "20-store Oklahoma chain",
+    "headline": "Casey’s to acquire 20-store Oklahoma chain",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "C-Store Dive",
+    "summary": "Casey’s to acquire 20-store Oklahoma chain C-Store Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUVPVmRPR2ZrMER1bzRQLUNWOUpCempxdnF6RlNqU2lYVzJybVhNZmJ2eWxDcXJqUlgtekdiUDB0am95NUhrT2RWVkR5QTFZNEtrYXVpRDJoUHBIdU5FcG5uR29nRWN6X0xXN3dZNUhvYnFIUGR2Ti0tYnV3cFh1dTVyWmJ1YnEt?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1665,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Egypt's NBE steps in to buy Banque Misr's UAE operations after sanctions threat reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Egypt's NBE steps in to buy Banque Misr's UAE operations after sanctions threat Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZDh4WUV4UEJEeFlmYXlVa0tPNnAwS0hjb2xhSzFqZlVabEl0WVFWbXk3NTBZU2llVUtqYkI2TlQ3TzltQmhkeDBNdTFQYWZhVjM2M1lpeTJGUG8xZGp1bndLN0pfb1REOWdSdlJvUjU2SVZrdFY4R2pnR3ZaampSQ2dYZ0RpWnp1OVVhTml1SWhXMDRFWTZmbWFqUm51N0xtN2V3S2kwUUhLaU0xZ2FhNG9hcEsyM1JJYlgwdllrYi1ZTW9jZV94V191Zi1ZYnNXTWs2ZC00bElUS3JIbXhWajBFNTBaLWtvVHUwbWtOTGpHckVMY0tNTTM3dEJ0aDBMRXc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-da64f08e4405",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T13:47:29+00:00",
-    "acquirer": "Dragos",
-    "target": "NetRise and runZero: What’s Next",
-    "headline": "Dragos Acquires NetRise and runZero: What’s Next for xOT Security",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Dragos",
-    "summary": "Dragos Acquires NetRise and runZero: What’s Next for xOT Security Dragos",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ta29rdzZISmZXMUZ6cXVadU9rVFFfazJ6SW02b0FFTk0yS1N6Z2lLSDQ1cUR3REtXVVJ0T0dWY0t2cFpaU1NSdGFtT0phX3pOUG4yRnhCSFdLc252WHZRTHVrYWZUeEMtRGNvNnZ6d29kSjhPRDIwN3c4X2c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-55eaac32409d",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T12:30:00+00:00",
-    "acquirer": "BlackLine",
-    "target": "NetNow, Expanding Invoice-to-Cash with",
-    "headline": "BlackLine Acquires NetNow, Expanding Invoice-to-Cash with",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "globenewswire.com",
-    "summary": "BlackLine Acquires NetNow, Expanding Invoice-to-Cash with globenewswire.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONXozRlV5am5yNUhKbUVPMGhjQ0NOQm52TVdMaUl1SkJOUWlDM2oxRHVlUDFhWVdXRU80a0JwejBxZ2h3QU1acFkweHlyZ0dqRkpCa3U4Q3VkUFpMc2RHeUx5Q0M1RkdKZ2dhMTZ1TGxxRDdMWmJKRFFOMjYwZkZFNndISEVLNHJKajhqZjFZVUJnd09QbTZfTFRsZzE4YW1QWFlvR1hCNGtoNHk2VE9ETG1XMVc0azdqbDJScWJ1U3k3ZTFpTkJtamRFTmlLNGpuLWN0S192Nnd3R09oc0dtckV4RC1QREFIbmE4M2Fhc0JnU0VyY0oyMjRIdm5mRVlDTERXSm9WdVpRZTR4cUVDQW81eWZXZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
