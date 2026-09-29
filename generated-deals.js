@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-2a7961ffe5fc",
+    "id": "news-ed3cf4d5baf4",
     "date": "September 29, 2026",
-    "publishedISO": "2026-09-29T00:22:00+00:00",
-    "acquirer": "AMD",
-    "target": "world model developer World Labs",
-    "headline": "AMD acquires world model developer World Labs for $8.2B",
+    "publishedISO": "2026-09-29T14:28:49+00:00",
+    "acquirer": "Project Eleven",
+    "target": "Riva Labs",
+    "headline": "Project Eleven Acquires Riva Labs for Post-Quantum Security",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "SiliconANGLE",
-    "summary": "AMD acquires world model developer World Labs for $8.2B SiliconANGLE",
+    "sourceName": "The Quantum Insider",
+    "summary": "Project Eleven Acquires Riva Labs for Post-Quantum Security The Quantum Insider",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,382 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTmV2c0FmVDRZS083M05EekpNWXJaRmJBWlJIMDRDMXJaUVJ5aDN6dk9nS3NtRlcyVldrdWphS2hHZ085MHI2N18xT0tCRzI2cGh2NUt5VG1SMHhzRDBBRUZaOW1SZDktS0NOV0RWZUdkcmR0RC05LWtLYm9DRlB3N0kwa2poNkRiVzNVcEJwM3RsZFI2dFE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVdLV3JlUkRWZWs3Q0NiekFRNWxzV0tCTGdJUDhTODlNT1lTVnR4bzZoY0lBMjhsLTllSmEyM0lMQkVlck9TNTBGcXo0Q3BIaVNMV2V4cEhrZFp2aTRjM1J4NTRrX1p1V1RjYXBZbFZRWXBWejZJR3JaQUs4R1phM010SmFPT3JKR2dPb2FxSUdxa3pybTZrUzh5SU1Xdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-69bc89ff8719",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T14:12:30+00:00",
+    "acquirer": "DNR encourages deer hunters to",
+    "target": "licenses early : Sep 29, 2026 | News release",
+    "headline": "DNR encourages deer hunters to buy licenses early : Sep 29, 2026 | News release",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "dnr.state.mn.us",
+    "summary": "DNR encourages deer hunters to buy licenses early : Sep 29, 2026 | News release dnr.state.mn.us",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUFfcU1KSkppRjlFRk4wS0xZVENuRWFTa2NycDZ2UW9xY1VaN1VWUzFSR0NOeW5XTlM0czVuOFNobExtaV9Kc1dQZzRJRXRMQmpkNVNNcDJSWVlDLUdqdjNQUFd4UTNvU1Q1blNLbVFTaEVvZmY2SWFaZmQ1UHN6aGNFWFNCYnR1UXhGNDIzZFA3emFa?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-eeaca26271bb",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T13:51:30+00:00",
+    "acquirer": "Exclusive | Piper Sandler Holds Talks to",
+    "target": "Perella Weinberg",
+    "headline": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzNKYl9Sc2JhTUJjclJHLVBnakJTY2RhVmNIcVJ3ckNOZUFxWENvZ3hlVVY0blZ6eGl2MjZtSDZxdWdtY2l2V2cyNl9YR3VwakJmV1cwakg4ZVVYdUNqSGFFRUdMOGxVb280ODl2cHdfcV9qLXd0eTZhVFFTd0c5b2xTWEx2RXJvZFhyNk9jc3BLUllWTEJwZA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-25e15c54e08e",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T12:00:00+00:00",
+    "acquirer": "Caterpillar Inc. Enters into Agreement to",
+    "target": "Fabick Cat Dealership",
+    "headline": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVJWSHBqY0gtRXRFTmEtTU13dUx4N3VqYmlERE56MFBrWGNHQXA4Z1RRQm1PSUJpM3dOOTBxWTBrOFR5VFZ0a29TY2tuVnRraWxMNVI1LUFLTVlNVFAxYTR5ZG5XU3pnN2ROQ0VYWExBU2lMTDdUV1Iwa3JsRGxNdXg4azNaZkdxWkpiN1pxakFpVTJMOWJIejFJa2o4aFFCOGhaaTJTOTB5cTVHTmoydnJrWkRaMDRYY290THVRdGhHVjU5?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-98aabd56d5fa",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T11:00:00+00:00",
+    "acquirer": "Scholastic to",
+    "target": "Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing",
+    "headline": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0dZa0dfdHNmVW9wRkdEUGdhQnZXcU9INWVueFhiZDNuMEp4ellXLVB0QXdZZmNLWk9aWVdOVTdoa0QwSVRjVGhVOWlDR2g5TGJlLThOSU1IYXRCZFlncVlZc19ueDVhaHlySGtSRWN2d2hSWms5UjNfQkVubnN3eWlZd0NWdklScUlPM2FrQm1Bb2RxMkN1LWxQaTFkd1NsdHl6OVJsay1uaDN2eUIxWklHMDBLaUhDSUJLelRxQWtaNFZWVmprZW0xXzVyTjVkTWd3X1dXS2RSdzA4UXJ6cnRScXBmR1dfTTR5YkRqaVE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-4c722c9ca71e",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T08:00:00+00:00",
+    "acquirer": "Pearson",
+    "target": "Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification",
+    "headline": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHozc1FpbnIyUUZNMGZHNWRzMWxUNnoxUlhqZXhCc2xhcms4UzNaMmUxb0RWZlNXNG1neEo2dGN4NDR2cVJTTGlfdEJSSWhSMU9PRU1OR25Sc0NEdDdwRnV1ZjhIa1VLS3lWOFFKQnJtRE1YX0FWYk0yOFg0MEduMUluZGhCRXh2RGVXcVVSMlcycUNCQjBIdlE1RXpvMjhkTzlteUlaRnVWLXRybTBzOGFsUGRwV2xnSmZTcHd0a2h1M3pVb2pOMnFVWGs5WHl5M3BLbnVvemd3SE9fbDNHRWEycw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -90,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI' reuters.com",
+    "sourceName": "Reuters",
+    "summary": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI' Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,6 +826,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-61295576a3e7",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T20:05:00+00:00",
+    "acquirer": "AMD to",
+    "target": "Fei-Fei Li’s World Labs AI Startup",
+    "headline": "AMD to Buy Fei-Fei Li’s World Labs AI Startup for $8.2 Billion",
+    "valueBillions": 8.2,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg",
+    "summary": "AMD to Buy Fei-Fei Li’s World Labs AI Startup for $8.2 Billion Bloomberg",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZW1PMmt1Q2c4TzNIaDNIbEs2TWQ3V0xQc1F6QXpzdHdHalpEWlk5ZlhoYnVHVXlsUGdmRm1Fd05aek1UdGFWT2dTZmFBUk9HZDAtRE85NFEwWXhnaHFqdWdSNzkzbWFMUWRxaDQ1VU4tblBrSFhRYkR3VEltUnhtMlI3dmhkcDE5OEx5T2l3RjZ6amdzVFhyeXE1Z2ZTQ0liUVFlREVzZU52THFDM29XSXpB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-baa0832f1fd0",
     "date": "September 28, 2026",
     "publishedISO": "2026-09-28T18:34:24+00:00",
@@ -540,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "bankingdive.com",
-    "summary": "Valley National Bank to acquire fintech Bluevine for $340M bankingdive.com",
+    "sourceName": "Banking Dive",
+    "summary": "Valley National Bank to acquire fintech Bluevine for $340M Banking Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -559,81 +1009,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUVaOS1kXzFNNVgyc3ZZRGN2ekpnLWpPWW80aDlWTkRVOEY4aUNYMEVwS3R3MDloVkNmZTFlRFpIM0VJQVFlVVRNbFJ5c25YNnVrR3hzTFdteUVfNkFiM1dMLWVxS0hMeDVBbk1uT1BHX3hTSGR2R2EwaWZDdVM4WngwY08zTkJIZEFvd0hLZDgwMlJ6dXNpdm9VZTQtdUhEWlhWcGd3VE80MC01ZktGVVlycU4?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-746462b666e9",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T14:41:44+00:00",
-    "acquirer": "Guangzhou Automobile",
-    "target": "50% stake in FAW Toyota",
-    "headline": "Guangzhou Automobile plans to acquire 50% stake in FAW Toyota",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Guangzhou Automobile plans to acquire 50% stake in FAW Toyota reuters.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMXlBQldWbHhBVmMxQkxRNGREQm92SDd2RlBhMG1BUjBQaDlEc19LQ01ua1NUNURIWXFuZDBBLXE4dDRXaWN4cnEzOEE3UHdnNHJjcm5UblpiTjVuWXRjaEE2b2V0enkyaFVwZjR2aGFxWTFPa1ltWjZIRzR1LW5Pam9ZX0xWX1VPc2libEJsdVRRUEVaS1NMai1jbGZJY2RVdXlDUklEOWtqcVNRRUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,12 +1201,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ac1ebee6e41e",
+    "id": "news-60f59a85c89a",
     "date": "September 28, 2026",
     "publishedISO": "2026-09-28T12:23:18+00:00",
-    "acquirer": "Garmin’s",
+    "acquirer": "Garmin's",
     "target": "Moxy, and Garmin Gets Sued",
-    "headline": "Garmin’s Acquires Moxy, and Garmin Gets Sued",
+    "headline": "Garmin's Acquires Moxy, and Garmin Gets Sued",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -841,7 +1216,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "DC Rainmaker",
-    "summary": "Garmin’s Acquires Moxy, and Garmin Gets Sued DC Rainmaker",
+    "summary": "Garmin's Acquires Moxy, and Garmin Gets Sued DC Rainmaker",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Watch AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion Bloomberg.com",
+    "sourceName": "Bloomberg",
+    "summary": "Watch AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion Bloomberg",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -976,81 +1351,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-40482bfbcaa7",
-    "date": "September 25, 2026",
-    "publishedISO": "2026-09-25T20:55:00+00:00",
-    "acquirer": "KPTV FOX 12 Reaches Agreement to",
-    "target": "Telemundo Affiliates Serving Portland/Salem and Eugene",
-    "headline": "KPTV FOX 12 Reaches Agreement to Acquire Telemundo Affiliates Serving Portland/Salem and Eugene",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "KPTV",
-    "summary": "KPTV FOX 12 Reaches Agreement to Acquire Telemundo Affiliates Serving Portland/Salem and Eugene KPTV",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVF5ZFVIczYzbWdGMWdBNHlaajhwQ2lzRENHd191alJaUjN0TGF1UTlOajltdjVXMTBVdThPUlk5WEhQQlRBLVlJU3ExMmNrRG1pQ3BOVGlodkM4ckFDSGI4VHZQX1pJMzhpd0FYR09Id1hMc3FtaXJLUEdUNURqQWRDdy1PZDR6UVZKcVRhT2hsQXpvRzhGRUp2UTkxSnpUVmpiY05MSEZCdFN5SWlZa2dGVVI5WmJOd2xFatIB0AFBVV95cUxNUWJQMzdLSE8zV1dWOTlfc3ppUzF1QkFXV3pud1NRUDBfTzFISVN6RzRyUnItWmgzZ2J4WkZZdkRfR2l2elFBRm5LV0h1UHFIM1R4bEY3TThoaXJ2emE4UU5CN2gyZ1UtXzJCYUZaOEJrX2Y4MUlENnlfcWUxNDBTVWtSTXdEV3ZvZlJ2LUVycmxxZXNjZUtrZUQyWEZsX1NmY2NTWmRGd21YVUkwZzZ0QVJLbmJXcXN2eDFRSnk1NUJtbGFWUzh6V0d1WmJ4YmxU?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-614ad55bb5fe",
     "date": "September 25, 2026",
     "publishedISO": "2026-09-25T17:12:03+00:00",
@@ -1065,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Eaton to acquire Italy's grid equipment maker COL Group for €810 million to expand in Europe reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Eaton to acquire Italy's grid equipment maker COL Group for €810 million to expand in Europe Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WECT | TV6",
-    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT | TV6",
+    "sourceName": "WECT",
+    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1914,306 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b069c2d322a9",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T18:13:00+00:00",
-    "acquirer": "Venn",
-    "target": "a16z-backed Zuma",
-    "headline": "Venn acquires a16z-backed Zuma for $50 million in push to build AI layer for real estate",
-    "valueBillions": 0.05,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "calcalistech.com",
-    "summary": "Venn acquires a16z-backed Zuma for $50 million in push to build AI layer for real estate calcalistech.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rVm1GN0xFOHNNSmhvTWNyUUVNNkh4VzVfMUpfN01FQ2lSZEtxX19MRGhfR0cyNmIxcFktNmZ6TVRUNWdiNkdMRFZCT2xZekk0TXBPZU1ORkNyVnZMZ0xPOTVERzJaNU12?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9e8e890b8fb6",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T13:38:00+00:00",
-    "acquirer": "Egypt's NBE steps in to",
-    "target": "Banque Misr's UAE operations after sanctions threat",
-    "headline": "Egypt's NBE steps in to buy Banque Misr's UAE operations after sanctions threat",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Egypt's NBE steps in to buy Banque Misr's UAE operations after sanctions threat reuters.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1V6cVZXYmhuN2pBWXZKc2s3VUdNNlg3N0dKeVpNQmhtamE3NXQ1NFhqRUdObVBGZms1dDdQaWswNUNnaktFczEtb19zc09fcFRYWmx2OERxakN6VUhtdGFfTnprWG94ZExiVmstMlV2akFCaHNkMml0SW5mSEY3UDl4SmZyT3o0R3gzT00xbnRQWXpPN0ZJSUd4YVRCelZabjBBNzZvNlN6elkyQWJlcGxnQ1UzTzNSX0ZpVzVpQkJramgyaEE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2647d50b41df",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T13:00:00+00:00",
-    "acquirer": "TJC",
-    "target": "Luna Innovations Incorporated",
-    "headline": "TJC Completes Acquisition of Luna Innovations Incorporated",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "TJC Completes Acquisition of Luna Innovations Incorporated Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2NaYWNqcmhYTjV2VFM0Wlk1N3BzRWFRNndzY3lrNzBPazl4OTY5ck1paURMU2JjSFFQZ014T3dIX0pDdGlQV2l0SEExcTNHNUtMSEcxZ0d3bm5vX1ROT1JNN3RISHAwSUJkWDFuQ0lSLVRZZzVmanlzVmJyaGt5Y2pSbnk0X2lrbG5sM0xncUFNczZFYkNSeXlTUzRhdEdYdUw3Y2RZVG95TWE1aU14QnY0YkRpQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-cbbbcae1ec36",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T13:00:00+00:00",
-    "acquirer": "Butterfly",
-    "target": "Sabert, a Leading Global Provider of Innovative and Sustainable Food Packaging Solutions",
-    "headline": "Butterfly Acquires Sabert, a Leading Global Provider of Innovative and Sustainable Food Packaging Solutions",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Butterfly Acquires Sabert, a Leading Global Provider of Innovative and Sustainable Food Packaging Solutions Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdVVlYmo3LWZaMkNQWXAwcWE2WGdtQUlIUndCOGxGZnFVR05aTUMxOHBCZy1kZUE3ZU5MX2xwNUFKdWVhQTN6Sl9TWUNZdkZyX1laa05ERUlTQUJLR1dISlp2S2NKM2pJZDYzWlBWUm1qQU43UUJwLXh0al8tSVRUZ0pneHAwSDNXTkFLc2NaS2daR0V3X0RaYW5rNzJoRXFpU2FoRU8wV1FxazFnME9LaldpY21feTNCb2ppaVhYdEhXSmNWNnFlZWRCc1lBdFVsLTdNcEw4OGRKNjhybDgyRjlaMVY2cmxxM0tjZ0ZmTTNhcTNCSFE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
       },
       {
         "stage": "Terms verified",
