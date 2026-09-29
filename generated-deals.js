@@ -1,6 +1,231 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-e4fb9ce345de",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T23:18:36+00:00",
+    "acquirer": "AMD to",
+    "target": "Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI'",
+    "headline": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI'",
+    "valueBillions": 8.2,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI' Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpLOGExLXd6b0dKeXJadmdubW9zdWZzTDB6eVhLb0RSN3RSQTYyenBJdTVRdmR6Vm5jRnp4VHVQQ1NEbGFQb1J0V08xcThIRUs1aG5NQ0piLXhEQTRhcXZQNEZkMUVuaHVyLTRNVjhjbDEtZmxuTGpuR2d1ZDU2b1pGdkxqS1o2TUNDcUMyaFUzRVdmUUpPQndkdEZMZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8eca2488ea8c",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T23:10:56+00:00",
+    "acquirer": "A24, New York Times Join $300M-Plus Race to",
+    "target": "Letterboxd",
+    "headline": "A24, New York Times Join $300M-Plus Race to Buy Letterboxd",
+    "valueBillions": 0.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Law Commentary",
+    "summary": "A24, New York Times Join $300M-Plus Race to Buy Letterboxd Law Commentary",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMU4tNndrU2dsUEJSM2RLbnBadnkxUlRZUzF2NC15dnJvbm1zUktvLXJiUURqYmV4c0VNVl85Zjhrc2VuSzc3OW0xUE5UekE0RHB5ZXQ2S0hHNlFuaE5vbWl4SmpHOUVCTGFxeU1XVE9FRzhCM3ZtQ244WjhhMXR0NzNaZk1icGgtNF9RR0VR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7115914b7ba7",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T21:56:00+00:00",
+    "acquirer": "AMD",
+    "target": "startup cofounded by ‘godmother of AI’ Fei-Fei Li",
+    "headline": "AMD acquires startup cofounded by ‘godmother of AI’ Fei-Fei Li for $8.2 billion",
+    "valueBillions": 8.2,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fortune",
+    "summary": "AMD acquires startup cofounded by ‘godmother of AI’ Fei-Fei Li for $8.2 billion Fortune",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTJZazg1STZjVGNheUZjOW1SczBSSXJCOXpzbldyNWFaWVlYZmFETkExZWZzdnRrNk42eVN5VjVxZzFBY0s3Um5rV0RxSHhpam5NMzc4bXVMZ2ZYOXVjSy1zMWtnTzlJcWFXOUI1V2UwNDhXNXY2Y1VJYXhxYzFmUTZ2QktsaTdtVUc5ekZYUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-011e6141bd27",
     "date": "September 28, 2026",
     "publishedISO": "2026-09-28T21:34:00+00:00",
@@ -76,13 +301,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-befccb38634d",
+    "id": "news-e0a1c5a6f4a8",
     "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T20:59:16+00:00",
-    "acquirer": "AMD",
-    "target": "World Labs in $8.2 billion deal to bolster AI systems strategy",
-    "headline": "AMD acquires World Labs in $8.2 billion deal to bolster AI systems strategy",
-    "valueBillions": 8.2,
+    "publishedISO": "2026-09-28T20:58:28+00:00",
+    "acquirer": "AAR accelerates its aftermarket platform strategy by agreeing to",
+    "target": "a controlling interest in MRO Holdings",
+    "headline": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "AMD acquires World Labs in $8.2 billion deal to bolster AI systems strategy Reuters",
+    "sourceName": "AAR CORP.",
+    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings AAR CORP.",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpLOGExLXd6b0dKeXJadmdubW9zdWZzTDB6eVhLb0RSN3RSQTYyenBJdTVRdmR6Vm5jRnp4VHVQQ1NEbGFQb1J0V08xcThIRUs1aG5NQ0piLXhEQTRhcXZQNEZkMUVuaHVyLTRNVjhjbDEtZmxuTGpuR2d1ZDU2b1pGdkxqS1o2TUNDcUMyaFUzRVdmUUpPQndkdEZMZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMzFQRHFpeHVLQ0tzdk0tVjBIWVVoVjUwS1VkeTRpd21kMTBsNldlSl9Wc24xN2VIMzBjMF9VT01vb28wNnZGTWRUcGpnTkxGXzlURnB5T0FsSEdRTzhTeUtRN0VvMzJlalRZTDl5SC16c3RUd1h5TEFhTnlUcXg5TzNCUHYzdVBQOTlQdUtucXRWRFFYNXotalYwdW1hNEpwbGhOdW9mc09SMFZ1OHdiWTg4RzRhTVN0WEVIZXVscjJrQTRTcVZVRWJoTFdISFdXOXFuNzFPYnpKNVF4UzY5T0Q3MmRpRWdRNVZMcEc2LTZVejhrYjU0Z0U4ejA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,13 +376,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cc90a3c478e8",
+    "id": "news-139fb3666f2c",
     "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T20:50:00+00:00",
-    "acquirer": "AAR accelerates its aftermarket platform strategy by agreeing to",
-    "target": "a controlling interest in MRO Holdings",
-    "headline": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings",
-    "valueBillions": null,
+    "publishedISO": "2026-09-28T20:45:12+00:00",
+    "acquirer": "AMD to",
+    "target": "Fei-Fei Li’s AI start-up",
+    "headline": "AMD to buy Fei-Fei Li’s AI start-up for $8bn",
+    "valueBillions": 8.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -165,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings PR Newswire",
+    "sourceName": "Financial Times",
+    "summary": "AMD to buy Fei-Fei Li’s AI start-up for $8bn Financial Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdHYzTGZZOFo4eGtiN0lOZHVWbU9kZE5ZeklBSy1zN0dGWUpSSmd5eEhRaDZVal96UFFJTmNSX2p5eU5tclVPTEdwUUI3YkpJMEUwSlpMcWtJOTFOc1l2MElnWTFjNFBIZzhxX05QZTdaN2NUNlFGVUlHWGUwbV8zQzlYRUYzbzk2dlZDRTNtSUIzdF92aF91ZVM2YWtjR21JZ3BQQ0JzWFQzUEpqY25BUWhQSlF6OEc4SHMwSnFpNHJSNDd0ckc0eHE3ZE1RdDBjM2NrU2o1a0JYR0Z1UURwUTZFZmpKRnBEUHNxYjFfVE11MlVXaW03MVFMSQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFcxM3NDUmVDUWZ0NTlJZjhrVjF6em5LaDdNdk15Ynk1b1ZKVkl4YnpORERyU3c0WkppWHI2YmRsYlFzcUFLZjV4MkxrZGZja0FKY21GdUZ2LTg5ejFub2hKdmpZbmVmcEZSU3hXbWtRelRZODQ4WGZtZi1DeTNOcHJhZmk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -334,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUVaOS1kXzFNNVgyc3ZZRGN2ekpnLWpPWW80aDlWTkRVOEY4aUNYMEVwS3R3MDloVkNmZTFlRFpIM0VJQVFlVVRNbFJ5c25YNnVrR3hzTFdteUVfNkFiM1dMLWVxS0hMeDVBbk1uT1BHX3hTSGR2R2EwaWZDdVM4WngwY08zTkJIZEFvd0hLZDgwMlJ6dXNpdm9VZTQtdUhEWlhWcGd3VE80MC01ZktGVVlycU4?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-cc3c1498db6c",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T13:45:00+00:00",
-    "acquirer": "MyEyeDr. To",
-    "target": "EyeCare Partners Optometry Division",
-    "headline": "MyEyeDr. To Acquire EyeCare Partners Optometry Division",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "MyEyeDr. To Acquire EyeCare Partners Optometry Division Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1phc212LXFVRFJ2V2tVUjhKSUNnRWtlM1pLTUZIZkFnRVU4LU5INzhvbjhORFF5WklhMjRlOURtOGpJd05iV3BfUlBpeUdid0FoTlh6MndsaW13LXYxUUNGQ1RPakxGOThURWN3RW5WZWlldXgxTlU1SjRreVFQWlEtQ0RCaElqZGFTTUt1ZHZfZ1JEMEd5cXkyTVhmNmVMRFFXemVvSXVqcmJiZkFxWVFB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -676,13 +826,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e8e8b56437cb",
+    "id": "news-41c20dd35725",
     "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T12:00:00+00:00",
-    "acquirer": "Fortitude Re",
-    "target": "Dayforward to Broaden Capabilities",
-    "headline": "Fortitude Re Acquires Dayforward to Broaden Capabilities",
-    "valueBillions": null,
+    "publishedISO": "2026-09-28T00:00:00+00:00",
+    "acquirer": "Watch AMD",
+    "target": "Fei-Fei Li’s World Labs",
+    "headline": "Watch AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion",
+    "valueBillions": 8.2,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -690,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Fortitude Re Acquires Dayforward to Broaden Capabilities Business Wire",
+    "sourceName": "Bloomberg.com",
+    "summary": "Watch AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion Bloomberg.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFlMQ1lrdkVJbGUzV2l5a1R0MFdXUnpWSFpiWmhRQlFPM0NvcVRveW1kZTFLb0xYWWRtM0pyRDczZk45TUFBLWg4U2pyem5wVk1pS3FOTWZxeHhJVjMzRmVnUWZxLWN1OWhWdTROSmhzYmUwQ0FodHhkejlyNGhCalZsd1BiNFk1THhtSHBOd3plNmJ5cTNac1pvajVOakxNUWhMMFNyRXhZUEwyZGYtNnVtaw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU01UdUgtZjVLWkRLTUNycU85cFZYMzV4RFBVVkU5WVliWHRZYTh2UzduXzNjMG42NW8xbE53c2NMS0pvbU1FaGM4WDJHQ2RpVFVRVWhVZXl4Z0xjLWoyTzJudy0xQ3plT19xZGxoRjZ3YWdtZ2ItNGRPZXRVbklUUEpVU1VaR041UWM2RmVsWURvT0d6Nm1Vak9mcXJ2TDZGQXU0cG52YmZiNWs?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -765,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "KPTV",
-    "summary": "KPTV FOX 12 Reaches Agreement to Acquire Telemundo Affiliates Serving Portland/Salem and Eugene KPTV",
+    "sourceName": "kptv.com",
+    "summary": "KPTV FOX 12 Reaches Agreement to Acquire Telemundo Affiliates Serving Portland/Salem and Eugene kptv.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WECT",
-    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul WECT",
+    "sourceName": "wect.com",
+    "summary": "NCDOT acquires 27 properties ahead of Eastwood-Military Cutoff overhaul wect.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1309,81 +1459,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmUzNEdVSF9nMDVzRWZmQVZtQzVxOXZWNUJBTlRHLTRMeVFVZkl0eFhLTmh3aEtHdW1zTHRRaDd5THp6RzZQSk5obG4yTzlMZnhYS1lmQ3A2MDlMaHZ0V3AtejFoOFhtMk10aVdOUGxFelJKeUljTnhDV2VyaVdjQVNXVjFmeTY5aWJfazBVR2hLaGxfeWE2Y1o0M3lXUDBzZjN2N0dxVmprNENBYmc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6c48dc17bfdd",
-    "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T15:07:53+00:00",
-    "acquirer": "Walser",
-    "target": "two Eden Prairie dealerships",
-    "headline": "Walser acquires two Eden Prairie dealerships",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Eden Prairie Local News",
-    "summary": "Walser acquires two Eden Prairie dealerships Eden Prairie Local News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGJSXzRna2ROSnM5a2JuZ1owakNSTW5ldUFWYkR2WDFRNjFwd3gwWFY4a3FwVHVONmE0TlU0ZDB0c3BxQXI1RFdNTS1VMFRzZlB1S0hXaUdGcXpkNjVDSmVhUk4yalpQRzNOM3lCSTN1Z0c3R0hUUEdHZmxzME05NXhvTVpPd2M?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcENBTVpXZ0V4V0FocFhoZGJFWkNQMXVTRE5DZDEtNTVGejBQZ1Q4S3BQcDhQYVJWSTA2SHh2RHRtQU5FcFh6Sllwc3d5LXZmMWVZQW5oTmJqQ3p0eklUWlZwbF85bGtCdG1DVVVxMzRwWGc3dzlDSjNKbllhc1RqSGMydDlOamJvRkJQd1NPaU0tSmxFY3VXWDc1RXdTZU5JTldPNk41ckxSZXU0eGl2ejNwRWxueUdrT3V3OHFpb2tJVU9VNUluUW4wNjV4b2MxaUxQa1Bkd3pnTXhpMXd5UGphRDBlRHRoM1BtNkZiRVdNQktF?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bb328c37164a",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T04:17:27+00:00",
-    "acquirer": "Adirondack Railroad",
-    "target": "Metro-North P32 ‘Genesis’ Locomotive",
-    "headline": "Adirondack Railroad Acquires Metro-North P32 ‘Genesis’ Locomotive",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Railfan & Railroad Magazine",
-    "summary": "Adirondack Railroad Acquires Metro-North P32 ‘Genesis’ Locomotive Railfan & Railroad Magazine",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUhYSlF2c1FQMUVnaU5BbUNsRUZpaXAyTVFLYlF5UkhyMXd5eWFiU3RueXByTXZqajAwVXY2cnBxcHRFNHdmb0NidDE5SWwwT2hJZmZBdnhWR0JVb19qSEJXT1FWT2Vvbm1UYkVtNEd5SG90b2xPQklHZlBnUGEzY1hKU19nS0dZVVE4Yg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
