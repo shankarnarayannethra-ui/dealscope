@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-a56bf4455065",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T20:07:08+00:00",
+    "acquirer": "Salesforce Signs Definitive Agreement to",
+    "target": "Listen Labs",
+    "headline": "Salesforce Signs Definitive Agreement to Acquire Listen Labs",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Salesforce",
+    "summary": "Salesforce Signs Definitive Agreement to Acquire Listen Labs Salesforce",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWZhTGUzS3ZUMzJGeG1NRVlqWV9ySkVJeEI5NGF2QjZ2VnZQQmRKN0xBbjl1VjJpZkszdVN1X0M4aEQ4OXg5dVhRZGRzalpKS1oyTmYxS3hxcUUtWUp4U1A5SUFSWWhCY1N1MWVNRzd3Y1FGamUwOFBHS2l5SEVjM0c5SGF3MktULTBFSWJ0Y2FNbXJ6UGxNdFl3dVhZMXkybnFZ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ed3cf4d5baf4",
     "date": "September 29, 2026",
     "publishedISO": "2026-09-29T14:28:49+00:00",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "dnr.state.mn.us",
-    "summary": "DNR encourages deer hunters to buy licenses early : Sep 29, 2026 | News release dnr.state.mn.us",
+    "sourceName": "Minnesota DNR",
+    "summary": "DNR encourages deer hunters to buy licenses early : Sep 29, 2026 | News release Minnesota DNR",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -153,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-eeaca26271bb",
     "date": "September 29, 2026",
-    "publishedISO": "2026-09-29T13:51:30+00:00",
+    "publishedISO": "2026-09-29T13:50:00+00:00",
     "acquirer": "Exclusive | Piper Sandler Holds Talks to",
     "target": "Perella Weinberg",
     "headline": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg",
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -184,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzNKYl9Sc2JhTUJjclJHLVBnakJTY2RhVmNIcVJ3ckNOZUFxWENvZ3hlVVY0blZ6eGl2MjZtSDZxdWdtY2l2V2cyNl9YR3VwakJmV1cwakg4ZVVYdUNqSGFFRUdMOGxVb280ODl2cHdfcV9qLXd0eTZhVFFTd0c5b2xTWEx2RXJvZFhyNk9jc3BLUllWTEJwZA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 29, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-25e15c54e08e",
-    "date": "September 29, 2026",
-    "publishedISO": "2026-09-29T12:00:00+00:00",
-    "acquirer": "Caterpillar Inc. Enters into Agreement to",
-    "target": "Fabick Cat Dealership",
-    "headline": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVJWSHBqY0gtRXRFTmEtTU13dUx4N3VqYmlERE56MFBrWGNHQXA4Z1RRQm1PSUJpM3dOOTBxWTBrOFR5VFZ0a29TY2tuVnRraWxMNVI1LUFLTVlNVFAxYTR5ZG5XU3pnN2ROQ0VYWExBU2lMTDdUV1Iwa3JsRGxNdXg4azNaZkdxWkpiN1pxakFpVTJMOWJIejFJa2o4aFFCOGhaaTJTOTB5cTVHTmoydnJrWkRaMDRYY290THVRdGhHVjU5?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,6 +526,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-68acf446e6fe",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T22:13:46+00:00",
+    "acquirer": "AAR to",
+    "target": "majority stake in aircraft maintenance firm MRO Holdings",
+    "headline": "AAR to buy majority stake in aircraft maintenance firm MRO Holdings for $1.8 billion",
+    "valueBillions": 1.8,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "AAR to buy majority stake in aircraft maintenance firm MRO Holdings for $1.8 billion Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXlSQ19xUEE0cHM0ZXBSY1AzNE5VWExwc2lBVjRvSTd6ZEFTeEc2U1UzQndhaU92cGlXNmk4YVhKcm1CSHk2T21NZ2RBZGpWS3VFS0hLRGFUbTJ1dy1fbG9GcE5OUDNDT0ZwaXJ6WXVTMnhwTXloSTNIZm54aklNRFV3dXBVaXd6anNTb3VSX0xwTTdkdGVkNEVjWXQtNDF4dGRvWTBGRG9zeHJXbVpiTTZVNjVOWnM3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7115914b7ba7",
     "date": "September 28, 2026",
     "publishedISO": "2026-09-28T21:56:00+00:00",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "AMD to Acquire World Labs for $8.2 Billion WSJ",
+    "sourceName": "wsj.com",
+    "summary": "AMD to Acquire World Labs for $8.2 Billion wsj.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Financial Times",
-    "summary": "AMD to buy Fei-Fei Li’s AI start-up for $8bn Financial Times",
+    "sourceName": "ft.com",
+    "summary": "AMD to buy Fei-Fei Li’s AI start-up for $8bn ft.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "AMD to Buy Fei-Fei Li’s World Labs AI Startup for $8.2 Billion Bloomberg",
+    "sourceName": "Bloomberg.com",
+    "summary": "AMD to Buy Fei-Fei Li’s World Labs AI Startup for $8.2 Billion Bloomberg.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Montana Free Press",
-    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. Montana Free Press",
+    "sourceName": "montanafreepress.org",
+    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. montanafreepress.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1234,81 +1309,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzlPQlc4NFNsVnNodmlQalB3OGFTS2dod1JJSDdnejNUdDdsVkpIdlJ1TW9HSG5qYjZ5aXJtU0FEMjU4aTl6Z3FZYjJUTjJQblMyQlRkay1na2ZXLVQtMzRVV0JrU1NEQXFfYnhDTEtxeHRlaGNjYjJfTFRNMDJtcjNicW9KeGRabmsw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-41c20dd35725",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T00:00:00+00:00",
-    "acquirer": "Watch AMD",
-    "target": "Fei-Fei Li’s World Labs",
-    "headline": "Watch AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion",
-    "valueBillions": 8.2,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "Watch AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion Bloomberg",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU01UdUgtZjVLWkRLTUNycU85cFZYMzV4RFBVVkU5WVliWHRZYTh2UzduXzNjMG42NW8xbE53c2NMS0pvbU1FaGM4WDJHQ2RpVFVRVWhVZXl4Z0xjLWoyTzJudy0xQ3plT19xZGxoRjZ3YWdtZ2ItNGRPZXRVbklUUEpVU1VaR041UWM2RmVsWURvT0d6Nm1Vak9mcXJ2TDZGQXU0cG52YmZiNWs?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
