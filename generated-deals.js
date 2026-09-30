@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-e08254b9a620",
+    "date": "September 30, 2026",
+    "publishedISO": "2026-09-30T10:49:40+00:00",
+    "acquirer": "Hormel Foods to",
+    "target": "Brakebush in deal valued at $1.06 billion",
+    "headline": "Hormel Foods to buy Brakebush in deal valued at $1.06 billion",
+    "valueBillions": 1.06,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Hormel Foods to buy Brakebush in deal valued at $1.06 billion Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2J6NkxnTmhIcEZSM3hVNTRac2Q2dWRPVTRTamNvVkVsdkM1ZWNVcGFGUE5sdGRVaENNZkhXbW1zRl9MRkxVVk1PUUxsaGxUd25yUVFDWDVsaHF2V2dfVjd6R05YdWZnY1hJWmJVaGwzQTFXcHFSblZmMldTWDg0NmlQTnI3djNJa0NQdDJHZ3Z0bzdLQ3NScUpIVTJlbEMyNlhLajFn?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-4e8dee556a7f",
+    "date": "September 30, 2026",
+    "publishedISO": "2026-09-30T10:30:00+00:00",
+    "acquirer": "Hormel Foods Announces Definitive Agreement To",
+    "target": "Brakebush, A Leading Value-Added Chicken Company",
+    "headline": "Hormel Foods Announces Definitive Agreement To Acquire Brakebush, A Leading Value-Added Chicken Company",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "prnewswire.com",
+    "summary": "Hormel Foods Announces Definitive Agreement To Acquire Brakebush, A Leading Value-Added Chicken Company prnewswire.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWXhlbTJSSTkxbTZzR21ianVjM2RhRU53TVg4aWNHMmlVRTY4d1o0ZDNGQ2QzRDBzX2hYT0kxci0yTXVEMEhMV013T2dTVjJxSlAtemx4MERGVWE4bFlBcnQxU2NNWUZsbmJMeU94YW43N2JQLTN6N3FnZFJoY0RJM3VxbUx2UExpZEpDdXhMWnZ4VFFaUld2d0V1bVdvalpLc1FKb2tubG1aUERaVm1XVE90cmRMbmxlWEJQMHNCZjdNeThzSEpBX21ESGJ2S1FiRVFqTVAyTzVwV2Q1elFJOGhFeEUybVdtQjM5ZU5kYw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a56bf4455065",
     "date": "September 29, 2026",
     "publishedISO": "2026-09-29T20:07:08+00:00",
@@ -15,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Salesforce",
-    "summary": "Salesforce Signs Definitive Agreement to Acquire Listen Labs Salesforce",
+    "sourceName": "salesforce.com",
+    "summary": "Salesforce Signs Definitive Agreement to Acquire Listen Labs salesforce.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -240,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -390,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "AMD to Acquire World Labs for $8.2 Billion wsj.com",
+    "sourceName": "WSJ",
+    "summary": "AMD to Acquire World Labs for $8.2 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ft.com",
-    "summary": "AMD to buy Fei-Fei Li’s AI start-up for $8bn ft.com",
+    "sourceName": "Financial Times",
+    "summary": "AMD to buy Fei-Fei Li’s AI start-up for $8bn Financial Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "montanafreepress.org",
-    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. montanafreepress.org",
+    "sourceName": "Montana Free Press",
+    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. Montana Free Press",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Leica Biosystems Completes Acquisition of StatLab to Bolster Delivery of More Precise, Timely Diagnostics for Cancer Patients PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Leica Biosystems Completes Acquisition of StatLab to Bolster Delivery of More Precise, Timely Diagnostics for Cancer Patients prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA Business Wire",
+    "sourceName": "businesswire.com",
+    "summary": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA businesswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Vertiv Announces Agreement to Acquire King Environmental Services Ltd., Expanding Global Fluid Management Services PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Vertiv Announces Agreement to Acquire King Environmental Services Ltd., Expanding Global Fluid Management Services prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ondas Holdings",
-    "summary": "Ondas Acquires Three Defense Technology Businesses to Expand Its Integrated Autonomous Defense Systems Platform Ondas Holdings",
+    "sourceName": "ir.ondas.com",
+    "summary": "Ondas Acquires Three Defense Technology Businesses to Expand Its Integrated Autonomous Defense Systems Platform ir.ondas.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTByR0lyeVpMQ2pucHVQWWh2bnJyYlo1Qnh2ZGY4S1RTeDV6MkJOQ3BmWUtGbkRKZXJZWDNxaldKTHozcWNRc3FGd2ZDamN2OExvcVJXUGxxaDI5bnc1dndFQVA2bDhlaUFuSjJ6Mkg3M2FjLVhJUDV5aHFZRjhJRFBobV9lS2dzeFJaZE5tYVVzTGZRVmJKOUJiVkVaOTRNaUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1f38cadc3d2f",
-    "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T12:03:46+00:00",
-    "acquirer": "Qualcomm to",
-    "target": "PickNik to Advance the Future of Open Robotics and Physical AI",
-    "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Qualcomm",
-    "summary": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI Qualcomm",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0b210c93bd1b",
-    "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T11:38:13+00:00",
-    "acquirer": "Qualcomm to",
-    "target": "PickNik Robotics and keep MoveIt open-source",
-    "headline": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Robot Report",
-    "summary": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source The Robot Report",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3RrQmxZV1B0S3MxUVl1V0V2eFBzbklkWlVoUUF3NFoyZndqSVlEbUZSYnVJNTNpNktHalBTNVFSTFhXUHVxZkdLUjhqN1B1WVNBUU1EQVA5enFtdVFyTHNLQlhnOVlRMDVsMFNGaXZ1dHdpVHZ1OWtZdVFqYWZyZE9tTGpSckRFRkpZUlpZUXVUclNx?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
