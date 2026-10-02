@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-54240b546db0",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T22:25:00+00:00",
+    "acquirer": "ON Semicondcutor to",
+    "target": "Synaptics",
+    "headline": "ON Semicondcutor to Buy Synaptics for Cash, Not Stock, in Downsized Deal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "ON Semicondcutor to Buy Synaptics for Cash, Not Stock, in Downsized Deal WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk8xV19YSEhycmcxQkdHSElRWGhPYkxOcHRCVTM3M2JCc1JZTzh1UTF0eEFLV3UySXAxVk90T253Z1V1WmZlQ0o5Q09WMmV6TnlEOHNZOTVmWS05V0RydHpuY1o5SElCTXJsRm4xQ1Y5dUFpdWlWLU94YUhxMFlLd1lSTWZwMzNfSGpGTkhQSUtiTlpqeHZTM3dSZ212NXpkVDJWSXl5bXlBTTBuUFZzYkI0RFo?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-6a58e2ec93c9",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T22:18:00+00:00",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6fd835dafd45",
+    "id": "news-29a5fdb95d3b",
     "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T15:48:19+00:00",
-    "acquirer": "HomeServices",
-    "target": "1000WATT agency to ‘magnify’ brand",
-    "headline": "HomeServices acquires 1000WATT agency to ‘magnify’ brand",
+    "publishedISO": "2026-10-01T20:35:00+00:00",
+    "acquirer": "Federal Realty",
+    "target": "The Summit, Alabama's Premier Retail Destination",
+    "headline": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "RealEstateNews.com",
-    "summary": "HomeServices acquires 1000WATT agency to ‘magnify’ brand RealEstateNews.com",
+    "sourceName": "PR Newswire",
+    "summary": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +183,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNW5RNm1SdW5MOWlJY1B4bUN2MERvbFZCLUtrOWJ3dGJ2NEZhT1N6VWxKVEdvemdrNEUzVFU0c3hibnhEWFlyamVSVkpGeHJ4Rmk3LTJJeTN5djljQUQtS29uei15UnQ3LWdJdEJKeDFoTHpqU3hxbjJYdTYwVkRwbS1oUHlGSmtUZEpoc2tXbkRYUzU0NTQyRUxJZXM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHhaM0NoYWFTc2h4QjJKOFo2NzdRUm5xRU9zMFNmbVMtS1BENVVHMjREdUpnYXZRLXBmb2NINGNhaHV1akZXTHJIU3JWOGgtVGFHNS1ta2VJMTB6b3EtZjFLSUkzaDI3QWx6aGY1d21FR0pyUzNvakVaRWlUa3h6VzAtT1dzWXUzZ3MxZWY0Sl9xaThmLUVUOUFGSlc2RTZIWHpNazc0a2xrYjNsczRSYnJndXRWaEZVLXV3MTlCR2w4a29j?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2bf7ea130be4",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T20:08:15+00:00",
+    "acquirer": "Henkel successfully",
+    "target": "specialty coatings company Stahl",
+    "headline": "Henkel successfully closes acquisition of specialty coatings company Stahl",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Henkel",
+    "summary": "Henkel successfully closes acquisition of specialty coatings company Stahl Henkel",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObld6M21zRzdGS2VKV0pKV0NMMzJFZ215eC11WktVZkNVX0Z5QmZaYnc0aDdIV2QybnpsbFB4eXowbG90NkRxVDNYXzdqM0dpcVVGdjFDWTZETHhzdW9MVm9laWdUX0pfWWh4akxTcHJKeGxCaDVpaXBJQU1lQkVQazhZcDVRS1psZFU3bWJjaXV0b0xySUlldG1YUE1RVkNSVDhpejhvbEROZ3M2RmhKWnJnTjVlUlNSclFra0s0TDJhM1ljaVBCMWdZZEwzMkFDSmtKYWtzcnpLb1djdFJJd3ZPQldCSTRNNDNEYg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-36a354dee85c",
+    "id": "news-ae8f322e2c58",
     "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T09:00:00+00:00",
-    "acquirer": "Nuveen",
-    "target": "Schroders",
-    "headline": "Nuveen Completes Acquisition of Schroders",
+    "publishedISO": "2026-10-01T11:22:00+00:00",
+    "acquirer": "Nebius",
+    "target": "10-month-old stealth AI startup Inferize in $100-150 million deal",
+    "headline": "Nebius acquires 10-month-old stealth AI startup Inferize in $100-150 million deal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Nuveen Completes Acquisition of Schroders PR Newswire",
+    "sourceName": "calcalistech.com",
+    "summary": "Nebius acquires 10-month-old stealth AI startup Inferize in $100-150 million deal calcalistech.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlJzb1g3bFhBOEoyQUlWSTZlSk9HaWRTbDhERkF5Ym0wcmtsZko2cEw3ay1BaE80R0l1aU9GUVo5VlU2eFFKekdHWE55ZTJiNWRaU1YtN0psb05DTEQ3OEx5SzgtTUp4TzcyYzlJeDZGeG1WY0lhRmVFb0VkSU4yZnV6M0o4OVlOeHNrejJGNUR6VXlEZjBmREhweVctQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oV2YtelJzTUxLeENOa2Nld3Z3WDhwbHpSd093WjUtbFE2TDZpWUFqeThfNkRiNENqTjB6RXhJaF9zNWV2QTQ3cmNMQU9ubnAzeFQyY3NVS0FmTDQ5OFZ3Zm04YksxeTRn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,13 +601,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6952adfd66f7",
+    "id": "news-0e40258e7c4a",
     "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T04:56:00+00:00",
-    "acquirer": "Lynas Rare Earths to",
-    "target": "Meteoric Resources in $672 Million Deal",
-    "headline": "Lynas Rare Earths to Buy Meteoric Resources in $672 Million Deal",
-    "valueBillions": 0.672,
+    "publishedISO": "2026-10-01T05:17:00+00:00",
+    "acquirer": "Malaysia Aviation Group signs deal to",
+    "target": "Airbus unit Sepang Aircraft Engineering",
+    "headline": "Malaysia Aviation Group signs deal to buy Airbus unit Sepang Aircraft Engineering",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -465,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Lynas Rare Earths to Buy Meteoric Resources in $672 Million Deal WSJ",
+    "sourceName": "Reuters",
+    "summary": "Malaysia Aviation Group signs deal to buy Airbus unit Sepang Aircraft Engineering Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeHl4XzhwNmR0Q3VSUG5XX01wTzFhS3l6QjFGZXpjdlMxNjdUZXZLZkRHM1YyazlJdDRpR3VRSGtRTVlGb1czQkhpaGFjUE1aMWdvU3NWNjl4YWZPa1AxNll4UDNjUFFTSFU4WkluYXc0SzVNaW1LOWwyWUZ0UzR4YmlOaVZ5MGQzV0pFWDhlVEMwdVNzZVhvWUo0T1FTZ1cweEc0?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGt6Y09DVTVXYkZqb1JkSzc2Qk5jWElRVHctak1UN2o1Q3ZrQkFSeXJjR3hienV1eTBELUlZbHJBSUV4SElKTUd3YUJrSmlfckR0T1Y0a2ZQMlF3WEtTc08wekZTRkV3N01XQXhBa0lFd2lUZUdsSEYtMXN5M2N3ODhkalpXUW1EQlhaanl0TkVFdWtmWHh2aVpQNDhsTGRBMUozLXR3RkpWU0t5Vk5abzIzLWNLNHdSbzRTMkx3d3RsSWdycTNrNUhWanU5TDg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,13 +676,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-660aaedd90d0",
-    "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T23:17:39+00:00",
-    "acquirer": "US judge approves settlement allowing Paramount to",
-    "target": "Warner Bros",
-    "headline": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-    "valueBillions": null,
+    "id": "news-69180defba04",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T00:41:00+00:00",
+    "acquirer": "Australia's Ampol to",
+    "target": "EV charging operator Evie Networks",
+    "headline": "Australia's Ampol to buy EV charging operator Evie Networks for $156 million",
+    "valueBillions": 0.156,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -540,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Al Jazeera",
-    "summary": "US judge approves settlement allowing Paramount to acquire Warner Bros Al Jazeera",
+    "sourceName": "Reuters",
+    "summary": "Australia's Ampol to buy EV charging operator Evie Networks for $156 million Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,12 +708,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWhYb3lUTExFQ3NKdTZtdXZBMjdrd0xtcWNPVXprU3RGbWtia3BFdUhzV0N3aHhFdmRYTUdQZXgxTkl2QlNYaTlSNGNTeXNMZExhNjMzNnV6emxWZmJzeUREdXc4c08tTjFDenZURUx1aEdEWXlpRjBsb0FNOU5YR3lxelB0X3BaVjc5a3VwRExVTFM1ejlBX1JrSWZHUnlRSnh5RjVRRDBjSnJJa01FTtIBtgFBVV95cUxQNU8teUdQekk1NGp2bVlJQXNMekk2RlVXZFFiQ2ZPR1B5c0puYjlfaFV3N29naWVxLVRHR1ZHYmg2TUdLMEY0MmMxaVFtS3I1WWRKTFJtc1N1SWpJTGRidWNmaEdKUkNTMnc3SjEyeWVzLVhnNE9MNGhhUTVsSVFXQkwwczJDdFVYMGs3QUo3ODhVdTVjQUphdU5SNktqMEtLZ0pJWVRZZjlsRE9rYTZNVzg5WXgzZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNU9pWEhkc0hsOUFjTmpaRklFeUVrcG9PczdtbHlLUmRqdm56cW11dm5NdzNUTDU2SndPLW16WGwxQmotMmdSazJaUXFma1h2ZnN3bW1xa2I5bTNQQ0hEcnpiUGJoS2Zza0NFM2pKQ2lmYWFzb0ZfNW1wZVB4ZWlBdDAyNkc3aHdmTnZWWVlYbUFCeVJuSE5IVWN1X1gyM1BSSFl1ODU0T0ZTVmpTcTM4RUxWMVYzNFN4QkdR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 30, 2026"
+        "date": "Oct 1, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1590,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AAR CORP.",
-    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings AAR CORP.",
+    "sourceName": "aarcorp.com",
+    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings aarcorp.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "montanafreepress.org",
-    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. montanafreepress.org",
+    "sourceName": "Montana Free Press",
+    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. Montana Free Press",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1834,81 +1984,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUVaOS1kXzFNNVgyc3ZZRGN2ekpnLWpPWW80aDlWTkRVOEY4aUNYMEVwS3R3MDloVkNmZTFlRFpIM0VJQVFlVVRNbFJ5c25YNnVrR3hzTFdteUVfNkFiM1dMLWVxS0hMeDVBbk1uT1BHX3hTSGR2R2EwaWZDdVM4WngwY08zTkJIZEFvd0hLZDgwMlJ6dXNpdm9VZTQtdUhEWlhWcGd3VE80MC01ZktGVVlycU4?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-746462b666e9",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T14:41:44+00:00",
-    "acquirer": "Guangzhou Automobile",
-    "target": "50% stake in FAW Toyota",
-    "headline": "Guangzhou Automobile plans to acquire 50% stake in FAW Toyota",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Guangzhou Automobile plans to acquire 50% stake in FAW Toyota Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMXlBQldWbHhBVmMxQkxRNGREQm92SDd2RlBhMG1BUjBQaDlEc19LQ01ua1NUNURIWXFuZDBBLXE4dDRXaWN4cnEzOEE3UHdnNHJjcm5UblpiTjVuWXRjaEE2b2V0enkyaFVwZjR2aGFxWTFPa1ltWjZIRzR1LW5Pam9ZX0xWX1VPc2libEJsdVRRUEVaS1NMai1jbGZJY2RVdXlDUklEOWtqcVNRRUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3NfZ1dXaGRROEdXcERsZjNZLVhPSU5KMERucGNwcDY0NmNtV2RNTFBGLU5jZTd4bWN5UFVVMFZ5bWxMUlRCYkZncTZpaTZ2Q0xjOUdDRUFrZEZjTHRtb2dKRnk3X0dFU05FUUpSMGNuNldkSXRpc0NXQVdLUFU1RTQ3al9DTlZVUWRDVDdyQVJGQkdCV1NYNGZGeGsxLW0wVEtlOG1sNnNfVVYyc3gtbE53UkZZNER4cl9Gd1Fmdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-933d320327f0",
-    "date": "September 25, 2026",
-    "publishedISO": "2026-09-25T10:45:00+00:00",
-    "acquirer": "Eaton signs agreement to",
-    "target": "COL Group, expanding manufacturing capacity and capabilities",
-    "headline": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA Business Wire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingJBVV95cUxOeHloaUhuNWFBNjE5bG1VaWtqeWctMXdyV2hvS1pVZzJCNWxXTjdfRnZiWk1LXzJxbUppbzdFZTlMVHB3eDVNc0xTaVBnU0w1X0RoU094NzJ3QnBFSElhVW9JaU5IeWw4YklsZ2Q2N3JnNXdxcE05eGZwcVQ5YllJazhBenc0VlJLY3NZUFdKV2lHMmR6LUFNQW1oQnFsUlBGWVQ3VEl5MV9ydW1wNmlFTGlVWU1zZzNIZlJQekc0V2JEODV3TldXeEpnWjFTUi1pUGhaYVpLcWRRdm91bU52WWh0aGJqb0xramxLMExSZF9ocTR3cFFVNHd6UUtRS056R1h2aEh2WUQzX0cyalNvRC1tSjQ5LWhtZTNJZ01B?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
