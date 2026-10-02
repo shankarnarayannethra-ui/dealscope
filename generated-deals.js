@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-8ae878a73a6d",
+    "date": "October 2, 2026",
+    "publishedISO": "2026-10-02T05:49:00+00:00",
+    "acquirer": "Italgas",
+    "target": "22.5% of Portugal's Floene",
+    "headline": "Italgas agrees to buy 22.5% of Portugal's Floene",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Italgas agrees to buy 22.5% of Portugal's Floene Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaU5NSGFqNEhSZFQxbDJtNzZxVGtXUnRrYUZ5bEdwbW5UQVZoNkdsUm1vY0stOS1qWEtUZkl2SmY0dXpScmlzdV95Y1Nzd0JHQnJ6dWZWS2QyVlZ5a01MWnZFMkluajNOT3RjREtiZndpbmdkdWpzcFZ2N2laa3g4bkhrZk4yQW95RGhDWFdpcWJ0UnJsV3c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-54240b546db0",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T22:25:00+00:00",
@@ -301,81 +376,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d747c2bf3586",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T14:01:00+00:00",
-    "acquirer": "Sargento",
-    "target": "La Terra Fina a Category Leader in Premium Dips, Spreads and Quiches",
-    "headline": "Sargento Acquires La Terra Fina a Category Leader in Premium Dips, Spreads and Quiches",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Sargento Acquires La Terra Fina a Category Leader in Premium Dips, Spreads and Quiches PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVldRREhlZjgzSmxmYUd0Z25TN05qbWtDeUJBMVlxSG1zczhHRW5mYlBEOERWOGNveEQ3UUdodDdfTDZSRWttMFVfRGZlbHkzczFpbzUtd0liWk80dW9YR0xJaU5aOFU0TlU0QmFFQmlDcTl5WXg5Wi1mVmRPRndJSHR6TkpNTmE3enBxZ1cwcHR0WC1PekNuZ3NyNkJSMUw4NmxxQWxUT2lkTVNFa2ZHXzU2cXN0UmFqaEVMUWgxRXNzNlNORnYwLWE0WGZIQ0xsN1d3SG1GMTc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ce6efbda08be",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T12:57:52+00:00",
@@ -526,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c10249d14a5d",
+    "id": "news-8d809e5fe2f8",
     "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T07:15:00+00:00",
-    "acquirer": "Inseego",
-    "target": "Nokia’s Fixed Wireless Access business",
-    "headline": "Inseego completes acquisition of Nokia’s Fixed Wireless Access business",
+    "publishedISO": "2026-10-01T09:53:51+00:00",
+    "acquirer": "Airbus",
+    "target": "Quarkslab, strengthens French sovereignty in cybersecurity",
+    "headline": "Airbus completes acquisition of Quarkslab, strengthens French sovereignty in cybersecurity",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Nokia",
-    "summary": "Inseego completes acquisition of Nokia’s Fixed Wireless Access business Nokia",
+    "sourceName": "Airbus",
+    "summary": "Airbus completes acquisition of Quarkslab, strengthens French sovereignty in cybersecurity Airbus",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNktQRFVkX2NXZnVkNVBVR3hKRzh2bnI5bW9fLWpjQWJBcENsd1diVV9NVWZLME1INV9mMVEyTkV1ZDE0eGs3QmYzVFp0di01cmpkaHk0cUJIcGtITnoyUFlySlpkU1ZlR2ZjcVkwanQ5QmQ3VDdsV2t2N0lJRGpfQWpadS1MbU9zTnBSOThWWXczekZUaTdUUC1MNlZkTlYyYkdGQw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb21FOF9ZeVlWQW1xYWJlWE1VODhVbXR0WnR3UHJtUFFkamRQN1gwcDk0dlVSRnJhUWl4NmpWZ3BZNVlSSldnTm0wd2N2b1JTajVRNHNjelozUjdnbEt5U3pBVXdLUF9RRl9XV1p1OG9ySkYxZl84ZElEXzVjaDhFakwyd1BmZmg4SzNCdnhjZXdOSGNnUUZyMWxMRzRxcF9adnBlT01KOU5tQVUwZlBST2pERGdlWjNhb3Z1bG9Jemo1SG82S3I3VzV4VTE0ajFtQkZqb1BWZEJtRU9CRDgzcQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0e40258e7c4a",
+    "id": "news-c10249d14a5d",
     "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T05:17:00+00:00",
-    "acquirer": "Malaysia Aviation Group signs deal to",
-    "target": "Airbus unit Sepang Aircraft Engineering",
-    "headline": "Malaysia Aviation Group signs deal to buy Airbus unit Sepang Aircraft Engineering",
+    "publishedISO": "2026-10-01T07:15:00+00:00",
+    "acquirer": "Inseego",
+    "target": "Nokia’s Fixed Wireless Access business",
+    "headline": "Inseego completes acquisition of Nokia’s Fixed Wireless Access business",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Malaysia Aviation Group signs deal to buy Airbus unit Sepang Aircraft Engineering Reuters",
+    "sourceName": "Nokia",
+    "summary": "Inseego completes acquisition of Nokia’s Fixed Wireless Access business Nokia",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGt6Y09DVTVXYkZqb1JkSzc2Qk5jWElRVHctak1UN2o1Q3ZrQkFSeXJjR3hienV1eTBELUlZbHJBSUV4SElKTUd3YUJrSmlfckR0T1Y0a2ZQMlF3WEtTc08wekZTRkV3N01XQXhBa0lFd2lUZUdsSEYtMXN5M2N3ODhkalpXUW1EQlhaanl0TkVFdWtmWHh2aVpQNDhsTGRBMUozLXR3RkpWU0t5Vk5abzIzLWNLNHdSbzRTMkx3d3RsSWdycTNrNUhWanU5TDg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNktQRFVkX2NXZnVkNVBVR3hKRzh2bnI5bW9fLWpjQWJBcENsd1diVV9NVWZLME1INV9mMVEyTkV1ZDE0eGs3QmYzVFp0di01cmpkaHk0cUJIcGtITnoyUFlySlpkU1ZlR2ZjcVkwanQ5QmQ3VDdsV2t2N0lJRGpfQWpadS1MbU9zTnBSOThWWXczekZUaTdUUC1MNlZkTlYyYkdGQw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8fa98a266efd",
+    "id": "news-76ea818bd25a",
     "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T12:00:00+00:00",
-    "acquirer": "Trading Technologies",
-    "target": "TRAFiX, Expanding Multi-Asset OEMS Coverage to Global Equities and Equity Options",
-    "headline": "Trading Technologies Acquires TRAFiX, Expanding Multi-Asset OEMS Coverage to Global Equities and Equity Options",
+    "publishedISO": "2026-09-30T16:44:09+00:00",
+    "acquirer": "Legal AI company Clio",
+    "target": "judge-focused startup to push into courts",
+    "headline": "Legal AI company Clio acquires judge-focused startup to push into courts",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Trading Technologies Acquires TRAFiX, Expanding Multi-Asset OEMS Coverage to Global Equities and Equity Options PR Newswire",
+    "sourceName": "Reuters",
+    "summary": "Legal AI company Clio acquires judge-focused startup to push into courts Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa0N6UU1lUDZUNWNhWGUyWElPQU1ZNXdCVlhGcHl0eW5jcVpUaDgxaTFmVDhlWXJMTzhGcDBZbXpoOVhMOHFDQTNjTFdLVUdudDN3QjBHOWtfcXh6dWlkNHFHeEpQUTFhTDc3b2hKMkJ1eEw1TWV6UjllQkRFUTRuaTR6X0hycXl0cXZYNW1KcUNhZV9hbzRZY2Y0UnUzQ0lLX1p0NC05NzljNzBNUU5CVVZyUjN6UVJ1TjEzQjRPRHhYTXJsaVJFdjdHRjNfR1lsaTF6czVkY25paGdBUUNqb3ZnZ2tVai1vOUVvWHhwNXRUakRZQTdmQk5n?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWh6QVJsQ2tVRFgzQmlSQlhoZ2RRaFFJcXEwUDE1ZEdjSTh5RmNfS1JYanJucnZvZG9CQlp5MVVyQkxIMUxYMkRTWHN4LVBhUm0ybXY0LWJ6ajR2MXl0b2ZIQkdMM2dJUFhXZW9HeHlhVFFnWTVoeTNtUWJhQWxOMXRGZTdLQ3ZlcFdvOWF0M085NTRybXZiUjBTQUdvQ05XQTdXWDJ4NlFLLVFEbHVKWmxaWVYyWncwWUlzcm44UFZMMFE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,13 +901,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7b11ae432d4a",
+    "id": "news-8fa98a266efd",
     "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T11:47:42+00:00",
-    "acquirer": "Hormel Foods to",
-    "target": "family-owned chicken firm Brakebush",
-    "headline": "Hormel Foods to buy family-owned chicken firm Brakebush for $1.06 billion",
-    "valueBillions": 1.06,
+    "publishedISO": "2026-09-30T12:00:00+00:00",
+    "acquirer": "Trading Technologies",
+    "target": "TRAFiX, Expanding Multi-Asset OEMS Coverage to Global Equities and Equity Options",
+    "headline": "Trading Technologies Acquires TRAFiX, Expanding Multi-Asset OEMS Coverage to Global Equities and Equity Options",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -915,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Hormel Foods to buy family-owned chicken firm Brakebush for $1.06 billion Reuters",
+    "sourceName": "PR Newswire",
+    "summary": "Trading Technologies Acquires TRAFiX, Expanding Multi-Asset OEMS Coverage to Global Equities and Equity Options PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,7 +933,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2J6NkxnTmhIcEZSM3hVNTRac2Q2dWRPVTRTamNvVkVsdkM1ZWNVcGFGUE5sdGRVaENNZkhXbW1zRl9MRkxVVk1PUUxsaGxUd25yUVFDWDVsaHF2V2dfVjd6R05YdWZnY1hJWmJVaGwzQTFXcHFSblZmMldTWDg0NmlQTnI3djNJa0NQdDJHZ3Z0bzdLQ3NScUpIVTJlbEMyNlhLajFn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa0N6UU1lUDZUNWNhWGUyWElPQU1ZNXdCVlhGcHl0eW5jcVpUaDgxaTFmVDhlWXJMTzhGcDBZbXpoOVhMOHFDQTNjTFdLVUdudDN3QjBHOWtfcXh6dWlkNHFHeEpQUTFhTDc3b2hKMkJ1eEw1TWV6UjllQkRFUTRuaTR6X0hycXl0cXZYNW1KcUNhZV9hbzRZY2Y0UnUzQ0lLX1p0NC05NzljNzBNUU5CVVZyUjN6UVJ1TjEzQjRPRHhYTXJsaVJFdjdHRjNfR1lsaTF6czVkY25paGdBUUNqb3ZnZ2tVai1vOUVvWHhwNXRUakRZQTdmQk5n?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1278,7 +1278,7 @@ window.generatedDeals = [
   {
     "id": "news-eeaca26271bb",
     "date": "September 29, 2026",
-    "publishedISO": "2026-09-29T13:50:00+00:00",
+    "publishedISO": "2026-09-29T13:51:30+00:00",
     "acquirer": "Exclusive | Piper Sandler Holds Talks to",
     "target": "Perella Weinberg",
     "headline": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg",
@@ -1653,7 +1653,7 @@ window.generatedDeals = [
   {
     "id": "news-011e6141bd27",
     "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T21:48:24+00:00",
+    "publishedISO": "2026-09-28T21:34:00+00:00",
     "acquirer": "AMD to",
     "target": "World Labs",
     "headline": "AMD to Acquire World Labs for $8.2 Billion",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "aarcorp.com",
-    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings aarcorp.com",
+    "sourceName": "AAR CORP.",
+    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings AAR CORP.",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1759,81 +1759,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMzFQRHFpeHVLQ0tzdk0tVjBIWVVoVjUwS1VkeTRpd21kMTBsNldlSl9Wc24xN2VIMzBjMF9VT01vb28wNnZGTWRUcGpnTkxGXzlURnB5T0FsSEdRTzhTeUtRN0VvMzJlalRZTDl5SC16c3RUd1h5TEFhTnlUcXg5TzNCUHYzdVBQOTlQdUtucXRWRFFYNXotalYwdW1hNEpwbGhOdW9mc09SMFZ1OHdiWTg4RzRhTVN0WEVIZXVscjJrQTRTcVZVRWJoTFdISFdXOXFuNzFPYnpKNVF4UzY5T0Q3MmRpRWdRNVZMcEc2LTZVejhrYjU0Z0U4ejA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-61295576a3e7",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T20:05:00+00:00",
-    "acquirer": "AMD to",
-    "target": "Fei-Fei Li’s World Labs AI Startup",
-    "headline": "AMD to Buy Fei-Fei Li’s World Labs AI Startup for $8.2 Billion",
-    "valueBillions": 8.2,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "AMD to Buy Fei-Fei Li’s World Labs AI Startup for $8.2 Billion Bloomberg.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZW1PMmt1Q2c4TzNIaDNIbEs2TWQ3V0xQc1F6QXpzdHdHalpEWlk5ZlhoYnVHVXlsUGdmRm1Fd05aek1UdGFWT2dTZmFBUk9HZDAtRE85NFEwWXhnaHFqdWdSNzkzbWFMUWRxaDQ1VU4tblBrSFhRYkR3VEltUnhtMlI3dmhkcDE5OEx5T2l3RjZ6amdzVFhyeXE1Z2ZTQ0liUVFlREVzZU52THFDM29XSXpB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1984,6 +1909,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUVaOS1kXzFNNVgyc3ZZRGN2ekpnLWpPWW80aDlWTkRVOEY4aUNYMEVwS3R3MDloVkNmZTFlRFpIM0VJQVFlVVRNbFJ5c25YNnVrR3hzTFdteUVfNkFiM1dMLWVxS0hMeDVBbk1uT1BHX3hTSGR2R2EwaWZDdVM4WngwY08zTkJIZEFvd0hLZDgwMlJ6dXNpdm9VZTQtdUhEWlhWcGd3VE80MC01ZktGVVlycU4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7dc56f91eb11",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T14:27:31+00:00",
+    "acquirer": "Why It’s Cheaper for Louisiana to",
+    "target": "Fertilizer Ingredients from Peru Than Florida",
+    "headline": "Why It’s Cheaper for Louisiana to Buy Fertilizer Ingredients from Peru Than Florida",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "cato.org",
+    "summary": "Why It’s Cheaper for Louisiana to Buy Fertilizer Ingredients from Peru Than Florida cato.org",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbklhY29LTld3RVpxUUVsVjNtekRaaDVXRS1XV0xhNWlBMVVPNThkVFVxb3lpNnlNeXFIdjVCZDdJSHp1aEg0Zmc0eDYycWthUlhNOWExenF4bmpqUXdtSkIyR2wwWFQ3QzBDdTN4MHc5TXRxcVdtV1U4alE2VHRTMmhCSnN4bldPdVVCVWlxLXh5MTZvTUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
