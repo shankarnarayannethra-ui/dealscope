@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-8ae878a73a6d",
-    "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T05:49:00+00:00",
-    "acquirer": "Italgas",
-    "target": "22.5% of Portugal's Floene",
-    "headline": "Italgas agrees to buy 22.5% of Portugal's Floene",
+    "id": "news-0ddde3df4d98",
+    "date": "October 3, 2026",
+    "publishedISO": "2026-10-03T02:27:00+00:00",
+    "acquirer": "Winooski Valley Park District",
+    "target": "Charlie’s Boathouse property",
+    "headline": "Winooski Valley Park District acquires Charlie’s Boathouse property",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Italgas agrees to buy 22.5% of Portugal's Floene Reuters",
+    "sourceName": "WCAX",
+    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property WCAX",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaU5NSGFqNEhSZFQxbDJtNzZxVGtXUnRrYUZ5bEdwbW5UQVZoNkdsUm1vY0stOS1qWEtUZkl2SmY0dXpScmlzdV95Y1Nzd0JHQnJ6dWZWS2QyVlZ5a01MWnZFMkluajNOT3RjREtiZndpbmdkdWpzcFZ2N2laa3g4bkhrZk4yQW95RGhDWFdpcWJ0UnJsV3c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjNpRExaeVBqWUtpUXBNZzRnMEo0c0xOQzRjbE5UTTZXWkdWTTBVZWl0TDNlbGNoVm9vTVVPc3Etc0xFempjTHhLdm1ONXZCZU81MFZ5VTF4MzVwVDEyZ2VwRzd6QXZRVHN5TXVGNVZDMmN1SFhuME1taEZpUzVEY0ZXY2g1aC1QRUxOSHdTNVRXOW5qaWZnMnJ0b3VrUmtp?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 2, 2026"
+        "date": "Oct 3, 2026"
       },
       {
         "stage": "Terms verified",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2bf7ea130be4",
+    "id": "news-d14562b8216d",
     "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T20:08:15+00:00",
-    "acquirer": "Henkel successfully",
-    "target": "specialty coatings company Stahl",
-    "headline": "Henkel successfully closes acquisition of specialty coatings company Stahl",
+    "publishedISO": "2026-10-01T13:01:51+00:00",
+    "acquirer": "Update: Zurich Insurance",
+    "target": "Beazley, Names New Beazley CEO",
+    "headline": "Update: Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Henkel",
-    "summary": "Henkel successfully closes acquisition of specialty coatings company Stahl Henkel",
+    "sourceName": "Insurance Journal",
+    "summary": "Update: Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO Insurance Journal",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObld6M21zRzdGS2VKV0pKV0NMMzJFZ215eC11WktVZkNVX0Z5QmZaYnc0aDdIV2QybnpsbFB4eXowbG90NkRxVDNYXzdqM0dpcVVGdjFDWTZETHhzdW9MVm9laWdUX0pfWWh4akxTcHJKeGxCaDVpaXBJQU1lQkVQazhZcDVRS1psZFU3bWJjaXV0b0xySUlldG1YUE1RVkNSVDhpejhvbEROZ3M2RmhKWnJnTjVlUlNSclFra0s0TDJhM1ljaVBCMWdZZEwzMkFDSmtKYWtzcnpLb1djdFJJd3ZPQldCSTRNNDNEYg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iaFh1WTVoc0lhU3VkRjRyaWt6RjkweEQ4dENLSWVtM2djY2xNVnlUcFNiS0VPbmo2TWFGaTlFemlXMmhGaC1xaFVVVnh0WENNTWQ0c1dRNkZGZzVoUkNYRlR1VXZLNVRWdVdfMVBuUW5fNnZCWE1mOVVLaFFTQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AAR CORP.",
-    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings AAR CORP.",
+    "sourceName": "aarcorp.com",
+    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings aarcorp.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "VisionMonday.com",
-    "summary": "MyEyeDr. Announces Deal to Acquire EyeCare Partners Optometry Division VisionMonday.com",
+    "sourceName": "visionmonday.com",
+    "summary": "MyEyeDr. Announces Deal to Acquire EyeCare Partners Optometry Division visionmonday.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "DC Rainmaker",
-    "summary": "Garmin's Acquires Moxy, and Garmin Gets Sued DC Rainmaker",
+    "sourceName": "dcrainmaker.com",
+    "summary": "Garmin's Acquires Moxy, and Garmin Gets Sued dcrainmaker.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
