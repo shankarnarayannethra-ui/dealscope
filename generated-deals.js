@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WCAX",
-    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property WCAX",
+    "sourceName": "wcax.com",
+    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property wcax.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-29a5fdb95d3b",
+    "id": "news-008b8ad27241",
     "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T20:35:00+00:00",
-    "acquirer": "Federal Realty",
-    "target": "The Summit, Alabama's Premier Retail Destination",
-    "headline": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination",
+    "publishedISO": "2026-10-01T13:01:51+00:00",
+    "acquirer": "Zurich Insurance",
+    "target": "Beazley, Names New Beazley CEO",
+    "headline": "Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination PR Newswire",
+    "sourceName": "insurancejournal.com",
+    "summary": "Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO insurancejournal.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHhaM0NoYWFTc2h4QjJKOFo2NzdRUm5xRU9zMFNmbVMtS1BENVVHMjREdUpnYXZRLXBmb2NINGNhaHV1akZXTHJIU3JWOGgtVGFHNS1ta2VJMTB6b3EtZjFLSUkzaDI3QWx6aGY1d21FR0pyUzNvakVaRWlUa3h6VzAtT1dzWXUzZ3MxZWY0Sl9xaThmLUVUOUFGSlc2RTZIWHpNazc0a2xrYjNsczRSYnJndXRWaEZVLXV3MTlCR2w4a29j?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iaFh1WTVoc0lhU3VkRjRyaWt6RjkweEQ4dENLSWVtM2djY2xNVnlUcFNiS0VPbmo2TWFGaTlFemlXMmhGaC1xaFVVVnh0WENNTWQ0c1dRNkZGZzVoUkNYRlR1VXZLNVRWdVdfMVBuUW5fNnZCWE1mOVVLaFFTQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Nebius",
-    "summary": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack Nebius",
+    "sourceName": "nebius.com",
+    "summary": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack nebius.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "aarcorp.com",
-    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings aarcorp.com",
+    "sourceName": "AAR CORP.",
+    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings AAR CORP.",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Montana Free Press",
-    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. Montana Free Press",
+    "sourceName": "montanafreepress.org",
+    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. montanafreepress.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Cato Institute",
-    "summary": "Why It’s Cheaper for Louisiana to Buy Fertilizer Ingredients from Peru Than Florida Cato Institute",
+    "sourceName": "cato.org",
+    "summary": "Why It’s Cheaper for Louisiana to Buy Fertilizer Ingredients from Peru Than Florida cato.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
