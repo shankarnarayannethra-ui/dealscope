@@ -1,7 +1,7 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-0ddde3df4d98",
+    "id": "news-332e24701dbf",
     "date": "October 3, 2026",
     "publishedISO": "2026-10-03T02:27:00+00:00",
     "acquirer": "Winooski Valley Park District",
@@ -33,12 +33,162 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjNpRExaeVBqWUtpUXBNZzRnMEo0c0xOQzRjbE5UTTZXWkdWTTBVZWl0TDNlbGNoVm9vTVVPc3Etc0xFempjTHhLdm1ONXZCZU81MFZ5VTF4MzVwVDEyZ2VwRzd6QXZRVHN5TXVGNVZDMmN1SFhuME1taEZpUzVEY0ZXY2g1aC1QRUxOSHdTNVRXOW5qaWZnMnJ0b3VrUmtp?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjNpRExaeVBqWUtpUXBNZzRnMEo0c0xOQzRjbE5UTTZXWkdWTTBVZWl0TDNlbGNoVm9vTVVPc3Etc0xFempjTHhLdm1ONXZCZU81MFZ5VTF4MzVwVDEyZ2VwRzd6QXZRVHN5TXVGNVZDMmN1SFhuME1taEZpUzVEY0ZXY2g1aC1QRUxOSHdTNVRXOW5qaWZnMnJ0b3VrUmtp0gG0AUFVX3lxTFBJXzk1NFVhRUw4TUdtZHM0SGVHNmFybXFISGJOVi1QVFZ2dzdYV0NZV1VOQXNtaFdQZ3ZyUnBFSXRZTTBQSVd3SE9HbzdfX25DNDRtOGFFeFViSmZMLWZ1UmY2NF9fa2RCMXlLLUUySnZqcUNpa1hDM0VET2dJM1pnbG1RMkoyeVNDb3lNSWNEZGhLVjNWSUN3WmRCcHRLUGp3dVA2ZjB3S0FDTVowSXIwaF9wdQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e0aedca406c9",
+    "date": "October 2, 2026",
+    "publishedISO": "2026-10-02T09:06:34+00:00",
+    "acquirer": "Magna-ificent! Rauner Library",
+    "target": "Magna Carta manuscript",
+    "headline": "Magna-ificent! Rauner Library acquires Magna Carta manuscript",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Dartmouth",
+    "summary": "Magna-ificent! Rauner Library acquires Magna Carta manuscript The Dartmouth",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalZxWDNoc0gwQ0VPSEM5RlpUM216eFFnMmtfNEVaOG0wc0lQSE5PVi1SbU9PQmhXR3ZUa1ZfaWUydmNadF9MWGtPUVlHMGFjd1JJRHU4d2tSeTUwQm9UOFF5Q2lQVWdmc0xYSzg5YnRIMjRoZmFrMXpVb29mbE9ZcEN0bDVoRkxKaWpWdk8zTEhQN2FnODllU1VRcEJ1NWNzallubkUzQUQxVnlIakEtcXd0RQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8ae878a73a6d",
+    "date": "October 2, 2026",
+    "publishedISO": "2026-10-02T05:49:00+00:00",
+    "acquirer": "Italgas",
+    "target": "22.5% of Portugal's Floene",
+    "headline": "Italgas agrees to buy 22.5% of Portugal's Floene",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Italgas agrees to buy 22.5% of Portugal's Floene Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaU5NSGFqNEhSZFQxbDJtNzZxVGtXUnRrYUZ5bEdwbW5UQVZoNkdsUm1vY0stOS1qWEtUZkl2SmY0dXpScmlzdV95Y1Nzd0JHQnJ6dWZWS2QyVlZ5a01MWnZFMkluajNOT3RjREtiZndpbmdkdWpzcFZ2N2laa3g4bkhrZk4yQW95RGhDWFdpcWJ0UnJsV3c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 2, 2026"
       },
       {
         "stage": "Terms verified",
@@ -184,81 +334,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHhaM0NoYWFTc2h4QjJKOFo2NzdRUm5xRU9zMFNmbVMtS1BENVVHMjREdUpnYXZRLXBmb2NINGNhaHV1akZXTHJIU3JWOGgtVGFHNS1ta2VJMTB6b3EtZjFLSUkzaDI3QWx6aGY1d21FR0pyUzNvakVaRWlUa3h6VzAtT1dzWXUzZ3MxZWY0Sl9xaThmLUVUOUFGSlc2RTZIWHpNazc0a2xrYjNsczRSYnJndXRWaEZVLXV3MTlCR2w4a29j?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d14562b8216d",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T13:01:51+00:00",
-    "acquirer": "Update: Zurich Insurance",
-    "target": "Beazley, Names New Beazley CEO",
-    "headline": "Update: Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Insurance Journal",
-    "summary": "Update: Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO Insurance Journal",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iaFh1WTVoc0lhU3VkRjRyaWt6RjkweEQ4dENLSWVtM2djY2xNVnlUcFNiS0VPbmo2TWFGaTlFemlXMmhGaC1xaFVVVnh0WENNTWQ0c1dRNkZGZzVoUkNYRlR1VXZLNVRWdVdfMVBuUW5fNnZCWE1mOVVLaFFTQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -634,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNktQRFVkX2NXZnVkNVBVR3hKRzh2bnI5bW9fLWpjQWJBcENsd1diVV9NVWZLME1INV9mMVEyTkV1ZDE0eGs3QmYzVFp0di01cmpkaHk0cUJIcGtITnoyUFlySlpkU1ZlR2ZjcVkwanQ5QmQ3VDdsV2t2N0lJRGpfQWpadS1MbU9zTnBSOThWWXczekZUaTdUUC1MNlZkTlYyYkdGQw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-69180defba04",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T00:41:00+00:00",
-    "acquirer": "Australia's Ampol to",
-    "target": "EV charging operator Evie Networks",
-    "headline": "Australia's Ampol to buy EV charging operator Evie Networks for $156 million",
-    "valueBillions": 0.156,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Australia's Ampol to buy EV charging operator Evie Networks for $156 million Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNU9pWEhkc0hsOUFjTmpaRklFeUVrcG9PczdtbHlLUmRqdm56cW11dm5NdzNUTDU2SndPLW16WGwxQmotMmdSazJaUXFma1h2ZnN3bW1xa2I5bTNQQ0hEcnpiUGJoS2Zza0NFM2pKQ2lmYWFzb0ZfNW1wZVB4ZWlBdDAyNkc3aHdmTnZWWVlYbUFCeVJuSE5IVWN1X1gyM1BSSFl1ODU0T0ZTVmpTcTM4RUxWMVYzNFN4QkdR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "visionmonday.com",
-    "summary": "MyEyeDr. Announces Deal to Acquire EyeCare Partners Optometry Division visionmonday.com",
+    "sourceName": "VisionMonday.com",
+    "summary": "MyEyeDr. Announces Deal to Acquire EyeCare Partners Optometry Division VisionMonday.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "dcrainmaker.com",
-    "summary": "Garmin's Acquires Moxy, and Garmin Gets Sued dcrainmaker.com",
+    "sourceName": "DC Rainmaker",
+    "summary": "Garmin's Acquires Moxy, and Garmin Gets Sued DC Rainmaker",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
