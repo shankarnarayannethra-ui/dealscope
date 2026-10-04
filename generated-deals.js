@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wcax.com",
-    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property wcax.com",
+    "sourceName": "WCAX",
+    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property WCAX",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nebius.com",
-    "summary": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack nebius.com",
+    "sourceName": "Nebius",
+    "summary": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack Nebius",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1876,6 +1876,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-449509bfdefb",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T20:07:14+00:00",
+    "acquirer": "AMD to",
+    "target": "World Labs to Advance the Future of AI Compute",
+    "headline": "AMD to Acquire World Labs to Advance the Future of AI Compute",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "AMD",
+    "summary": "AMD to Acquire World Labs to Advance the Future of AI Compute AMD",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03cWFxdDlaSmpGNDJ1R2V6bEJBN1hybUQyamQtd2RaUmlKMFpEb3lWcDRLdUhvMHVRUnFmbkdNVzRkenI2QXB4SUgwakVSbWxfMS1VcUs2WHVCa1Bxa0lHOFpoTQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-baa0832f1fd0",
     "date": "September 28, 2026",
     "publishedISO": "2026-09-28T18:34:24+00:00",
@@ -1965,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Valley National Bank to acquire fintech Bluevine for $340M Banking Dive",
+    "sourceName": "bankingdive.com",
+    "summary": "Valley National Bank to acquire fintech Bluevine for $340M bankingdive.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,81 +2134,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbklhY29LTld3RVpxUUVsVjNtekRaaDVXRS1XV0xhNWlBMVVPNThkVFVxb3lpNnlNeXFIdjVCZDdJSHp1aEg0Zmc0eDYycWthUlhNOWExenF4bmpqUXdtSkIyR2wwWFQ3QzBDdTN4MHc5TXRxcVdtV1U4alE2VHRTMmhCSnN4bldPdVVCVWlxLXh5MTZvTUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-93707a18c416",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T13:00:00+00:00",
-    "acquirer": "MyEyeDr. Announces Deal to",
-    "target": "EyeCare Partners Optometry Division",
-    "headline": "MyEyeDr. Announces Deal to Acquire EyeCare Partners Optometry Division",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "VisionMonday.com",
-    "summary": "MyEyeDr. Announces Deal to Acquire EyeCare Partners Optometry Division VisionMonday.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmNBT1dOeFZuYUw4NjdubjBqektTbTlnVFRIWGo0ckZzTjhUVzlmd21lUFB1c1B4UEhhbnV1dTctMXF2OXdHU1pQbFducm9QVkZMbm42MkxMTXRzYnZEUnlQMkN1YWVIVHUyWlVIR09NSFlrc1lULUZrTmt3NVA0ZGlEM3k0UXV1MGpCREV4b244RlJvUmdDaFNONmtScGliOU1pUHlsdTB5NDdyY3VSSWlKckdSOGs?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
