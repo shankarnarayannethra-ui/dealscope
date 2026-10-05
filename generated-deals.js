@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-f3f27ac85f5e",
+    "date": "October 4, 2026",
+    "publishedISO": "2026-10-04T19:46:00+00:00",
+    "acquirer": "France's Schneider Electric nears $20 billion deal to",
+    "target": "US software group PTC, source says",
+    "headline": "France's Schneider Electric nears $20 billion deal to acquire US software group PTC, source says",
+    "valueBillions": 20.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "France's Schneider Electric nears $20 billion deal to acquire US software group PTC, source says Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDYwbWo2TEdHQ1hRMWtvbWpHMGkwV1BfRmRNTUlfM0NfTFFQUzNyYXRJTEVGbHFLV28wZFl2WDF3d1JCZENIbExEZVE0SDJnelhla1V2azdUcFZSRUIyLVByMjBFRTQ4TGluUGE1N2g2MVRNeEhfX2diQ3JXTGcxOU5qM252VE5RWENadzR0SXl0bDFaUWlHbmZoOWVWXzNTOEY3cXFVQmxkMWtrU05ueHRWMG9pYlVZdG1XajZUcw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-332e24701dbf",
     "date": "October 3, 2026",
     "publishedISO": "2026-10-03T02:27:00+00:00",
@@ -15,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WCAX",
-    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property WCAX",
+    "sourceName": "wcax.com",
+    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property wcax.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6a58e2ec93c9",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T22:18:00+00:00",
-    "acquirer": "Samsonite Group",
-    "target": "BÉIS",
-    "headline": "Samsonite Group Completes Acquisition of BÉIS",
+    "id": "news-f233df5f390e",
+    "date": "October 2, 2026",
+    "publishedISO": "2026-10-02T04:48:52+00:00",
+    "acquirer": "Stripe",
+    "target": "Embedded Finance Platform Parafin",
+    "headline": "Stripe Agrees to Acquire Embedded Finance Platform Parafin",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Samsonite Group Completes Acquisition of BÉIS PR Newswire",
+    "sourceName": "Finovate",
+    "summary": "Stripe Agrees to Acquire Embedded Finance Platform Parafin Finovate",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,87 +258,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU5mZVJkQk1LdEh4LVh5bzZRcWY1QldoVEVSc0NFY0dHSHR0NlF2YjdnUlFPOUZkTGlaODN2YXdVWklxMEN0cjd3Q2EyTW81R01HWjYxUlluZENsWUY4SVlMUkdQbFhsazlFM09vR2JuNzFpSnNNZVMyRGJhYW52d2pTM2pGUzhjTl9KdnJzczFNOTFHRmZDRmhCVTMyc09ROWZB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNajQtMml1OVlOM29sUU02S1RfWmRFN1FWeG53TGoySm1ieWpvNEJYUGZSdVdPU0hDbm00cGpsU3pBMHJKVS1lZFg4Ym1KWl9OcmlQV3E1ZTZiSDc2bllNZURmdUVrMFRVSXVKT2c5NmRpNG1raFBpS21DOW96cF9femI5c0pic2M?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-29a5fdb95d3b",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T20:35:00+00:00",
-    "acquirer": "Federal Realty",
-    "target": "The Summit, Alabama's Premier Retail Destination",
-    "headline": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Federal Realty Acquires The Summit, Alabama's Premier Retail Destination PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHhaM0NoYWFTc2h4QjJKOFo2NzdRUm5xRU9zMFNmbVMtS1BENVVHMjREdUpnYXZRLXBmb2NINGNhaHV1akZXTHJIU3JWOGgtVGFHNS1ta2VJMTB6b3EtZjFLSUkzaDI3QWx6aGY1d21FR0pyUzNvakVaRWlUa3h6VzAtT1dzWXUzZ3MxZWY0Sl9xaThmLUVUOUFGSlc2RTZIWHpNazc0a2xrYjNsczRSYnJndXRWaEZVLXV3MTlCR2w4a29j?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
+        "date": "Oct 2, 2026"
       },
       {
         "stage": "Terms verified",
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Insurance Journal",
-    "summary": "Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO Insurance Journal",
+    "sourceName": "insurancejournal.com",
+    "summary": "Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO insurancejournal.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Caterpillar Inc",
-    "summary": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership Caterpillar Inc",
+    "sourceName": "Caterpillar",
+    "summary": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership Caterpillar",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Montana Free Press",
-    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. Montana Free Press",
+    "sourceName": "montanafreepress.org",
+    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. montanafreepress.org",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "bankingdive.com",
-    "summary": "Valley National Bank to acquire fintech Bluevine for $340M bankingdive.com",
+    "sourceName": "Banking Dive",
+    "summary": "Valley National Bank to acquire fintech Bluevine for $340M Banking Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
