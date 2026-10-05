@@ -1,13 +1,88 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-f3f27ac85f5e",
-    "date": "October 4, 2026",
-    "publishedISO": "2026-10-04T19:46:00+00:00",
-    "acquirer": "France's Schneider Electric nears $20 billion deal to",
-    "target": "US software group PTC, source says",
-    "headline": "France's Schneider Electric nears $20 billion deal to acquire US software group PTC, source says",
-    "valueBillions": 20.0,
+    "id": "news-6c1033e85675",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T08:47:00+00:00",
+    "acquirer": "Schneider Electric to",
+    "target": "Software Maker PTC",
+    "headline": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
+    "valueBillions": 22.6,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW90UWZMU2VUcHRXb2NZa3NpbTdqZUVfTXFTcGdFa2dYZkpRS0l0UXVzT25DTU53Z25aSUo5V250VzBTVGNLS01WZUprRGU3emdQNlhaRUN6VHVqLWZtYktRc3M4YnBPUlVVa002MkRLanVvY2gtODQ0UmRtbDRzTmFXTVQyY3VSdktYeWQyT3dBQlJvVVBMd3VYNnQtcTNvRF90S0RTN18?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-de877a4de6d1",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T05:18:00+00:00",
+    "acquirer": "Schneider Electric to",
+    "target": "PTC",
+    "headline": "Schneider Electric to buy PTC for $22.6 billion in all-cash deal",
+    "valueBillions": 22.6,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -16,7 +91,82 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "France's Schneider Electric nears $20 billion deal to acquire US software group PTC, source says Reuters",
+    "summary": "Schneider Electric to buy PTC for $22.6 billion in all-cash deal Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeExJYlhManRON3VrYTRCN2theEpVWGZZWVQ2OW8xZF9ES2N4WGN1XzN6QjRVVEloSnlXUEpuUENaMkdXVDFBRWRrakt0T0h4Tnpwc1YtQ005NkRUMDdjcE9WcjAyb0M5SHdQdVFESm04WFZpM2tpNkRPV1NKQjZXM01YdFdHVnVJZjBhUThYMXBIQW5aYlU4dUk5aU5PNGUzbDJ1OHdoSUZaXzgz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ac646a951939",
+    "date": "October 4, 2026",
+    "publishedISO": "2026-10-04T19:46:00+00:00",
+    "acquirer": "Schneider Electric to",
+    "target": "US software firm PTC in $22.6 billion deal",
+    "headline": "Schneider Electric to buy US software firm PTC in $22.6 billion deal",
+    "valueBillions": 22.6,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Schneider Electric to buy US software firm PTC in $22.6 billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -90,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wcax.com",
-    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property wcax.com",
+    "sourceName": "WCAX",
+    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property WCAX",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -114,6 +264,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a336f4258aea",
+    "date": "October 2, 2026",
+    "publishedISO": "2026-10-02T15:24:57+00:00",
+    "acquirer": "Brown, Casar Demand Answers on FBI’s",
+    "target": "Mass Surveillance Systems, Including Flock Cameras",
+    "headline": "Brown, Casar Demand Answers on FBI’s Plan to Buy Mass Surveillance Systems, Including Flock Cameras",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Representative Shontel Brown | (.gov)",
+    "summary": "Brown, Casar Demand Answers on FBI’s Plan to Buy Mass Surveillance Systems, Including Flock Cameras Representative Shontel Brown | (.gov)",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHpVSWlNaHU0MTVRaTYtZkxnY1ZJTXNHV0V2YThvZnUyUloxTXFpZ0Jhb09iMVo5SUFvb0VSTm5aQ19vMmZxUGZKTlVTNW9wQm5ET0JlZ2lFdEgzUWVtajc2eU1IU0g5dm0zMGRsaGlQaXdvM1pfY25VSzE1bU5OMmZoaGJWM0wxY3BUTEl4cTYxbGlxRzlybk0ycDl4ZDhtWWFLQWZFdHlBblZuOVlWdjV6MjlsOF90UG9tYnRyTFR3dWJHNE9N?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 2, 2026"
       },
       {
         "stage": "Terms verified",
@@ -226,81 +451,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f233df5f390e",
-    "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T04:48:52+00:00",
-    "acquirer": "Stripe",
-    "target": "Embedded Finance Platform Parafin",
-    "headline": "Stripe Agrees to Acquire Embedded Finance Platform Parafin",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Finovate",
-    "summary": "Stripe Agrees to Acquire Embedded Finance Platform Parafin Finovate",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNajQtMml1OVlOM29sUU02S1RfWmRFN1FWeG53TGoySm1ieWpvNEJYUGZSdVdPU0hDbm00cGpsU3pBMHJKVS1lZFg4Ym1KWl9OcmlQV3E1ZTZiSDc2bllNZURmdUVrMFRVSXVKT2c5NmRpNG1raFBpS21DOW96cF9femI5c0pic2M?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-008b8ad27241",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T13:01:51+00:00",
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "insurancejournal.com",
-    "summary": "Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO insurancejournal.com",
+    "sourceName": "Insurance Journal",
+    "summary": "Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO Insurance Journal",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -409,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmpiZkVBSTJfOHViU0U2ZWpKRkx6VVpvZzVtNEp3ajJjeURnclM2SXVhY1kzeGt2aHhibGtEQXpzazkwYVptNDlJQTJ5aEVoOE8ybmg2MjZmUXVPWExLcGVzam4yOG1LR2V3WHludUxFMjBHVUFHZGN1clE5VDg3MXYzNWl5NWtTaC0zN3JkUGZNR1VWTHNBV2xZZXo4ak9lb0J6dkVFS3JfbjZ3NzlFUzgwQkFOZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5329d15d16fa",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T12:30:00+00:00",
-    "acquirer": "Bose Corporation",
-    "target": "Firelight Technologies",
-    "headline": "Bose Corporation Announces Acquisition of Firelight Technologies",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Bose Corporation Announces Acquisition of Firelight Technologies PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBEUEZiSDVPMXVMY1hVODEwQUpXM1VGNnJpVEZJUEJJS1owTGlEQm5pRnB1R0hRX0o0cURjazdRVDU4YmEwdy1ZdmJ6dm1GcmgtTl9KZjNoendLU3dMLVFTX2YxOC0yLURFT3NSVFU4LWplZnZzMmhwOWF6SWt1NUJnYmgxMG5OcnlQSmw4QkstVnQyMnJSQ3VveXBlX1VxOUx1R2lVMkItQW1NLWwyZWpoajVROF9ZTzRpUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -714,6 +789,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-912fe0a138cd",
+    "date": "September 30, 2026",
+    "publishedISO": "2026-09-30T23:40:00+00:00",
+    "acquirer": "Australia's Lynas Rare Earths to",
+    "target": "Meteoric Resources",
+    "headline": "Australia's Lynas Rare Earths to buy Meteoric Resources for $672 million",
+    "valueBillions": 0.672,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Australia's Lynas Rare Earths to buy Meteoric Resources for $672 million Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHB6aGY3Q29Ea0NidEwtMC1QY0swbk9uY1gzU3NrVHlIR1JlVUR2UmhTa1oxVFBLYUNkaXhNa1ZQWkVyWGF1MS15M0I5bjJhcGQwNGVjSGQ1N3ZEajRIdzhRV25nUWE3XzkwUTlKZ2RBOThGdy1KRnF3akpBTVE1R3lGWmhtMjVXbFh6Rm4zZEZ5LTRIZk1BXzI3YVB0MkVlVWNOcnJrTWJVd0RST1VMaGxUdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 30, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1965,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "montanafreepress.org",
-    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. montanafreepress.org",
+    "sourceName": "Montana Free Press",
+    "summary": "Lee Enterprises acquires Great Falls Tribune from USA Today Co. Montana Free Press",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUVaOS1kXzFNNVgyc3ZZRGN2ekpnLWpPWW80aDlWTkRVOEY4aUNYMEVwS3R3MDloVkNmZTFlRFpIM0VJQVFlVVRNbFJ5c25YNnVrR3hzTFdteUVfNkFiM1dMLWVxS0hMeDVBbk1uT1BHX3hTSGR2R2EwaWZDdVM4WngwY08zTkJIZEFvd0hLZDgwMlJ6dXNpdm9VZTQtdUhEWlhWcGd3VE80MC01ZktGVVlycU4?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7dc56f91eb11",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T14:27:31+00:00",
-    "acquirer": "Why It’s Cheaper for Louisiana to",
-    "target": "Fertilizer Ingredients from Peru Than Florida",
-    "headline": "Why It’s Cheaper for Louisiana to Buy Fertilizer Ingredients from Peru Than Florida",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cato Institute",
-    "summary": "Why It’s Cheaper for Louisiana to Buy Fertilizer Ingredients from Peru Than Florida Cato Institute",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbklhY29LTld3RVpxUUVsVjNtekRaaDVXRS1XV0xhNWlBMVVPNThkVFVxb3lpNnlNeXFIdjVCZDdJSHp1aEg0Zmc0eDYycWthUlhNOWExenF4bmpqUXdtSkIyR2wwWFQ3QzBDdTN4MHc5TXRxcVdtV1U4alE2VHRTMmhCSnN4bldPdVVCVWlxLXh5MTZvTUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-60f59a85c89a",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T12:23:18+00:00",
-    "acquirer": "Garmin's",
-    "target": "Moxy, and Garmin Gets Sued",
-    "headline": "Garmin's Acquires Moxy, and Garmin Gets Sued",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "DC Rainmaker",
-    "summary": "Garmin's Acquires Moxy, and Garmin Gets Sued DC Rainmaker",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzlPQlc4NFNsVnNodmlQalB3OGFTS2dod1JJSDdnejNUdDdsVkpIdlJ1TW9HSG5qYjZ5aXJtU0FEMjU4aTl6Z3FZYjJUTjJQblMyQlRkay1na2ZXLVQtMzRVV0JrU1NEQXFfYnhDTEtxeHRlaGNjYjJfTFRNMDJtcjNicW9KeGRabmsw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
