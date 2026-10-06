@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-6c1033e85675",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T02:50:27+00:00",
+    "acquirer": "Schneider Electric to",
+    "target": "Software Maker PTC",
+    "headline": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
+    "valueBillions": 22.6,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW90UWZMU2VUcHRXb2NZa3NpbTdqZUVfTXFTcGdFa2dYZkpRS0l0UXVzT25DTU53Z25aSUo5V250VzBTVGNLS01WZUprRGU3emdQNlhaRUN6VHVqLWZtYktRc3M4YnBPUlVVa002MkRLanVvY2gtODQ0UmRtbDRzTmFXTVQyY3VSdktYeWQyT3dBQlJvVVBMd3VYNnQtcTNvRF90S0RTN18?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7e52a45da319",
     "date": "October 5, 2026",
     "publishedISO": "2026-10-05T21:09:00+00:00",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2714d8a84c0f",
+    "id": "news-869c786ed2c1",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T18:14:44+00:00",
-    "acquirer": "C.H. Robinson to",
-    "target": "RXO: What could it mean",
-    "headline": "C.H. Robinson to buy RXO: What could it mean for truckers?",
+    "publishedISO": "2026-10-05T21:04:32+00:00",
+    "acquirer": "Centalion",
+    "target": "Haynesville natural gas assets from Silver Hill",
+    "headline": "Centalion acquires Haynesville natural gas assets from Silver Hill",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Land Line Media",
-    "summary": "C.H. Robinson to buy RXO: What could it mean for truckers? Land Line Media",
+    "sourceName": "Reuters",
+    "summary": "Centalion acquires Haynesville natural gas assets from Silver Hill Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,82 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUR2YVF0WDRaVGZiS1ZNSHhZSDZMdE1fSXpHRzNWYTNJMlhXZ2VMOUZ3V2VJbER2RWlreUIzeTFnUFJ3YXdFZ3NWM05qRmJ3aUxKOS00RFNYdlR4TzdMUHR2cnltU25JaWhwSUVpSTdkSDE2QTRWV2hnT0lhc1cyQ2ZsZXYtUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f8ff6677ebeb",
-    "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T18:04:23+00:00",
-    "acquirer": "Schneider Electric to",
-    "target": "PTC in French Industrial Giant’s Largest-Ever Acquisition",
-    "headline": "Schneider Electric to Buy PTC in French Industrial Giant’s Largest-Ever Acquisition",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Morningstar",
-    "summary": "Schneider Electric to Buy PTC in French Industrial Giant’s Largest-Ever Acquisition Morningstar",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0dVcnl5YS1henNUU0Y5Y2NBNkhpbWUyODhxRzdtNVUwVERBOW92SGhBLTFUaUYtX1FmWGhHaVRSb1R6V0ZfY2k3MzAtMk1SOHNob2ZqNzBMNVpjQU00anZRU18zSVJOT1JYNVE1a0JQeEZFUzAyWHlrNHN1Si1tYktTUktjaXJuaWhYaWpBQjdCbnFhb0pvWGtFMmkzUEtlbk1iaXd0RWlIbmZzR0xMcUlwZmxWM1BmdEZhZQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWDl5eHd1X0JkVUtNejgtS2g4UkFPUnExWHp1WFVPU3JiYXBIOHVVekRHTFliVG9mVDNpOHUxLUZsdlR0OVFOQVZ1a0xzSHI3ME5EMktsSXJ3YUhEaDVlSHlMbkZQNGo4emtmUUNCVEVUTUxMUkhIR2ZPRGlmdG1NUW1DLUZHWm5naUIydktvcU9TQUNHT3dvVUNxMEZ5LV91VU9SNVBpUnN2dkxXU3RGWFNEeTNoVFRF?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-5533d9c9819b",
+    "id": "news-f8ff6677ebeb",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T13:49:46+00:00",
-    "acquirer": "Carlsberg",
-    "target": "PepsiCo bottlers in Georgia and Armenia",
-    "headline": "Carlsberg agrees to buy PepsiCo bottlers in Georgia and Armenia",
+    "publishedISO": "2026-10-05T15:41:28+00:00",
+    "acquirer": "Schneider Electric to",
+    "target": "PTC in French Industrial Giant’s Largest-Ever Acquisition",
+    "headline": "Schneider Electric to Buy PTC in French Industrial Giant’s Largest-Ever Acquisition",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Carlsberg agrees to buy PepsiCo bottlers in Georgia and Armenia Reuters",
+    "sourceName": "Morningstar",
+    "summary": "Schneider Electric to Buy PTC in French Industrial Giant’s Largest-Ever Acquisition Morningstar",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +333,157 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOENqTF9TOXYwaEJuRWFjaktxUS12TWo4SkNsSTBlOGtBYlFpbmhZV2dqc1A0TlhUbW54dHJ5MmtWSWcwSEVvWVJUenl3OTZXSGgzZi05cGx1ZHZYVk1vT2V5NzhVRzUySHVqMHhST2VqSVp4THJPS2FMYzl0MHhQcmo2X0pXRTluTHg2Q1JyQ3VOOGp0RGFnZjJCd0NzLW9kV19KVVMzVUduOWZGN3c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0dVcnl5YS1henNUU0Y5Y2NBNkhpbWUyODhxRzdtNVUwVERBOW92SGhBLTFUaUYtX1FmWGhHaVRSb1R6V0ZfY2k3MzAtMk1SOHNob2ZqNzBMNVpjQU00anZRU18zSVJOT1JYNVE1a0JQeEZFUzAyWHlrNHN1Si1tYktTUktjaXJuaWhYaWpBQjdCbnFhb0pvWGtFMmkzUEtlbk1iaXd0RWlIbmZzR0xMcUlwZmxWM1BmdEZhZQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2cf6d3f90c98",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T13:09:52+00:00",
+    "acquirer": "GE HealthCare to",
+    "target": "Sofie Biosciences",
+    "headline": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business",
+    "valueBillions": 0.945,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVBLWFpqcFRYNkNxV3A3cVU1aUhFdFNwX2VMbXVXZV9XanZxc20ycWpYS2Qyc004UDFHRGJkQlpsZExWV055TUpmREpXMGl0LVh4aS1Lci1HTTZjSG5SbDQzSVhBdXhKTzZ2MU4xejByTHpWZkx6ZGZycVd4V0I2SzlqQlZKWVJMSzVHVVJSdlVJZ1VhQUxsYVJLVGFfeUlxU2VTOEpESUNRTEZtTGtYSDJ5cnRQdVB3aHFWWUE4QmRHTXpvWnRlNHJiZUpJQ2Q0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d7f754f2d996",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T12:35:00+00:00",
+    "acquirer": "Exclusive | GE HealthCare to",
+    "target": "Sofie",
+    "headline": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business",
+    "valueBillions": 1.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1pFRnZoRlZ3VzBmQUJzNWFaN0VXR1YyY0hQZVFvNkJMZ2NDMUtwYW9KZzYyY3BLUlBCd2duTTVJa2g3WHRadTc3S0htYVA5U0FGYy1FN1ZRVHFaMWpGRzdBcjgySHg5QXRmTDdFeGJueHJlRXliRVBYdjBBV0VMa2EtaVMzUXh5Y3BBNkdWR2hfYTZDSnliVkgtZm1zT0VYeEJyQXFZY0h2TDAzSklpSUtrTUh4VzQyXzh0TVpZRkpUX2hCbHc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -390,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Aurora Capital Partners Acquires Softdocs, a Leading Provider of Process Automation and Document Management Solutions for Education and Government PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Aurora Capital Partners Acquires Softdocs, a Leading Provider of Process Automation and Document Management Solutions for Education and Government prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -484,81 +634,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEJlanVZWS1vbDd5ZHJSYjdya2xfbXAxLWVfWnd6dEpiU2dUQTlxVGNnYldPZlpfa0NJWFdQYzlYT1NQQzl4LWp0TmpxeTFYdEpFNGdqNDFqcEJUeUlJT2VyV2ZtMkJ0Rk5Ec1hnRmlrUDQ5dnNrU0F0dWVuNmppY3kxRmdKOHhvY2VJLTRxdENJSjk0SkNNX1dmMDRBTFRPeXlXVjFsM1VjZ05VTVFhNVF4OXJlOFktQk5tMU9BeDZmaV9SWWZBZU03SmY0dw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6c1033e85675",
-    "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T08:47:00+00:00",
-    "acquirer": "Schneider Electric to",
-    "target": "Software Maker PTC",
-    "headline": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
-    "valueBillions": 22.6,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW90UWZMU2VUcHRXb2NZa3NpbTdqZUVfTXFTcGdFa2dYZkpRS0l0UXVzT25DTU53Z25aSUo5V250VzBTVGNLS01WZUprRGU3emdQNlhaRUN6VHVqLWZtYktRc3M4YnBPUlVVa002MkRLanVvY2gtODQ0UmRtbDRzTmFXTVQyY3VSdktYeWQyT3dBQlJvVVBMd3VYNnQtcTNvRF90S0RTN18?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -976,6 +1051,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5329d15d16fa",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T12:30:00+00:00",
+    "acquirer": "Bose Corporation",
+    "target": "Firelight Technologies",
+    "headline": "Bose Corporation Announces Acquisition of Firelight Technologies",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "prnewswire.com",
+    "summary": "Bose Corporation Announces Acquisition of Firelight Technologies prnewswire.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBEUEZiSDVPMXVMY1hVODEwQUpXM1VGNnJpVEZJUEJJS1owTGlEQm5pRnB1R0hRX0o0cURjazdRVDU4YmEwdy1ZdmJ6dm1GcmgtTl9KZjNoendLU3dMLVFTX2YxOC0yLURFT3NSVFU4LWplZnZzMmhwOWF6SWt1NUJnYmgxMG5OcnlQSmw4QkstVnQyMnJSQ3VveXBlX1VxOUx1R2lVMkItQW1NLWwyZWpoajVROF9ZTzRpUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ae8f322e2c58",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T11:22:00+00:00",
@@ -1084,156 +1234,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb21FOF9ZeVlWQW1xYWJlWE1VODhVbXR0WnR3UHJtUFFkamRQN1gwcDk0dlVSRnJhUWl4NmpWZ3BZNVlSSldnTm0wd2N2b1JTajVRNHNjelozUjdnbEt5U3pBVXdLUF9RRl9XV1p1OG9ySkYxZl84ZElEXzVjaDhFakwyd1BmZmg4SzNCdnhjZXdOSGNnUUZyMWxMRzRxcF9adnBlT01KOU5tQVUwZlBST2pERGdlWjNhb3Z1bG9Jemo1SG82S3I3VzV4VTE0ajFtQkZqb1BWZEJtRU9CRDgzcQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c10249d14a5d",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T07:15:00+00:00",
-    "acquirer": "Inseego",
-    "target": "Nokia’s Fixed Wireless Access business",
-    "headline": "Inseego completes acquisition of Nokia’s Fixed Wireless Access business",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Nokia",
-    "summary": "Inseego completes acquisition of Nokia’s Fixed Wireless Access business Nokia",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNktQRFVkX2NXZnVkNVBVR3hKRzh2bnI5bW9fLWpjQWJBcENsd1diVV9NVWZLME1INV9mMVEyTkV1ZDE0eGs3QmYzVFp0di01cmpkaHk0cUJIcGtITnoyUFlySlpkU1ZlR2ZjcVkwanQ5QmQ3VDdsV2t2N0lJRGpfQWpadS1MbU9zTnBSOThWWXczekZUaTdUUC1MNlZkTlYyYkdGQw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-69180defba04",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T00:41:00+00:00",
-    "acquirer": "Australia's Ampol to",
-    "target": "EV charging operator Evie Networks",
-    "headline": "Australia's Ampol to buy EV charging operator Evie Networks for $156 million",
-    "valueBillions": 0.156,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Australia's Ampol to buy EV charging operator Evie Networks for $156 million Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNU9pWEhkc0hsOUFjTmpaRklFeUVrcG9PczdtbHlLUmRqdm56cW11dm5NdzNUTDU2SndPLW16WGwxQmotMmdSazJaUXFma1h2ZnN3bW1xa2I5bTNQQ0hEcnpiUGJoS2Zza0NFM2pKQ2lmYWFzb0ZfNW1wZVB4ZWlBdDAyNkc3aHdmTnZWWVlYbUFCeVJuSE5IVWN1X1gyM1BSSFl1ODU0T0ZTVmpTcTM4RUxWMVYzNFN4QkdR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "ArcLight Completes Acquisition of 50% Stake in 5.4 GW Diversified Power Infrastructure Portfolio PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "ArcLight Completes Acquisition of 50% Stake in 5.4 GW Diversified Power Infrastructure Portfolio prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Hormel Foods Announces Definitive Agreement To Acquire Brakebush, A Leading Value-Added Chicken Company PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Hormel Foods Announces Definitive Agreement To Acquire Brakebush, A Leading Value-Added Chicken Company prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Salesforce",
-    "summary": "Salesforce Signs Definitive Agreement to Acquire Listen Labs Salesforce",
+    "sourceName": "salesforce.com",
+    "summary": "Salesforce Signs Definitive Agreement to Acquire Listen Labs salesforce.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Caterpillar",
-    "summary": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership Caterpillar",
+    "sourceName": "Caterpillar Inc",
+    "summary": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership Caterpillar Inc",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification prnewswire.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
