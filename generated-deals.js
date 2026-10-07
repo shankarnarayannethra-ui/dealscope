@@ -451,81 +451,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a1edb2079262",
-    "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T04:20:05+00:00",
-    "acquirer": "GE HealthCare to",
-    "target": "Sofie Biosciences",
-    "headline": "GE HealthCare to acquire Sofie Biosciences for $945M",
-    "valueBillions": 0.945,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MedTech Dive",
-    "summary": "GE HealthCare to acquire Sofie Biosciences for $945M MedTech Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjBncWttRzdmLVhSVzBQQ3BNdG9PR0FFVmd2b3lqdXMwN0tFMkZaTk5QOXByS19UV3dJbFVMNmVQbUJURW04SWpmRFpTQ0x0NlhycnFNM3pPTmJZdGRjZ1dtV21TeUNfT01TcXI5dVQtZWN4SDlkTlNjTTlVR2tXVEhkQlB4QUhYYk5Pd0FlRTBIVnlBTXpn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-46cb411dfb7e",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T02:46:23+00:00",
@@ -826,6 +751,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-2906b7b26ec3",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T17:55:43+00:00",
+    "acquirer": "Canada's Cenovus strike $4 billion deal to",
+    "target": "Athabasca Oil, expand production",
+    "headline": "Canada's Cenovus strike $4 billion deal to buy Athabasca Oil, expand production",
+    "valueBillions": 4.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Canada's Cenovus strike $4 billion deal to buy Athabasca Oil, expand production Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2tmcUdIbFdVNWs0TWo1aHlpMU9FRW44OHVDTUx1NEM4LTV4bWZ4Z2MxcDRmRkNPaXVfMFZNTDFaNVJPM21BcEJNb1VyWnY5cEM0Q0gwNC1ZeUxnUTRucThjVmJkZlRMUWs3WDQxc09uOXg2TWg1RndlRjhKNW12NUJOYmZ2ZUxhV2VIYW9iX2VNUmh4eFk0ZDRVWk5vSUFFbGRsQld5bnVmMDBW?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9ecd7507d30c",
     "date": "October 5, 2026",
     "publishedISO": "2026-10-05T17:27:44+00:00",
@@ -1009,6 +1009,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHdkQ2xCaG9sSi1XYzZLTE1Ea2UzSWlIZTlUU3lYR01mVTVPRElzT2NjQ0xJVlFmTTBSbGhfemd6bElmZ3RiYUJjaVFReHJxVFBZWW8wdlJvR1pyRXQxUUFraGNGTUViWXlvNS1MSHBQY1lEVElucTVsaVNsNF9idzhyLThnUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2cf6d3f90c98",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T13:09:52+00:00",
+    "acquirer": "GE HealthCare to",
+    "target": "Sofie Biosciences",
+    "headline": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business",
+    "valueBillions": 0.945,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVBLWFpqcFRYNkNxV3A3cVU1aUhFdFNwX2VMbXVXZV9XanZxc20ycWpYS2Qyc004UDFHRGJkQlpsZExWV055TUpmREpXMGl0LVh4aS1Lci1HTTZjSG5SbDQzSVhBdXhKTzZ2MU4xejByTHpWZkx6ZGZycVd4V0I2SzlqQlZKWVJMSzVHVVJSdlVJZ1VhQUxsYVJLVGFfeUlxU2VTOEpESUNRTEZtTGtYSDJ5cnRQdVB3aHFWWUE4QmRHTXpvWnRlNHJiZUpJQ2Q0?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,6 +1576,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-77fed52056cc",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T22:25:00+00:00",
+    "acquirer": "ON Semiconductor to",
+    "target": "Synaptics",
+    "headline": "ON Semiconductor to Buy Synaptics for Cash, Not Stock, in Downsized Deal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "ON Semiconductor to Buy Synaptics for Cash, Not Stock, in Downsized Deal WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk8xV19YSEhycmcxQkdHSElRWGhPYkxOcHRCVTM3M2JCc1JZTzh1UTF0eEFLV3UySXAxVk90T253Z1V1WmZlQ0o5Q09WMmV6TnlEOHNZOTVmWS05V0RydHpuY1o5SElCTXJsRm4xQ1Y5dUFpdWlWLU94YUhxMFlLd1lSTWZwMzNfSGpGTkhQSUtiTlpqeHZTM3dSZ212NXpkVDJWSXl5bXlBTTBuUFZzYkI0RFo?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ce6efbda08be",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T12:57:52+00:00",
@@ -1534,6 +1684,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmpiZkVBSTJfOHViU0U2ZWpKRkx6VVpvZzVtNEp3ajJjeURnclM2SXVhY1kzeGt2aHhibGtEQXpzazkwYVptNDlJQTJ5aEVoOE8ybmg2MjZmUXVPWExLcGVzam4yOG1LR2V3WHludUxFMjBHVUFHZGN1clE5VDg3MXYzNWl5NWtTaC0zN3JkUGZNR1VWTHNBV2xZZXo4ak9lb0J6dkVFS3JfbjZ3NzlFUzgwQkFOZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-5329d15d16fa",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T12:30:00+00:00",
+    "acquirer": "Bose Corporation",
+    "target": "Firelight Technologies",
+    "headline": "Bose Corporation Announces Acquisition of Firelight Technologies",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Bose Corporation Announces Acquisition of Firelight Technologies PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBEUEZiSDVPMXVMY1hVODEwQUpXM1VGNnJpVEZJUEJJS1owTGlEQm5pRnB1R0hRX0o0cURjazdRVDU4YmEwdy1ZdmJ6dm1GcmgtTl9KZjNoendLU3dMLVFTX2YxOC0yLURFT3NSVFU4LWplZnZzMmhwOWF6SWt1NUJnYmgxMG5OcnlQSmw4QkstVnQyMnJSQ3VveXBlX1VxOUx1R2lVMkItQW1NLWwyZWpoajVROF9ZTzRpUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1728,7 +1953,7 @@ window.generatedDeals = [
   {
     "id": "news-912fe0a138cd",
     "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T23:40:00+00:00",
+    "publishedISO": "2026-09-30T23:45:54+00:00",
     "acquirer": "Australia's Lynas Rare Earths to",
     "target": "Meteoric Resources",
     "headline": "Australia's Lynas Rare Earths to buy Meteoric Resources for $672 million",
@@ -1984,231 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVZmYml3S2VsdjBqVk1wbmN0czFPS3l2bS1IMHZTcmJvN0Y2OTRCeU5hUEZDQUdVMWs2b0NxRHlsMm9HQ2pqVHlIQjd5OURBRzhrUGxNX1E3RnVDQmgzamJqS3ZVdDJRTTVsckNORVpOLXFLbEktc1FFZ09MQlpEanZOc09qT1Qwck13LS02Tzd6MXk3Rktmc0JXQlhPek9mV2VNNUVhajNwNTZOb01YalpScGdIaHFqSkpxdVIzWDExYVhCWWdwRXBOYzNaTUY1a2R4YXVBTUhUOUsyRHNvdDU2TjF1UQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7b11ae432d4a",
-    "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T11:47:42+00:00",
-    "acquirer": "Hormel Foods to",
-    "target": "family-owned chicken firm Brakebush",
-    "headline": "Hormel Foods to buy family-owned chicken firm Brakebush for $1.06 billion",
-    "valueBillions": 1.06,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Hormel Foods to buy family-owned chicken firm Brakebush for $1.06 billion Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2J6NkxnTmhIcEZSM3hVNTRac2Q2dWRPVTRTamNvVkVsdkM1ZWNVcGFGUE5sdGRVaENNZkhXbW1zRl9MRkxVVk1PUUxsaGxUd25yUVFDWDVsaHF2V2dfVjd6R05YdWZnY1hJWmJVaGwzQTFXcHFSblZmMldTWDg0NmlQTnI3djNJa0NQdDJHZ3Z0bzdLQ3NScUpIVTJlbEMyNlhLajFn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e9497e4954be",
-    "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T11:22:00+00:00",
-    "acquirer": "Hormel Foods to",
-    "target": "Brakebush Brothers",
-    "headline": "Hormel Foods to Buy Brakebush Brothers for About $1.06 Billion",
-    "valueBillions": 1.06,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Hormel Foods to Buy Brakebush Brothers for About $1.06 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWctWEdZZXR3VVhJUDgyaTNqdnB2OHZIbUI0cHJQU3cyeGxuS0N4bUFsOHk3d0EwbWQxVjNoR2paSnFHNXFTTWFDQ1pTSmNqeExGMWVOdVpxcWZJcjI0bkRvZ0pqLW5TUHBWbV9SMGtmY3FvdjM3Qk9EQnluY0d5ajVCMjVsTGFKR2wtMUpfLURFci02YnhQdF9WbmhyQk02N0R5SE9URU0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7bc33bf4b98c",
-    "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T06:31:58+00:00",
-    "acquirer": "Hormel Foods Announces Definitive Agreement To",
-    "target": "Brakebush, A Leading Value-Added Chicken Company",
-    "headline": "Hormel Foods Announces Definitive Agreement To Acquire Brakebush, A Leading Value-Added Chicken Company",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Hormel Foods",
-    "summary": "Hormel Foods Announces Definitive Agreement To Acquire Brakebush, A Leading Value-Added Chicken Company Hormel Foods",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUGFINkFuTHNyM2M3YXVkNGt6QTNnNXV3WDFpTlBGSEx3T0RuaU45M1NpbVdJWWpOUmdRQ0FKTmpodmw5RjU1Rk11Q1JnbWFzbE9GQm4yenZTSkx3cmxOVzdiZGVVRzhGS291VG5PeTVfcjdQQ2lieHRrajRySHBHZ2I1c2s4cy1SMm44a2UyNVgzdHJiN0R5OTNmR3dMal9QV0lBU0Jqb2pGdzQtRkp4cFpEVERYcmYyeUNPN24zM0lrVVFIcjNZbmZPNmgzN3NLYzdvVlByeEJGLS12RVk3RHRXTFJqSjExVEtr?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
