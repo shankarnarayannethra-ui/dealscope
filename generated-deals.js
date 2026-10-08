@@ -76,81 +76,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-83738eb5a81a",
-    "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T20:15:00+00:00",
-    "acquirer": "Constellation Brands",
-    "target": "Spirit-Based Ready-to-Dr",
-    "headline": "Constellation Brands Announces Acquisition of Spirit-Based Ready-to-Dr",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Constellation Brands",
-    "summary": "Constellation Brands Announces Acquisition of Spirit-Based Ready-to-Dr Constellation Brands",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXBDRU9mSHg0NDFpT08xdHpLQVRYUzJMd3pJMzdjNi1WQlJQS0dNNFVocVJmTXBDcjVPd21SbjRtR2lhTFZrQVJfTkk0SFFPbm1CMllhbEc1b2hiZTc2S1g4eHpnTTVZTUFDOEFJaFdKa3VWaEJFTUJwTDRid0NyUEtfQlBQTm5MTmpkR2ZhX0hWY1l2WFRxUEk2bmxwM1RBLXI4SlFPTkhmV1VWdVdKX2F6NnZQeW1NV3NBcFNXVVJCd2tnUXhfTGIyLWkwR1hHY3c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-122c3eeb3685",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T15:33:09+00:00",
@@ -259,6 +184,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHFmbVFZNmdqendEVEN6bXRGQ2cyVEJwTU1sb2hZQTdOWXVjLVFnOGZLNURfRzlhQ3ByaGdia0ZyaWdmTTA4SHA1bExLdkkwdXI0dVBXSmRlQWJ4bTRHclJ5OXUzblRmVzJqTThPYzJYQ3IxRjRWTTJKbDBBZW1qU0FsUmkwbDFLZDdHRjVOejlDazlRVzVnSkdQdWtPakR0VE8wUmtnY0Vvai1VS09vX2k3dlFRTzMzTE1ZMTNoR2ZXOHhrUThyRjhLUi1CeXlqT0gyM1BBaw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-cd3052dcf75a",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T14:28:02+00:00",
+    "acquirer": "Lippincott to",
+    "target": "brand and innovation studio Athletics",
+    "headline": "Lippincott to acquire brand and innovation studio Athletics",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "www.lippincott.com",
+    "summary": "Lippincott to acquire brand and innovation studio Athletics www.lippincott.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JLTN2dmRORWdzQXkyWkRNWHlKQWdYSUhWUnRkNmQxMnFlc3pVZ1FVNkdwMXN0dW9mSHRLeTU2RHplcWVsUi1DTkI0emJFYWJrMC1BV1NsTkE5Mi1YeDg3RWxCcU9iQW4wcUFxR1dOaGZ6X2M?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1084,6 +1084,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHZZVHJoeFF3d0lVTjFqZUVieDhwd2p0NjF3MmhtaUNOZ0hQTFc1RmcxTThkWTN0SEd1ZG93WTZzN2VCQkdBb0Y3QXNNVGlINVBOODU2S3FrdEQwbUFiZTJWb3hJVXl5TGpoZ0N0OHllRjczaDdxVFVaNWpBRjExeXdZUUR6OWFsMVBCWnM2dW5xRmlX?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-548002c6425b",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T14:59:00+00:00",
+    "acquirer": "C.H. Robinson to",
+    "target": "RXO",
+    "headline": "C.H. Robinson to acquire RXO for $5.8 billion",
+    "valueBillions": 5.8,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Transport Topics",
+    "summary": "C.H. Robinson to acquire RXO for $5.8 billion Transport Topics",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10YXUzcGRnSS0xcU8yU0c2ekp2eEtxYUNRLTd4bDE0NlUwYTYwWV9TYjFZNm9UVUdqdG1ia2JWXzRDZWNWQ1lVRnl2YTdLUWVpTE01aGdUYVk3Mjd4MGczczNDRUdNcmNL?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-912fe0a138cd",
-    "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T23:45:54+00:00",
-    "acquirer": "Australia's Lynas Rare Earths to",
-    "target": "Meteoric Resources",
-    "headline": "Australia's Lynas Rare Earths to buy Meteoric Resources for $672 million",
-    "valueBillions": 0.672,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Australia's Lynas Rare Earths to buy Meteoric Resources for $672 million Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHB6aGY3Q29Ea0NidEwtMC1QY0swbk9uY1gzU3NrVHlIR1JlVUR2UmhTa1oxVFBLYUNkaXhNa1ZQWkVyWGF1MS15M0I5bjJhcGQwNGVjSGQ1N3ZEajRIdzhRV25nUWE3XzkwUTlKZ2RBOThGdy1KRnF3akpBTVE1R3lGWmhtMjVXbFh6Rm4zZEZ5LTRIZk1BXzI3YVB0MkVlVWNOcnJrTWJVd0RST1VMaGxUdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 30, 2026"
       },
       {
         "stage": "Terms verified",
