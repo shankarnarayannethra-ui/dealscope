@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-39d3dcc2b1dd",
+    "id": "news-fb83238963c4",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T12:48:00+00:00",
-    "acquirer": "Viatris to",
-    "target": "Pacira BioSciences",
-    "headline": "Viatris to Buy Pacira BioSciences for $1.65 Billion",
-    "valueBillions": 1.65,
+    "publishedISO": "2026-10-08T22:13:51+00:00",
+    "acquirer": "Lawmakers raise alarm at Google",
+    "target": "Spirit Airlines data",
+    "headline": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Viatris to Buy Pacira BioSciences for $1.65 Billion WSJ",
+    "sourceName": "Reuters",
+    "summary": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnFVbDVsYVU2OEJrbzZZdlJXRWFBMG93MkJGSGRkOGl6a2VxTzhXa0kzajYyVXBnck1PcHl5alhRMVFmOHNIejhUXy0xTnc3M2t0d19QTV92cVNjcl9VaDhKUXhFWWhUeHBvdUtMRG1XRlRUWVBScjJlNy13d1Q4ODFPLS1kOWtzeG5MaXNBRk5nZjlmeFVKeA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTYxUnZPS1BaUTl3NU4tc1pXVEQwNVNKQjA5MllqWmJIejF4TmxUUmVpR2NNTXFWNmNTTHJPZjdSU25FZGdwSnZWX0RNY09OMEZCNUdjdUEzU19tLWRob3BGeXgyZEhlX195bUZGM19DXzF6aGV6NU9LTGNENDhOVnoxXzVScjJEZWNKeHZHbmZER2tCaUpHM1hVc3ppcXQtWDNaYlFYeEhoNzFiS0swYkplSkY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,13 +76,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e9497e4954be",
+    "id": "news-523b3726bcd1",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T11:48:11+00:00",
-    "acquirer": "Hormel Foods to",
-    "target": "Brakebush Brothers",
-    "headline": "Hormel Foods to Buy Brakebush Brothers for About $1.06 Billion",
-    "valueBillions": 1.06,
+    "publishedISO": "2026-10-08T20:31:33+00:00",
+    "acquirer": "Gotham FC",
+    "target": "Forward Olivia Wingate from North Carolina Courage at Transfer Deadline",
+    "headline": "Gotham FC Acquires Forward Olivia Wingate from North Carolina Courage at Transfer Deadline",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Hormel Foods to Buy Brakebush Brothers for About $1.06 Billion WSJ",
+    "sourceName": "GothamFC.com",
+    "summary": "Gotham FC Acquires Forward Olivia Wingate from North Carolina Courage at Transfer Deadline GothamFC.com",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,157 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWctWEdZZXR3VVhJUDgyaTNqdnB2OHZIbUI0cHJQU3cyeGxuS0N4bUFsOHk3d0EwbWQxVjNoR2paSnFHNXFTTWFDQ1pTSmNqeExGMWVOdVpxcWZJcjI0bkRvZ0pqLW5TUHBWbV9SMGtmY3FvdjM3Qk9EQnluY0d5ajVCMjVsTGFKR2wtMUpfLURFci02YnhQdF9WbmhyQk02N0R5SE9URU0?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmNpc2xnX1R5UldZLU9yTG9Rcl9fa1RwbWRoejlpcGNKVU0xRElxa2tKd0tjOWVWWnVKcDRLZGE5TEI0RlBrenpWSHlfYzhuYXdsMFU2NlBJTjVBTXNBcmVhWlZ3S3VYbGdMUjVaeTF6bTdKWU1Zb2kxeEVVcTBMc1B2WVpLSW1NblFzLTd6azJoVWdMOXVMOUVZODRzeVJJdTBOY2otbG1qSUpxME4yS1BCR1A1bEpUa1o5dw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6463d776e631",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T16:07:36+00:00",
+    "acquirer": "Springfield’s Henson Robinson",
+    "target": "assets of Decatur-based HVAC servicer",
+    "headline": "Springfield’s Henson Robinson acquires assets of Decatur-based HVAC servicer",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Capitol City Now",
+    "summary": "Springfield’s Henson Robinson acquires assets of Decatur-based HVAC servicer Capitol City Now",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1FTMWh1bFVKTzZFblcxb1VQLWZnUGpMNXY4d2JzcHdTNEZOMS11LXowYzg1ZHR3enhIcW83MThyUDJ5ek5ZSkgtN00zRUtwWFJEYzJGbTRGQjFhWnRfVVNILTJCRGxXSzJaVzN0ckx2aUlld2syLTd5MjdNZU5NYlNEdi15d2RueC1QWFZGWmtVclZoWHRVbUZqcmdvVmRCN3VhQzVRZm1GeUFubW1MVHJUX3VMUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-44b375c65c82",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T13:00:00+00:00",
+    "acquirer": "Thoma Bravo-backed BlueMatrix to",
+    "target": "Aiera, Advancing Governed AI Distribution",
+    "headline": "Thoma Bravo-backed BlueMatrix to Acquire Aiera, Advancing Governed AI Distribution for Investment Research",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Thoma Bravo-backed BlueMatrix to Acquire Aiera, Advancing Governed AI Distribution for Investment Research PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVVNSDhRZFk2YU1rLVlvYi1FNUxYaUR1a2NMWWptamE1UlpfWkZuNTZtRzMweW16QzBlTHNCLXcxaWIzU0xFdjZNWUpIY0N1TWk2ay1qa2gyNXJveXpCem1tOUlSWUZpMHhaSnhKMTctb0xNSHllTHhSSDk3UHVnSkp1MDg2MXUycUl6d3VmOVdzWFRRcGFTSFgtSjJRNU14Z2RVeVgzRWNfLVVDcEhxb2NrUUhyMjNjR3RBRkI1NWh0NGdEMEpMZnRoMFhJVUw1czJyZ1NVeWY0NWtvbl9DN2dWQV9rNDNMNC0xZWU1VURwVlU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -903,7 +1053,7 @@ window.generatedDeals = [
   {
     "id": "news-08a521e8557b",
     "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T00:13:00+00:00",
+    "publishedISO": "2026-10-06T02:13:06+00:00",
     "acquirer": "KKR to",
     "target": "fund administrator Gen II in $5.1 billion deal including debt",
     "headline": "KKR to buy fund administrator Gen II in $5.1 billion deal including debt",
@@ -934,81 +1084,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUNoNVl1RGFnRVM5U2FKNldwRU9fZnREcE9NRlV2b0hQalIxYUVZdTBNU0hrb2xlSjRiOENiMEtUak5VdWRGZUtxS3RRX1J1YjJxRl9POGR5M1FJWDRqdVhuZmFpYl8tVFRDWmZjT1BsREhOQ3kzUkVWM3RtUXN2RW5DWmtFWWc2N251eEtjS0RzZk91QklrMThzbkhKeFE1MDBBdEdlSktaMlRTLW5sNFpncllLbjNfNy1FdA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2714d8a84c0f",
-    "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T00:00:38+00:00",
-    "acquirer": "C.H. Robinson to",
-    "target": "RXO: What could it mean",
-    "headline": "C.H. Robinson to buy RXO: What could it mean for truckers?",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Land Line Media",
-    "summary": "C.H. Robinson to buy RXO: What could it mean for truckers? Land Line Media",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUR2YVF0WDRaVGZiS1ZNSHhZSDZMdE1fSXpHRzNWYTNJMlhXZ2VMOUZ3V2VJbER2RWlreUIzeTFnUFJ3YXdFZ3NWM05qRmJ3aUxKOS00RFNYdlR4TzdMUHR2cnltU25JaWhwSUVpSTdkSDE2QTRWV2hnT0lhc1cyQ2ZsZXYtUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,13 +1576,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3385c1e75266",
+    "id": "news-2cf6d3f90c98",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T13:30:00+00:00",
-    "acquirer": "Morning Brew",
-    "target": "Express Checkout in Latest Creator Play",
-    "headline": "Morning Brew Acquires Express Checkout in Latest Creator Play",
-    "valueBillions": null,
+    "publishedISO": "2026-10-05T13:09:52+00:00",
+    "acquirer": "GE HealthCare to",
+    "target": "Sofie Biosciences",
+    "headline": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business",
+    "valueBillions": 0.945,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ADWEEK",
-    "summary": "Morning Brew Acquires Express Checkout in Latest Creator Play ADWEEK",
+    "sourceName": "Reuters",
+    "summary": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1533,7 +1608,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHdkQ2xCaG9sSi1XYzZLTE1Ea2UzSWlIZTlUU3lYR01mVTVPRElzT2NjQ0xJVlFmTTBSbGhfemd6bElmZ3RiYUJjaVFReHJxVFBZWW8wdlJvR1pyRXQxUUFraGNGTUViWXlvNS1MSHBQY1lEVElucTVsaVNsNF9idzhyLThnUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVBLWFpqcFRYNkNxV3A3cVU1aUhFdFNwX2VMbXVXZV9XanZxc20ycWpYS2Qyc004UDFHRGJkQlpsZExWV055TUpmREpXMGl0LVh4aS1Lci1HTTZjSG5SbDQzSVhBdXhKTzZ2MU4xejByTHpWZkx6ZGZycVd4V0I2SzlqQlZKWVJMSzVHVVJSdlVJZ1VhQUxsYVJLVGFfeUlxU2VTOEpESUNRTEZtTGtYSDJ5cnRQdVB3aHFWWUE4QmRHTXpvWnRlNHJiZUpJQ2Q0?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,13 +1651,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2cf6d3f90c98",
+    "id": "news-d7f754f2d996",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T13:09:52+00:00",
-    "acquirer": "GE HealthCare to",
-    "target": "Sofie Biosciences",
-    "headline": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business",
-    "valueBillions": 0.945,
+    "publishedISO": "2026-10-05T12:35:00+00:00",
+    "acquirer": "Exclusive | GE HealthCare to",
+    "target": "Sofie",
+    "headline": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business",
+    "valueBillions": 1.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1590,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business Reuters",
+    "sourceName": "WSJ",
+    "summary": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1608,7 +1683,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVBLWFpqcFRYNkNxV3A3cVU1aUhFdFNwX2VMbXVXZV9XanZxc20ycWpYS2Qyc004UDFHRGJkQlpsZExWV055TUpmREpXMGl0LVh4aS1Lci1HTTZjSG5SbDQzSVhBdXhKTzZ2MU4xejByTHpWZkx6ZGZycVd4V0I2SzlqQlZKWVJMSzVHVVJSdlVJZ1VhQUxsYVJLVGFfeUlxU2VTOEpESUNRTEZtTGtYSDJ5cnRQdVB3aHFWWUE4QmRHTXpvWnRlNHJiZUpJQ2Q0?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1pFRnZoRlZ3VzBmQUJzNWFaN0VXR1YyY0hQZVFvNkJMZ2NDMUtwYW9KZzYyY3BLUlBCd2duTTVJa2g3WHRadTc3S0htYVA5U0FGYy1FN1ZRVHFaMWpGRzdBcjgySHg5QXRmTDdFeGJueHJlRXliRVBYdjBBV0VMa2EtaVMzUXh5Y3BBNkdWR2hfYTZDSnliVkgtZm1zT0VYeEJyQXFZY0h2TDAzSklpSUtrTUh4VzQyXzh0TVpZRkpUX2hCbHc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-77fed52056cc",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T22:25:00+00:00",
-    "acquirer": "ON Semiconductor to",
-    "target": "Synaptics",
-    "headline": "ON Semiconductor to Buy Synaptics for Cash, Not Stock, in Downsized Deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "ON Semiconductor to Buy Synaptics for Cash, Not Stock, in Downsized Deal WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk8xV19YSEhycmcxQkdHSElRWGhPYkxOcHRCVTM3M2JCc1JZTzh1UTF0eEFLV3UySXAxVk90T253Z1V1WmZlQ0o5Q09WMmV6TnlEOHNZOTVmWS05V0RydHpuY1o5SElCTXJsRm4xQ1Y5dUFpdWlWLU94YUhxMFlLd1lSTWZwMzNfSGpGTkhQSUtiTlpqeHZTM3dSZ212NXpkVDJWSXl5bXlBTTBuUFZzYkI0RFo?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
       },
       {
         "stage": "Terms verified",
