@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-39d3dcc2b1dd",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T12:48:00+00:00",
+    "acquirer": "Viatris to",
+    "target": "Pacira BioSciences",
+    "headline": "Viatris to Buy Pacira BioSciences for $1.65 Billion",
+    "valueBillions": 1.65,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Viatris to Buy Pacira BioSciences for $1.65 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnFVbDVsYVU2OEJrbzZZdlJXRWFBMG93MkJGSGRkOGl6a2VxTzhXa0kzajYyVXBnck1PcHl5alhRMVFmOHNIejhUXy0xTnc3M2t0d19QTV92cVNjcl9VaDhKUXhFWWhUeHBvdUtMRG1XRlRUWVBScjJlNy13d1Q4ODFPLS1kOWtzeG5MaXNBRk5nZjlmeFVKeA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e9497e4954be",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T11:48:11+00:00",
+    "acquirer": "Hormel Foods to",
+    "target": "Brakebush Brothers",
+    "headline": "Hormel Foods to Buy Brakebush Brothers for About $1.06 Billion",
+    "valueBillions": 1.06,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Hormel Foods to Buy Brakebush Brothers for About $1.06 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWctWEdZZXR3VVhJUDgyaTNqdnB2OHZIbUI0cHJQU3cyeGxuS0N4bUFsOHk3d0EwbWQxVjNoR2paSnFHNXFTTWFDQ1pTSmNqeExGMWVOdVpxcWZJcjI0bkRvZ0pqLW5TUHBWbV9SMGtmY3FvdjM3Qk9EQnluY0d5ajVCMjVsTGFKR2wtMUpfLURFci02YnhQdF9WbmhyQk02N0R5SE9URU0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-35efba825c10",
     "date": "October 7, 2026",
     "publishedISO": "2026-10-07T22:20:07+00:00",
@@ -784,6 +934,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUNoNVl1RGFnRVM5U2FKNldwRU9fZnREcE9NRlV2b0hQalIxYUVZdTBNU0hrb2xlSjRiOENiMEtUak5VdWRGZUtxS3RRX1J1YjJxRl9POGR5M1FJWDRqdVhuZmFpYl8tVFRDWmZjT1BsREhOQ3kzUkVWM3RtUXN2RW5DWmtFWWc2N251eEtjS0RzZk91QklrMThzbkhKeFE1MDBBdEdlSktaMlRTLW5sNFpncllLbjNfNy1FdA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2714d8a84c0f",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T00:00:38+00:00",
+    "acquirer": "C.H. Robinson to",
+    "target": "RXO: What could it mean",
+    "headline": "C.H. Robinson to buy RXO: What could it mean for truckers?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Land Line Media",
+    "summary": "C.H. Robinson to buy RXO: What could it mean for truckers? Land Line Media",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUR2YVF0WDRaVGZiS1ZNSHhZSDZMdE1fSXpHRzNWYTNJMlhXZ2VMOUZ3V2VJbER2RWlreUIzeTFnUFJ3YXdFZ3NWM05qRmJ3aUxKOS00RFNYdlR4TzdMUHR2cnltU25JaWhwSUVpSTdkSDE2QTRWV2hnT0lhc1cyQ2ZsZXYtUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1801,6 +2026,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-332e24701dbf",
+    "date": "October 3, 2026",
+    "publishedISO": "2026-10-03T02:27:00+00:00",
+    "acquirer": "Winooski Valley Park District",
+    "target": "Charlie’s Boathouse property",
+    "headline": "Winooski Valley Park District acquires Charlie’s Boathouse property",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WCAX",
+    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property WCAX",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjNpRExaeVBqWUtpUXBNZzRnMEo0c0xOQzRjbE5UTTZXWkdWTTBVZWl0TDNlbGNoVm9vTVVPc3Etc0xFempjTHhLdm1ONXZCZU81MFZ5VTF4MzVwVDEyZ2VwRzd6QXZRVHN5TXVGNVZDMmN1SFhuME1taEZpUzVEY0ZXY2g1aC1QRUxOSHdTNVRXOW5qaWZnMnJ0b3VrUmtp0gG0AUFVX3lxTFBJXzk1NFVhRUw4TUdtZHM0SGVHNmFybXFISGJOVi1QVFZ2dzdYV0NZV1VOQXNtaFdQZ3ZyUnBFSXRZTTBQSVd3SE9HbzdfX25DNDRtOGFFeFViSmZMLWZ1UmY2NF9fa2RCMXlLLUUySnZqcUNpa1hDM0VET2dJM1pnbG1RMkoyeVNDb3lNSWNEZGhLVjNWSUN3WmRCcHRLUGp3dVA2ZjB3S0FDTVowSXIwaF9wdQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e0aedca406c9",
     "date": "October 2, 2026",
     "publishedISO": "2026-10-02T09:06:34+00:00",
@@ -1909,306 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk8xV19YSEhycmcxQkdHSElRWGhPYkxOcHRCVTM3M2JCc1JZTzh1UTF0eEFLV3UySXAxVk90T253Z1V1WmZlQ0o5Q09WMmV6TnlEOHNZOTVmWS05V0RydHpuY1o5SElCTXJsRm4xQ1Y5dUFpdWlWLU94YUhxMFlLd1lSTWZwMzNfSGpGTkhQSUtiTlpqeHZTM3dSZ212NXpkVDJWSXl5bXlBTTBuUFZzYkI0RFo?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ce6efbda08be",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T12:57:52+00:00",
-    "acquirer": "Nebius",
-    "target": "Inferize to strengthen Nebius Token Factory's production inference stack",
-    "headline": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Nebius",
-    "summary": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack Nebius",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmpiZkVBSTJfOHViU0U2ZWpKRkx6VVpvZzVtNEp3ajJjeURnclM2SXVhY1kzeGt2aHhibGtEQXpzazkwYVptNDlJQTJ5aEVoOE8ybmg2MjZmUXVPWExLcGVzam4yOG1LR2V3WHludUxFMjBHVUFHZGN1clE5VDg3MXYzNWl5NWtTaC0zN3JkUGZNR1VWTHNBV2xZZXo4ak9lb0J6dkVFS3JfbjZ3NzlFUzgwQkFOZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5329d15d16fa",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T12:30:00+00:00",
-    "acquirer": "Bose Corporation",
-    "target": "Firelight Technologies",
-    "headline": "Bose Corporation Announces Acquisition of Firelight Technologies",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Bose Corporation Announces Acquisition of Firelight Technologies PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlBEUEZiSDVPMXVMY1hVODEwQUpXM1VGNnJpVEZJUEJJS1owTGlEQm5pRnB1R0hRX0o0cURjazdRVDU4YmEwdy1ZdmJ6dm1GcmgtTl9KZjNoendLU3dMLVFTX2YxOC0yLURFT3NSVFU4LWplZnZzMmhwOWF6SWt1NUJnYmgxMG5OcnlQSmw4QkstVnQyMnJSQ3VveXBlX1VxOUx1R2lVMkItQW1NLWwyZWpoajVROF9ZTzRpUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ae8f322e2c58",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T11:22:00+00:00",
-    "acquirer": "Nebius",
-    "target": "10-month-old stealth AI startup Inferize in $100-150 million deal",
-    "headline": "Nebius acquires 10-month-old stealth AI startup Inferize in $100-150 million deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CTech",
-    "summary": "Nebius acquires 10-month-old stealth AI startup Inferize in $100-150 million deal CTech",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oV2YtelJzTUxLeENOa2Nld3Z3WDhwbHpSd093WjUtbFE2TDZpWUFqeThfNkRiNENqTjB6RXhJaF9zNWV2QTQ3cmNMQU9ubnAzeFQyY3NVS0FmTDQ5OFZ3Zm04YksxeTRn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8d809e5fe2f8",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T09:53:51+00:00",
-    "acquirer": "Airbus",
-    "target": "Quarkslab, strengthens French sovereignty in cybersecurity",
-    "headline": "Airbus completes acquisition of Quarkslab, strengthens French sovereignty in cybersecurity",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Airbus",
-    "summary": "Airbus completes acquisition of Quarkslab, strengthens French sovereignty in cybersecurity Airbus",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb21FOF9ZeVlWQW1xYWJlWE1VODhVbXR0WnR3UHJtUFFkamRQN1gwcDk0dlVSRnJhUWl4NmpWZ3BZNVlSSldnTm0wd2N2b1JTajVRNHNjelozUjdnbEt5U3pBVXdLUF9RRl9XV1p1OG9ySkYxZl84ZElEXzVjaDhFakwyd1BmZmg4SzNCdnhjZXdOSGNnUUZyMWxMRzRxcF9adnBlT01KOU5tQVUwZlBST2pERGdlWjNhb3Z1bG9Jemo1SG82S3I3VzV4VTE0ajFtQkZqb1BWZEJtRU9CRDgzcQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
