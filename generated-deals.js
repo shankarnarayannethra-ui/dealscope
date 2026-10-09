@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-f2b0c1f62b3e",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T17:21:14+00:00",
+    "acquirer": "Coast Guard",
+    "target": "four long-range unmanned aircraft to strengthen maritime security",
+    "headline": "Coast Guard acquires four long-range unmanned aircraft to strengthen maritime security",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "United States Coast Guard News (.mil)",
+    "summary": "Coast Guard acquires four long-range unmanned aircraft to strengthen maritime security United States Coast Guard News (.mil)",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbktXSHJUVFV2UVNEdlhlNWVpTjhNU01jaGptUW8wM3Zwdk9JaHQ1cWg0akxNYnppTmxadTViOUhMRHF6NW1jYTd1OVlJbU5CLUFQN0pEWkRxZ0laX0lKaEFvVno0NlhyTVI2bjdibHpoMjhwekhOZkZEdHRLQXFOb3Z5Y2RrOUtRV3oxbUh1UFI4bnd3MTFOQVU5VW9pUkNaNmRmREhRLW5EMmJ2NlhGQzg2SFlPVV9NZVNSOHpBQVNFRDE2dW9YNHRLT2owRU9TNGNF?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-4a54b750990b",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T17:05:09+00:00",
+    "acquirer": "Sounders FC",
+    "target": "$50,000 in 2026 General Allocation Money",
+    "headline": "Sounders FC Acquires $50,000 in 2026 General Allocation Money",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Seattle Sounders FC",
+    "summary": "Sounders FC Acquires $50,000 in 2026 General Allocation Money Seattle Sounders FC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVElzT3hJc1ptSk8tbnNFQ1BUNDJObFN6dEVibThtVnNZOUI4U3ZiR1FnNEhFX2Q5Vmdyam91NmFyeXZLR1hDdGt4djZjcFYwdFVnUERoOHZKSV84S3FaVDNyQ3BMZGhzMjlSZjlNR2lSOUhuWGh1SURielRENTh6d0hOT1VBMjNqTEZtVlhtdUREY0dJWm9R?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-74601006d235",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T06:08:00+00:00",
@@ -376,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-16e24e162a66",
-    "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T11:30:00+00:00",
-    "acquirer": "DIAMONDROCK HOSPITALITY COMPANY",
-    "target": "THE BELLMOOR INN & SPA",
-    "headline": "DIAMONDROCK HOSPITALITY COMPANY ACQUIRES THE BELLMOOR INN & SPA",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "DIAMONDROCK HOSPITALITY COMPANY ACQUIRES THE BELLMOOR INN & SPA PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV253UWFRcVFqWFNVcXh0NFlvandKS0ZPMTZoM3dhZGpYSXE4TnNnVWRPMzV3N1M1MWNxb3J3akt3MUd2QlpUdzItci1NUThCajZEMXkzQ09MbzRFeFdidGlPblI5WnI1MEU2SGRtTTJwOE5qSnNEbDUyOS1tRkpPX1FVOUZwUWhEVEhpOEMtWjA0cVMzN1d3VWpEdkpLUGQ5U3ZfWEhPZUhOVFVBT0tCMmg1OXlXSy1kZ3c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-35efba825c10",
     "date": "October 7, 2026",
     "publishedISO": "2026-10-07T22:20:07+00:00",
@@ -676,13 +751,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cd3052dcf75a",
+    "id": "news-9763bd00779f",
     "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T14:28:02+00:00",
-    "acquirer": "Lippincott to",
-    "target": "brand and innovation studio Athletics",
-    "headline": "Lippincott to acquire brand and innovation studio Athletics",
-    "valueBillions": null,
+    "publishedISO": "2026-10-06T12:26:00+00:00",
+    "acquirer": "Energy Transfer to",
+    "target": "Vaquero Midstream",
+    "headline": "Energy Transfer to Acquire Vaquero Midstream for $2.63 Billion",
+    "valueBillions": 2.63,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "www.lippincott.com",
-    "summary": "Lippincott to acquire brand and innovation studio Athletics www.lippincott.com",
+    "sourceName": "WSJ",
+    "summary": "Energy Transfer to Acquire Vaquero Midstream for $2.63 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JLTN2dmRORWdzQXkyWkRNWHlKQWdYSUhWUnRkNmQxMnFlc3pVZ1FVNkdwMXN0dW9mSHRLeTU2RHplcWVsUi1DTkI0emJFYWJrMC1BV1NsTkE5Mi1YeDg3RWxCcU9iQW4wcUFxR1dOaGZ6X2M?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVNDalRDdW5HVXdDLUtoMGZ2QVo5Wk1JMEhqa0c1a3RHNkw4aE9ick9WUGtMUHIzdlZ6ZktHX21qUEc4YjNfNEk4SHJ6aldqRTVDR09jT1VwckYtS0J3RGk3Ni1TbXhBUVVJeE1YN0pJLWY3bnlMZ21XOW9pQUhITHo5UDE3Sk0wSzVyT0Y0RDNMbUFNTERrREJxQ3BHWUFiUXBPUlpWOGprdlN3SzlZ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1759,81 +1834,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVBLWFpqcFRYNkNxV3A3cVU1aUhFdFNwX2VMbXVXZV9XanZxc20ycWpYS2Qyc004UDFHRGJkQlpsZExWV055TUpmREpXMGl0LVh4aS1Lci1HTTZjSG5SbDQzSVhBdXhKTzZ2MU4xejByTHpWZkx6ZGZycVd4V0I2SzlqQlZKWVJMSzVHVVJSdlVJZ1VhQUxsYVJLVGFfeUlxU2VTOEpESUNRTEZtTGtYSDJ5cnRQdVB3aHFWWUE4QmRHTXpvWnRlNHJiZUpJQ2Q0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d7f754f2d996",
-    "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T12:35:00+00:00",
-    "acquirer": "Exclusive | GE HealthCare to",
-    "target": "Sofie",
-    "headline": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business",
-    "valueBillions": 1.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1pFRnZoRlZ3VzBmQUJzNWFaN0VXR1YyY0hQZVFvNkJMZ2NDMUtwYW9KZzYyY3BLUlBCd2duTTVJa2g3WHRadTc3S0htYVA5U0FGYy1FN1ZRVHFaMWpGRzdBcjgySHg5QXRmTDdFeGJueHJlRXliRVBYdjBBV0VMa2EtaVMzUXh5Y3BBNkdWR2hfYTZDSnliVkgtZm1zT0VYeEJyQXFZY0h2TDAzSklpSUtrTUh4VzQyXzh0TVpZRkpUX2hCbHc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
