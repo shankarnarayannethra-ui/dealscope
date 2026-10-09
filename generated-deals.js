@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-07635746db80",
-    "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T20:59:50+00:00",
-    "acquirer": "Chicago Stars FC",
-    "target": "Zambia National Team Forward Racheal Kundananji from Bay FC",
-    "headline": "Chicago Stars FC Acquires Zambia National Team Forward Racheal Kundananji from Bay FC",
-    "valueBillions": null,
+    "id": "news-74601006d235",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T06:08:00+00:00",
+    "acquirer": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to",
+    "target": "Shell arm Solenergi, bankers say",
+    "headline": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to buy Shell arm Solenergi, bankers say",
+    "valueBillions": 1.5,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Chicago Stars FC",
-    "summary": "Chicago Stars FC Acquires Zambia National Team Forward Racheal Kundananji from Bay FC Chicago Stars FC",
+    "sourceName": "Reuters",
+    "summary": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to buy Shell arm Solenergi, bankers say Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYm01S0tqNHNvaTl1Qm1lZGhiSE5NV1dhMGFoVjVlSE41bUtIcDU0U0xVLXNYWnIycjVkZWUwSXBXb3JicVFJNHRJYXhKU3h2dDZVeGZCeVhJVnViTmp2Qk9BbDFZSW9SRDIzSzNjUjgzWlV1NktvczI5X0FiSExBLU9iMGxDNzlTbVBDVEhiUVVvVURfRmtmdl9OUjNZSkVGRDBGRUd5elJUXzJtcFlZMXh0UTE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnVZWEJRVFBzT0I4Um1xQnE4UEY0eVg4emROS3VSNm9Rc1UtWndXa3JNa2NUWXdnZ01ZMS11MnJxUS1QUW9oM3N3aHFBLVBQWXJENWJXRzFrOXl4MHdDWDBiT0hObEhiVktWa2lJUmNyUXVtdkhPRlY1ZUN6aGF4a0gyWXRWb2FROUVDMnNOWWY3RjJqM3IzMEQ3R1l3WmpvYWVYMFliZkN2dzNrWkpUaTdYSkpWNFlibldB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 8, 2026"
+        "date": "Oct 9, 2026"
       },
       {
         "stage": "Terms verified",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6463d776e631",
+    "id": "news-be0f23e34661",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T16:07:36+00:00",
-    "acquirer": "Springfield’s Henson Robinson",
-    "target": "assets of Decatur-based HVAC servicer",
-    "headline": "Springfield’s Henson Robinson acquires assets of Decatur-based HVAC servicer",
+    "publishedISO": "2026-10-08T15:00:00+00:00",
+    "acquirer": "Harness",
+    "target": "Augment Code, Advancing the Autonomous SDLC from Idea to Production",
+    "headline": "Harness Acquires Augment Code, Advancing the Autonomous SDLC from Idea to Production",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Capitol City Now",
-    "summary": "Springfield’s Henson Robinson acquires assets of Decatur-based HVAC servicer Capitol City Now",
+    "sourceName": "PR Newswire",
+    "summary": "Harness Acquires Augment Code, Advancing the Autonomous SDLC from Idea to Production PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1FTMWh1bFVKTzZFblcxb1VQLWZnUGpMNXY4d2JzcHdTNEZOMS11LXowYzg1ZHR3enhIcW83MThyUDJ5ek5ZSkgtN00zRUtwWFJEYzJGbTRGQjFhWnRfVVNILTJCRGxXSzJaVzN0ckx2aUlld2syLTd5MjdNZU5NYlNEdi15d2RueC1QWFZGWmtVclZoWHRVbUZqcmdvVmRCN3VhQzVRZm1GeUFubW1MVHJUX3VMUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOUxPX283Z1ZTN3VuUl9WSFRvV2JJc2k1MGVUZFR4dkI2ZGw1LWV2alFwOEpEa2JXTmRnQTByNU9rUUFtYXVuLU4xVDJfTVdNUnNYckZWY294dXZiUkM4dUh4TDN0Vzc2Y2ZfT0gyMDlTeHZiQVBBeDZFMURGUTNVQURtQUNBekxsdjJvVXhWRUNXbFk2S29RU1YtTDFXZzJyVXhTUlRwbkVVMklRV2xsRzhvYTNTTkxQZlJBMU5QM1pTZlZJMkdKa2RqWWx4dzZrTkd5Q0tB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -334,6 +334,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVVNSDhRZFk2YU1rLVlvYi1FNUxYaUR1a2NMWWptamE1UlpfWkZuNTZtRzMweW16QzBlTHNCLXcxaWIzU0xFdjZNWUpIY0N1TWk2ay1qa2gyNXJveXpCem1tOUlSWUZpMHhaSnhKMTctb0xNSHllTHhSSDk3UHVnSkp1MDg2MXUycUl6d3VmOVdzWFRRcGFTSFgtSjJRNU14Z2RVeVgzRWNfLVVDcEhxb2NrUUhyMjNjR3RBRkI1NWh0NGdEMEpMZnRoMFhJVUw1czJyZ1NVeWY0NWtvbl9DN2dWQV9rNDNMNC0xZWU1VURwVlU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-16e24e162a66",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T11:30:00+00:00",
+    "acquirer": "DIAMONDROCK HOSPITALITY COMPANY",
+    "target": "THE BELLMOOR INN & SPA",
+    "headline": "DIAMONDROCK HOSPITALITY COMPANY ACQUIRES THE BELLMOOR INN & SPA",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "DIAMONDROCK HOSPITALITY COMPANY ACQUIRES THE BELLMOOR INN & SPA PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV253UWFRcVFqWFNVcXh0NFlvandKS0ZPMTZoM3dhZGpYSXE4TnNnVWRPMzV3N1M1MWNxb3J3akt3MUd2QlpUdzItci1NUThCajZEMXkzQ09MbzRFeFdidGlPblI5WnI1MEU2SGRtTTJwOE5qSnNEbDUyOS1tRkpPX1FVOUZwUWhEVEhpOEMtWjA0cVMzN1d3VWpEdkpLUGQ5U3ZfWEhPZUhOVFVBT0tCMmg1OXlXSy1kZ3c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,6 +1651,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3385c1e75266",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T13:30:00+00:00",
+    "acquirer": "Morning Brew",
+    "target": "Express Checkout in Latest Creator Play",
+    "headline": "Morning Brew Acquires Express Checkout in Latest Creator Play",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ADWEEK",
+    "summary": "Morning Brew Acquires Express Checkout in Latest Creator Play ADWEEK",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHdkQ2xCaG9sSi1XYzZLTE1Ea2UzSWlIZTlUU3lYR01mVTVPRElzT2NjQ0xJVlFmTTBSbGhfemd6bElmZ3RiYUJjaVFReHJxVFBZWW8wdlJvR1pyRXQxUUFraGNGTUViWXlvNS1MSHBQY1lEVElucTVsaVNsNF9idzhyLThnUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-2cf6d3f90c98",
     "date": "October 5, 2026",
     "publishedISO": "2026-10-05T13:09:52+00:00",
@@ -2064,156 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9fbbf0275557",
-    "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T21:00:00+00:00",
-    "acquirer": "Grindr",
-    "target": "HIV prevention telehealth provider",
-    "headline": "Grindr acquires HIV prevention telehealth provider for $250M",
-    "valueBillions": 0.25,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "Grindr acquires HIV prevention telehealth provider for $250M Fierce Healthcare",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXgxSVB1OWFkNlpSeW5DN0xfMHFiekV3UWVQQzE2UGtKcEY2UnFUTDdveWhYTXAtbGJnc2VHYjk4SGZXano3Nmk5OEQtYW9ZdG5RQlNlTmNBQ0U5S0lyVXducTY1UkdwWmc3SnJZUGNmQVl0WGxvSzNJX0otT3Bka00yR1R1X2JBcU85Yy02U0FwU1V6LW9zYjBYcml3SjZNaXc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e0aedca406c9",
-    "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T09:06:34+00:00",
-    "acquirer": "Magna-ificent! Rauner Library",
-    "target": "Magna Carta manuscript",
-    "headline": "Magna-ificent! Rauner Library acquires Magna Carta manuscript",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Dartmouth",
-    "summary": "Magna-ificent! Rauner Library acquires Magna Carta manuscript The Dartmouth",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalZxWDNoc0gwQ0VPSEM5RlpUM216eFFnMmtfNEVaOG0wc0lQSE5PVi1SbU9PQmhXR3ZUa1ZfaWUydmNadF9MWGtPUVlHMGFjd1JJRHU4d2tSeTUwQm9UOFF5Q2lQVWdmc0xYSzg5YnRIMjRoZmFrMXpVb29mbE9ZcEN0bDVoRkxKaWpWdk8zTEhQN2FnODllU1VRcEJ1NWNzallubkUzQUQxVnlIakEtcXd0RQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 2, 2026"
       },
       {
         "stage": "Terms verified",
