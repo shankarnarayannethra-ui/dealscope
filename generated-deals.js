@@ -301,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-abcf30378ccc",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T13:06:39+00:00",
+    "acquirer": "Microchip Technology",
+    "target": "VORAGO Technologies",
+    "headline": "Microchip Technology Acquires VORAGO Technologies",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Microchip Technology",
+    "summary": "Microchip Technology Acquires VORAGO Technologies Microchip Technology",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWRfbDJMYVBZZ1JuQTM4aWZUcWk0b1NzSWtkVUcweHNTU3BBbi1YLVFva0tYWUpJNjBpS2lBWFp2bjRCbVVZcnU3by13anpSek5lOFk0SUZFLW1Pc1ozUDM3U2RrZEVLOGRPZzhhMFp5QzlnRVpwa0I2Z2hNaHFTMTRnTXZNNnV6dzFkd3lLcmU2dzF1TTVpUWRGZElpa1lUWjVNbzR4YWR2b1dQWGhjVnQxWQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-74601006d235",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T06:08:00+00:00",
@@ -601,13 +676,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-35efba825c10",
+    "id": "news-38aa0dd2caff",
     "date": "October 7, 2026",
-    "publishedISO": "2026-10-07T22:20:07+00:00",
-    "acquirer": "Canada's Weston family to",
-    "target": "UK's Boots in $8.9 billion deal",
-    "headline": "Canada's Weston family to buy UK's Boots in $8.9 billion deal",
-    "valueBillions": 8.9,
+    "publishedISO": "2026-10-07T14:30:00+00:00",
+    "acquirer": "TD SYNNEX Announces Entering Into a Definitive Agreement to",
+    "target": "BlueStar",
+    "headline": "TD SYNNEX Announces Entering Into a Definitive Agreement to Acquire BlueStar",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Canada's Weston family to buy UK's Boots in $8.9 billion deal Reuters",
+    "sourceName": "Business Wire",
+    "summary": "TD SYNNEX Announces Entering Into a Definitive Agreement to Acquire BlueStar Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,82 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUG11N3dHZGxrZ1B6aTRhakp3TkRiZVFsUmtocWZwTkR6VVhQX1FPS19jR1c0aXRkSWZZUVhVbHoxUFJoZWlGbWdEWjlJT0pOMjVZZDJJRXlDSVUyaWR0dVdPTWp1bDJ4bzFhMTl4TmZEaGpjVXBKR0xHM0FvU29kVUFmZlNkZWRDQnZGNlFoSlIyZjhscXhmYWhSaXhPQ19hcExCNkVmYUs2bWQybm5sMlozWmk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-31132b12280e",
-    "date": "October 7, 2026",
-    "publishedISO": "2026-10-07T16:36:13+00:00",
-    "acquirer": "Third Coast to",
-    "target": "Oklahoma bank",
-    "headline": "Third Coast to buy Oklahoma bank for $240M",
-    "valueBillions": 0.24,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Third Coast to buy Oklahoma bank for $240M Banking Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2hHZGp4VFJlbnFoaHZQTUhnc01sV25Ld0pZV2pxRVpKbXdrWldselZ6NFlKTEtvWFpEOUUxOXJvbGQ3MTNZUXFWaV9nWVROdUlfa21LNXpaQ3paYmNQeEwwd05kSHlzbmdXdUd6YWlRY3hsV2ZyOG1XTE9HaHpQdDROTVloWUZjczVfMm1zbVVEQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEZJaVVvbHRXRDFmbDh1S2F2YllUNjYzcTJNWHJvd0VmMXFCc0FyTDZMbFpiZkktSHBDdUQ1UW5NWDBXZmEzdXQ1R0RjVnRqT3UzcmpnTHBJNG12cTBvVGNLc2pzdVJScldHTGhHUWdSWmIzMXRvN2FHWF9CMWZvNEJQbkFsQjFlUi15MXdOSnJzQlYyX1VnUHBUaWZ5YVV4ZXRGNHUxM3FXTFQ4Nkwwa1VFZk82NVc1djZNUTFBSU1sMEhTQ05ka2tuVmdwUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,6 +1426,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b801e4e14e87",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T20:19:37+00:00",
+    "acquirer": "Shionogi pays $2B to",
+    "target": "a rare disease startup",
+    "headline": "Shionogi pays $2B to acquire a rare disease startup",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "BioPharma Dive",
+    "summary": "Shionogi pays $2B to acquire a rare disease startup BioPharma Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlBjWkxlRS1mMDduRHc5VkdRaDNFV05hWHZQQ3ZZbWVFdVFvZzY4cVlyeFlHc2VXa2E3b0JZQTdYM1FyVjlOd1hLT1pzTmoxUU9aNnplUXRZMUU1d3NwcG1OVHlJT0h3TGE4REdhVnhuSVVBQ25xWkdzQlpqaGVQZHZUSGhtYm5kak9OVlFsWVdGYXdfdzhoSA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ac646a951939",
     "date": "October 5, 2026",
     "publishedISO": "2026-10-05T19:03:36+00:00",
@@ -1651,13 +1726,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-548002c6425b",
+    "id": "news-a00ad03166b4",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T14:59:00+00:00",
-    "acquirer": "C.H. Robinson to",
-    "target": "RXO",
-    "headline": "C.H. Robinson to acquire RXO for $5.8 billion",
-    "valueBillions": 5.8,
+    "publishedISO": "2026-10-05T16:10:35+00:00",
+    "acquirer": "GE HealthCare to",
+    "target": "SOFIE Biosciences establishing a final mile footprint",
+    "headline": "GE HealthCare to acquire SOFIE Biosciences establishing a final mile footprint for PET radiopharmaceutical supply in the U.S.",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Transport Topics",
-    "summary": "C.H. Robinson to acquire RXO for $5.8 billion Transport Topics",
+    "sourceName": "GE HealthCare",
+    "summary": "GE HealthCare to acquire SOFIE Biosciences establishing a final mile footprint for PET radiopharmaceutical supply in the U.S. GE HealthCare",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1758,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10YXUzcGRnSS0xcU8yU0c2ekp2eEtxYUNRLTd4bDE0NlUwYTYwWV9TYjFZNm9UVUdqdG1ia2JWXzRDZWNWQ1lVRnl2YTdLUWVpTE01aGdUYVk3Mjd4MGczczNDRUdNcmNL?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQ1VhUmRJYTBIbkMtbTdWaGpJamFaRnYwQ0NHemV4MmluWnNJYjU0eS11cXppb2s0S2ZDbDhlaER2WTdYdlpicHRiQTZqeGIwRlc3b29GNFhTMGlKS1pTMUtDWW5Tbkw1Uk9feWJQMm11YTBuQnJiQnNLNFZhdW0tTk9TV2RMaGZ0ZllBc3ZEYXVaZUh6clpoc3RwbnJMTEtxOHY2RmtwYUJDSkFOdDMteFNkMnZMR3lVRURpZU4xdnZHajRkWnZaSDhjWTFCdFB6RkV0Nk5zX2hVeVF3RVJ2bmkzVjR5R0g2elFtZGdMdlQ5cjdTaVZXVmFKanVSQzNORjVTZDM1UTNGRWc3ZFIwQW0zS2txS2s?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1984,81 +2059,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNa201LXZhbFhGMko3Nl9FaEg2WTJOaWphV3NLd0g4eXpFU0xyZ214VEZoOXQyLUlBWDhTRHd5em1xWE95MkFpLUhBY3R3WTdQOTRwRUNlSUs5MjREVjRTYmQzdzJiUlVia1l3R3kwSTkyN1drSWJLdTU4Z3FRU05YQmVFN0x0Q2Z1V2J2STNLQ21Qa191RTRlYTRWeWhDNG9sdXJieUNwUWtOYzNzV0NsY1hSSDc2cnZ0UjVoeVl0ZXI4dVFlVGlKTlFzeGNhdFhEVV9vbjdWZUp3RGZJNjNlM3MzU2pwczVNcldWUHZJNkRmelhUSHU2b292LXJ3dlpCNkVLN2pyMHJpWEdUWkszRWw3TWg5NnBmVGtrOHN5U0tTcUxrcW1uWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-879df359dcae",
-    "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T12:00:54+00:00",
-    "acquirer": "GE HealthCare to",
-    "target": "SOFIE Biosciences, Establishing a 'Final Mile' Footprint",
-    "headline": "GE HealthCare to Acquire SOFIE Biosciences, Establishing a 'Final Mile' Footprint for PET Radiopharmaceutical Supply in the U.S.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "GE HealthCare",
-    "summary": "GE HealthCare to Acquire SOFIE Biosciences, Establishing a 'Final Mile' Footprint for PET Radiopharmaceutical Supply in the U.S. GE HealthCare",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEJlanVZWS1vbDd5ZHJSYjdya2xfbXAxLWVfWnd6dEpiU2dUQTlxVGNnYldPZlpfa0NJWFdQYzlYT1NQQzl4LWp0TmpxeTFYdEpFNGdqNDFqcEJUeUlJT2VyV2ZtMkJ0Rk5Ec1hnRmlrUDQ5dnNrU0F0dWVuNmppY3kxRmdKOHhvY2VJLTRxdENJSjk0SkNNX1dmMDRBTFRPeXlXVjFsM1VjZ05VTVFhNVF4OXJlOFktQk5tMU9BeDZmaV9SWWZBZU03SmY0dw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
