@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-05dc3a0ea330",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T20:06:33+00:00",
+    "acquirer": "R&S Holdings",
+    "target": "Residential Addiction Treatment Operator Innovo Detox",
+    "headline": "R&S Holdings Acquires Residential Addiction Treatment Operator Innovo Detox",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Behavioral Health Business",
+    "summary": "R&S Holdings Acquires Residential Addiction Treatment Operator Innovo Detox Behavioral Health Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVVURlg3QjhaVFRubGNKMzNwVXFLbnM4RXRWWDFhN29fYVJwa0lTM0JHaC1KT2pMSDdCZ2Q0R1BPbHVUSlhDeDl5LTZ3T0JpUWdSUWFnWFpWOTkzT2VoN3Y4RmtZakMzWjdvVDdZQVJXd01XSWl5VnFoQU4zWk45b3hmY3dZTE1RQmJ0Y1ZWcWxnOENyM1NsS3d1OEpsUTMtcXlTVjZYVUpDVUlvZUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-51cc8e386461",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T19:06:50+00:00",
+    "acquirer": "SAIC",
+    "target": "quantum encryption firm",
+    "headline": "SAIC acquires quantum encryption firm",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Virginia Business",
+    "summary": "SAIC acquires quantum encryption firm Virginia Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TdDVCRkxTUVF0dkxUVUlWeGM4MVNwZHZCT3gzUmFKbjJVc3NJNk5NS21NWEJYR2M0c0RwMEplYm1heXJnOUFEa193dXRxVHV1YXpwb01sUldsR3JrX0FndUw3d1lHa3lsRXlwZmNMOGNGZWdrM2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f2b0c1f62b3e",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T17:21:14+00:00",
@@ -301,81 +451,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-523b3726bcd1",
-    "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T20:31:33+00:00",
-    "acquirer": "Gotham FC",
-    "target": "Forward Olivia Wingate from North Carolina Courage at Transfer Deadline",
-    "headline": "Gotham FC Acquires Forward Olivia Wingate from North Carolina Courage at Transfer Deadline",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "GothamFC.com",
-    "summary": "Gotham FC Acquires Forward Olivia Wingate from North Carolina Courage at Transfer Deadline GothamFC.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmNpc2xnX1R5UldZLU9yTG9Rcl9fa1RwbWRoejlpcGNKVU0xRElxa2tKd0tjOWVWWnVKcDRLZGE5TEI0RlBrenpWSHlfYzhuYXdsMFU2NlBJTjVBTXNBcmVhWlZ3S3VYbGdMUjVaeTF6bTdKWU1Zb2kxeEVVcTBMc1B2WVpLSW1NblFzLTd6azJoVWdMOXVMOUVZODRzeVJJdTBOY2otbG1qSUpxME4yS1BCR1A1bEpUa1o5dw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-be0f23e34661",
     "date": "October 8, 2026",
     "publishedISO": "2026-10-08T15:00:00+00:00",
@@ -601,6 +676,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-31132b12280e",
+    "date": "October 7, 2026",
+    "publishedISO": "2026-10-07T16:36:13+00:00",
+    "acquirer": "Third Coast to",
+    "target": "Oklahoma bank",
+    "headline": "Third Coast to buy Oklahoma bank for $240M",
+    "valueBillions": 0.24,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Banking Dive",
+    "summary": "Third Coast to buy Oklahoma bank for $240M Banking Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2hHZGp4VFJlbnFoaHZQTUhnc01sV25Ld0pZV2pxRVpKbXdrWldselZ6NFlKTEtvWFpEOUUxOXJvbGQ3MTNZUXFWaV9nWVROdUlfa21LNXpaQ3paYmNQeEwwd05kSHlzbmdXdUd6YWlRY3hsV2ZyOG1XTE9HaHpQdDROTVloWUZjczVfMm1zbVVEQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-122c3eeb3685",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T15:33:09+00:00",
@@ -709,81 +859,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdHFmbVFZNmdqendEVEN6bXRGQ2cyVEJwTU1sb2hZQTdOWXVjLVFnOGZLNURfRzlhQ3ByaGdia0ZyaWdmTTA4SHA1bExLdkkwdXI0dVBXSmRlQWJ4bTRHclJ5OXUzblRmVzJqTThPYzJYQ3IxRjRWTTJKbDBBZW1qU0FsUmkwbDFLZDdHRjVOejlDazlRVzVnSkdQdWtPakR0VE8wUmtnY0Vvai1VS09vX2k3dlFRTzMzTE1ZMTNoR2ZXOHhrUThyRjhLUi1CeXlqT0gyM1BBaw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9763bd00779f",
-    "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T12:26:00+00:00",
-    "acquirer": "Energy Transfer to",
-    "target": "Vaquero Midstream",
-    "headline": "Energy Transfer to Acquire Vaquero Midstream for $2.63 Billion",
-    "valueBillions": 2.63,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Energy Transfer to Acquire Vaquero Midstream for $2.63 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVNDalRDdW5HVXdDLUtoMGZ2QVo5Wk1JMEhqa0c1a3RHNkw4aE9ick9WUGtMUHIzdlZ6ZktHX21qUEc4YjNfNEk4SHJ6aldqRTVDR09jT1VwckYtS0J3RGk3Ni1TbXhBUVVJeE1YN0pJLWY3bnlMZ21XOW9pQUhITHo5UDE3Sk0wSzVyT0Y0RDNMbUFNTERrREJxQ3BHWUFiUXBPUlpWOGprdlN3SzlZ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-332e24701dbf",
-    "date": "October 3, 2026",
-    "publishedISO": "2026-10-03T02:27:00+00:00",
-    "acquirer": "Winooski Valley Park District",
-    "target": "Charlie’s Boathouse property",
-    "headline": "Winooski Valley Park District acquires Charlie’s Boathouse property",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WCAX",
-    "summary": "Winooski Valley Park District acquires Charlie’s Boathouse property WCAX",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjNpRExaeVBqWUtpUXBNZzRnMEo0c0xOQzRjbE5UTTZXWkdWTTBVZWl0TDNlbGNoVm9vTVVPc3Etc0xFempjTHhLdm1ONXZCZU81MFZ5VTF4MzVwVDEyZ2VwRzd6QXZRVHN5TXVGNVZDMmN1SFhuME1taEZpUzVEY0ZXY2g1aC1QRUxOSHdTNVRXOW5qaWZnMnJ0b3VrUmtp0gG0AUFVX3lxTFBJXzk1NFVhRUw4TUdtZHM0SGVHNmFybXFISGJOVi1QVFZ2dzdYV0NZV1VOQXNtaFdQZ3ZyUnBFSXRZTTBQSVd3SE9HbzdfX25DNDRtOGFFeFViSmZMLWZ1UmY2NF9fa2RCMXlLLUUySnZqcUNpa1hDM0VET2dJM1pnbG1RMkoyeVNDb3lNSWNEZGhLVjNWSUN3WmRCcHRLUGp3dVA2ZjB3S0FDTVowSXIwaF9wdQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 3, 2026"
       },
       {
         "stage": "Terms verified",
