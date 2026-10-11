@@ -1,156 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-d44cc221885b",
-    "date": "October 11, 2026",
-    "publishedISO": "2026-10-11T02:14:17+00:00",
-    "acquirer": "Freight Broker C.H. Robinson to",
-    "target": "Smaller Rival RXO",
-    "headline": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUQwcFBta3ZmbVoyNkFUVUhkZXpFSHlNeVB6Rk41X3RRUG9kbXlOTi1Vaml4enZ6cHdrOUVTOWpCMUppbVZrNHgyQzlNNFM1bExPY0xwU3YzNmhiTmlnWFpidUxIeEpBckRySXdpVElnYzdnXzJIV2pBQVFNSEJZclh0X2M1aVprbGI0SWxOTDZqR2pSQjlhWE1qQmRjWXM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6c1033e85675",
-    "date": "October 11, 2026",
-    "publishedISO": "2026-10-11T00:13:15+00:00",
-    "acquirer": "Schneider Electric to",
-    "target": "Software Maker PTC",
-    "headline": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
-    "valueBillions": 22.6,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW90UWZMU2VUcHRXb2NZa3NpbTdqZUVfTXFTcGdFa2dYZkpRS0l0UXVzT25DTU53Z25aSUo5V250VzBTVGNLS01WZUprRGU3emdQNlhaRUN6VHVqLWZtYktRc3M4YnBPUlVVa002MkRLanVvY2gtODQ0UmRtbDRzTmFXTVQyY3VSdktYeWQyT3dBQlJvVVBMd3VYNnQtcTNvRF90S0RTN18?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-05dc3a0ea330",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T20:06:33+00:00",
@@ -1126,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-d44cc221885b",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T11:12:00+00:00",
+    "acquirer": "Freight Broker C.H. Robinson to",
+    "target": "Smaller Rival RXO",
+    "headline": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUQwcFBta3ZmbVoyNkFUVUhkZXpFSHlNeVB6Rk41X3RRUG9kbXlOTi1Vaml4enZ6cHdrOUVTOWpCMUppbVZrNHgyQzlNNFM1bExPY0xwU3YzNmhiTmlnWFpidUxIeEpBckRySXdpVElnYzdnXzJIV2pBQVFNSEJZclh0X2M1aVprbGI0SWxOTDZqR2pSQjlhWE1qQmRjWXM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-db6ad0ef92f3",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T09:35:55+00:00",
@@ -1314,81 +1239,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-869c786ed2c1",
-    "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T21:04:32+00:00",
-    "acquirer": "Centalion",
-    "target": "Haynesville natural gas assets from Silver Hill",
-    "headline": "Centalion acquires Haynesville natural gas assets from Silver Hill",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Centalion acquires Haynesville natural gas assets from Silver Hill Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWDl5eHd1X0JkVUtNejgtS2g4UkFPUnExWHp1WFVPU3JiYXBIOHVVekRHTFliVG9mVDNpOHUxLUZsdlR0OVFOQVZ1a0xzSHI3ME5EMktsSXJ3YUhEaDVlSHlMbkZQNGo4emtmUUNCVEVUTUxMUkhIR2ZPRGlmdG1NUW1DLUZHWm5naUIydktvcU9TQUNHT3dvVUNxMEZ5LV91VU9SNVBpUnN2dkxXU3RGWFNEeTNoVFRF?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 5, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2026,6 +1876,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-a29505926382",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T12:53:46+00:00",
+    "acquirer": "C.H. Robinson to",
+    "target": "freight broker RXO",
+    "headline": "C.H. Robinson to acquire freight broker RXO for $5.8 billion",
+    "valueBillions": 5.8,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "C.H. Robinson to acquire freight broker RXO for $5.8 billion Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEU5T1J2U1NIVlZFbHhIVzVJd0tYVmkzLU96RnpZU096UkFRVUdqTHNMZGp3dTVpTy1FcWxqa2l5b1k1LXd4VzVsejdEOFBaU3FBb2RXTlpvcWFEV3gwYWR0ZEllZnd3VzJpN283bWJCWEN2RUNJVzAxWWt3a0lfRVUzb0htVVRueUJJLTZxdml5RTZOSXRMaw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-53c137359038",
     "date": "October 5, 2026",
     "publishedISO": "2026-10-05T12:30:00+00:00",
@@ -2209,6 +2134,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRlh1S196S0F1bEtkb2Vobi1TVkR0R3NJMk9IWmxHV1Zhc0t2dnlhdWduTFUtSHFrR0lNZUMydHFEYmZlWjZBWU1LaEtCa1Fzd0F0Zk4ydXZHSUxWOGZvclotN1lGZDlsLWJwWVpUdC1nak1XUHpib1dodkpGSmZDWjdncjU1SVl0NnZEWmgtSHEwQ1M0RnZhNGZOMVh6cGdVSlBYbnBGLUdqRnB6aUVtY29EY1hBME1VMTJNc1N2TmhOR19jbGRwazl5b0RSRENZdTB2S2NkOENzeU5DUWs3ckhCaHM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6c1033e85675",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T08:47:00+00:00",
+    "acquirer": "Schneider Electric to",
+    "target": "Software Maker PTC",
+    "headline": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
+    "valueBillions": 22.6,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW90UWZMU2VUcHRXb2NZa3NpbTdqZUVfTXFTcGdFa2dYZkpRS0l0UXVzT25DTU53Z25aSUo5V250VzBTVGNLS01WZUprRGU3emdQNlhaRUN6VHVqLWZtYktRc3M4YnBPUlVVa002MkRLanVvY2gtODQ0UmRtbDRzTmFXTVQyY3VSdktYeWQyT3dBQlJvVVBMd3VYNnQtcTNvRF90S0RTN18?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
