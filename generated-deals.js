@@ -226,6 +226,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b35feba7b99b",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T17:05:01+00:00",
+    "acquirer": "RSL",
+    "target": "2026 International Roster Slot From Seattle Sounders FC",
+    "headline": "RSL Acquires 2026 International Roster Slot From Seattle Sounders FC",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Real Salt Lake",
+    "summary": "RSL Acquires 2026 International Roster Slot From Seattle Sounders FC Real Salt Lake",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0RQa0VwS3NsdUhPaEE3cDFZREFkOUoza1M2ZjF1QzVLdy0tV3Vmd00tVGVtX3NYSDZrS0JDRHhwNmppR05sQWpsS0FqWW95RUkzcTNoQVlEb0tsNEJCM1JhMHJPOElqaUdFRnR0ajRlYmh5c1d5Tkp1b0pnZEIwaUVpcWJpNkZ4M0NubEJTOG5JUXN1NDNiZQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-abcf30378ccc",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T13:06:39+00:00",
@@ -484,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOUxPX283Z1ZTN3VuUl9WSFRvV2JJc2k1MGVUZFR4dkI2ZGw1LWV2alFwOEpEa2JXTmRnQTByNU9rUUFtYXVuLU4xVDJfTVdNUnNYckZWY294dXZiUkM4dUh4TDN0Vzc2Y2ZfT0gyMDlTeHZiQVBBeDZFMURGUTNVQURtQUNBekxsdjJvVXhWRUNXbFk2S29RU1YtTDFXZzJyVXhTUlRwbkVVMklRV2xsRzhvYTNTTkxQZlJBMU5QM1pTZlZJMkdKa2RqWWx4dzZrTkd5Q0tB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-44b375c65c82",
-    "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T13:00:00+00:00",
-    "acquirer": "Thoma Bravo-backed BlueMatrix to",
-    "target": "Aiera, Advancing Governed AI Distribution",
-    "headline": "Thoma Bravo-backed BlueMatrix to Acquire Aiera, Advancing Governed AI Distribution for Investment Research",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Thoma Bravo-backed BlueMatrix to Acquire Aiera, Advancing Governed AI Distribution for Investment Research PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVVNSDhRZFk2YU1rLVlvYi1FNUxYaUR1a2NMWWptamE1UlpfWkZuNTZtRzMweW16QzBlTHNCLXcxaWIzU0xFdjZNWUpIY0N1TWk2ay1qa2gyNXJveXpCem1tOUlSWUZpMHhaSnhKMTctb0xNSHllTHhSSDk3UHVnSkp1MDg2MXUycUl6d3VmOVdzWFRRcGFTSFgtSjJRNU14Z2RVeVgzRWNfLVVDcEhxb2NrUUhyMjNjR3RBRkI1NWh0NGdEMEpMZnRoMFhJVUw1czJyZ1NVeWY0NWtvbl9DN2dWQV9rNDNMNC0xZWU1VURwVlU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -976,12 +976,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d44cc221885b",
+    "id": "news-db6ad0ef92f3",
     "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T11:12:00+00:00",
-    "acquirer": "Freight Broker C.H. Robinson to",
-    "target": "Smaller Rival RXO",
-    "headline": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
+    "publishedISO": "2026-10-06T09:35:55+00:00",
+    "acquirer": "KKR Strikes Deal to",
+    "target": "Private-Capital Fund Administrator Gen II",
+    "headline": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -991,7 +991,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "WSJ",
-    "summary": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO WSJ",
+    "summary": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1008,7 +1008,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUQwcFBta3ZmbVoyNkFUVUhkZXpFSHlNeVB6Rk41X3RRUG9kbXlOTi1Vaml4enZ6cHdrOUVTOWpCMUppbVZrNHgyQzlNNFM1bExPY0xwU3YzNmhiTmlnWFpidUxIeEpBckRySXdpVElnYzdnXzJIV2pBQVFNSEJZclh0X2M1aVprbGI0SWxOTDZqR2pSQjlhWE1qQmRjWXM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWZudVNxdXFZQktZalJqQXRUS1NDSWdhVk1NTFFqa1pzUlBrVDlrUTdVbnpPTUxYWHJwMVR4YnN4bktxeGhvNm9JRGFDVkYzWVJkNDVHbEZ3QkZCVklZWkdHbTlLVG5EUG0yRmY4dDBoTWdBTHhQeWVGcVk0aDFLUy1aNzdua09BUm83VVZPaTR5U1ZZaVc2YVI1c2ZkU3hCNXFnT3Y5SjJOR2x6Ukg0ZnNn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1051,13 +1051,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-db6ad0ef92f3",
+    "id": "news-a1edb2079262",
     "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T09:35:55+00:00",
-    "acquirer": "KKR Strikes Deal to",
-    "target": "Private-Capital Fund Administrator Gen II",
-    "headline": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
-    "valueBillions": null,
+    "publishedISO": "2026-10-06T04:20:05+00:00",
+    "acquirer": "GE HealthCare to",
+    "target": "Sofie Biosciences",
+    "headline": "GE HealthCare to acquire Sofie Biosciences for $945M",
+    "valueBillions": 0.945,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1065,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II WSJ",
+    "sourceName": "MedTech Dive",
+    "summary": "GE HealthCare to acquire Sofie Biosciences for $945M MedTech Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1083,7 +1083,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWZudVNxdXFZQktZalJqQXRUS1NDSWdhVk1NTFFqa1pzUlBrVDlrUTdVbnpPTUxYWHJwMVR4YnN4bktxeGhvNm9JRGFDVkYzWVJkNDVHbEZ3QkZCVklZWkdHbTlLVG5EUG0yRmY4dDBoTWdBTHhQeWVGcVk0aDFLUy1aNzdua09BUm83VVZPaTR5U1ZZaVc2YVI1c2ZkU3hCNXFnT3Y5SjJOR2x6Ukg0ZnNn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjBncWttRzdmLVhSVzBQQ3BNdG9PR0FFVmd2b3lqdXMwN0tFMkZaTk5QOXByS19UV3dJbFVMNmVQbUJURW04SWpmRFpTQ0x0NlhycnFNM3pPTmJZdGRjZ1dtV21TeUNfT01TcXI5dVQtZWN4SDlkTlNjTTlVR2tXVEhkQlB4QUhYYk5Pd0FlRTBIVnlBTXpn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1876,13 +1876,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a29505926382",
+    "id": "news-53c137359038",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T12:53:46+00:00",
-    "acquirer": "C.H. Robinson to",
-    "target": "freight broker RXO",
-    "headline": "C.H. Robinson to acquire freight broker RXO for $5.8 billion",
-    "valueBillions": 5.8,
+    "publishedISO": "2026-10-05T12:30:00+00:00",
+    "acquirer": "Aurora Capital Partners",
+    "target": "Softdocs, a Leading Provider of Process Automation and Document Management Solutions",
+    "headline": "Aurora Capital Partners Acquires Softdocs, a Leading Provider of Process Automation and Document Management Solutions for Education and Government",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "C.H. Robinson to acquire freight broker RXO for $5.8 billion Yahoo Finance",
+    "sourceName": "PR Newswire",
+    "summary": "Aurora Capital Partners Acquires Softdocs, a Leading Provider of Process Automation and Document Management Solutions for Education and Government PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1908,7 +1908,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEU5T1J2U1NIVlZFbHhIVzVJd0tYVmkzLU96RnpZU096UkFRVUdqTHNMZGp3dTVpTy1FcWxqa2l5b1k1LXd4VzVsejdEOFBaU3FBb2RXTlpvcWFEV3gwYWR0ZEllZnd3VzJpN283bWJCWEN2RUNJVzAxWWt3a0lfRVUzb0htVVRueUJJLTZxdml5RTZOSXRMaw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNa201LXZhbFhGMko3Nl9FaEg2WTJOaWphV3NLd0g4eXpFU0xyZ214VEZoOXQyLUlBWDhTRHd5em1xWE95MkFpLUhBY3R3WTdQOTRwRUNlSUs5MjREVjRTYmQzdzJiUlVia1l3R3kwSTkyN1drSWJLdTU4Z3FRU05YQmVFN0x0Q2Z1V2J2STNLQ21Qa191RTRlYTRWeWhDNG9sdXJieUNwUWtOYzNzV0NsY1hSSDc2cnZ0UjVoeVl0ZXI4dVFlVGlKTlFzeGNhdFhEVV9vbjdWZUp3RGZJNjNlM3MzU2pwczVNcldWUHZJNkRmelhUSHU2b292LXJ3dlpCNkVLN2pyMHJpWEdUWkszRWw3TWg5NnBmVGtrOHN5U0tTcUxrcW1uWQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,12 +1951,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-53c137359038",
+    "id": "news-4d000bc08dfa",
     "date": "October 5, 2026",
     "publishedISO": "2026-10-05T12:30:00+00:00",
-    "acquirer": "Aurora Capital Partners",
-    "target": "Softdocs, a Leading Provider of Process Automation and Document Management Solutions",
-    "headline": "Aurora Capital Partners Acquires Softdocs, a Leading Provider of Process Automation and Document Management Solutions for Education and Government",
+    "acquirer": "SAIC",
+    "target": "Information Security Corporation, Expanding",
+    "headline": "SAIC Acquires Information Security Corporation, Expanding",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Aurora Capital Partners Acquires Softdocs, a Leading Provider of Process Automation and Document Management Solutions for Education and Government PR Newswire",
+    "sourceName": "GlobeNewswire",
+    "summary": "SAIC Acquires Information Security Corporation, Expanding GlobeNewswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1983,7 +1983,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNa201LXZhbFhGMko3Nl9FaEg2WTJOaWphV3NLd0g4eXpFU0xyZ214VEZoOXQyLUlBWDhTRHd5em1xWE95MkFpLUhBY3R3WTdQOTRwRUNlSUs5MjREVjRTYmQzdzJiUlVia1l3R3kwSTkyN1drSWJLdTU4Z3FRU05YQmVFN0x0Q2Z1V2J2STNLQ21Qa191RTRlYTRWeWhDNG9sdXJieUNwUWtOYzNzV0NsY1hSSDc2cnZ0UjVoeVl0ZXI4dVFlVGlKTlFzeGNhdFhEVV9vbjdWZUp3RGZJNjNlM3MzU2pwczVNcldWUHZJNkRmelhUSHU2b292LXJ3dlpCNkVLN2pyMHJpWEdUWkszRWw3TWg5NnBmVGtrOHN5U0tTcUxrcW1uWQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNczNfaHdyNkExQVp0WF80RUlSZWR3amE2bUJkTDRXQ1pzVVBlT2NIMHQ2VUR4b1NYY0hGX1BhSlJHaGhEZ29VZjdtcG44SDk0TVlMRTZ0eVg4RWF0RVdrMVZyZXhoYkRLcG9CdDFvRGdLRXZOczl6Y0FRLVVicTNBS185V25Ea3Y4MDhxUHdyOUkwclBfYUVPTzRBajZmcHB0X21FR1kwSTg4N0dVbkxLN2pkLUtjNHRkajdDMy10SDdETFJES1VJSGxVZnIwbVpIclpOeHNhY0NjLVdobkxzNW51ZF90dUNPdzFpT01rc3pJOWlvbXRrRTBzcThmaUhTd3ZzUXNxTlZkaTFRbDRQejRrSVN2dFM2Z0pj?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
