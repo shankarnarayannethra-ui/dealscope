@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-05dc3a0ea330",
-    "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T20:06:33+00:00",
-    "acquirer": "R&S Holdings",
-    "target": "Residential Addiction Treatment Operator Innovo Detox",
-    "headline": "R&S Holdings Acquires Residential Addiction Treatment Operator Innovo Detox",
+    "id": "news-d44cc221885b",
+    "date": "October 11, 2026",
+    "publishedISO": "2026-10-11T02:14:17+00:00",
+    "acquirer": "Freight Broker C.H. Robinson to",
+    "target": "Smaller Rival RXO",
+    "headline": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Behavioral Health Business",
-    "summary": "R&S Holdings Acquires Residential Addiction Treatment Operator Innovo Detox Behavioral Health Business",
+    "sourceName": "WSJ",
+    "summary": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVVURlg3QjhaVFRubGNKMzNwVXFLbnM4RXRWWDFhN29fYVJwa0lTM0JHaC1KT2pMSDdCZ2Q0R1BPbHVUSlhDeDl5LTZ3T0JpUWdSUWFnWFpWOTkzT2VoN3Y4RmtZakMzWjdvVDdZQVJXd01XSWl5VnFoQU4zWk45b3hmY3dZTE1RQmJ0Y1ZWcWxnOENyM1NsS3d1OEpsUTMtcXlTVjZYVUpDVUlvZUE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUQwcFBta3ZmbVoyNkFUVUhkZXpFSHlNeVB6Rk41X3RRUG9kbXlOTi1Vaml4enZ6cHdrOUVTOWpCMUppbVZrNHgyQzlNNFM1bExPY0xwU3YzNmhiTmlnWFpidUxIeEpBckRySXdpVElnYzdnXzJIV2pBQVFNSEJZclh0X2M1aVprbGI0SWxOTDZqR2pSQjlhWE1qQmRjWXM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 9, 2026"
+        "date": "Oct 11, 2026"
       },
       {
         "stage": "Terms verified",
@@ -76,13 +76,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-51cc8e386461",
-    "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T19:06:50+00:00",
-    "acquirer": "SAIC",
-    "target": "quantum encryption firm",
-    "headline": "SAIC acquires quantum encryption firm",
-    "valueBillions": null,
+    "id": "news-6c1033e85675",
+    "date": "October 11, 2026",
+    "publishedISO": "2026-10-11T00:13:15+00:00",
+    "acquirer": "Schneider Electric to",
+    "target": "Software Maker PTC",
+    "headline": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
+    "valueBillions": 22.6,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Virginia Business",
-    "summary": "SAIC acquires quantum encryption firm Virginia Business",
+    "sourceName": "WSJ",
+    "summary": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TdDVCRkxTUVF0dkxUVUlWeGM4MVNwZHZCT3gzUmFKbjJVc3NJNk5NS21NWEJYR2M0c0RwMEplYm1heXJnOUFEa193dXRxVHV1YXpwb01sUldsR3JrX0FndUw3d1lHa3lsRXlwZmNMOGNGZWdrM2c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW90UWZMU2VUcHRXb2NZa3NpbTdqZUVfTXFTcGdFa2dYZkpRS0l0UXVzT25DTU53Z25aSUo5V250VzBTVGNLS01WZUprRGU3emdQNlhaRUN6VHVqLWZtYktRc3M4YnBPUlVVa002MkRLanVvY2gtODQ0UmRtbDRzTmFXTVQyY3VSdktYeWQyT3dBQlJvVVBMd3VYNnQtcTNvRF90S0RTN18?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-05dc3a0ea330",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T20:06:33+00:00",
+    "acquirer": "R&S Holdings",
+    "target": "Residential Addiction Treatment Operator Innovo Detox",
+    "headline": "R&S Holdings Acquires Residential Addiction Treatment Operator Innovo Detox",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Behavioral Health Business",
+    "summary": "R&S Holdings Acquires Residential Addiction Treatment Operator Innovo Detox Behavioral Health Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVVURlg3QjhaVFRubGNKMzNwVXFLbnM4RXRWWDFhN29fYVJwa0lTM0JHaC1KT2pMSDdCZ2Q0R1BPbHVUSlhDeDl5LTZ3T0JpUWdSUWFnWFpWOTkzT2VoN3Y4RmtZakMzWjdvVDdZQVJXd01XSWl5VnFoQU4zWk45b3hmY3dZTE1RQmJ0Y1ZWcWxnOENyM1NsS3d1OEpsUTMtcXlTVjZYVUpDVUlvZUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -676,13 +751,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-38aa0dd2caff",
+    "id": "news-31132b12280e",
     "date": "October 7, 2026",
-    "publishedISO": "2026-10-07T14:30:00+00:00",
-    "acquirer": "TD SYNNEX Announces Entering Into a Definitive Agreement to",
-    "target": "BlueStar",
-    "headline": "TD SYNNEX Announces Entering Into a Definitive Agreement to Acquire BlueStar",
-    "valueBillions": null,
+    "publishedISO": "2026-10-07T16:37:37+00:00",
+    "acquirer": "Third Coast to",
+    "target": "Oklahoma bank",
+    "headline": "Third Coast to buy Oklahoma bank for $240M",
+    "valueBillions": 0.24,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "TD SYNNEX Announces Entering Into a Definitive Agreement to Acquire BlueStar Business Wire",
+    "sourceName": "Banking Dive",
+    "summary": "Third Coast to buy Oklahoma bank for $240M Banking Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEZJaVVvbHRXRDFmbDh1S2F2YllUNjYzcTJNWHJvd0VmMXFCc0FyTDZMbFpiZkktSHBDdUQ1UW5NWDBXZmEzdXQ1R0RjVnRqT3UzcmpnTHBJNG12cTBvVGNLc2pzdVJScldHTGhHUWdSWmIzMXRvN2FHWF9CMWZvNEJQbkFsQjFlUi15MXdOSnJzQlYyX1VnUHBUaWZ5YVV4ZXRGNHUxM3FXTFQ4Nkwwa1VFZk82NVc1djZNUTFBSU1sMEhTQ05ka2tuVmdwUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2hHZGp4VFJlbnFoaHZQTUhnc01sV25Ld0pZV2pxRVpKbXdrWldselZ6NFlKTEtvWFpEOUUxOXJvbGQ3MTNZUXFWaV9nWVROdUlfa21LNXpaQ3paYmNQeEwwd05kSHlzbmdXdUd6YWlRY3hsV2ZyOG1XTE9HaHpQdDROTVloWUZjczVfMm1zbVVEQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1051,84 +1126,9 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d44cc221885b",
-    "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T11:12:00+00:00",
-    "acquirer": "Freight Broker C.H. Robinson to",
-    "target": "Smaller Rival RXO",
-    "headline": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUQwcFBta3ZmbVoyNkFUVUhkZXpFSHlNeVB6Rk41X3RRUG9kbXlOTi1Vaml4enZ6cHdrOUVTOWpCMUppbVZrNHgyQzlNNFM1bExPY0xwU3YzNmhiTmlnWFpidUxIeEpBckRySXdpVElnYzdnXzJIV2pBQVFNSEJZclh0X2M1aVprbGI0SWxOTDZqR2pSQjlhWE1qQmRjWXM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-db6ad0ef92f3",
     "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T08:09:00+00:00",
+    "publishedISO": "2026-10-06T09:35:55+00:00",
     "acquirer": "KKR Strikes Deal to",
     "target": "Private-Capital Fund Administrator Gen II",
     "headline": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
@@ -1726,13 +1726,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a00ad03166b4",
+    "id": "news-548002c6425b",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T16:10:35+00:00",
-    "acquirer": "GE HealthCare to",
-    "target": "SOFIE Biosciences establishing a final mile footprint",
-    "headline": "GE HealthCare to acquire SOFIE Biosciences establishing a final mile footprint for PET radiopharmaceutical supply in the U.S.",
-    "valueBillions": null,
+    "publishedISO": "2026-10-05T14:59:00+00:00",
+    "acquirer": "C.H. Robinson to",
+    "target": "RXO",
+    "headline": "C.H. Robinson to acquire RXO for $5.8 billion",
+    "valueBillions": 5.8,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GE HealthCare",
-    "summary": "GE HealthCare to acquire SOFIE Biosciences establishing a final mile footprint for PET radiopharmaceutical supply in the U.S. GE HealthCare",
+    "sourceName": "Transport Topics",
+    "summary": "C.H. Robinson to acquire RXO for $5.8 billion Transport Topics",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1758,7 +1758,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQ1VhUmRJYTBIbkMtbTdWaGpJamFaRnYwQ0NHemV4MmluWnNJYjU0eS11cXppb2s0S2ZDbDhlaER2WTdYdlpicHRiQTZqeGIwRlc3b29GNFhTMGlKS1pTMUtDWW5Tbkw1Uk9feWJQMm11YTBuQnJiQnNLNFZhdW0tTk9TV2RMaGZ0ZllBc3ZEYXVaZUh6clpoc3RwbnJMTEtxOHY2RmtwYUJDSkFOdDMteFNkMnZMR3lVRURpZU4xdnZHajRkWnZaSDhjWTFCdFB6RkV0Nk5zX2hVeVF3RVJ2bmkzVjR5R0g2elFtZGdMdlQ5cjdTaVZXVmFKanVSQzNORjVTZDM1UTNGRWc3ZFIwQW0zS2txS2s?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10YXUzcGRnSS0xcU8yU0c2ekp2eEtxYUNRLTd4bDE0NlUwYTYwWV9TYjFZNm9UVUdqdG1ia2JWXzRDZWNWQ1lVRnl2YTdLUWVpTE01aGdUYVk3Mjd4MGczczNDRUdNcmNL?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2101,12 +2101,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a6b188ba11ea",
+    "id": "news-879df359dcae",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T10:45:00+00:00",
-    "acquirer": "Advanced Drainage Systems",
-    "target": "StormTrap Investments LLC From PSP Capital",
-    "headline": "Advanced Drainage Systems Announces Acquisition of StormTrap Investments LLC From PSP Capital",
+    "publishedISO": "2026-10-05T12:00:54+00:00",
+    "acquirer": "GE HealthCare to",
+    "target": "SOFIE Biosciences, Establishing a 'Final Mile' Footprint",
+    "headline": "GE HealthCare to Acquire SOFIE Biosciences, Establishing a 'Final Mile' Footprint for PET Radiopharmaceutical Supply in the U.S.",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "Advanced Drainage Systems Announces Acquisition of StormTrap Investments LLC From PSP Capital Business Wire",
+    "sourceName": "GE HealthCare",
+    "summary": "GE HealthCare to Acquire SOFIE Biosciences, Establishing a 'Final Mile' Footprint for PET Radiopharmaceutical Supply in the U.S. GE HealthCare",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,7 +2133,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRlh1S196S0F1bEtkb2Vobi1TVkR0R3NJMk9IWmxHV1Zhc0t2dnlhdWduTFUtSHFrR0lNZUMydHFEYmZlWjZBWU1LaEtCa1Fzd0F0Zk4ydXZHSUxWOGZvclotN1lGZDlsLWJwWVpUdC1nak1XUHpib1dodkpGSmZDWjdncjU1SVl0NnZEWmgtSHEwQ1M0RnZhNGZOMVh6cGdVSlBYbnBGLUdqRnB6aUVtY29EY1hBME1VMTJNc1N2TmhOR19jbGRwazl5b0RSRENZdTB2S2NkOENzeU5DUWs3ckhCaHM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEJlanVZWS1vbDd5ZHJSYjdya2xfbXAxLWVfWnd6dEpiU2dUQTlxVGNnYldPZlpfa0NJWFdQYzlYT1NQQzl4LWp0TmpxeTFYdEpFNGdqNDFqcEJUeUlJT2VyV2ZtMkJ0Rk5Ec1hnRmlrUDQ5dnNrU0F0dWVuNmppY3kxRmdKOHhvY2VJLTRxdENJSjk0SkNNX1dmMDRBTFRPeXlXVjFsM1VjZ05VTVFhNVF4OXJlOFktQk5tMU9BeDZmaV9SWWZBZU03SmY0dw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2176,13 +2176,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6c1033e85675",
+    "id": "news-a6b188ba11ea",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T08:47:00+00:00",
-    "acquirer": "Schneider Electric to",
-    "target": "Software Maker PTC",
-    "headline": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
-    "valueBillions": 22.6,
+    "publishedISO": "2026-10-05T10:45:00+00:00",
+    "acquirer": "Advanced Drainage Systems",
+    "target": "StormTrap Investments LLC From PSP Capital",
+    "headline": "Advanced Drainage Systems Announces Acquisition of StormTrap Investments LLC From PSP Capital",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion WSJ",
+    "sourceName": "Business Wire",
+    "summary": "Advanced Drainage Systems Announces Acquisition of StormTrap Investments LLC From PSP Capital Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW90UWZMU2VUcHRXb2NZa3NpbTdqZUVfTXFTcGdFa2dYZkpRS0l0UXVzT25DTU53Z25aSUo5V250VzBTVGNLS01WZUprRGU3emdQNlhaRUN6VHVqLWZtYktRc3M4YnBPUlVVa002MkRLanVvY2gtODQ0UmRtbDRzTmFXTVQyY3VSdktYeWQyT3dBQlJvVVBMd3VYNnQtcTNvRF90S0RTN18?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRlh1S196S0F1bEtkb2Vobi1TVkR0R3NJMk9IWmxHV1Zhc0t2dnlhdWduTFUtSHFrR0lNZUMydHFEYmZlWjZBWU1LaEtCa1Fzd0F0Zk4ydXZHSUxWOGZvclotN1lGZDlsLWJwWVpUdC1nak1XUHpib1dodkpGSmZDWjdncjU1SVl0NnZEWmgtSHEwQ1M0RnZhNGZOMVh6cGdVSlBYbnBGLUdqRnB6aUVtY29EY1hBME1VMTJNc1N2TmhOR19jbGRwazl5b0RSRENZdTB2S2NkOENzeU5DUWs3ckhCaHM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
