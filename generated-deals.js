@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-51cc8e386461",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T19:06:50+00:00",
+    "acquirer": "SAIC",
+    "target": "quantum encryption firm",
+    "headline": "SAIC acquires quantum encryption firm",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Virginia Business",
+    "summary": "SAIC acquires quantum encryption firm Virginia Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TdDVCRkxTUVF0dkxUVUlWeGM4MVNwZHZCT3gzUmFKbjJVc3NJNk5NS21NWEJYR2M0c0RwMEplYm1heXJnOUFEa193dXRxVHV1YXpwb01sUldsR3JrX0FndUw3d1lHa3lsRXlwZmNMOGNGZWdrM2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f2b0c1f62b3e",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T17:21:14+00:00",
@@ -334,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWRfbDJMYVBZZ1JuQTM4aWZUcWk0b1NzSWtkVUcweHNTU3BBbi1YLVFva0tYWUpJNjBpS2lBWFp2bjRCbVVZcnU3by13anpSek5lOFk0SUZFLW1Pc1ozUDM3U2RrZEVLOGRPZzhhMFp5QzlnRVpwa0I2Z2hNaHFTMTRnTXZNNnV6dzFkd3lLcmU2dzF1TTVpUWRGZElpa1lUWjVNbzR4YWR2b1dQWGhjVnQxWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-74601006d235",
-    "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T06:08:00+00:00",
-    "acquirer": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to",
-    "target": "Shell arm Solenergi, bankers say",
-    "headline": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to buy Shell arm Solenergi, bankers say",
-    "valueBillions": 1.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to buy Shell arm Solenergi, bankers say Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnVZWEJRVFBzT0I4Um1xQnE4UEY0eVg4emROS3VSNm9Rc1UtWndXa3JNa2NUWXdnZ01ZMS11MnJxUS1QUW9oM3N3aHFBLVBQWXJENWJXRzFrOXl4MHdDWDBiT0hObEhiVktWa2lJUmNyUXVtdkhPRlY1ZUN6aGF4a0gyWXRWb2FROUVDMnNOWWY3RjJqM3IzMEQ3R1l3WmpvYWVYMFliZkN2dzNrWkpUaTdYSkpWNFlibldB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -978,7 +978,7 @@ window.generatedDeals = [
   {
     "id": "news-db6ad0ef92f3",
     "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T09:35:55+00:00",
+    "publishedISO": "2026-10-06T08:09:00+00:00",
     "acquirer": "KKR Strikes Deal to",
     "target": "Private-Capital Fund Administrator Gen II",
     "headline": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
@@ -1234,6 +1234,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUNoNVl1RGFnRVM5U2FKNldwRU9fZnREcE9NRlV2b0hQalIxYUVZdTBNU0hrb2xlSjRiOENiMEtUak5VdWRGZUtxS3RRX1J1YjJxRl9POGR5M1FJWDRqdVhuZmFpYl8tVFRDWmZjT1BsREhOQ3kzUkVWM3RtUXN2RW5DWmtFWWc2N251eEtjS0RzZk91QklrMThzbkhKeFE1MDBBdEdlSktaMlRTLW5sNFpncllLbjNfNy1FdA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2714d8a84c0f",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T00:00:38+00:00",
+    "acquirer": "C.H. Robinson to",
+    "target": "RXO: What could it mean",
+    "headline": "C.H. Robinson to buy RXO: What could it mean for truckers?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Land Line Media",
+    "summary": "C.H. Robinson to buy RXO: What could it mean for truckers? Land Line Media",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUR2YVF0WDRaVGZiS1ZNSHhZSDZMdE1fSXpHRzNWYTNJMlhXZ2VMOUZ3V2VJbER2RWlreUIzeTFnUFJ3YXdFZ3NWM05qRmJ3aUxKOS00RFNYdlR4TzdMUHR2cnltU25JaWhwSUVpSTdkSDE2QTRWV2hnT0lhc1cyQ2ZsZXYtUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1534,6 +1609,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHZZVHJoeFF3d0lVTjFqZUVieDhwd2p0NjF3MmhtaUNOZ0hQTFc1RmcxTThkWTN0SEd1ZG93WTZzN2VCQkdBb0Y3QXNNVGlINVBOODU2S3FrdEQwbUFiZTJWb3hJVXl5TGpoZ0N0OHllRjczaDdxVFVaNWpBRjExeXdZUUR6OWFsMVBCWnM2dW5xRmlX?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a00ad03166b4",
+    "date": "October 5, 2026",
+    "publishedISO": "2026-10-05T16:10:35+00:00",
+    "acquirer": "GE HealthCare to",
+    "target": "SOFIE Biosciences establishing a final mile footprint",
+    "headline": "GE HealthCare to acquire SOFIE Biosciences establishing a final mile footprint for PET radiopharmaceutical supply in the U.S.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "GE HealthCare",
+    "summary": "GE HealthCare to acquire SOFIE Biosciences establishing a final mile footprint for PET radiopharmaceutical supply in the U.S. GE HealthCare",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQ1VhUmRJYTBIbkMtbTdWaGpJamFaRnYwQ0NHemV4MmluWnNJYjU0eS11cXppb2s0S2ZDbDhlaER2WTdYdlpicHRiQTZqeGIwRlc3b29GNFhTMGlKS1pTMUtDWW5Tbkw1Uk9feWJQMm11YTBuQnJiQnNLNFZhdW0tTk9TV2RMaGZ0ZllBc3ZEYXVaZUh6clpoc3RwbnJMTEtxOHY2RmtwYUJDSkFOdDMteFNkMnZMR3lVRURpZU4xdnZHajRkWnZaSDhjWTFCdFB6RkV0Nk5zX2hVeVF3RVJ2bmkzVjR5R0g2elFtZGdMdlQ5cjdTaVZXVmFKanVSQzNORjVTZDM1UTNGRWc3ZFIwQW0zS2txS2s?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1909,156 +2059,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNa201LXZhbFhGMko3Nl9FaEg2WTJOaWphV3NLd0g4eXpFU0xyZ214VEZoOXQyLUlBWDhTRHd5em1xWE95MkFpLUhBY3R3WTdQOTRwRUNlSUs5MjREVjRTYmQzdzJiUlVia1l3R3kwSTkyN1drSWJLdTU4Z3FRU05YQmVFN0x0Q2Z1V2J2STNLQ21Qa191RTRlYTRWeWhDNG9sdXJieUNwUWtOYzNzV0NsY1hSSDc2cnZ0UjVoeVl0ZXI4dVFlVGlKTlFzeGNhdFhEVV9vbjdWZUp3RGZJNjNlM3MzU2pwczVNcldWUHZJNkRmelhUSHU2b292LXJ3dlpCNkVLN2pyMHJpWEdUWkszRWw3TWg5NnBmVGtrOHN5U0tTcUxrcW1uWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4d000bc08dfa",
-    "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T12:30:00+00:00",
-    "acquirer": "SAIC",
-    "target": "Information Security Corporation, Expanding",
-    "headline": "SAIC Acquires Information Security Corporation, Expanding",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "GlobeNewswire",
-    "summary": "SAIC Acquires Information Security Corporation, Expanding GlobeNewswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNczNfaHdyNkExQVp0WF80RUlSZWR3amE2bUJkTDRXQ1pzVVBlT2NIMHQ2VUR4b1NYY0hGX1BhSlJHaGhEZ29VZjdtcG44SDk0TVlMRTZ0eVg4RWF0RVdrMVZyZXhoYkRLcG9CdDFvRGdLRXZOczl6Y0FRLVVicTNBS185V25Ea3Y4MDhxUHdyOUkwclBfYUVPTzRBajZmcHB0X21FR1kwSTg4N0dVbkxLN2pkLUtjNHRkajdDMy10SDdETFJES1VJSGxVZnIwbVpIclpOeHNhY0NjLVdobkxzNW51ZF90dUNPdzFpT01rc3pJOWlvbXRrRTBzcThmaUhTd3ZzUXNxTlZkaTFRbDRQejRrSVN2dFM2Z0pj?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-879df359dcae",
-    "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T12:00:54+00:00",
-    "acquirer": "GE HealthCare to",
-    "target": "SOFIE Biosciences, Establishing a 'Final Mile' Footprint",
-    "headline": "GE HealthCare to Acquire SOFIE Biosciences, Establishing a 'Final Mile' Footprint for PET Radiopharmaceutical Supply in the U.S.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "GE HealthCare",
-    "summary": "GE HealthCare to Acquire SOFIE Biosciences, Establishing a 'Final Mile' Footprint for PET Radiopharmaceutical Supply in the U.S. GE HealthCare",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEJlanVZWS1vbDd5ZHJSYjdya2xfbXAxLWVfWnd6dEpiU2dUQTlxVGNnYldPZlpfa0NJWFdQYzlYT1NQQzl4LWp0TmpxeTFYdEpFNGdqNDFqcEJUeUlJT2VyV2ZtMkJ0Rk5Ec1hnRmlrUDQ5dnNrU0F0dWVuNmppY3kxRmdKOHhvY2VJLTRxdENJSjk0SkNNX1dmMDRBTFRPeXlXVjFsM1VjZ05VTVFhNVF4OXJlOFktQk5tMU9BeDZmaV9SWWZBZU03SmY0dw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
