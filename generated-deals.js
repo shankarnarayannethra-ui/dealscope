@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-69c8b7401dd4",
+    "id": "news-75fc8f327937",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T07:38:00+00:00",
-    "acquirer": "Galderma to",
-    "target": "ZO Skin Health",
-    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
-    "valueBillions": 1.5,
+    "publishedISO": "2026-10-14T15:09:43+00:00",
+    "acquirer": "Russia's Novatek",
+    "target": "at least two ice-class gas carriers, data shows",
+    "headline": "Russia's Novatek acquires at least two ice-class gas carriers, data shows",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
+    "sourceName": "Reuters",
+    "summary": "Russia's Novatek acquires at least two ice-class gas carriers, data shows Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWlVM1pWV0tIajNVWTRPSmFuWENqdnBYN1RKSmxmUWhCMS1YTnpYaTJtSVdvWGFZaVZ6SC1xdWs3X1NES3QxWVpXd2RyX0YxOGloSkxiZHBxVW9kM1VXSUY5eVJpbHQ2TGZ1VWlBUnJ2MlctVVV6YjFTWDd5QkNiTmtaU0pEeHVvV0FrSDgtWEFfMjB4aGg2QnFFeEJ4a0VUMXBreWpkMzJoZDluc1k5bUF3OHRCZzNmOHBlMg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-64fd171dbe48",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T12:00:00+00:00",
+    "acquirer": "Humanly",
+    "target": "CareerArc to connect recruitment marketing with AI hiring",
+    "headline": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "GeekWire",
+    "summary": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2VJUmprRHUzMUlISDNzSGQyUWs1MzMwTlJrREFvdi1sd0tnaWNYZ1l2bVdIZ2VqNGZXSWJtOExtMUsyUVQ1UnU5cHdiR1lodEd1ZUFWYmQ2SXVPc3A5VkxGT0Z3Q3NyQWRsSWdTckVoNDBWWGt4UHRvVmxQSUxzaUgwaUM1dFZJRjBRSTBFYkYxVDcta2xQOGlZaXFKMVZqeDBBdHY4Qlc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,156 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-432d43c04265",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T21:08:45+00:00",
-    "acquirer": "SMTD to",
-    "target": "property, build facility",
-    "headline": "SMTD to buy property, build facility for additional bus stops",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Capitol City Now",
-    "summary": "SMTD to buy property, build facility for additional bus stops Capitol City Now",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFZjTjJnd0lDYV8ySGVqYm1WTmFCbWZzNmZGdV9sdWw1d3ZmdjdScW9CT1padnFwTzFwR0lNYkVLWnk0NGRDZ3hZeVNKY0czOTZ4Y3o0RFJNVGhVelpqcU5oV2NYRUpIYjE2cUNudHVLM3VyQ19iRlFueVZtWmx6WDBnczdyM1IzLWo3N2Zrb1owMXRVT3VNOGRUZGpCdzl0TFE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-15895f798844",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T19:07:30+00:00",
-    "acquirer": "Workday to",
-    "target": "C1.ai, a Leading Agentic Identity Platform",
-    "headline": "Workday to Acquire C1.ai, a Leading Agentic Identity Platform",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Orrick",
-    "summary": "Workday to Acquire C1.ai, a Leading Agentic Identity Platform Orrick",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcU9GUVRrSkg2NmJjUTVvT05YbXc0YU1waHV1ZXJfMENLc0kyMjhublNXU2pWb0pzTVdGYzVfd3IwR3gydDNoSHMwTlpucmI4RjV4Wk9scXMyUXRmd09PeGxEY2ZQQl9Ub0s2YTIwT3c3SUU2dTZQNUpZSmgyQVJzRVlVQTVmYzlCaW5EZ0RjdVdubkVmT2pJSW03UUhOdEdv?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ef6c648c309e",
     "date": "October 13, 2026",
     "publishedISO": "2026-10-13T17:06:08+00:00",
@@ -634,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdpa3EzSGg1SG8xYmFPM0g2S2FHTjVDVjNLdERYWG05OW9fUHFWWm9pcDhGWEUxSnN6NzFjWHI0MUxjX0NrYmI1SGx5OTMxZDNRRTJIazRVTmVISGlzVENGM0VJMGhDUlBwdVctNkpaRmotLUpMY19DTkl6N1psQnFUMWJEQVZNS2E1YTNyVTlsZTBzazJVSmhKZEQtRnhCU3MyWGVlalRoUDRjQURlV1dR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6556b878386f",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T17:00:00+00:00",
-    "acquirer": "University of Utah Health Receives Board Approval to",
-    "target": "Land at Salt Lake City’s Power District",
-    "headline": "University of Utah Health Receives Board Approval to Acquire Land at Salt Lake City’s Power District for New Redwood Health Center",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "University of Utah Health",
-    "summary": "University of Utah Health Receives Board Approval to Acquire Land at Salt Lake City’s Power District for New Redwood Health Center University of Utah Health",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTNjU1ZmVXZFWVcyUEpsYlAwVXo0bnZZUnpYTGF5SEZKWmdScDd1ZWN6M2NxRV9xaHl1M0ljZnJkUE1STTd3UWthVk52LTdtX0hLY1hQVU9iWEFqblNhZUhIekVvM2NjWHFIWWRSNmZGNzFCWkt6cW9YUERUYjBfLUh1blBLYmtkSE5GZDl5dmExZWJjVS1UUEtOSGN5aGdJQ0pwZ3JFdlAyTUFkc1VUV1g1MUUwaDlRZlV0OXZuR24?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,6 +1201,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3c3d5e149458",
+    "date": "October 12, 2026",
+    "publishedISO": "2026-10-12T15:49:14+00:00",
+    "acquirer": "Senator raises concerns over Kroger’s",
+    "target": "Giant Eagle",
+    "headline": "Senator raises concerns over Kroger’s plan to buy Giant Eagle",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Grocery Dive",
+    "summary": "Senator raises concerns over Kroger’s plan to buy Giant Eagle Grocery Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGRQbXVxLTVSZVZKZndWRWstX3pZNWs2aEp0MDNxZVladjJYRWh2NmhWc2hLdHpUY1ZaQ2xycm5qN2ZZTWJ0YU1LOXIwRmVnMEx4Vy1jcWg3Um9LTWE4cmxsS1R4aGk4RnRONXI1dFk5blJTZWpzU3UwbmZZRThycFNaMnRERkhOSjJsMkZxRm1aTDFjRDR2blNiZzBORDFhdDZEWVFjTHdJdWk4aktzUGN3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e14511aaedcc",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T13:11:00+00:00",
@@ -1914,6 +1839,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-07635746db80",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T20:59:50+00:00",
+    "acquirer": "Chicago Stars FC",
+    "target": "Zambia National Team Forward Racheal Kundananji from Bay FC",
+    "headline": "Chicago Stars FC Acquires Zambia National Team Forward Racheal Kundananji from Bay FC",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Chicago Stars FC",
+    "summary": "Chicago Stars FC Acquires Zambia National Team Forward Racheal Kundananji from Bay FC Chicago Stars FC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYm01S0tqNHNvaTl1Qm1lZGhiSE5NV1dhMGFoVjVlSE41bUtIcDU0U0xVLXNYWnIycjVkZWUwSXBXb3JicVFJNHRJYXhKU3h2dDZVeGZCeVhJVnViTmp2Qk9BbDFZSW9SRDIzSzNjUjgzWlV1NktvczI5X0FiSExBLU9iMGxDNzlTbVBDVEhiUVVvVURfRmtmdl9OUjNZSkVGRDBGRUd5elJUXzJtcFlZMXh0UTE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
       },
       {
         "stage": "Terms verified",
