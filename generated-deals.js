@@ -1,6 +1,306 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-ef2815161852",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T18:03:04+00:00",
+    "acquirer": "Agilent to",
+    "target": "Digital Pathology Provider Proscia",
+    "headline": "Agilent to Acquire Digital Pathology Provider Proscia for Up to $270M",
+    "valueBillions": 0.27,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Clinical Lab Products",
+    "summary": "Agilent to Acquire Digital Pathology Provider Proscia for Up to $270M Clinical Lab Products",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzVjZG03aXhaRV9WR0xONjZGV1dDU3dOTkpNWDZYZXlkY0ZIVEs1aElBTFNMZWhvdWtZWHJCZWk0aFF2bHFDT1NiU1RXQUlpdGIzaDRPbXU3VUVQT1BXWC1laDBTdlE5S3pmZUREVEltdFNaU3lNcXhoMm1xOVZUY1JKOW9ZVFlUMzg5T0luWTNtbDZnanZ3a0NLWjhlQjJEWXk1bHNIWjc4SzctTUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b6a191c8a7d4",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T17:33:29+00:00",
+    "acquirer": "Baumgartner, Conroy both skeptical of Trump's deal to",
+    "target": "Russian diesel as bipartisan opposition mounts",
+    "headline": "Baumgartner, Conroy both skeptical of Trump's deal to buy Russian diesel as bipartisan opposition mounts",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Spokesman-Review",
+    "summary": "Baumgartner, Conroy both skeptical of Trump's deal to buy Russian diesel as bipartisan opposition mounts The Spokesman-Review",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcV9tTnQ0OG40U3hoUWpUYXFSZ0pqQ3BVUEhPQ0QxZF9oaVZTRjFQR0RaTXE3UVA1OWh0cmZtZHR6YkZNUkRlbnRsZTVCMWZOZUtNeVFVbUI4NFdHQnE5STdJeGhaZUc4c1hGQXRqNnJuZXVKUm40QXZLcUdoZ2NsTFNiNG1vdGVfYW00d2d5ZTRnQ2ZGaGUxZEo0QVdJUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a73f2df5d5aa",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T16:52:06+00:00",
+    "acquirer": "Nscale",
+    "target": "Anyscale, Enhancing its Full Stack AI Cloud Platform | Nscale",
+    "headline": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform | Nscale",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Nscale",
+    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform | Nscale Nscale",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yQW10WElUajJUN1NlMGo0eGFwY2JIZ0Q4Mkk3WlhMOFFaNGc2eEVBY1pqYWExaWNjNEdlUDRpTGYxeFZhbXlNWlJGNDREbjhRMklTNnFlMm1pUXIwTGFsY1VXeTJnVDRpY2dMck1qQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d61dbaae079b",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T16:10:45+00:00",
+    "acquirer": "The Knot Worldwide to",
+    "target": "Zola in wedding platform union, sources say",
+    "headline": "The Knot Worldwide to acquire Zola in wedding platform union, sources say",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "The Knot Worldwide to acquire Zola in wedding platform union, sources say Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWc3UDR5WWkyR0pFYl9neURfVEt5a1k2X0ExT0sxVEFMTFNMQWRhLVM5blExS1ZQaEg1aDVLNW9HYXlOdktCNUVqQ2o5Z0l4WDFsbE9haDJnRHdtdlNOTW9yT1p6SU1QVXlhNjhRYjQzcVNYRDE0RVU5MnY0NDBNUUt0ZzVCY2lRZVU3bDY1ZUNrVFFYeVZfbDVXc2VxTU1JajVfQVZkaEJTd0tNa2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-75fc8f327937",
     "date": "October 14, 2026",
     "publishedISO": "2026-10-14T15:09:43+00:00",
@@ -76,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-64fd171dbe48",
+    "id": "news-c888ee43b5dc",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T12:00:00+00:00",
-    "acquirer": "Humanly",
-    "target": "CareerArc to connect recruitment marketing with AI hiring",
-    "headline": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring",
+    "publishedISO": "2026-10-14T14:49:27+00:00",
+    "acquirer": "Business Moves: Liberty Mutual to",
+    "target": "Brazil’s Austral Seguradora",
+    "headline": "Business Moves: Liberty Mutual to Buy Brazil’s Austral Seguradora",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GeekWire",
-    "summary": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
+    "sourceName": "Insurance Journal",
+    "summary": "Business Moves: Liberty Mutual to Buy Brazil’s Austral Seguradora Insurance Journal",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2VJUmprRHUzMUlISDNzSGQyUWs1MzMwTlJrREFvdi1sd0tnaWNYZ1l2bVdIZ2VqNGZXSWJtOExtMUsyUVQ1UnU5cHdiR1lodEd1ZUFWYmQ2SXVPc3A5VkxGT0Z3Q3NyQWRsSWdTckVoNDBWWGt4UHRvVmxQSUxzaUgwaUM1dFZJRjBRSTBFYkYxVDcta2xQOGlZaXFKMVZqeDBBdHY4Qlc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sNUpqRG1fRzFqUnB5YkhHVUpxQ21HMWxsbXhmX2hHYnpPQUFaa2FCamthSXgwZDlBMC0zNFNmVk5KXzJCcEVVcERmam5vT3hzVUFFQ1lneFdJZ25ERjdNZnAxN19pdmczbGVyNmNYNTBTYTk1NHdhalVxS1VaQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,13 +451,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c849a0036b33",
+    "id": "news-4536099797c6",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T05:24:00+00:00",
-    "acquirer": "Galderma to",
-    "target": "US firm ZO Skin Health",
-    "headline": "Galderma to buy US firm ZO Skin Health for $1.5 billion",
-    "valueBillions": 1.5,
+    "publishedISO": "2026-10-14T12:00:00+00:00",
+    "acquirer": "Flex",
+    "target": "EPC Power, Expanding Power Conversion Capabilities",
+    "headline": "Flex Completes Acquisition of EPC Power, Expanding Power Conversion Capabilities for AI Data Centers and Grid Applications",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -165,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Galderma to buy US firm ZO Skin Health for $1.5 billion Reuters",
+    "sourceName": "PR Newswire",
+    "summary": "Flex Completes Acquisition of EPC Power, Expanding Power Conversion Capabilities for AI Data Centers and Grid Applications PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +483,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2QySERhWlB6T0E1NDdsbFRaNS01Y1JUWEdKSVUyRURZYnNQb0RrbGU4SnduaVh0TENqUUZLTGMyTk10cW1VR3lXdWFwcDlkWU8zNjhFcWI5X2t5QlJrS013Q1E3ckk0bmdTNnoycnNOam9kYlJKc3Z5VkJ2c0ZBNXFhdGRfLUp4ZHhUNGIwQks3aWxCN3dTcVhvcVo2d3Z3SnQ4OA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVkdjNmVwRDRpMU1kSDgwUmQwRnJkdnp3TnpiVW5EWmkzSDY5V2QxTHppc09mMHhtX0xwU1N4em5xbHE4MXNGWWdfelFfa1JvNWozeGVBazc0S3dMb0piYTNObXJFeUE3bzNTZ183dW0tUUQyd0hnNXVVUTdLQzNhWHVoZ1B1Mnphcy1LR0lwS3REZnBPeUZfVUtqcnJQdWs3Yk1Eb2NrRTRWWHVIX0M1OXJWUUpRSGxYb3NjZ2EzUEFOVmxpbmJwSHpNSG5oRWxaUDI4d0kzUmFydHdUWmJMNzhwTEc0TWlGZnJKODNXY2N4ZWU5Ti13bXI5dUh3ckR5VjJFTFROZXM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-69c8b7401dd4",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T07:38:00+00:00",
+    "acquirer": "Galderma to",
+    "target": "ZO Skin Health",
+    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
+    "valueBillions": 1.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1683853429e6",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T01:34:46+00:00",
-    "acquirer": "The New York Times Op-Docs",
-    "target": "‘The Revolution Against Death’",
-    "headline": "The New York Times Op-Docs acquires ‘The Revolution Against Death’",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The New York Times Company",
-    "summary": "The New York Times Op-Docs acquires ‘The Revolution Against Death’ The New York Times Company",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU242YURJU1M0NU8tWVh6SFFSR1EtbUpnX3NWM1J1Z3Z2RmxjMXVVRVJQQXN5dHhVWEVIZF9uaU5LeGNkVHc5TWp0OWs0cnlscmJMNUdqZVlqeEdKbm1JNFFoVjBRUWZjMzBmak5UbzU4akx0QTBURUZxLVVlYXZNdjduNEZsd182M0c5MV8zdHBFem8xWlYyMQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ea3c69b569df",
     "date": "October 13, 2026",
     "publishedISO": "2026-10-13T23:17:00+00:00",
@@ -409,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWxpVzlpTVNNbm5VeHJROVRQeUFxTWRMZk9kOXh2LVdGUXRiZnBjb0xPY3BmSGU2Z2xTamM0aFItYmphOHY2ZmdDaGVGV0FQNzl2aS1NMV83ZEM0VnNTMDkzLUdnMzNmS0pod05TSUZBWS1kcTFkSktaMWxZUkdYOWxvMGV4NFhzTVA3N0J3YlFqbl8tQXdpdE9qUXh0czdhSnNMSm1qX2RnQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9f60fd3aa020",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T22:29:58+00:00",
-    "acquirer": "American Amplifier Technologies",
-    "target": "ERI",
-    "headline": "American Amplifier Technologies Acquires ERI",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Radio World",
-    "summary": "American Amplifier Technologies Acquires ERI Radio World",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNGw1MmF5Qk91SDhLV0Uyb3N1dGpZVVRxWEYteUY1TXdFc2JhMEY5RkZKcktsenBuNW5kWS1yNkN5MEJka1FKZjBxc3Uwejd0RU93ZC1iQTBzWTA5b2x1YUwtVEFYSzI4ckNEOEY4WmdwaFdSbjc2Z05YRFpDdnJnUDgtZXp0Ml9LLUt2RjBZMA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,81 +1426,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3c3d5e149458",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T15:49:14+00:00",
-    "acquirer": "Senator raises concerns over Kroger’s",
-    "target": "Giant Eagle",
-    "headline": "Senator raises concerns over Kroger’s plan to buy Giant Eagle",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Grocery Dive",
-    "summary": "Senator raises concerns over Kroger’s plan to buy Giant Eagle Grocery Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGRQbXVxLTVSZVZKZndWRWstX3pZNWs2aEp0MDNxZVladjJYRWh2NmhWc2hLdHpUY1ZaQ2xycm5qN2ZZTWJ0YU1LOXIwRmVnMEx4Vy1jcWg3Um9LTWE4cmxsS1R4aGk4RnRONXI1dFk5blJTZWpzU3UwbmZZRThycFNaMnRERkhOSjJsMkZxRm1aTDFjRDR2blNiZzBORDFhdDZEWVFjTHdJdWk4aktzUGN3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-e14511aaedcc",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T13:11:00+00:00",
@@ -1459,81 +1609,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmk5YXVkclVYSFhIeGxZakxHODdCOElmRGJMdlFjWWpVVFhBNE9kM0FSR1QzUWwtbm1MYWV0bllWUHpvSG5EVm9vQTVad2lRa2l2S3RzUm4xM0s3VDRyb1RGMnZlZ2ZmY1dxYkdmdHl5cUNSWDNFajllS1RLY2VDOEVZYnRzMDY3Qng4d2ZVT2ppSzJWSlVkXzFn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bb93267e41fd",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T10:31:43+00:00",
-    "acquirer": "EXCLUSIVE: State-backed Shanghai Port in talks to",
-    "target": "LME warehouse firm, sources say",
-    "headline": "EXCLUSIVE: State-backed Shanghai Port in talks to buy LME warehouse firm, sources say",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE: State-backed Shanghai Port in talks to buy LME warehouse firm, sources say Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ0E1YW80cTcxZ1Q0dklxTTJLYjNZVWlGbTFyc1YxN01pVDA2S1lBU3hpYjhneTZMQW1xRkgtQXh3TWRzMG5nWFd0TjFBQVR5N3hzd0Z4c2xXXzFZb2pTbnNVRlhoMUZtSkNXYWFzT2J0Y3VBbC1HdzdZUnFObjFGakxBWXFCV0RNQXhDNWNMVDhhU2dhdkg4QWlKRDRSVzhnMDdWazk1Q21SaUtYRGpUUXFJcHlmcXFqUnN6SHZOYw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1839,81 +1914,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-07635746db80",
-    "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T20:59:50+00:00",
-    "acquirer": "Chicago Stars FC",
-    "target": "Zambia National Team Forward Racheal Kundananji from Bay FC",
-    "headline": "Chicago Stars FC Acquires Zambia National Team Forward Racheal Kundananji from Bay FC",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Chicago Stars FC",
-    "summary": "Chicago Stars FC Acquires Zambia National Team Forward Racheal Kundananji from Bay FC Chicago Stars FC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYm01S0tqNHNvaTl1Qm1lZGhiSE5NV1dhMGFoVjVlSE41bUtIcDU0U0xVLXNYWnIycjVkZWUwSXBXb3JicVFJNHRJYXhKU3h2dDZVeGZCeVhJVnViTmp2Qk9BbDFZSW9SRDIzSzNjUjgzWlV1NktvczI5X0FiSExBLU9iMGxDNzlTbVBDVEhiUVVvVURfRmtmdl9OUjNZSkVGRDBGRUd5elJUXzJtcFlZMXh0UTE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 8, 2026"
       },
       {
         "stage": "Terms verified",
