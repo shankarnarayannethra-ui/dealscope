@@ -76,81 +76,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b6a191c8a7d4",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T17:33:29+00:00",
-    "acquirer": "Baumgartner, Conroy both skeptical of Trump's deal to",
-    "target": "Russian diesel as bipartisan opposition mounts",
-    "headline": "Baumgartner, Conroy both skeptical of Trump's deal to buy Russian diesel as bipartisan opposition mounts",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Spokesman-Review",
-    "summary": "Baumgartner, Conroy both skeptical of Trump's deal to buy Russian diesel as bipartisan opposition mounts The Spokesman-Review",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcV9tTnQ0OG40U3hoUWpUYXFSZ0pqQ3BVUEhPQ0QxZF9oaVZTRjFQR0RaTXE3UVA1OWh0cmZtZHR6YkZNUkRlbnRsZTVCMWZOZUtNeVFVbUI4NFdHQnE5STdJeGhaZUc4c1hGQXRqNnJuZXVKUm40QXZLcUdoZ2NsTFNiNG1vdGVfYW00d2d5ZTRnQ2ZGaGUxZEo0QVdJUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-a73f2df5d5aa",
     "date": "October 14, 2026",
     "publishedISO": "2026-10-14T16:52:06+00:00",
@@ -301,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-75fc8f327937",
+    "id": "news-54eb3863e233",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T15:09:43+00:00",
-    "acquirer": "Russia's Novatek",
-    "target": "at least two ice-class gas carriers, data shows",
-    "headline": "Russia's Novatek acquires at least two ice-class gas carriers, data shows",
+    "publishedISO": "2026-10-14T15:57:16+00:00",
+    "acquirer": "St. John Properties",
+    "target": "two-building portfolio in Annapolis",
+    "headline": "St. John Properties acquires two-building portfolio in Annapolis",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Russia's Novatek acquires at least two ice-class gas carriers, data shows Reuters",
+    "sourceName": "Maryland Daily Record",
+    "summary": "St. John Properties acquires two-building portfolio in Annapolis Maryland Daily Record",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWlVM1pWV0tIajNVWTRPSmFuWENqdnBYN1RKSmxmUWhCMS1YTnpYaTJtSVdvWGFZaVZ6SC1xdWs3X1NES3QxWVpXd2RyX0YxOGloSkxiZHBxVW9kM1VXSUY5eVJpbHQ2TGZ1VWlBUnJ2MlctVVV6YjFTWDd5QkNiTmtaU0pEeHVvV0FrSDgtWEFfMjB4aGg2QnFFeEJ4a0VUMXBreWpkMzJoZDluc1k5bUF3OHRCZzNmOHBlMg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb25wbHpIRVVTbWw2NHNsdEVCMTdwcWJjZTRCTkRPX2FoZUYyTTlzNURrTjY2Rnp1ZTNPNVhJdHlwT2ZiekI1NEMyblU0VFpqZjYxa3B6bUVxazRBQlhlbnlwZUhSZ1JwdFZmdksySGJMUjYzWG80TzV0ZllUS0NQV2lJdXN6c1AtVmNCcTFmZFA5VzRIbFJudXRiZG1XOHZHYUpzTQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -409,6 +334,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sNUpqRG1fRzFqUnB5YkhHVUpxQ21HMWxsbXhmX2hHYnpPQUFaa2FCamthSXgwZDlBMC0zNFNmVk5KXzJCcEVVcERmam5vT3hzVUFFQ1lneFdJZ25ERjdNZnAxN19pdmczbGVyNmNYNTBTYTk1NHdhalVxS1VaQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-24877f6371ab",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T14:27:56+00:00",
+    "acquirer": "Agilent to",
+    "target": "Proscia",
+    "headline": "Agilent to buy Proscia for $240M",
+    "valueBillions": 0.24,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MedTech Dive",
+    "summary": "Agilent to buy Proscia for $240M MedTech Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ua1h5ZEpESDlDd1FBUW1qVURDaEtBcHl1WXJsTGFGRHhSMGoxTExoMlQyaDFDMXQyTGRackJkWlFiTWxaUFN2S3lGNktqYUMxeTBOQzJoZHJiUDBhSURpSkd2MFlCNDI1UUFWc1FDV180TGM3Y3ltTDZGZkI?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -559,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e98432a7a816",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T02:09:00+00:00",
-    "acquirer": "Taiwan",
-    "target": "30% of gas from Alaska LNG project, Trump says",
-    "headline": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says CNBC",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1odEtJYXBPS2R3cnRTa0diVDExRUdwT2Q3d011U0VrLUZmaTB5bkNDUUxfeUhqYnlJN2VnQlJEdXVUWEZVNEwwR3J1QzFaSUw1LTl2blJMYk5jNmp4d0FlZWRHODQtTTlmTTFkM3Zsd3F6S0k4anlNatIBfkFVX3lxTE5sMnVucXVReDVTS3AwYnVDREY2OERCSWxIcDRNNGNneXV5ZFJCdkNveHdEdkdaYktwU0NXZUhsc3NyTjJ3ZUJzRVNRM2dkUTdlMDhwaFRhZ0NZVlRrbFJzMmpfaVBmY1JEQ0N2QjF3dlZHR0t2R0lwVHdXRmh1UQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1128,7 +1053,7 @@ window.generatedDeals = [
   {
     "id": "news-98c98acedce5",
     "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T01:04:00+00:00",
+    "publishedISO": "2026-10-13T01:05:49+00:00",
     "acquirer": "Japan's Omron to",
     "target": "US industrial PC firm Onlogic",
     "headline": "Japan's Omron to buy US industrial PC firm Onlogic for $675 million in physical AI push",
@@ -1276,13 +1201,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-eeecd8e2fe68",
+    "id": "news-3bb6bb416cb9",
     "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T16:55:00+00:00",
-    "acquirer": "Starbucks denies",
-    "target": "Chipotle after report of possible takeover",
-    "headline": "Starbucks denies plan to buy Chipotle after report of possible takeover",
-    "valueBillions": null,
+    "publishedISO": "2026-10-12T18:14:45+00:00",
+    "acquirer": "IonQ to",
+    "target": "cybersecurity firm Elisity in an all-stock deal",
+    "headline": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
+    "valueBillions": 1.3,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1290,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CBS News",
-    "summary": "Starbucks denies plan to buy Chipotle after report of possible takeover CBS News",
+    "sourceName": "CNBC",
+    "summary": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,7 +1233,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00eUVETlNaYnVOSUcwZDhTVk9vSjI1bHhVR1ZBdy1iM0sxT2pvRHA1dTJCOEhwNlRGaEo5ZzlWSDBtVnF4dW5VZ3pSS1pEU2VXUlRXU3ZZcFhQYnNSVmdLVXNmQzRvOEVDVEE2MDNteFVjZ0kxa0VR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFFXWWRTLXk1V2ZGM0ppRVVWNzZsS0JNYTlmYmlnbVJMR3d3ZHlQUjdQUXRrVUxXOXpCRHI4Q1J3SkprUFFNY2gwcl9nS3BBU2U0OEllZWJjRXg3emtXbVhudzVOUjUwZl9QRUZHYzlILWNJTmduOU5KMUo0bUMzedIBhgFBVV95cUxPZkpTTEg1WjFEd0pMVnBDVktxc0JxMmdQUWJ2U3RtMTVpLWNQRVZDT1FLMll1R0JmOERnR2VMUUhyRFFqZHc2UzZObWV3ZU96OG9RSWdUUWNhZWtWN21IdjFhNTJLQjlGbzk2bWRDalBqbmYzSXFxVzNQYjJLaFc5ZWxkWXlFdw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1384,6 +1309,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXhUb3RiY1ROQVJySi10R0dIOXBnbnZrMGVSUXIxS3c1UVBHQWlhbVY4ZHJTWmlYdGxmS2JSaDZxVzRXRk9Jcmp6ZjJFSzVEYlA5dXJlTzQ1eTNTdGRvUms3UDR3U1ZKNk5aWlZtUEtDakwwS0R4cW5Fb2xNUHNndnJxUjVIUThRQ3BFUmc0WDhIdHBPV1FsS3FoZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-3c3d5e149458",
+    "date": "October 12, 2026",
+    "publishedISO": "2026-10-12T15:49:14+00:00",
+    "acquirer": "Senator raises concerns over Kroger’s",
+    "target": "Giant Eagle",
+    "headline": "Senator raises concerns over Kroger’s plan to buy Giant Eagle",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Grocery Dive",
+    "summary": "Senator raises concerns over Kroger’s plan to buy Giant Eagle Grocery Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGRQbXVxLTVSZVZKZndWRWstX3pZNWs2aEp0MDNxZVladjJYRWh2NmhWc2hLdHpUY1ZaQ2xycm5qN2ZZTWJ0YU1LOXIwRmVnMEx4Vy1jcWg3Um9LTWE4cmxsS1R4aGk4RnRONXI1dFk5blJTZWpzU3UwbmZZRThycFNaMnRERkhOSjJsMkZxRm1aTDFjRDR2blNiZzBORDFhdDZEWVFjTHdJdWk4aktzUGN3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
