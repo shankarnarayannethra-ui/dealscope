@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-ef2815161852",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T18:03:04+00:00",
-    "acquirer": "Agilent to",
-    "target": "Digital Pathology Provider Proscia",
-    "headline": "Agilent to Acquire Digital Pathology Provider Proscia for Up to $270M",
-    "valueBillions": 0.27,
+    "id": "news-9643a4f32b79",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T09:45:00+00:00",
+    "acquirer": "The show must go on (independently): Live Nation",
+    "target": "Pukkelpop and behavioral commitments under the Towercast doctrine",
+    "headline": "The show must go on (independently): Live Nation's acquisition of Pukkelpop and behavioral commitments under the Towercast doctrine",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Clinical Lab Products",
-    "summary": "Agilent to Acquire Digital Pathology Provider Proscia for Up to $270M Clinical Lab Products",
+    "sourceName": "Wolters Kluwer",
+    "summary": "The show must go on (independently): Live Nation's acquisition of Pukkelpop and behavioral commitments under the Towercast doctrine Wolters Kluwer",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzVjZG03aXhaRV9WR0xONjZGV1dDU3dOTkpNWDZYZXlkY0ZIVEs1aElBTFNMZWhvdWtZWHJCZWk0aFF2bHFDT1NiU1RXQUlpdGIzaDRPbXU3VUVQT1BXWC1laDBTdlE5S3pmZUREVEltdFNaU3lNcXhoMm1xOVZUY1JKOW9ZVFlUMzg5T0luWTNtbDZnanZ3a0NLWjhlQjJEWXk1bHNIWjc4SzctTUE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaWJ1YWhSeXlha0wxZTNISVA3b2plWEpHTnl6Zlc0UHdhcjFIUE9JWUFhLW40TjZCX0RxTGxxLXRwT1RtdW1vWTcwOS1lVWx0Vl9MaTJwYTZNeVZtTXM3a19BOE1kNEZwZnBXNnNsOTNYaVN4S2k3dXhLSWstd09BNjlqb2M4M0pXbHVRa1Y3bm9nR1NDY3pzcDRZYkRQM0IxX0tHUHl3YXRDX1JQY0VGRVNHWkcyOWlGSElUUlRJclRBQXhSbk1aVVM2UXFhRlhkVlB4NnhaRUV4ZHozOHdMLXA3NVFMMUFVcXZMQ3Z2NnlDal9qUTBaX0Q0alFxNUFsNVR6UU5US3FZOTVvcERB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-426b82626288",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T19:14:00+00:00",
+    "acquirer": "Wedding planning giant The Knot Worldwide",
+    "target": "rival site Zola",
+    "headline": "Wedding planning giant The Knot Worldwide acquires rival site Zola",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "New York Post",
+    "summary": "Wedding planning giant The Knot Worldwide acquires rival site Zola New York Post",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa01mUzQ2SXdMaFd5VzVnWU40SGp4SnRiNHFoTFNQcnl3WlYzQzh6RV9QRnFxMGlVX1dUZHQzN1M5eVNVaEw2eHFvUDNPVlpLdkFqR3dCeWVEYnhhNzYzYUVyWGlCU2RDbVhpUVNxeWxJM19lZUVON3NVRkNSZmhUN0dScE1PQmN5NlpFMkRPd0x1R0NlejU3NGx0c1ZEdEpZMG16UGVmOGxEZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1384,81 +1459,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGRQbXVxLTVSZVZKZndWRWstX3pZNWs2aEp0MDNxZVladjJYRWh2NmhWc2hLdHpUY1ZaQ2xycm5qN2ZZTWJ0YU1LOXIwRmVnMEx4Vy1jcWg3Um9LTWE4cmxsS1R4aGk4RnRONXI1dFk5blJTZWpzU3UwbmZZRThycFNaMnRERkhOSjJsMkZxRm1aTDFjRDR2blNiZzBORDFhdDZEWVFjTHdJdWk4aktzUGN3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e14511aaedcc",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T13:11:00+00:00",
-    "acquirer": "Steris to",
-    "target": "Xodus Medical",
-    "headline": "Steris to Acquire Xodus Medical for $2.1 Billion",
-    "valueBillions": 2.1,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Steris to Acquire Xodus Medical for $2.1 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1B2WHl2dE9scjhta0NNcTlBX2g4VWVYUmRQUkVvQUx6QWJlM2k0Qkg4dlFidmtBU0JOMmYza1NPamh4WU5LTkN6WnJsOXNXcGIzYnpILXNlclI4UTJoR2xWRzlyNkRrM05INkNjdmYwYWZOOXQ0QVNrQjNCN2dmV1daVWVnUTFiWXRoVE1LMjlqNzhna1E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
