@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b52d92e18a7c",
+    "date": "October 16, 2026",
+    "publishedISO": "2026-10-16T12:02:57+00:00",
+    "acquirer": "T1 Trust",
+    "target": "former Pennsylvania Railroad E8A diesels",
+    "headline": "T1 Trust acquires former Pennsylvania Railroad E8A diesels",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Trains Magazine",
+    "summary": "T1 Trust acquires former Pennsylvania Railroad E8A diesels Trains Magazine",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2xGZUU3YTdSR1J2c05DRlRkdEN5Qmc3OGIxdlR1ZHhzbGRJemRTWk50UFVJYkRWQVE4N19lU0Q2bnJuYnVCaFJyYXJZQzZrRDBZZjJ6TDN3MjVZVVdqcVdsdzBkRDNKUXRNY1U5eXM1ZmxRbkpVZzVweEFlUW43THFUd0xSZ3QyN2xzVm16T01BckRRMU5WbHByeXdWWXFvelZ0VGMyTkJMUWpmUGdKQmtwamVmUG85YThnem1ERWs?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-29fb587c83fd",
     "date": "October 15, 2026",
     "publishedISO": "2026-10-15T22:48:00+00:00",
@@ -676,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-06bad217f084",
+    "id": "news-6e894ee91811",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T13:01:28+00:00",
-    "acquirer": "Intuit to",
-    "target": "revenue management tech start-up Sequence",
-    "headline": "Intuit to acquire revenue management tech start-up Sequence",
+    "publishedISO": "2026-10-15T10:00:00+00:00",
+    "acquirer": "GHK Capital Partners LP",
+    "target": "USA Hometown Experts Inc.",
+    "headline": "GHK Capital Partners LP Completes Acquisition of USA Hometown Experts Inc.",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FinTech Futures",
-    "summary": "Intuit to acquire revenue management tech start-up Sequence FinTech Futures",
+    "sourceName": "Business Wire",
+    "summary": "GHK Capital Partners LP Completes Acquisition of USA Hometown Experts Inc. Business Wire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NU0c2akkwTTFFNTVXMzVpUW5RbEQwVEdjaDM3dVhITzlMNkdWT2IyblloaS04YlFiMjRIYTdVT0dTRTR3UEtQeWcwVlp4S1pzYkZJUDFZbEJRc2dQRllyblg5MjlRZmd6SjBweC13?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc21YanFhdG1MZWNtX09ta0NrUW91b0hqdG9rQmE2Y0dLM3FmQ0t0VmZwNmZvNDZ6LXNvTzdrTHUxWmg3d1lXM0JJdlFJSjJGQ3N2VE9WV3VMaU42MndYS2xGeXVzYzRsWXMxNkV3ZmRkaUJ3SE93TEZRR3NTT2kxZDUyRUdUeEN0TjlHZHJLRFcxZWZ3dG1tN1ljUWZrbFVDYkFycWR6c1pkUGhTc0djdGlqVXNUVVJCZHljMVpMN1ludU5NS0ZiX3RYUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,13 +826,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6e894ee91811",
+    "id": "news-69c8b7401dd4",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T10:00:00+00:00",
-    "acquirer": "GHK Capital Partners LP",
-    "target": "USA Hometown Experts Inc.",
-    "headline": "GHK Capital Partners LP Completes Acquisition of USA Hometown Experts Inc.",
-    "valueBillions": null,
+    "publishedISO": "2026-10-15T07:00:00+00:00",
+    "acquirer": "Galderma to",
+    "target": "ZO Skin Health",
+    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
+    "valueBillions": 1.5,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Business Wire",
-    "summary": "GHK Capital Partners LP Completes Acquisition of USA Hometown Experts Inc. Business Wire",
+    "sourceName": "WSJ",
+    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc21YanFhdG1MZWNtX09ta0NrUW91b0hqdG9rQmE2Y0dLM3FmQ0t0VmZwNmZvNDZ6LXNvTzdrTHUxWmg3d1lXM0JJdlFJSjJGQ3N2VE9WV3VMaU42MndYS2xGeXVzYzRsWXMxNkV3ZmRkaUJ3SE93TEZRR3NTT2kxZDUyRUdUeEN0TjlHZHJLRFcxZWZ3dG1tN1ljUWZrbFVDYkFycWR6c1pkUGhTc0djdGlqVXNUVVJCZHljMVpMN1ludU5NS0ZiX3RYUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1009,81 +1084,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVkdjNmVwRDRpMU1kSDgwUmQwRnJkdnp3TnpiVW5EWmkzSDY5V2QxTHppc09mMHhtX0xwU1N4em5xbHE4MXNGWWdfelFfa1JvNWozeGVBazc0S3dMb0piYTNObXJFeUE3bzNTZ183dW0tUUQyd0hnNXVVUTdLQzNhWHVoZ1B1Mnphcy1LR0lwS3REZnBPeUZfVUtqcnJQdWs3Yk1Eb2NrRTRWWHVIX0M1OXJWUUpRSGxYb3NjZ2EzUEFOVmxpbmJwSHpNSG5oRWxaUDI4d0kzUmFydHdUWmJMNzhwTEc0TWlGZnJKODNXY2N4ZWU5Ti13bXI5dUh3ckR5VjJFTFROZXM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-69c8b7401dd4",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T07:38:00+00:00",
-    "acquirer": "Galderma to",
-    "target": "ZO Skin Health",
-    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
-    "valueBillions": 1.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
