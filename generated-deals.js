@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-c468b7d82ae7",
+    "date": "October 16, 2026",
+    "publishedISO": "2026-10-16T14:37:38+00:00",
+    "acquirer": "Parkview Health to",
+    "target": "Ovation Healthcare, expanding services nation wide",
+    "headline": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WANE 15",
+    "summary": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide WANE 15",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTRxYk9nVnR4aUp2SjdIMjVtVFo4aWZDYWF2b2tBWFdHaWM2eTZRN3Y2NTN1NWl5YzNvVmFxaHFYa3hUTzl2dG4tQmQ1cGJKQ3FGcjFqQWxzak44STVhUUNLSEdUbHNJOGtONWRVSmtxTDlydFFSUFFITmFKS180S1lhUFJUR09xQ1hGQkZNV3hFYTh4YlQxLWJiVFlRY2RpQWtOQnJsNlQyQS13UmhJ0gG0AUFVX3lxTFBoTkF0UXNvWEU5S2Uxa3E3cE9sREo4RGZEUnNydDdza2liNUUtd0N2MTJCT1gxeXJlTTBSUk5KcU9ybEZEc0MwRUdOVVhUbmN1MG10d0F3TVcwV09xckhuLUFKS0Z6NG5GYzJyWXdGTWNBc2pla0JWa1RhaG9xMUhsbHdaNHFPak90d3F4MkpYZElCQVdPQzYwMHBTb2Fud1Q3U0VWenJfUzUzYmlaY2ZUaktpbQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-29fb587c83fd",
     "date": "October 15, 2026",
     "publishedISO": "2026-10-15T22:48:00+00:00",
@@ -676,81 +751,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-5260809516f6",
-    "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T10:15:00+00:00",
-    "acquirer": "NYC comptroller walks back pledge to",
-    "target": "Israel bonds",
-    "headline": "NYC comptroller walks back pledge to buy Israel bonds",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Spectrum News NY1",
-    "summary": "NYC comptroller walks back pledge to buy Israel bonds Spectrum News NY1",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXFFbU9ab3dSeEwzeWVLREJuMXVGM3dUaE00aFNjcUdXeG5xcm53UkxwZXJELS1peXZETFZJR1NzXzlSMVg2b1QxalJCVG8zUTJ1X2NuVHZOTFJneTZHWW5xRDNUam9najFKVmh5a29ZVkdGYV9rUUwzMlp0UFdtd3hUdTd5RkYxWURuM0NsaXZFRmhqc1BlZWJTSEkyVVB0Rks0VXlVUDBDQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-6e894ee91811",
     "date": "October 15, 2026",
     "publishedISO": "2026-10-15T10:00:00+00:00",
@@ -826,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-426b82626288",
+    "id": "news-d61dbaae079b",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T19:14:00+00:00",
-    "acquirer": "Wedding planning giant The Knot Worldwide",
-    "target": "rival site Zola",
-    "headline": "Wedding planning giant The Knot Worldwide acquires rival site Zola",
+    "publishedISO": "2026-10-14T16:10:45+00:00",
+    "acquirer": "The Knot Worldwide to",
+    "target": "Zola in wedding platform union, sources say",
+    "headline": "The Knot Worldwide to acquire Zola in wedding platform union, sources say",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "New York Post",
-    "summary": "Wedding planning giant The Knot Worldwide acquires rival site Zola New York Post",
+    "sourceName": "Reuters",
+    "summary": "The Knot Worldwide to acquire Zola in wedding platform union, sources say Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa01mUzQ2SXdMaFd5VzVnWU40SGp4SnRiNHFoTFNQcnl3WlYzQzh6RV9QRnFxMGlVX1dUZHQzN1M5eVNVaEw2eHFvUDNPVlpLdkFqR3dCeWVEYnhhNzYzYUVyWGlCU2RDbVhpUVNxeWxJM19lZUVON3NVRkNSZmhUN0dScE1PQmN5NlpFMkRPd0x1R0NlejU3NGx0c1ZEdEpZMG16UGVmOGxEZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWc3UDR5WWkyR0pFYl9neURfVEt5a1k2X0ExT0sxVEFMTFNMQWRhLVM5blExS1ZQaEg1aDVLNW9HYXlOdktCNUVqQ2o5Z0l4WDFsbE9haDJnRHdtdlNOTW9yT1p6SU1QVXlhNjhRYjQzcVNYRDE0RVU5MnY0NDBNUUt0ZzVCY2lRZVU3bDY1ZUNrVFFYeVZfbDVXc2VxTU1JajVfQVZkaEJTd0tNa2c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,12 +901,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d61dbaae079b",
+    "id": "news-75fc8f327937",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T16:10:45+00:00",
-    "acquirer": "The Knot Worldwide to",
-    "target": "Zola in wedding platform union, sources say",
-    "headline": "The Knot Worldwide to acquire Zola in wedding platform union, sources say",
+    "publishedISO": "2026-10-14T15:09:43+00:00",
+    "acquirer": "Russia's Novatek",
+    "target": "at least two ice-class gas carriers, data shows",
+    "headline": "Russia's Novatek acquires at least two ice-class gas carriers, data shows",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -916,7 +916,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "The Knot Worldwide to acquire Zola in wedding platform union, sources say Reuters",
+    "summary": "Russia's Novatek acquires at least two ice-class gas carriers, data shows Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,7 +933,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWc3UDR5WWkyR0pFYl9neURfVEt5a1k2X0ExT0sxVEFMTFNMQWRhLVM5blExS1ZQaEg1aDVLNW9HYXlOdktCNUVqQ2o5Z0l4WDFsbE9haDJnRHdtdlNOTW9yT1p6SU1QVXlhNjhRYjQzcVNYRDE0RVU5MnY0NDBNUUt0ZzVCY2lRZVU3bDY1ZUNrVFFYeVZfbDVXc2VxTU1JajVfQVZkaEJTd0tNa2c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWlVM1pWV0tIajNVWTRPSmFuWENqdnBYN1RKSmxmUWhCMS1YTnpYaTJtSVdvWGFZaVZ6SC1xdWs3X1NES3QxWVpXd2RyX0YxOGloSkxiZHBxVW9kM1VXSUY5eVJpbHQ2TGZ1VWlBUnJ2MlctVVV6YjFTWDd5QkNiTmtaU0pEeHVvV0FrSDgtWEFfMjB4aGg2QnFFeEJ4a0VUMXBreWpkMzJoZDluc1k5bUF3OHRCZzNmOHBlMg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1876,6 +1876,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3c3d5e149458",
+    "date": "October 12, 2026",
+    "publishedISO": "2026-10-12T15:49:14+00:00",
+    "acquirer": "Senator raises concerns over Kroger’s",
+    "target": "Giant Eagle",
+    "headline": "Senator raises concerns over Kroger’s plan to buy Giant Eagle",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Grocery Dive",
+    "summary": "Senator raises concerns over Kroger’s plan to buy Giant Eagle Grocery Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGRQbXVxLTVSZVZKZndWRWstX3pZNWs2aEp0MDNxZVladjJYRWh2NmhWc2hLdHpUY1ZaQ2xycm5qN2ZZTWJ0YU1LOXIwRmVnMEx4Vy1jcWg3Um9LTWE4cmxsS1R4aGk4RnRONXI1dFk5blJTZWpzU3UwbmZZRThycFNaMnRERkhOSjJsMkZxRm1aTDFjRDR2blNiZzBORDFhdDZEWVFjTHdJdWk4aktzUGN3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3851ad4c1221",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T12:04:37+00:00",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-abcf30378ccc",
-    "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T13:06:39+00:00",
-    "acquirer": "Microchip Technology",
-    "target": "VORAGO Technologies",
-    "headline": "Microchip Technology Acquires VORAGO Technologies",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Microchip Technology",
-    "summary": "Microchip Technology Acquires VORAGO Technologies Microchip Technology",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWRfbDJMYVBZZ1JuQTM4aWZUcWk0b1NzSWtkVUcweHNTU3BBbi1YLVFva0tYWUpJNjBpS2lBWFp2bjRCbVVZcnU3by13anpSek5lOFk0SUZFLW1Pc1ozUDM3U2RrZEVLOGRPZzhhMFp5QzlnRVpwa0I2Z2hNaHFTMTRnTXZNNnV6dzFkd3lLcmU2dzF1TTVpUWRGZElpa1lUWjVNbzR4YWR2b1dQWGhjVnQxWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 9, 2026"
       },
       {
         "stage": "Terms verified",
