@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-29fb587c83fd",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T22:48:00+00:00",
+    "acquirer": "Proofpoint",
+    "target": "data security company Varonis",
+    "headline": "Proofpoint agrees to buy data security company Varonis for $6.3B in cash",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "SiliconANGLE",
+    "summary": "Proofpoint agrees to buy data security company Varonis for $6.3B in cash SiliconANGLE",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHNUWk9SaVh6XzRocm0xcHRBb1FycG4tamhmT0dzQnhKVEx3bGhkbnB4bTNRNmNCc0FCdU5EUUVJZTRnMGJGQXlwTl9TLWxKN0FzOHlmOHQzaEZBMTYwbHpWQ0JGb2VxT1NiazJ5R0tnbU80ZUw2bV9SQ2l6SGI3WWNxSU83YlRQMjV6TVc2SGxNQWhiOEJ6b1hiOXFVdkhLRDNlb0JQV09jVTRD?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-5862201574cc",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T22:03:07+00:00",
+    "acquirer": "Thoma Bravo's Proofpoint to",
+    "target": "Varonis Systems in $6.3 billion all-cash deal",
+    "headline": "Thoma Bravo's Proofpoint to buy Varonis Systems in $6.3 billion all-cash deal",
+    "valueBillions": 6.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Thoma Bravo's Proofpoint to buy Varonis Systems in $6.3 billion all-cash deal Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9UYUpXclBGS0xwOG95WXBEYmVNM2Y1Q1NGX3FfbDBiNEdSdXJHb0stcl9HV3RiZVJpSzVZTW9wMnBpMnJHQU05SVdLVHlmNFBXTm9Vb2xJZE9qR1VKTmpGRTlNbVNnM3Y3eGxMNWF3QUtrdGRlQldObk9ZMDRIRkV4OEUtY1psT1AzbFlUdHpld0pOWGVYOGlQZW9mMExodmxIQXVsNTJDS1FlaUVFUw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f42075f2ab8e",
     "date": "October 15, 2026",
     "publishedISO": "2026-10-15T18:55:41+00:00",
@@ -76,13 +226,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-69c8b7401dd4",
+    "id": "news-da0056390fa0",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T18:48:37+00:00",
-    "acquirer": "Galderma to",
-    "target": "ZO Skin Health",
-    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
-    "valueBillions": 1.5,
+    "publishedISO": "2026-10-15T17:19:32+00:00",
+    "acquirer": "GHK Capital",
+    "target": "MSouth-Backed USA Hometown Experts",
+    "headline": "GHK Capital Acquires MSouth-Backed USA Hometown Experts",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
+    "sourceName": "The Deal Pipeline",
+    "summary": "GHK Capital Acquires MSouth-Backed USA Hometown Experts The Deal Pipeline",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0N4UlZXWkZrb0dkR0N4VFZDWkQ1WWIxS1BUODR5WGNmRVdwOTgtNmJhTFRMeDI4dTVwWUJMSHZVOHRHYTk2R2JZZmFYemVpanhBS1FLVTVuNkh1YWh5d0xjN3h5WHAxUG5odFMxVGxERGVIc1FYNUctbE5vZlpyOUVfRFlFLVF2QXpONlpiTUgwcEow?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-dc5b66fd7b9f",
+    "id": "news-22ea54a1ac99",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T16:38:05+00:00",
-    "acquirer": "Cohere",
-    "target": "AI cybersecurity startup Aisle",
-    "headline": "Cohere moves to buy AI cybersecurity startup Aisle",
+    "publishedISO": "2026-10-15T17:03:11+00:00",
+    "acquirer": "Zocdoc",
+    "target": "Sohar Health in latest push to scale tech infrastructure",
+    "headline": "Zocdoc acquires Sohar Health in latest push to scale tech infrastructure",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Cohere moves to buy AI cybersecurity startup Aisle Reuters",
+    "sourceName": "Healthcare Dive",
+    "summary": "Zocdoc acquires Sohar Health in latest push to scale tech infrastructure Healthcare Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljendQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkZWQlZRVHM2Z3YzWVNydkx4dFBDSWJaNmU1ZHNQZFdpU0ZRcjRGRjh5ckdrZl9LMmdESlJUV2trZl9rQTk1WkZzUlB3UE44MUduRHFuemRfM0YwZ2prZWNhMHFzaHVaV2dtQkRua3B6SzFaQ05mRzRfbFJBajNmd0xiRVRsWkNLU1drcEQ3UFF2SUczMDZEUnAzWnZZTWZuTmN6YV9NbTZOd3BaTy1YQ1dDMV8xT2c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -259,6 +409,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGRpbEpqTThRUzlWTy13bE5PSVhQc0Y3N2VxMTFNc1ZSSGZIc1FGMUZuVVNjaUxhZ19LWUxBeFFOcVhDNTJGS3A0YmRvb0dqWk52eTJqUUlyb2p2aEx4U3hYaFFxQ09TOVppNHdOcl9CNHgwN01PNERKWVBxZHlMRVl0eWVNSGczMERkZnNGcFZvdVMxWHNxMzlaaThFekYweFNCdlVlSQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-06bad217f084",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T13:01:28+00:00",
+    "acquirer": "Intuit to",
+    "target": "revenue management tech start-up Sequence",
+    "headline": "Intuit to acquire revenue management tech start-up Sequence",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FinTech Futures",
+    "summary": "Intuit to acquire revenue management tech start-up Sequence FinTech Futures",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NU0c2akkwTTFFNTVXMzVpUW5RbEQwVEdjaDM3dVhITzlMNkdWT2IyblloaS04YlFiMjRIYTdVT0dTRTR3UEtQeWcwVlp4S1pzYkZJUDFZbEJRc2dQRllyblg5MjlRZmd6SjBweC13?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,81 +826,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b6a191c8a7d4",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T17:33:29+00:00",
-    "acquirer": "Baumgartner, Conroy both skeptical of Trump's deal to",
-    "target": "Russian diesel as bipartisan opposition mounts",
-    "headline": "Baumgartner, Conroy both skeptical of Trump's deal to buy Russian diesel as bipartisan opposition mounts",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Spokesman-Review",
-    "summary": "Baumgartner, Conroy both skeptical of Trump's deal to buy Russian diesel as bipartisan opposition mounts The Spokesman-Review",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcV9tTnQ0OG40U3hoUWpUYXFSZ0pqQ3BVUEhPQ0QxZF9oaVZTRjFQR0RaTXE3UVA1OWh0cmZtZHR6YkZNUkRlbnRsZTVCMWZOZUtNeVFVbUI4NFdHQnE5STdJeGhaZUc4c1hGQXRqNnJuZXVKUm40QXZLcUdoZ2NsTFNiNG1vdGVfYW00d2d5ZTRnQ2ZGaGUxZEo0QVdJUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-d61dbaae079b",
     "date": "October 14, 2026",
     "publishedISO": "2026-10-14T16:10:45+00:00",
@@ -709,81 +859,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWc3UDR5WWkyR0pFYl9neURfVEt5a1k2X0ExT0sxVEFMTFNMQWRhLVM5blExS1ZQaEg1aDVLNW9HYXlOdktCNUVqQ2o5Z0l4WDFsbE9haDJnRHdtdlNOTW9yT1p6SU1QVXlhNjhRYjQzcVNYRDE0RVU5MnY0NDBNUUt0ZzVCY2lRZVU3bDY1ZUNrVFFYeVZfbDVXc2VxTU1JajVfQVZkaEJTd0tNa2c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-75fc8f327937",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T15:09:43+00:00",
-    "acquirer": "Russia's Novatek",
-    "target": "at least two ice-class gas carriers, data shows",
-    "headline": "Russia's Novatek acquires at least two ice-class gas carriers, data shows",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Russia's Novatek acquires at least two ice-class gas carriers, data shows Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWlVM1pWV0tIajNVWTRPSmFuWENqdnBYN1RKSmxmUWhCMS1YTnpYaTJtSVdvWGFZaVZ6SC1xdWs3X1NES3QxWVpXd2RyX0YxOGloSkxiZHBxVW9kM1VXSUY5eVJpbHQ2TGZ1VWlBUnJ2MlctVVV6YjFTWDd5QkNiTmtaU0pEeHVvV0FrSDgtWEFfMjB4aGg2QnFFeEJ4a0VUMXBreWpkMzJoZDluc1k5bUF3OHRCZzNmOHBlMg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,13 +976,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e98432a7a816",
+    "id": "news-69c8b7401dd4",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T02:09:00+00:00",
-    "acquirer": "Taiwan",
-    "target": "30% of gas from Alaska LNG project, Trump says",
-    "headline": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-    "valueBillions": null,
+    "publishedISO": "2026-10-14T07:38:00+00:00",
+    "acquirer": "Galderma to",
+    "target": "ZO Skin Health",
+    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
+    "valueBillions": 1.5,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says CNBC",
+    "sourceName": "WSJ",
+    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,7 +1008,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1odEtJYXBPS2R3cnRTa0diVDExRUdwT2Q3d011U0VrLUZmaTB5bkNDUUxfeUhqYnlJN2VnQlJEdXVUWEZVNEwwR3J1QzFaSUw1LTl2blJMYk5jNmp4d0FlZWRHODQtTTlmTTFkM3Zsd3F6S0k4anlNatIBfkFVX3lxTE5sMnVucXVReDVTS3AwYnVDREY2OERCSWxIcDRNNGNneXV5ZFJCdkNveHdEdkdaYktwU0NXZUhsc3NyTjJ3ZUJzRVNRM2dkUTdlMDhwaFRhZ0NZVlRrbFJzMmpfaVBmY1JEQ0N2QjF3dlZHR0t2R0lwVHdXRmh1UQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1801,156 +1876,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3c3d5e149458",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T15:49:14+00:00",
-    "acquirer": "Senator raises concerns over Kroger’s",
-    "target": "Giant Eagle",
-    "headline": "Senator raises concerns over Kroger’s plan to buy Giant Eagle",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Grocery Dive",
-    "summary": "Senator raises concerns over Kroger’s plan to buy Giant Eagle Grocery Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGRQbXVxLTVSZVZKZndWRWstX3pZNWs2aEp0MDNxZVladjJYRWh2NmhWc2hLdHpUY1ZaQ2xycm5qN2ZZTWJ0YU1LOXIwRmVnMEx4Vy1jcWg3Um9LTWE4cmxsS1R4aGk4RnRONXI1dFk5blJTZWpzU3UwbmZZRThycFNaMnRERkhOSjJsMkZxRm1aTDFjRDR2blNiZzBORDFhdDZEWVFjTHdJdWk4aktzUGN3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e14511aaedcc",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T13:11:00+00:00",
-    "acquirer": "Steris to",
-    "target": "Xodus Medical",
-    "headline": "Steris to Acquire Xodus Medical for $2.1 Billion",
-    "valueBillions": 2.1,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Steris to Acquire Xodus Medical for $2.1 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1B2WHl2dE9scjhta0NNcTlBX2g4VWVYUmRQUkVvQUx6QWJlM2k0Qkg4dlFidmtBU0JOMmYza1NPamh4WU5LTkN6WnJsOXNXcGIzYnpILXNlclI4UTJoR2xWRzlyNkRrM05INkNjdmYwYWZOOXQ0QVNrQjNCN2dmV1daVWVnUTFiWXRoVE1LMjlqNzhna1E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-3851ad4c1221",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T12:04:37+00:00",
@@ -2026,9 +1951,84 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-4512fd389771",
+    "date": "October 11, 2026",
+    "publishedISO": "2026-10-11T21:16:00+00:00",
+    "acquirer": "Amazon in talks to",
+    "target": "AI startup Decart",
+    "headline": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
+    "valueBillions": 7.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f76692dfb2a0",
     "date": "October 11, 2026",
-    "publishedISO": "2026-10-11T20:27:17+00:00",
+    "publishedISO": "2026-10-11T20:26:00+00:00",
     "acquirer": "Exclusive | Amazon in Talks to",
     "target": "AI Startup Decart",
     "headline": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
