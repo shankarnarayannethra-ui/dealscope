@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-dc5b66fd7b9f",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T22:09:48+00:00",
+    "acquirer": "Cohere",
+    "target": "AI cybersecurity startup Aisle",
+    "headline": "Cohere moves to buy AI cybersecurity startup Aisle",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Cohere moves to buy AI cybersecurity startup Aisle Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljendQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5862201574cc",
     "date": "October 15, 2026",
     "publishedISO": "2026-10-15T22:03:07+00:00",
@@ -109,6 +184,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9UYUpXclBGS0xwOG95WXBEYmVNM2Y1Q1NGX3FfbDBiNEdSdXJHb0stcl9HV3RiZVJpSzVZTW9wMnBpMnJHQU05SVdLVHlmNFBXTm9Vb2xJZE9qR1VKTmpGRTlNbVNnM3Y3eGxMNWF3QUtrdGRlQldObk9ZMDRIRkV4OEUtY1psT1AzbFlUdHpld0pOWGVYOGlQZW9mMExodmxIQXVsNTJDS1FlaUVFUw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-af0381a333eb",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T21:23:10+00:00",
+    "acquirer": "Proofpoint to",
+    "target": "Varonis",
+    "headline": "Proofpoint to buy Varonis for $6.3 billion",
+    "valueBillions": 6.3,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CyberScoop",
+    "summary": "Proofpoint to buy Varonis for $6.3 billion CyberScoop",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HaXlPdnBSR1VwZ0dGRnpWQy01THY1UUVJZlFzanl1a3F6RVlxdGswa0hSVGRHdWplVUhJMlhxZE03Q3F6MUNiR0RidVFxMkEyRVRmZ0t5NXRYU1ZNQmtTLVVYdXUtTGpTN1lhdnEzSmZtSUF5V1pvSklETkFPQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -634,81 +784,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc21YanFhdG1MZWNtX09ta0NrUW91b0hqdG9rQmE2Y0dLM3FmQ0t0VmZwNmZvNDZ6LXNvTzdrTHUxWmg3d1lXM0JJdlFJSjJGQ3N2VE9WV3VMaU42MndYS2xGeXVzYzRsWXMxNkV3ZmRkaUJ3SE93TEZRR3NTT2kxZDUyRUdUeEN0TjlHZHJLRFcxZWZ3dG1tN1ljUWZrbFVDYkFycWR6c1pkUGhTc0djdGlqVXNUVVJCZHljMVpMN1ludU5NS0ZiX3RYUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9643a4f32b79",
-    "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T09:47:13+00:00",
-    "acquirer": "The show must go on (independently): Live Nation",
-    "target": "Pukkelpop and behavioral commitments under the Towercast doctrine",
-    "headline": "The show must go on (independently): Live Nation's acquisition of Pukkelpop and behavioral commitments under the Towercast doctrine",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Wolters Kluwer",
-    "summary": "The show must go on (independently): Live Nation's acquisition of Pukkelpop and behavioral commitments under the Towercast doctrine Wolters Kluwer",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaWJ1YWhSeXlha0wxZTNISVA3b2plWEpHTnl6Zlc0UHdhcjFIUE9JWUFhLW40TjZCX0RxTGxxLXRwT1RtdW1vWTcwOS1lVWx0Vl9MaTJwYTZNeVZtTXM3a19BOE1kNEZwZnBXNnNsOTNYaVN4S2k3dXhLSWstd09BNjlqb2M4M0pXbHVRa1Y3bm9nR1NDY3pzcDRZYkRQM0IxX0tHUHl3YXRDX1JQY0VGRVNHWkcyOWlGSElUUlRJclRBQXhSbk1aVVM2UXFhRlhkVlB4NnhaRUV4ZHozOHdMLXA3NVFMMUFVcXZMQ3Z2NnlDal9qUTBaX0Q0alFxNUFsNVR6UU5US3FZOTVvcERB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1384,81 +1459,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXVGRzlPTzNDNXpBMmZvSVd1Z3dZaEU2VTdBaGZzV0EyaXFkc1NRWHIyMy1hUnFzLVNhUl8yTHY4SXNuMkJCUzFWWnl0ZjIzNDlUcUlXekpwU1lTU29WMXd1OUJwS182ZTBVaUpuZHhfSWVmYWw4eUZYNUdVMGc0Ty0zVTdyQ0xTR0xIUzNYZlhjeE9hOEZEMldISHJvYWhKN09MWHZJM1VLVlQyNkhPbW9BMEprOFhxWmZrbXBVOXBvSGFMLXZFbVo5U3pQUTRhOXQ1ejQ1ZWRkZTI4VGZaNGV2WHc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-52d5cbece5a9",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T10:30:00+00:00",
-    "acquirer": "Cardinal Infrastructure Group (CDNL)",
-    "target": "Hughes Brothers Construction, Inc.",
-    "headline": "Cardinal Infrastructure Group (CDNL) Announces Acquisition of Hughes Brothers Construction, Inc.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Cardinal Infrastructure Group (CDNL) Announces Acquisition of Hughes Brothers Construction, Inc. PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeVRJSVBLcHVPdTNsa0NIMkwwbUdNRlZtbS16dnd0ejhGUWgzV19Sd19ZUWNiaHFTT0xMMEJuNF9Nc09HNnZGUnB4Q25OM0tYZVd6aVQ2aW9YWDhWeWVjTWVwUElRNDMzMVJjd2NUWHF2Q3pqTm5GQ1pUVHpydm9RWnItN21QamllZFcxeF9lUE9NZjVoRTRaZEFmZEhfY0hVMzJiQmhtZl9VUy1VOWpINW1CY3hEd2Q3eEFkMG5VMXAwTGtaaXhyR1VROFpSQ2w4NzVfNkFRbW1jejBzV3RDOWdn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
