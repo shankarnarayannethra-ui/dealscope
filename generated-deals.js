@@ -676,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-da0056390fa0",
-    "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T17:19:32+00:00",
-    "acquirer": "GHK Capital",
-    "target": "MSouth-Backed USA Hometown Experts",
-    "headline": "GHK Capital Acquires MSouth-Backed USA Hometown Experts",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Deal Pipeline",
-    "summary": "GHK Capital Acquires MSouth-Backed USA Hometown Experts The Deal Pipeline",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0N4UlZXWkZrb0dkR0N4VFZDWkQ1WWIxS1BUODR5WGNmRVdwOTgtNmJhTFRMeDI4dTVwWUJMSHZVOHRHYTk2R2JZZmFYemVpanhBS1FLVTVuNkh1YWh5d0xjN3h5WHAxUG5odFMxVGxERGVIc1FYNUctbE5vZlpyOUVfRFlFLVF2QXpONlpiTUgwcEow?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-22ea54a1ac99",
     "date": "October 15, 2026",
     "publishedISO": "2026-10-15T17:03:11+00:00",
@@ -859,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGRpbEpqTThRUzlWTy13bE5PSVhQc0Y3N2VxMTFNc1ZSSGZIc1FGMUZuVVNjaUxhZ19LWUxBeFFOcVhDNTJGS3A0YmRvb0dqWk52eTJqUUlyb2p2aEx4U3hYaFFxQ09TOVppNHdOcl9CNHgwN01PNERKWVBxZHlMRVl0eWVNSGczMERkZnNGcFZvdVMxWHNxMzlaaThFekYweFNCdlVlSQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6f87d6c5c822",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T11:30:00+00:00",
+    "acquirer": "Labcorp Enters into Agreement with OPKO Health to",
+    "target": "Select Assets of BioReference Health",
+    "headline": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1084,6 +1084,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWlVM1pWV0tIajNVWTRPSmFuWENqdnBYN1RKSmxmUWhCMS1YTnpYaTJtSVdvWGFZaVZ6SC1xdWs3X1NES3QxWVpXd2RyX0YxOGloSkxiZHBxVW9kM1VXSUY5eVJpbHQ2TGZ1VWlBUnJ2MlctVVV6YjFTWDd5QkNiTmtaU0pEeHVvV0FrSDgtWEFfMjB4aGg2QnFFeEJ4a0VUMXBreWpkMzJoZDluc1k5bUF3OHRCZzNmOHBlMg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-64fd171dbe48",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T12:00:00+00:00",
+    "acquirer": "Humanly",
+    "target": "CareerArc to connect recruitment marketing with AI hiring",
+    "headline": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "GeekWire",
+    "summary": "Humanly acquires CareerArc to connect recruitment marketing with AI hiring GeekWire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2VJUmprRHUzMUlISDNzSGQyUWs1MzMwTlJrREFvdi1sd0tnaWNYZ1l2bVdIZ2VqNGZXSWJtOExtMUsyUVQ1UnU5cHdiR1lodEd1ZUFWYmQ2SXVPc3A5VkxGT0Z3Q3NyQWRsSWdTckVoNDBWWGt4UHRvVmxQSUxzaUgwaUM1dFZJRjBRSTBFYkYxVDcta2xQOGlZaXFKMVZqeDBBdHY4Qlc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1989,81 +2064,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4512fd389771",
-    "date": "October 11, 2026",
-    "publishedISO": "2026-10-11T21:16:00+00:00",
-    "acquirer": "Amazon in talks to",
-    "target": "AI startup Decart",
-    "headline": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
-    "valueBillions": 7.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 11, 2026"
       },
       {
         "stage": "Terms verified",
