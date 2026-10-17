@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-c468b7d82ae7",
+    "id": "news-b52d92e18a7c",
     "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T14:37:38+00:00",
-    "acquirer": "Parkview Health to",
-    "target": "Ovation Healthcare, expanding services nation wide",
-    "headline": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide",
+    "publishedISO": "2026-10-16T22:51:05+00:00",
+    "acquirer": "T1 Trust",
+    "target": "former Pennsylvania Railroad E8A diesels",
+    "headline": "T1 Trust acquires former Pennsylvania Railroad E8A diesels",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WANE 15",
-    "summary": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide WANE 15",
+    "sourceName": "Trains Magazine",
+    "summary": "T1 Trust acquires former Pennsylvania Railroad E8A diesels Trains Magazine",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTRxYk9nVnR4aUp2SjdIMjVtVFo4aWZDYWF2b2tBWFdHaWM2eTZRN3Y2NTN1NWl5YzNvVmFxaHFYa3hUTzl2dG4tQmQ1cGJKQ3FGcjFqQWxzak44STVhUUNLSEdUbHNJOGtONWRVSmtxTDlydFFSUFFITmFKS180S1lhUFJUR09xQ1hGQkZNV3hFYTh4YlQxLWJiVFlRY2RpQWtOQnJsNlQyQS13UmhJ0gG0AUFVX3lxTFBoTkF0UXNvWEU5S2Uxa3E3cE9sREo4RGZEUnNydDdza2liNUUtd0N2MTJCT1gxeXJlTTBSUk5KcU9ybEZEc0MwRUdOVVhUbmN1MG10d0F3TVcwV09xckhuLUFKS0Z6NG5GYzJyWXdGTWNBc2pla0JWa1RhaG9xMUhsbHdaNHFPak90d3F4MkpYZElCQVdPQzYwMHBTb2Fud1Q3U0VWenJfUzUzYmlaY2ZUaktpbQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2xGZUU3YTdSR1J2c05DRlRkdEN5Qmc3OGIxdlR1ZHhzbGRJemRTWk50UFVJYkRWQVE4N19lU0Q2bnJuYnVCaFJyYXJZQzZrRDBZZjJ6TDN3MjVZVVdqcVdsdzBkRDNKUXRNY1U5eXM1ZmxRbkpVZzVweEFlUW43THFUd0xSZ3QyN2xzVm16T01BckRRMU5WbHByeXdWWXFvelZ0VGMyTkJMUWpmUGdKQmtwamVmUG85YThnem1ERWs?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b52d92e18a7c",
+    "id": "news-02e495fe1251",
     "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T12:02:57+00:00",
-    "acquirer": "T1 Trust",
-    "target": "former Pennsylvania Railroad E8A diesels",
-    "headline": "T1 Trust acquires former Pennsylvania Railroad E8A diesels",
+    "publishedISO": "2026-10-16T16:48:15+00:00",
+    "acquirer": "Baltimore-based MCB Real Estate",
+    "target": "Florida shopping center",
+    "headline": "Baltimore-based MCB Real Estate acquires Florida shopping center",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Trains Magazine",
-    "summary": "T1 Trust acquires former Pennsylvania Railroad E8A diesels Trains Magazine",
+    "sourceName": "Maryland Daily Record",
+    "summary": "Baltimore-based MCB Real Estate acquires Florida shopping center Maryland Daily Record",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,157 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2xGZUU3YTdSR1J2c05DRlRkdEN5Qmc3OGIxdlR1ZHhzbGRJemRTWk50UFVJYkRWQVE4N19lU0Q2bnJuYnVCaFJyYXJZQzZrRDBZZjJ6TDN3MjVZVVdqcVdsdzBkRDNKUXRNY1U5eXM1ZmxRbkpVZzVweEFlUW43THFUd0xSZ3QyN2xzVm16T01BckRRMU5WbHByeXdWWXFvelZ0VGMyTkJMUWpmUGdKQmtwamVmUG85YThnem1ERWs?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWpfYVlGeVRrSXZlZGFEaE9PREhuZlo1eDZIeVBuUkdtUkE4SmQwXzhDNmQ3VHpja1RBZXdCNzNkSXA5eHBaMkxualJ6eXJiLUR6bjJ4WXFFZVdFbUo1TXVfcVEwLWZJbVRkbU81V1JqMHhEMnFQUjlycFBiV1dlcTgwMnRWaEdoNWhwMlBkeC0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ca178a0a7708",
+    "date": "October 16, 2026",
+    "publishedISO": "2026-10-16T15:48:00+00:00",
+    "acquirer": "Parkview Health announces agreement to",
+    "target": "Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability",
+    "headline": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNjJwNEJVczR4ZXV6NWVoV1ZPV2xmYnkxNzMxY2lHWFpES2lyMTZYQjVSQmtUOHRpcGNsRzA4T05MTlVNckpLYjl0aV9kVjg2Ni1hZ3g1Slp5RW54QVZuSjBKUy1OSDJkbWpFZFZlSHlPMndZN1pHVW82TkdoZVR1a0l6dHlGeENhTHd4NVUyNFdsX0xaR3pDYnRocHh3OTFFM1c0dTU5T0VoZzU1MjcwdC1tdUxZTDVKWGNSVTRoZnZDOUFTdklpdkpobG42X2d3Z3VRUDhrNW9kblJ2SEtCZ2o2bjJWOS1jY2dRY2dQU0hwM05Zd0lMR1JseEhkZ19LV0FRU1dPNy0wanZkUHBuX3pBT21sVzJXV21zQmF1VWs?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c468b7d82ae7",
+    "date": "October 16, 2026",
+    "publishedISO": "2026-10-16T14:37:38+00:00",
+    "acquirer": "Parkview Health to",
+    "target": "Ovation Healthcare, expanding services nation wide",
+    "headline": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WANE 15",
+    "summary": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide WANE 15",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTRxYk9nVnR4aUp2SjdIMjVtVFo4aWZDYWF2b2tBWFdHaWM2eTZRN3Y2NTN1NWl5YzNvVmFxaHFYa3hUTzl2dG4tQmQ1cGJKQ3FGcjFqQWxzak44STVhUUNLSEdUbHNJOGtONWRVSmtxTDlydFFSUFFITmFKS180S1lhUFJUR09xQ1hGQkZNV3hFYTh4YlQxLWJiVFlRY2RpQWtOQnJsNlQyQS13UmhJ0gG0AUFVX3lxTFBoTkF0UXNvWEU5S2Uxa3E3cE9sREo4RGZEUnNydDdza2liNUUtd0N2MTJCT1gxeXJlTTBSUk5KcU9ybEZEc0MwRUdOVVhUbmN1MG10d0F3TVcwV09xckhuLUFKS0Z6NG5GYzJyWXdGTWNBc2pla0JWa1RhaG9xMUhsbHdaNHFPak90d3F4MkpYZElCQVdPQzYwMHBTb2Fud1Q3U0VWenJfUzUzYmlaY2ZUaktpbQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-af0381a333eb",
+    "id": "news-14ab0e9eebca",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T21:23:10+00:00",
+    "publishedISO": "2026-10-15T20:24:00+00:00",
     "acquirer": "Proofpoint to",
-    "target": "Varonis",
-    "headline": "Proofpoint to buy Varonis for $6.3 billion",
+    "target": "Varonis in $6.3 Billion Cybersecurity Deal",
+    "headline": "Proofpoint to Acquire Varonis in $6.3 Billion Cybersecurity Deal",
     "valueBillions": 6.3,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CyberScoop",
-    "summary": "Proofpoint to buy Varonis for $6.3 billion CyberScoop",
+    "sourceName": "WSJ",
+    "summary": "Proofpoint to Acquire Varonis in $6.3 Billion Cybersecurity Deal WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HaXlPdnBSR1VwZ0dGRnpWQy01THY1UUVJZlFzanl1a3F6RVlxdGswa0hSVGRHdWplVUhJMlhxZE03Q3F6MUNiR0RidVFxMkEyRVRmZ0t5NXRYU1ZNQmtTLVVYdXUtTGpTN1lhdnEzSmZtSUF5V1pvSklETkFPQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzRXbDF6YUJkek90VzR5cFBPTlZXNV9zbTNSX1dFb2VYeDZfV0hhdm5wRFpCaG1lVFo3Y2NqbmFFVzU0ckZFenlRemoyckMxb01ZZkhGcE0wZWFBRk83U0FIMm02MXl4UDZZdW5wRVFGS2w5RUJjTTV0TEtCOF9GbDRIUy01N040M3hXNzN6ZUR1blZFNnVkUDRiWWxKVE05aFNsNGstTUcxZVVrUjFB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,81 +976,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-69c8b7401dd4",
-    "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T07:00:00+00:00",
-    "acquirer": "Galderma to",
-    "target": "ZO Skin Health",
-    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
-    "valueBillions": 1.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-d61dbaae079b",
     "date": "October 14, 2026",
     "publishedISO": "2026-10-14T16:10:45+00:00",
@@ -1051,13 +1126,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4536099797c6",
+    "id": "news-69c8b7401dd4",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T12:00:00+00:00",
-    "acquirer": "Flex",
-    "target": "EPC Power, Expanding Power Conversion Capabilities",
-    "headline": "Flex Completes Acquisition of EPC Power, Expanding Power Conversion Capabilities for AI Data Centers and Grid Applications",
-    "valueBillions": null,
+    "publishedISO": "2026-10-14T07:38:00+00:00",
+    "acquirer": "Galderma to",
+    "target": "ZO Skin Health",
+    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
+    "valueBillions": 1.5,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1065,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Flex Completes Acquisition of EPC Power, Expanding Power Conversion Capabilities for AI Data Centers and Grid Applications PR Newswire",
+    "sourceName": "WSJ",
+    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1083,7 +1158,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVkdjNmVwRDRpMU1kSDgwUmQwRnJkdnp3TnpiVW5EWmkzSDY5V2QxTHppc09mMHhtX0xwU1N4em5xbHE4MXNGWWdfelFfa1JvNWozeGVBazc0S3dMb0piYTNObXJFeUE3bzNTZ183dW0tUUQyd0hnNXVVUTdLQzNhWHVoZ1B1Mnphcy1LR0lwS3REZnBPeUZfVUtqcnJQdWs3Yk1Eb2NrRTRWWHVIX0M1OXJWUUpRSGxYb3NjZ2EzUEFOVmxpbmJwSHpNSG5oRWxaUDI4d0kzUmFydHdUWmJMNzhwTEc0TWlGZnJKODNXY2N4ZWU5Ti13bXI5dUh3ckR5VjJFTFROZXM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1834,81 +1909,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXhUb3RiY1ROQVJySi10R0dIOXBnbnZrMGVSUXIxS3c1UVBHQWlhbVY4ZHJTWmlYdGxmS2JSaDZxVzRXRk9Jcmp6ZjJFSzVEYlA5dXJlTzQ1eTNTdGRvUms3UDR3U1ZKNk5aWlZtUEtDakwwS0R4cW5Fb2xNUHNndnJxUjVIUThRQ3BFUmc0WDhIdHBPV1FsS3FoZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3c3d5e149458",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T15:49:14+00:00",
-    "acquirer": "Senator raises concerns over Kroger’s",
-    "target": "Giant Eagle",
-    "headline": "Senator raises concerns over Kroger’s plan to buy Giant Eagle",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Grocery Dive",
-    "summary": "Senator raises concerns over Kroger’s plan to buy Giant Eagle Grocery Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGRQbXVxLTVSZVZKZndWRWstX3pZNWs2aEp0MDNxZVladjJYRWh2NmhWc2hLdHpUY1ZaQ2xycm5qN2ZZTWJ0YU1LOXIwRmVnMEx4Vy1jcWg3Um9LTWE4cmxsS1R4aGk4RnRONXI1dFk5blJTZWpzU3UwbmZZRThycFNaMnRERkhOSjJsMkZxRm1aTDFjRDR2blNiZzBORDFhdDZEWVFjTHdJdWk4aktzUGN3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
