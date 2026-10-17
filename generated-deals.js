@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-8f8f3ced77ff",
+    "date": "October 17, 2026",
+    "publishedISO": "2026-10-17T18:14:00+00:00",
+    "acquirer": "SoftBank in Early Talks to",
+    "target": "Allied Universal",
+    "headline": "SoftBank in Early Talks to Buy Allied Universal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "SoftBank in Early Talks to Buy Allied Universal WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JpejBhSm55eU5zM18zZldFMFd1b1hUYWNUQUt2NVY3SEdpZUE0eDZLVjIydHVaVVZ2d2NUSElQeGFPbDFSWGJFRUl6dlpfbk03cVFtTnVmdnJfSWJ0ZFByUkFLRTg2NUprZUZ3OWZzQTl6LS1sSTdTSld1NXBCZm1xem9EYTJ5UzdITE05SllwaktXcGc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b52d92e18a7c",
     "date": "October 16, 2026",
     "publishedISO": "2026-10-16T22:51:05+00:00",
@@ -151,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ca178a0a7708",
+    "id": "news-c468b7d82ae7",
     "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T15:48:00+00:00",
-    "acquirer": "Parkview Health announces agreement to",
-    "target": "Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability",
-    "headline": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability",
+    "publishedISO": "2026-10-16T14:37:38+00:00",
+    "acquirer": "Parkview Health to",
+    "target": "Ovation Healthcare, expanding services nation wide",
+    "headline": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability PR Newswire",
+    "sourceName": "WANE 15",
+    "summary": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide WANE 15",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNjJwNEJVczR4ZXV6NWVoV1ZPV2xmYnkxNzMxY2lHWFpES2lyMTZYQjVSQmtUOHRpcGNsRzA4T05MTlVNckpLYjl0aV9kVjg2Ni1hZ3g1Slp5RW54QVZuSjBKUy1OSDJkbWpFZFZlSHlPMndZN1pHVW82TkdoZVR1a0l6dHlGeENhTHd4NVUyNFdsX0xaR3pDYnRocHh3OTFFM1c0dTU5T0VoZzU1MjcwdC1tdUxZTDVKWGNSVTRoZnZDOUFTdklpdkpobG42X2d3Z3VRUDhrNW9kblJ2SEtCZ2o2bjJWOS1jY2dRY2dQU0hwM05Zd0lMR1JseEhkZ19LV0FRU1dPNy0wanZkUHBuX3pBT21sVzJXV21zQmF1VWs?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTRxYk9nVnR4aUp2SjdIMjVtVFo4aWZDYWF2b2tBWFdHaWM2eTZRN3Y2NTN1NWl5YzNvVmFxaHFYa3hUTzl2dG4tQmQ1cGJKQ3FGcjFqQWxzak44STVhUUNLSEdUbHNJOGtONWRVSmtxTDlydFFSUFFITmFKS180S1lhUFJUR09xQ1hGQkZNV3hFYTh4YlQxLWJiVFlRY2RpQWtOQnJsNlQyQS13UmhJ0gG0AUFVX3lxTFBoTkF0UXNvWEU5S2Uxa3E3cE9sREo4RGZEUnNydDdza2liNUUtd0N2MTJCT1gxeXJlTTBSUk5KcU9ybEZEc0MwRUdOVVhUbmN1MG10d0F3TVcwV09xckhuLUFKS0Z6NG5GYzJyWXdGTWNBc2pla0JWa1RhaG9xMUhsbHdaNHFPak90d3F4MkpYZElCQVdPQzYwMHBTb2Fud1Q3U0VWenJfUzUzYmlaY2ZUaktpbQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c468b7d82ae7",
+    "id": "news-dce843d28247",
     "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T14:37:38+00:00",
-    "acquirer": "Parkview Health to",
-    "target": "Ovation Healthcare, expanding services nation wide",
-    "headline": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide",
+    "publishedISO": "2026-10-16T02:06:02+00:00",
+    "acquirer": "T1 Trust",
+    "target": "Ex-Pennsylvania Railroad E8s",
+    "headline": "T1 Trust Acquires Ex-Pennsylvania Railroad E8s",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WANE 15",
-    "summary": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide WANE 15",
+    "sourceName": "Railfan & Railroad Magazine",
+    "summary": "T1 Trust Acquires Ex-Pennsylvania Railroad E8s Railfan & Railroad Magazine",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTRxYk9nVnR4aUp2SjdIMjVtVFo4aWZDYWF2b2tBWFdHaWM2eTZRN3Y2NTN1NWl5YzNvVmFxaHFYa3hUTzl2dG4tQmQ1cGJKQ3FGcjFqQWxzak44STVhUUNLSEdUbHNJOGtONWRVSmtxTDlydFFSUFFITmFKS180S1lhUFJUR09xQ1hGQkZNV3hFYTh4YlQxLWJiVFlRY2RpQWtOQnJsNlQyQS13UmhJ0gG0AUFVX3lxTFBoTkF0UXNvWEU5S2Uxa3E3cE9sREo4RGZEUnNydDdza2liNUUtd0N2MTJCT1gxeXJlTTBSUk5KcU9ybEZEc0MwRUdOVVhUbmN1MG10d0F3TVcwV09xckhuLUFKS0Z6NG5GYzJyWXdGTWNBc2pla0JWa1RhaG9xMUhsbHdaNHFPak90d3F4MkpYZElCQVdPQzYwMHBTb2Fud1Q3U0VWenJfUzUzYmlaY2ZUaktpbQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zU3hwT2tkNHBJV2NHVUR4Zl9nX3ZFX2VHZ1BJODVZRW1JcmhqTXZWSHJmRjZJanhGVE1DdDNPU0RnMzl0TWo0RFRsNWtOc3lXV2lUc1RoY3NRQ1R4Z1lmNWQyelhSYVNS?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -784,81 +859,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGRpbEpqTThRUzlWTy13bE5PSVhQc0Y3N2VxMTFNc1ZSSGZIc1FGMUZuVVNjaUxhZ19LWUxBeFFOcVhDNTJGS3A0YmRvb0dqWk52eTJqUUlyb2p2aEx4U3hYaFFxQ09TOVppNHdOcl9CNHgwN01PNERKWVBxZHlMRVl0eWVNSGczMERkZnNGcFZvdVMxWHNxMzlaaThFekYweFNCdlVlSQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6f87d6c5c822",
-    "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T11:30:00+00:00",
-    "acquirer": "Labcorp Enters into Agreement with OPKO Health to",
-    "target": "Select Assets of BioReference Health",
-    "headline": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2026,6 +2026,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-53212b659bc6",
+    "date": "October 12, 2026",
+    "publishedISO": "2026-10-12T15:36:58+00:00",
+    "acquirer": "Nebraska’s Pinnacle Bancorp to",
+    "target": "Texas community bank",
+    "headline": "Nebraska’s Pinnacle Bancorp to buy Texas community bank",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Banking Dive",
+    "summary": "Nebraska’s Pinnacle Bancorp to buy Texas community bank Banking Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVJIUF8tcTNkUnZGSmZSUThCYS04cnVBWFZUUG45THFmWmRFQUZETlhicXoxYm5vSnRFUWRfZG1FSXotZjB5amhlR0MzOXVpZ2lvVzJka0NJMjYxcEd2WnlIV0tqcUNKMnA3cTluRVFHTkV4V0F1Z0JFNExHUVZpVjRUUGxyNUZkZ0pUM29xX3VXcDFCLUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3851ad4c1221",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T12:04:37+00:00",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-07a1d7b736ea",
-    "date": "October 10, 2026",
-    "publishedISO": "2026-10-10T16:25:42+00:00",
-    "acquirer": "Cloudflare",
-    "target": "Deno to improve its Workers programming model",
-    "headline": "Cloudflare acquires Deno to improve its Workers programming model",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Cloudflare acquires Deno to improve its Workers programming model TechCrunch",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzVvR1hCb2RCNVZ4aVB4N0RVWEh3XzIxbmZYV2dyN1pSY3dXRjU0dExkMlBUTFp4akJ6b1dRa2tiMHBqemdzX0hIWGM0aU9nU1dxUXRXMTR3QkJ1MlNyc1otaE5wY3BkdTZWS0pBNkxGQkFmLUFIMXdoQVdxRlF3SEVYa1pnQzR3Yk80cThFOEtnMG9YMHpLWml3b0tVR2xqUHc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 10, 2026"
       },
       {
         "stage": "Terms verified",
