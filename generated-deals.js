@@ -226,6 +226,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-ca178a0a7708",
+    "date": "October 16, 2026",
+    "publishedISO": "2026-10-16T15:48:00+00:00",
+    "acquirer": "Parkview Health announces agreement to",
+    "target": "Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability",
+    "headline": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability PR Newswire",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNjJwNEJVczR4ZXV6NWVoV1ZPV2xmYnkxNzMxY2lHWFpES2lyMTZYQjVSQmtUOHRpcGNsRzA4T05MTlVNckpLYjl0aV9kVjg2Ni1hZ3g1Slp5RW54QVZuSjBKUy1OSDJkbWpFZFZlSHlPMndZN1pHVW82TkdoZVR1a0l6dHlGeENhTHd4NVUyNFdsX0xaR3pDYnRocHh3OTFFM1c0dTU5T0VoZzU1MjcwdC1tdUxZTDVKWGNSVTRoZnZDOUFTdklpdkpobG42X2d3Z3VRUDhrNW9kblJ2SEtCZ2o2bjJWOS1jY2dRY2dQU0hwM05Zd0lMR1JseEhkZ19LV0FRU1dPNy0wanZkUHBuX3pBT21sVzJXV21zQmF1VWs?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c468b7d82ae7",
     "date": "October 16, 2026",
     "publishedISO": "2026-10-16T14:37:38+00:00",
@@ -676,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-22ea54a1ac99",
+    "id": "news-d31e72e5c989",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T17:03:11+00:00",
-    "acquirer": "Zocdoc",
-    "target": "Sohar Health in latest push to scale tech infrastructure",
-    "headline": "Zocdoc acquires Sohar Health in latest push to scale tech infrastructure",
+    "publishedISO": "2026-10-15T15:50:07+00:00",
+    "acquirer": "AEP in deal to",
+    "target": "up to 1.6 GW of Mainspring linear generators",
+    "headline": "AEP in deal to buy up to 1.6 GW of Mainspring linear generators",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Healthcare Dive",
-    "summary": "Zocdoc acquires Sohar Health in latest push to scale tech infrastructure Healthcare Dive",
+    "sourceName": "Utility Dive",
+    "summary": "AEP in deal to buy up to 1.6 GW of Mainspring linear generators Utility Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkZWQlZRVHM2Z3YzWVNydkx4dFBDSWJaNmU1ZHNQZFdpU0ZRcjRGRjh5ckdrZl9LMmdESlJUV2trZl9rQTk1WkZzUlB3UE44MUduRHFuemRfM0YwZ2prZWNhMHFzaHVaV2dtQkRua3B6SzFaQ05mRzRfbFJBajNmd0xiRVRsWkNLU1drcEQ3UFF2SUczMDZEUnAzWnZZTWZuTmN6YV9NbTZOd3BaTy1YQ1dDMV8xT2c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGRpbEpqTThRUzlWTy13bE5PSVhQc0Y3N2VxMTFNc1ZSSGZIc1FGMUZuVVNjaUxhZ19LWUxBeFFOcVhDNTJGS3A0YmRvb0dqWk52eTJqUUlyb2p2aEx4U3hYaFFxQ09TOVppNHdOcl9CNHgwN01PNERKWVBxZHlMRVl0eWVNSGczMERkZnNGcFZvdVMxWHNxMzlaaThFekYweFNCdlVlSQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d31e72e5c989",
+    "id": "news-6f87d6c5c822",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T15:50:07+00:00",
-    "acquirer": "AEP in deal to",
-    "target": "up to 1.6 GW of Mainspring linear generators",
-    "headline": "AEP in deal to buy up to 1.6 GW of Mainspring linear generators",
+    "publishedISO": "2026-10-15T11:30:00+00:00",
+    "acquirer": "Labcorp Enters into Agreement with OPKO Health to",
+    "target": "Select Assets of BioReference Health",
+    "headline": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Utility Dive",
-    "summary": "AEP in deal to buy up to 1.6 GW of Mainspring linear generators Utility Dive",
+    "sourceName": "PR Newswire",
+    "summary": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGRpbEpqTThRUzlWTy13bE5PSVhQc0Y3N2VxMTFNc1ZSSGZIc1FGMUZuVVNjaUxhZ19LWUxBeFFOcVhDNTJGS3A0YmRvb0dqWk52eTJqUUlyb2p2aEx4U3hYaFFxQ09TOVppNHdOcl9CNHgwN01PNERKWVBxZHlMRVl0eWVNSGczMERkZnNGcFZvdVMxWHNxMzlaaThFekYweFNCdlVlSQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,81 +2026,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-53212b659bc6",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T15:36:58+00:00",
-    "acquirer": "Nebraska’s Pinnacle Bancorp to",
-    "target": "Texas community bank",
-    "headline": "Nebraska’s Pinnacle Bancorp to buy Texas community bank",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Nebraska’s Pinnacle Bancorp to buy Texas community bank Banking Dive",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVJIUF8tcTNkUnZGSmZSUThCYS04cnVBWFZUUG45THFmWmRFQUZETlhicXoxYm5vSnRFUWRfZG1FSXotZjB5amhlR0MzOXVpZ2lvVzJka0NJMjYxcEd2WnlIV0tqcUNKMnA3cTluRVFHTkV4V0F1Z0JFNExHUVZpVjRUUGxyNUZkZ0pUM29xX3VXcDFCLUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-3851ad4c1221",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T12:04:37+00:00",
@@ -2178,7 +2178,7 @@ window.generatedDeals = [
   {
     "id": "news-f76692dfb2a0",
     "date": "October 11, 2026",
-    "publishedISO": "2026-10-11T20:26:00+00:00",
+    "publishedISO": "2026-10-11T20:27:17+00:00",
     "acquirer": "Exclusive | Amazon in Talks to",
     "target": "AI Startup Decart",
     "headline": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
