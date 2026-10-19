@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-8011855abedc",
+    "date": "October 19, 2026",
+    "publishedISO": "2026-10-19T11:58:29+00:00",
+    "acquirer": "Packaging firm Silgan and American Industrial to",
+    "target": "Trivium Packaging in $3.4 billion deal",
+    "headline": "Packaging firm Silgan and American Industrial to buy Trivium Packaging in $3.4 billion deal",
+    "valueBillions": 3.4,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Packaging firm Silgan and American Industrial to buy Trivium Packaging in $3.4 billion deal Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEdMeldoeXh5S1E5X09DMUkzX25jY1NjMmJpbDRFQVlaMWhiZ2tFN3hBM2VvUzBIOUEtM3RieENqY0Ezczg5SHhteHdmWHdEU2w3NGRZZXVWdHdwWkkwXzBGcU10S2lQcjdNaGpvbDV1RmR1aUhxWGNFRGU0bWZxWUxtUUVzb0d0MjJ1V3EyZG1VaFJ5X1BFbG9TRkZxbnR4YzhZWlZTMUF3YWxfdFVhWVdKeFJYY3hFUGlaRA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7857ca512d38",
+    "date": "October 19, 2026",
+    "publishedISO": "2026-10-19T06:33:00+00:00",
+    "acquirer": "Supermarket chain Carrefour to",
+    "target": "Codifrance from Colruyt",
+    "headline": "Supermarket chain Carrefour to buy Codifrance from Colruyt",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Supermarket chain Carrefour to buy Codifrance from Colruyt Reuters",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYk1PU3R0NWh6SENab283WnNFV0g1M3FBekpvcGNyTE5CUE9yU25uQ0VtUS0yMW42aEtsXzNCanFrVTJMSWN1YUdua21XN0o3bWhKZDJEMi1yRmRLT0xjbnhYSVR0NjlVbnZqVnVxTnZmeFYwRTFkSTc0MVQyX2lsSTNHU0lJZFdnNjhzdjRCSTVWOXZ4ZVpCbHVJT19CVmdPSVYtdlpRNEc0UQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a01d443d4cc8",
     "date": "October 18, 2026",
     "publishedISO": "2026-10-18T22:43:50+00:00",
@@ -76,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b10c307d5c2f",
-    "date": "October 18, 2026",
-    "publishedISO": "2026-10-18T20:53:17+00:00",
-    "acquirer": "National Museum of American History",
-    "target": "Costumes From the Broadway Musical “Hadestown”",
-    "headline": "National Museum of American History Acquires Costumes From the Broadway Musical “Hadestown”",
+    "id": "news-8f8f3ced77ff",
+    "date": "October 17, 2026",
+    "publishedISO": "2026-10-17T18:14:00+00:00",
+    "acquirer": "SoftBank in Early Talks to",
+    "target": "Allied Universal",
+    "headline": "SoftBank in Early Talks to Buy Allied Universal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Smithsonian",
-    "summary": "National Museum of American History Acquires Costumes From the Broadway Musical “Hadestown” Smithsonian",
+    "sourceName": "WSJ",
+    "summary": "SoftBank in Early Talks to Buy Allied Universal WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,12 +258,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczVIT05nMXQ5bEhYajlrZHlfMC1GOVhGdkhjeXFiWDRiZmE1SmNHRHZMQWtEU3ozU0JHUWhGTkxYb3RDYXM4NlpKdE1zOE42MzNCNXpyQXZnZ3F3RV82S1lfRmpOQnVWTmtUU1NSbUlha2p2UnAzaklkcEdUSjBmbWY5aXNnRnJiMkRraGJIR2o0Q0tJd0xlTFh2WW9uaS1OMzV4SkVhWWQ1YXZ4RE9HZFRpcVQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JpejBhSm55eU5zM18zZldFMFd1b1hUYWNUQUt2NVY3SEdpZUE0eDZLVjIydHVaVVZ2d2NUSElQeGFPbDFSWGJFRUl6dlpfbk03cVFtTnVmdnJfSWJ0ZFByUkFLRTg2NUprZUZ3OWZzQTl6LS1sSTdTSld1NXBCZm1xem9EYTJ5UzdITE05SllwaktXcGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 18, 2026"
+        "date": "Oct 17, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1426,81 +1576,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-69c8b7401dd4",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T07:38:00+00:00",
-    "acquirer": "Galderma to",
-    "target": "ZO Skin Health",
-    "headline": "Galderma to Buy ZO Skin Health for $1.5 Billion",
-    "valueBillions": 1.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Galderma to Buy ZO Skin Health for $1.5 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJxbVNaWHBKX1dVY1U3dEFIU1Q1NExrUjQ2Mllnb0VkdEpMeE1UYlZ5R18tdjZJR0F1TV9zZVlaQWpHa05MRWtYSXZxaTZoZ25BRlpBbjBCY2hyWEszbWNMZ2E4eWU4WDBWYzdxNnNVc3ZseFNzQS1SY0s0X1BYdHh1NEM5aWFKR0ZLcnRfZHhTMmFY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ea3c69b569df",
     "date": "October 13, 2026",
     "publishedISO": "2026-10-13T23:17:00+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGRQbXVxLTVSZVZKZndWRWstX3pZNWs2aEp0MDNxZVladjJYRWh2NmhWc2hLdHpUY1ZaQ2xycm5qN2ZZTWJ0YU1LOXIwRmVnMEx4Vy1jcWg3Um9LTWE4cmxsS1R4aGk4RnRONXI1dFk5blJTZWpzU3UwbmZZRThycFNaMnRERkhOSjJsMkZxRm1aTDFjRDR2blNiZzBORDFhdDZEWVFjTHdJdWk4aktzUGN3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3851ad4c1221",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T12:04:37+00:00",
-    "acquirer": "IonQ to",
-    "target": "Elisity",
-    "headline": "IonQ to Acquire Elisity for $1.3B to Advance Quantum Security",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "IonQ",
-    "summary": "IonQ to Acquire Elisity for $1.3B to Advance Quantum Security IonQ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmk5YXVkclVYSFhIeGxZakxHODdCOElmRGJMdlFjWWpVVFhBNE9kM0FSR1QzUWwtbm1MYWV0bllWUHpvSG5EVm9vQTVad2lRa2l2S3RzUm4xM0s3VDRyb1RGMnZlZ2ZmY1dxYkdmdHl5cUNSWDNFajllS1RLY2VDOEVZYnRzMDY3Qng4d2ZVT2ppSzJWSlVkXzFn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
