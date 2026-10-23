@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-d1aef72e97c8",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T12:23:15+00:00",
+    "acquirer": "Khosla-led group",
+    "target": "Seahawks; sources say $9.6 billion",
+    "headline": "Khosla-led group agrees to buy Seahawks; sources say $9.6 billion",
+    "valueBillions": 9.6,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC7 Bay Area",
+    "summary": "Khosla-led group agrees to buy Seahawks; sources say $9.6 billion ABC7 Bay Area",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi9gpBVV95cUxQZDBhMzNPUG9jRlZNMnRFcGs0VWl0ZDR1NVBWRVNkZEtXN3JTeE9qZ05USl9mUmhqenlLc0V1UWgxZGZrRWhTakRIRWQ3VUhGQng1MWhmSEpyTTh2X3drSjVwRFl1bkxaX2xUblc2VVVRRF9Zd0dNaGFJd2YwdlRDeWE4enhYV2ZRWnI4M2M1dkhlXzBuYVl5NGd1RkFqV1VDdEFzc1hzX041dXZaUks4SDhRTWc2V0JwMkVfQ0pEWjFHbnRDdmpwR2JhY3oxSV82OFZ1XzJialE2SGtZQ3R2QkdZU1A3MW1tZzVwampQZklwcW83alJBX3BWVmlwdGx2TVR6REhyTEJzcFc2dFJSeXJyQUh3d285VGFsNFFnUU5sNGMxdXJlWXpmcGlZMHIxTFRIVjlHUTJMWXFZc0xULVZEMGU3Y0t2aHAxbWwyRThOZ1NnR1pQczhZaDJvSXhiMG5IVzZaSVZGVmRacW5EWW54ZDBtblMwNEZRMmdLNVdET1NEQW42M0xTcXA1MjBqRldqaGd3OHRzbWlYQ3VxMFVHdGlrbFZfdFVhOXFJQzNYdEVncnRLVkhPREI5azM4YXhEQmFjMV9MckdVMkQ2S3FleEMwNW9pMHdzR3l0eElvTTRNUHdVeERwcGhOQ2VaZDhGcHdmRmttbFZWQmw4QUhNOE5xd0Z0Rzkxc2RTekM0YmUxVnpMd0ZkUW1aR2tfUlZ0SlVXV09iNEdPcE9KbGtobFdZNElFVnNPS2FxWk5xMWpoRlgxY0JvT1RSMkdfTG9ydGs4Z3RlakdKQUdLc2xoSHRVaDFGVmpGcUdxRXNXUVYyM0ZZTnM0S0ZJQXdhRkdHYXZNNkotbGpWZDRYQUQzV2Z5OUxiMDNyMktYZEtYU196b21RbVMwdFpYR0ZHTkJ4VVNETXl0Y3Y1U1ptVlFvNEdoMVVNLVpOUjRHd0Y1YXRJRjc3dF9CT2VpMlRLaHNDWHFnQXkwN0NPOE5LSjNiV3pMWDZNX3NsNEpiNmJrdGRKOHlZNHU0TURJdVBjbTgwUnU3TUs4RTNRNEdxYkcwc0VvbGxOR0lnMGNWWnB0dzlzRlNWNFl3LWh3bzhmOEQ0WXRoYW9DOEZKdGdFVWtqMnNHN01sTUY1QWJGN2RZSTZPMDh3WkZmX1dueF91SjN5YXlzcncxSW5SNTFwZk5UcFl3eFRpMmV1TVc4eFFDWTZsTlR0dzFqeno0TzhzRzVISEdYYmpHY0dfMjF5azI1dDlqd3lQVmhpVGRqMm9MY2tQZDdCZnpsMUVKQnF1WW1ybElETTM5QVJVWXM2Vm9oTkRQRHZ5Zi1GSHc1R3ZuVmUtclFPaUM0c3U3WUZ3ZWM1UHBzTjNmMmV1SGVET1hxcnByb3pkWW9FMllFN1dRTXFONFdGYlgxeWh2M3VXVmYyQ0syTjltRmMzR0Y4SUFFd3l5djhSSFZjUmV2MGh6QV9xQ2JmOWJWV0RpY3pTTkdkbDJpcGpYcmtRR01mbmJDMUY1c3R5cnM0dWk4V3NRSWYwR1p5WDVmTVRaUzRTcmhuWTJwcWRPbDhGUHVzUjFURHppUDFBQWZwQ2tMSVVJaXYxNmozSXVWZ0RwbzlINkZ6NVVoNVh4ckc0akp5d2FEeDhJU296RU1wWHVEdEwwLWstaGdvTHRsZ0FaZ1FHNS1Ja0RLZ3JfV0ZES1U2SlpRZTRZenI1R3RMUGp4MVBwNHRtekw3dGFTVV91VUljeVJLUFZwRWk4R3FycXg2TTIwQkpHbjgzZm9sNEZKV1ExVTFzNmhBS21fRnY4eDUya01jelJ5SzhDZXplWHZnUWVHV0tQRExnUjhiTE5VQ0JIXzVZR3c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c78f71290379",
     "date": "October 23, 2026",
     "publishedISO": "2026-10-23T09:17:43+00:00",
@@ -76,13 +151,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3ee5ca1c8aa3",
+    "id": "news-c7c651db2990",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T18:37:36+00:00",
-    "acquirer": "Cone Health to",
-    "target": "Carolina Apothecary, Belmont Pharmacy and Rx Care",
-    "headline": "Cone Health to Acquire Carolina Apothecary, Belmont Pharmacy and Rx Care",
-    "valueBillions": null,
+    "publishedISO": "2026-10-22T20:12:00+00:00",
+    "acquirer": "Gilead to",
+    "target": "PepStar's inflammation drug program in $1.28 billion deal",
+    "headline": "Gilead to buy PepStar's inflammation drug program in $1.28 billion deal",
+    "valueBillions": 1.28,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Cone Health",
-    "summary": "Cone Health to Acquire Carolina Apothecary, Belmont Pharmacy and Rx Care Cone Health",
+    "sourceName": "Reuters",
+    "summary": "Gilead to buy PepStar's inflammation drug program in $1.28 billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOEpwdTIxcVNpNlhld1hTS1RwTEIzRmFHMVRyMHhvekpRWktEcGNfMm1xUVZkRl9rTTQ0bHdmRnE0TVVON0NqNU9kRkhseEFhSm4tbWpHRmx5SHdWX2E5VDNPZURrb2ZiQ1ZWUTBuS0VUXy1TeFJIM0FET1RaU1dLdldQdVJieVRYSVRmZlhpOXN4OWk4Ty0xbXd0b2swQzhCdkhJQm5KRnhLS3FJLWFxMDVqeXZlcGZrLW1xZDcyUDQ3MU1aUnBR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkJidXpRVE5KbmQ3MV9ZcmhlZGZZY1pNUFdQY2V2a0RVR0lDMTV5MjdxdXFhVG1Xd0RPdzhRbEljSE1zNEt5cDRFcDJGaTZhOTY3Q1JsenRvUE1UMTRqbkZOZEp6UmdGNzdmM09GekRkbDVRNGJmNUtMYmVQbXFpY254bnB4amgyNy1uYkgtT1RROVdZY3hqOFZKemdtOU5mQll1Q2FsY2cxSnRLZEdYMXdVanBoUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-16a7087285c2",
+    "id": "news-4b22861b8fba",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T18:33:39+00:00",
-    "acquirer": "EQT to",
-    "target": "Qiagen",
-    "headline": "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private",
+    "publishedISO": "2026-10-22T19:41:57+00:00",
+    "acquirer": "How to",
+    "target": "a House With a Gig-Economy Income",
+    "headline": "How to Buy a House With a Gig-Economy Income",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Genetic Engineering and Biotechnology News",
-    "summary": "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private Genetic Engineering and Biotechnology News",
+    "sourceName": "The New York Times",
+    "summary": "How to Buy a House With a Gig-Economy Income The New York Times",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +258,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORE51N0EzdGxYYXVoYVh2ZjNfamhtRlcwZ2g2QXRZem9tU3AxMWk3ZVFrTXlVbGlPcm96WTZMUmFJSUo1VEd2TXpHT0hSZ1VKc3cyWTI5dW9zREhPR0FQd3J5b1kwMmVzWGJScnlpRTRkTTVWNU94bWl5UklYc3AxMDNBdnE0TXJONmlEblJRb2ROVFRBUXpnS0lBY0xYUE02bEdRdEw5X1JIdG5aNUtKM3pqSExxUl8yM2E5N0hMQVZvX2xwbXVPcA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUktZLVI2bVNRS2drNFJZc2ZvcF9xWFdzczdGLVlvNzR0UFhSVmhIZzkxdldmV244STB0UGxOV3QwY2xYalB4cGpNX3RIbHpfV29wT3NHXzd3ODEtT1JnRHZ2OXpEUkdaV2U3SDlUQkdqMTA1Z3FFUDNLMVE0RFlUS0JCNkxLVjZWM0I1bmk0dEJxWUo4RlFnZXZyWThkV0V3TWZNTw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-3ee5ca1c8aa3",
+    "date": "October 22, 2026",
+    "publishedISO": "2026-10-22T18:37:36+00:00",
+    "acquirer": "Cone Health to",
+    "target": "Carolina Apothecary, Belmont Pharmacy and Rx Care",
+    "headline": "Cone Health to Acquire Carolina Apothecary, Belmont Pharmacy and Rx Care",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Cone Health",
+    "summary": "Cone Health to Acquire Carolina Apothecary, Belmont Pharmacy and Rx Care Cone Health",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOEpwdTIxcVNpNlhld1hTS1RwTEIzRmFHMVRyMHhvekpRWktEcGNfMm1xUVZkRl9rTTQ0bHdmRnE0TVVON0NqNU9kRkhseEFhSm4tbWpHRmx5SHdWX2E5VDNPZURrb2ZiQ1ZWUTBuS0VUXy1TeFJIM0FET1RaU1dLdldQdVJieVRYSVRmZlhpOXN4OWk4Ty0xbXd0b2swQzhCdkhJQm5KRnhLS3FJLWFxMDVqeXZlcGZrLW1xZDcyUDQ3MU1aUnBR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cc6665082462",
+    "id": "news-46c072f06f64",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T16:14:34+00:00",
-    "acquirer": "Foxconn to",
-    "target": "50% stake of Mitsubishi Electric Mobility",
-    "headline": "Foxconn to acquire 50% stake of Mitsubishi Electric Mobility",
+    "publishedISO": "2026-10-22T16:05:23+00:00",
+    "acquirer": "World Racing Group",
+    "target": "SLS Promotions, Expanding Its Race Promotion Footprint",
+    "headline": "World Racing Group Acquires SLS Promotions, Expanding Its Race Promotion Footprint",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WardsAuto",
-    "summary": "Foxconn to acquire 50% stake of Mitsubishi Electric Mobility WardsAuto",
+    "sourceName": "World of Outlaws",
+    "summary": "World Racing Group Acquires SLS Promotions, Expanding Its Race Promotion Footprint World of Outlaws",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkF1RG5oMTVuTkhkbTVYU0ZJM0kxWjhqNjk4YVptaUxTeVpvWlN0SVJPR1l0dkwzRmNrRUIweGxvRVZvQUppbGRIOGp3SWJwSDRhR1JPblBHR2N0Sno3MjN1Q25mQ1A2YWY4bUs0WTJoSl84d1pOSDJrWUtmU3NwR0h1Vzk2c25oUS1kdGEtYTFsVkJNQW5XeEFqZVdScTQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDRqdlhQMl9rZDF2blFaRVpMcFBqLXdNblB3RGlZN29YNXlZcC1nTWpXM1FsOTBrVE5hT0Z6OWtKYmFWRGV1MmpVeTdVVnplSXhjU0EzRDB3WGZSTzhNUEhGSnRJRHEtM3Nic01FWmNxc3JPUzJJNE9ZSnBiTFJTYlhpc0ltQWoyLWNSaDZrYTUzODFwd2V6dFozYUhiR3FuNVVQMEctRWloMnJjUGoxNUZmQk5HMGFFZmhLSQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4b22861b8fba",
+    "id": "news-57b9e2195d42",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T09:01:05+00:00",
-    "acquirer": "How to",
-    "target": "a House With a Gig-Economy Income",
-    "headline": "How to Buy a House With a Gig-Economy Income",
+    "publishedISO": "2026-10-22T08:58:25+00:00",
+    "acquirer": "Ukraine to be able to",
+    "target": "military supplies via NATO agency: report",
+    "headline": "Ukraine to be able to buy military supplies via NATO agency: report",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "How to Buy a House With a Gig-Economy Income The New York Times",
+    "sourceName": "Defense News",
+    "summary": "Ukraine to be able to buy military supplies via NATO agency: report Defense News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUktZLVI2bVNRS2drNFJZc2ZvcF9xWFdzczdGLVlvNzR0UFhSVmhIZzkxdldmV244STB0UGxOV3QwY2xYalB4cGpNX3RIbHpfV29wT3NHXzd3ODEtT1JnRHZ2OXpEUkdaV2U3SDlUQkdqMTA1Z3FFUDNLMVE0RFlUS0JCNkxLVjZWM0I1bmk0dEJxWUo4RlFnZXZyWThkV0V3TWZNTw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3dmYW1SVUZHTmxQRHJBUE82QlFZaFpXMDZsYUU4WXdLQjgtbDJ2dG4zeHllNFU0QXlUOXpZcERuNEY4dU5GUWMzZXpOaVl6bV9zM2Mwb1NiVmYycEFQVlpFUkR6LTRaY19jamdJR0dKYzVZQzZ2UHprNnB2NF93YUlUMk9nTGJqRWhKOUFsMzBKMGMyN1JhRGNEcDFhWmFJdzBnOWpNLVRMTUUxbUlveEtMSldkQVhiaVcwNg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,13 +976,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-08edba78d912",
+    "id": "news-e7f6420cfe95",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T20:33:00+00:00",
-    "acquirer": "CentraCare healthcare system to",
-    "target": "Stellis Health in merger of central Minnesota providers",
-    "headline": "CentraCare healthcare system to acquire Stellis Health in merger of central Minnesota providers",
-    "valueBillions": null,
+    "publishedISO": "2026-10-21T16:02:38+00:00",
+    "acquirer": "Cencora to",
+    "target": "American Oncology Network in $2.4 billion deal",
+    "headline": "Cencora to buy American Oncology Network in $2.4 billion deal",
+    "valueBillions": 2.4,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -840,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "MPR News",
-    "summary": "CentraCare healthcare system to acquire Stellis Health in merger of central Minnesota providers MPR News",
+    "sourceName": "Reuters",
+    "summary": "Cencora to buy American Oncology Network in $2.4 billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +1008,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUF4RzVUTFhCekJXV1o0dlpRWTZEeEwtTlpoeW9hX21UdWs5alM1bGNLbVNMUGpELXhHSlU0RzY2UzQ3SjVkbDd3bXFrekRLSmtKMTFQRkozTDF5UkVNLUE0aWE4b1RHS3kzb2E0MEZ6VndFUVd5Q25xbXBPbkNrZzdYbXlKSW96eWdXeFF5bFBkd2FKWnlCWkQtUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0t0eE9yUFVfcDRpdVY3aGtfTlpxV1VYdUltQjNMSUZaUFBtWU5MUWp6QXh1QmxHX1lnTm55X0FxX1c2azZvcFA4MkJLNktFRml0MnVQTlo5eTNHSmlCRmdLbXBiQngtTTZEcndhZi1jM2h1T1Q4T0VadDFVOGhTSmFBbUdwUTFwT21zRjdHd3RFNTd4RlFqSDV5VkJ1SXhQWkZ3T3puaHNEMnZmVGM4a21KZUhvMkFLdlNJaWxkcGh6a2ZHeGhCZQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1014,81 +1164,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2c2b314c5513",
-    "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T20:55:14+00:00",
-    "acquirer": "Chandler family",
-    "target": "specialty truck manufacturer",
-    "headline": "Chandler family acquires specialty truck manufacturer",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Talk Business & Politics",
-    "summary": "Chandler family acquires specialty truck manufacturer Talk Business & Politics",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNclhkT18yUlY3UWZ5WnBRWURlWUQ0bEgzX1YzbDVFbkJSRTNSS0FBNFJFaDAyLWxsRjNkNUx5MUI3cG02WkEybFFBSkpSRXhLblZ4eHJTZVlic2hGaUtBMTFkMjV1WXFGZUVlVjlYSU5SODF0Wmw0Q2h0bUtFNmdUOXRpYXBrZXJBQUUyVzBIb1o?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 20, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1384,6 +1459,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3hZNnF4Vlg2bnhJaXZ4bnZ3WnVpVHJQMDlpX05VZ1F6SGVIZjdrUVF4RTZkNVh5WVB2OHc1Ump0Uk1jZzRoNmpTMUNqWWIwUFNUck1LS18tb0lxWjFwX3E1dUJtb3ZrZlNTU1g2enh2SjhFaFAwdWVHZmpSUnNDaDd3WkhZMkx2c1pjTXA2eXo2RzFlVFQxdzRQOVM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d3c18c0f0421",
+    "date": "October 20, 2026",
+    "publishedISO": "2026-10-20T18:03:41+00:00",
+    "acquirer": "OpenAI",
+    "target": "Orchestra Bio",
+    "headline": "OpenAI acquires Orchestra Bio",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "OpenAI",
+    "summary": "OpenAI acquires Orchestra Bio OpenAI",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2026,81 +2176,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-28a3ce909b57",
-    "date": "October 17, 2026",
-    "publishedISO": "2026-10-17T06:00:20+00:00",
-    "acquirer": "Amazon",
-    "target": "DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
-    "headline": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "infoq.com",
-    "summary": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL infoq.com",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0ZkptRW5ucG5YSDVPbW56Ym53Yk9LN0FETXo5TlZWNjNaMWtWVG1BQXk4SHhpTVp5RE5uVDlVa29FMEFKNVN6MXNsZHZwcmJnVmFYV3pUbDRvUUZkQmVTanJjNTZSUVR1REVKLQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b52d92e18a7c",
     "date": "October 16, 2026",
     "publishedISO": "2026-10-16T22:51:05+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2xGZUU3YTdSR1J2c05DRlRkdEN5Qmc3OGIxdlR1ZHhzbGRJemRTWk50UFVJYkRWQVE4N19lU0Q2bnJuYnVCaFJyYXJZQzZrRDBZZjJ6TDN3MjVZVVdqcVdsdzBkRDNKUXRNY1U5eXM1ZmxRbkpVZzVweEFlUW43THFUd0xSZ3QyN2xzVm16T01BckRRMU5WbHByeXdWWXFvelZ0VGMyTkJMUWpmUGdKQmtwamVmUG85YThnem1ERWs?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c468b7d82ae7",
-    "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T14:37:38+00:00",
-    "acquirer": "Parkview Health to",
-    "target": "Ovation Healthcare, expanding services nation wide",
-    "headline": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WANE 15",
-    "summary": "Parkview Health to acquire Ovation Healthcare, expanding services nation wide WANE 15",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTRxYk9nVnR4aUp2SjdIMjVtVFo4aWZDYWF2b2tBWFdHaWM2eTZRN3Y2NTN1NWl5YzNvVmFxaHFYa3hUTzl2dG4tQmQ1cGJKQ3FGcjFqQWxzak44STVhUUNLSEdUbHNJOGtONWRVSmtxTDlydFFSUFFITmFKS180S1lhUFJUR09xQ1hGQkZNV3hFYTh4YlQxLWJiVFlRY2RpQWtOQnJsNlQyQS13UmhJ0gG0AUFVX3lxTFBoTkF0UXNvWEU5S2Uxa3E3cE9sREo4RGZEUnNydDdza2liNUUtd0N2MTJCT1gxeXJlTTBSUk5KcU9ybEZEc0MwRUdOVVhUbmN1MG10d0F3TVcwV09xckhuLUFKS0Z6NG5GYzJyWXdGTWNBc2pla0JWa1RhaG9xMUhsbHdaNHFPak90d3F4MkpYZElCQVdPQzYwMHBTb2Fud1Q3U0VWenJfUzUzYmlaY2ZUaktpbQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
