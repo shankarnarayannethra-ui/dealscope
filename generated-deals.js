@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-ff72a716c02c",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T17:25:29+00:00",
+    "acquirer": "Qatar deal to",
+    "target": "U.S. natural gas shows how Iran war has redrawn global energy markets",
+    "headline": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets CNBC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPamRIUmExbTBlR1VjQ3ozejczY0VYOWY3ODBXakFJQ0tlaDJpLTZIZzlmRlIwa1B2aGpnRlZtR0NuRG43Wll4OWdGQ3NpdnNrdDhBVjFNVGVoZDB4MTdEQ1VOVWIxdkhWUmNXb2tPUnFFUjc4UXA1S3ZtYnVwQXNNWERIZDRPUjhvVUhjWWtHSUczV3pzNjA4YUFuamdnUdIBowFBVV95cUxNWDM1VFpwZENtdXF0aGF6ejZ2MWI5Y2w4dmtUUlpIR2NobjZHOHczaWVER1BRbmlVTUkyejc4eUtyMTVvUC1QV05CbklTOGFnZ3gtN2NiSnZwMjlPSF9KNFE2T29zZExxUjdzeGFicGhhLUtmQWJMZzhPY1lGVW1Qb3JMYlVqa2dqa2QtNmU4T21udjBNakhhNVRTbGdBZ2tlUVFr?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-d1aef72e97c8",
     "date": "October 23, 2026",
     "publishedISO": "2026-10-23T12:23:15+00:00",
@@ -976,6 +1051,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-08edba78d912",
+    "date": "October 21, 2026",
+    "publishedISO": "2026-10-21T20:33:00+00:00",
+    "acquirer": "CentraCare healthcare system to",
+    "target": "Stellis Health in merger of central Minnesota providers",
+    "headline": "CentraCare healthcare system to acquire Stellis Health in merger of central Minnesota providers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MPR News",
+    "summary": "CentraCare healthcare system to acquire Stellis Health in merger of central Minnesota providers MPR News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUF4RzVUTFhCekJXV1o0dlpRWTZEeEwtTlpoeW9hX21UdWs5alM1bGNLbVNMUGpELXhHSlU0RzY2UzQ3SjVkbDd3bXFrekRLSmtKMTFQRkozTDF5UkVNLUE0aWE4b1RHS3kzb2E0MEZ6VndFUVd5Q25xbXBPbkNrZzdYbXlKSW96eWdXeFF5bFBkd2FKWnlCWkQtUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e7f6420cfe95",
     "date": "October 21, 2026",
     "publishedISO": "2026-10-21T16:02:38+00:00",
@@ -1084,81 +1234,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlN0MHZ5ZDhfVFQtUm9xdUJFcTRldFdSLU15OVhvRGNmcVZCNFNpeU5vck1sZHVLY2JSRDNyV29uSTZXeXBXWVg0Y09EdG1Hb1ZGZXJXLWlpZGwzV3lIc0ttYVpnd3p2MklLSFBoNGJIQW1maVExMk04ZWNVc0FGVTRsRFFrLUhmZzNfZDBLY2xsT2YyRjVqbENMeVRBUm9sUGc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9a40cea62442",
-    "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T09:15:00+00:00",
-    "acquirer": "ICE Profiteers Trying To",
-    "target": "the Senate",
-    "headline": "ICE Profiteers Trying To Buy the Senate for Republicans",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The American Prospect",
-    "summary": "ICE Profiteers Trying To Buy the Senate for Republicans The American Prospect",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXItQjNPbDZtV0JnUzcwYXM4cElCY1EweDBhTDZTR2Z1Z0E4d2RvWk05T1JhLUMxT0JxLUNRcFB0UXBzbzE5SjhUMjJjak8xTTUwdkVndjJjanNBOWdOWE5RMG5zcVdXeTFmbkp4aWVPYmViVTIwUk9YV3YwcFYwMHMxVHlRUm5VaGk4R05mbw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1459,81 +1534,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3hZNnF4Vlg2bnhJaXZ4bnZ3WnVpVHJQMDlpX05VZ1F6SGVIZjdrUVF4RTZkNVh5WVB2OHc1Ump0Uk1jZzRoNmpTMUNqWWIwUFNUck1LS18tb0lxWjFwX3E1dUJtb3ZrZlNTU1g2enh2SjhFaFAwdWVHZmpSUnNDaDd3WkhZMkx2c1pjTXA2eXo2RzFlVFQxdzRQOVM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d3c18c0f0421",
-    "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T18:03:41+00:00",
-    "acquirer": "OpenAI",
-    "target": "Orchestra Bio",
-    "headline": "OpenAI acquires Orchestra Bio",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "OpenAI",
-    "summary": "OpenAI acquires Orchestra Bio OpenAI",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2026,12 +2026,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-21bcf930a9bd",
+    "id": "news-8f8f3ced77ff",
     "date": "October 19, 2026",
-    "publishedISO": "2026-10-19T02:52:48+00:00",
-    "acquirer": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to",
-    "target": "Minnesota Wild vs Columbus Blue Jackets Tickets Online",
-    "headline": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to Buy Minnesota Wild vs Columbus Blue Jackets Tickets Online",
+    "publishedISO": "2026-10-19T07:00:00+00:00",
+    "acquirer": "SoftBank in Early Talks to",
+    "target": "Allied Universal",
+    "headline": "SoftBank in Early Talks to Buy Allied Universal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Universidad de Córdoba (UCO)",
-    "summary": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to Buy Minnesota Wild vs Columbus Blue Jackets Tickets Online Universidad de Córdoba (UCO)",
+    "sourceName": "WSJ",
+    "summary": "SoftBank in Early Talks to Buy Allied Universal WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,7 +2058,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSWdkTFA2ZGtZbDVUMnJ1UzRkdVM1Y1FDTkVKZVl1dEh3WTBNWG1Iek1hZkNVX2RkSC1OSkpxR1h3U3BScnlmVUR0WmF0RXpIeld0MElkWmczRU84Uk5vV1ZXQjQ0TUhEMGk0cUt6TjczMmRlRlBkLW5NcWhWWmJIVFY3ck9lRGgwVUlOYUJnZDNSNExKTDNNUjFSSGY2Z1Q2VDRMeVdGTUROckFmaVV5ckxNcVBVSGVPLVVqMmZKbjA1YzZkQzNPR3ktNURlY25wTkRDTnJodHNheWx5d3Y4bFJhUTNOTTR3UFZjT1lhcVRHU0lMZkV1QzVONGhnTEhqZ21xb3lRcy05ZWVsSG95a1pEMVpiOHRxQW1DM0pSNkZZOHFhLV9tMkszWER2RzRkcEM2anMyY3ZhX1doVVJfeFg5WQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JpejBhSm55eU5zM18zZldFMFd1b1hUYWNUQUt2NVY3SEdpZUE0eDZLVjIydHVaVVZ2d2NUSElQeGFPbDFSWGJFRUl6dlpfbk03cVFtTnVmdnJfSWJ0ZFByUkFLRTg2NUprZUZ3OWZzQTl6LS1sSTdTSld1NXBCZm1xem9EYTJ5UzdITE05SllwaktXcGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2101,12 +2101,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8f8f3ced77ff",
-    "date": "October 17, 2026",
-    "publishedISO": "2026-10-17T18:14:00+00:00",
-    "acquirer": "SoftBank in Early Talks to",
-    "target": "Allied Universal",
-    "headline": "SoftBank in Early Talks to Buy Allied Universal",
+    "id": "news-21bcf930a9bd",
+    "date": "October 19, 2026",
+    "publishedISO": "2026-10-19T02:52:48+00:00",
+    "acquirer": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to",
+    "target": "Minnesota Wild vs Columbus Blue Jackets Tickets Online",
+    "headline": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to Buy Minnesota Wild vs Columbus Blue Jackets Tickets Online",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "SoftBank in Early Talks to Buy Allied Universal WSJ",
+    "sourceName": "Universidad de Córdoba (UCO)",
+    "summary": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to Buy Minnesota Wild vs Columbus Blue Jackets Tickets Online Universidad de Córdoba (UCO)",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,12 +2133,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JpejBhSm55eU5zM18zZldFMFd1b1hUYWNUQUt2NVY3SEdpZUE0eDZLVjIydHVaVVZ2d2NUSElQeGFPbDFSWGJFRUl6dlpfbk03cVFtTnVmdnJfSWJ0ZFByUkFLRTg2NUprZUZ3OWZzQTl6LS1sSTdTSld1NXBCZm1xem9EYTJ5UzdITE05SllwaktXcGc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSWdkTFA2ZGtZbDVUMnJ1UzRkdVM1Y1FDTkVKZVl1dEh3WTBNWG1Iek1hZkNVX2RkSC1OSkpxR1h3U3BScnlmVUR0WmF0RXpIeld0MElkWmczRU84Uk5vV1ZXQjQ0TUhEMGk0cUt6TjczMmRlRlBkLW5NcWhWWmJIVFY3ck9lRGgwVUlOYUJnZDNSNExKTDNNUjFSSGY2Z1Q2VDRMeVdGTUROckFmaVV5ckxNcVBVSGVPLVVqMmZKbjA1YzZkQzNPR3ktNURlY25wTkRDTnJodHNheWx5d3Y4bFJhUTNOTTR3UFZjT1lhcVRHU0lMZkV1QzVONGhnTEhqZ21xb3lRcy05ZWVsSG95a1pEMVpiOHRxQW1DM0pSNkZZOHFhLV9tMkszWER2RzRkcEM2anMyY3ZhX1doVVJfeFg5WQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 17, 2026"
+        "date": "Oct 19, 2026"
       },
       {
         "stage": "Terms verified",
