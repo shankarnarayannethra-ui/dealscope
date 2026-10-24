@@ -1,87 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-14b05328881f",
+    "id": "news-1ec0837daf22",
     "date": "October 24, 2026",
-    "publishedISO": "2026-10-24T08:15:43+00:00",
-    "acquirer": "Salesforce to",
-    "target": "Customer-Engagement Platform",
-    "headline": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion",
-    "valueBillions": 5.7,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVm9JQ3VzOXEwMFRKaXF3ekhnekdUUjNhcUNjT3AtS0lEWnE5Wno5dFFZOWYySWlQMnNIa0VBdDR6Q2hhNk9jTFpDVS1PT01rZDVxa3hNeHhyYUQ2eTBkclpyWXFmazhTa2pYaURKaFc5OUNSSjNVRW1faXcyYzlyOVU1MERCWHVyQTJtUmRzeFNuQU1YQXNHWl80bF9PUEE2czVVUUdta3lxZnB6TXRvQVlPNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b65d29bf4541",
-    "date": "October 24, 2026",
-    "publishedISO": "2026-10-24T06:24:44+00:00",
-    "acquirer": "Exclusive: Meta",
-    "target": "AI data platform Sundial",
-    "headline": "Exclusive: Meta acquires AI data platform Sundial",
+    "publishedISO": "2026-10-24T10:49:43+00:00",
+    "acquirer": "MPS investor Norges to oppose Monte dei Paschi's bids to",
+    "target": "Banco BPM and Banca Generali",
+    "headline": "MPS investor Norges to oppose Monte dei Paschi's bids to buy Banco BPM and Banca Generali",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Axios",
-    "summary": "Exclusive: Meta acquires AI data platform Sundial Axios",
+    "sourceName": "Reuters",
+    "summary": "MPS investor Norges to oppose Monte dei Paschi's bids to buy Banco BPM and Banca Generali Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yaUIwQVJsYmpVanBJTkF0M1g4RWZDeGh3X1NYbzVINFY4M2wxTUtTWmRZdkYtY0tlU2dBcXNXY1JxU1JNeUJsZTc5c2czQzFwX0ZOcndNekd0WE5XQXc0QzVjWHdWek9nbXZkZUZXNA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZnBhQ0IzY3BEbkp2elJrNGR6NnVGZ29vY2tRQlo1dGxDUERnb2o4U3N5WTNTeEp5aXp3SERqWklUa0M5Rzg3QWI3MVdPcTUyUC1TS0loTTVPV25HSDVYMDZDcVJmbGtjUnBSUEg1V2FDY0VyUWZ4M2Jvc3VZeXl5VzYzazEyWmpjVUdhVkEtbHNPRDFFY2E4V0ZPeWxYV0JYS1NVZDR1bXZ2SW1DZ29XbmpTR3FlM2tMYS1xaEVVQURhMzJuVVpSV0gyOEJyMW8?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -184,6 +109,156 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVk9zQUt1bDVvN1RmQzhCLXVCZV8xTFpOYlFIRENha0hjbTdob0ZtYk81NUstMTdhUzFteDNHb3owY2VwajlWQk4xeXVXWHVlcEt1TGdDNTJKeWxmTkdrRjhUYkIyR052SjlDYnE4cmVyRHJ5REZHdlBhOHBJMmFyaU9TY1dINHdRdUFQWkZPa3ZQV3lWZ293X29CdkkxVm1PWDFUNzNnVFk3dlBRSXQ3NzZJRFUxZzRm?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b65d29bf4541",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T21:28:49+00:00",
+    "acquirer": "Exclusive: Meta",
+    "target": "AI data platform Sundial",
+    "headline": "Exclusive: Meta acquires AI data platform Sundial",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "Exclusive: Meta acquires AI data platform Sundial Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yaUIwQVJsYmpVanBJTkF0M1g4RWZDeGh3X1NYbzVINFY4M2wxTUtTWmRZdkYtY0tlU2dBcXNXY1JxU1JNeUJsZTc5c2czQzFwX0ZOcndNekd0WE5XQXc0QzVjWHdWek9nbXZkZUZXNA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ff72a716c02c",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T17:25:29+00:00",
+    "acquirer": "Qatar deal to",
+    "target": "U.S. natural gas shows how Iran war has redrawn global energy markets",
+    "headline": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets CNBC",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPamRIUmExbTBlR1VjQ3ozejczY0VYOWY3ODBXakFJQ0tlaDJpLTZIZzlmRlIwa1B2aGpnRlZtR0NuRG43Wll4OWdGQ3NpdnNrdDhBVjFNVGVoZDB4MTdEQ1VOVWIxdkhWUmNXb2tPUnFFUjc4UXA1S3ZtYnVwQXNNWERIZDRPUjhvVUhjWWtHSUczV3pzNjA4YUFuamdnUdIBowFBVV95cUxNWDM1VFpwZENtdXF0aGF6ejZ2MWI5Y2w4dmtUUlpIR2NobjZHOHczaWVER1BRbmlVTUkyejc4eUtyMTVvUC1QV05CbklTOGFnZ3gtN2NiSnZwMjlPSF9KNFE2T29zZExxUjdzeGFicGhhLUtmQWJMZzhPY1lGVW1Qb3JMYlVqa2dqa2QtNmU4T21udjBNakhhNVRTbGdBZ2tlUVFr?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -303,7 +378,7 @@ window.generatedDeals = [
   {
     "id": "news-c7c651db2990",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T20:12:00+00:00",
+    "publishedISO": "2026-10-22T21:24:15+00:00",
     "acquirer": "Gilead to",
     "target": "PepStar's inflammation drug program in $1.28 billion deal",
     "headline": "Gilead to buy PepStar's inflammation drug program in $1.28 billion deal",
@@ -334,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkJidXpRVE5KbmQ3MV9ZcmhlZGZZY1pNUFdQY2V2a0RVR0lDMTV5MjdxdXFhVG1Xd0RPdzhRbEljSE1zNEt5cDRFcDJGaTZhOTY3Q1JsenRvUE1UMTRqbkZOZEp6UmdGNzdmM09GekRkbDVRNGJmNUtMYmVQbXFpY254bnB4amgyNy1uYkgtT1RROVdZY3hqOFZKemdtOU5mQll1Q2FsY2cxSnRLZEdYMXdVanBoUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3ee5ca1c8aa3",
-    "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T18:37:36+00:00",
-    "acquirer": "Cone Health to",
-    "target": "Carolina Apothecary, Belmont Pharmacy and Rx Care",
-    "headline": "Cone Health to Acquire Carolina Apothecary, Belmont Pharmacy and Rx Care",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cone Health",
-    "summary": "Cone Health to Acquire Carolina Apothecary, Belmont Pharmacy and Rx Care Cone Health",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOEpwdTIxcVNpNlhld1hTS1RwTEIzRmFHMVRyMHhvekpRWktEcGNfMm1xUVZkRl9rTTQ0bHdmRnE0TVVON0NqNU9kRkhseEFhSm4tbWpHRmx5SHdWX2E5VDNPZURrb2ZiQ1ZWUTBuS0VUXy1TeFJIM0FET1RaU1dLdldQdVJieVRYSVRmZlhpOXN4OWk4Ty0xbXd0b2swQzhCdkhJQm5KRnhLS3FJLWFxMDVqeXZlcGZrLW1xZDcyUDQ3MU1aUnBR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1126,13 +1126,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e7f6420cfe95",
+    "id": "news-194289c418f8",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T16:02:38+00:00",
-    "acquirer": "Cencora to",
-    "target": "American Oncology Network in $2.4 billion deal",
-    "headline": "Cencora to buy American Oncology Network in $2.4 billion deal",
-    "valueBillions": 2.4,
+    "publishedISO": "2026-10-21T12:59:08+00:00",
+    "acquirer": "Stord",
+    "target": "e-commerce competitor AMS Fulfillment in large deal",
+    "headline": "Stord acquires e-commerce competitor AMS Fulfillment in large deal",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Cencora to buy American Oncology Network in $2.4 billion deal Reuters",
+    "sourceName": "FreightWaves",
+    "summary": "Stord acquires e-commerce competitor AMS Fulfillment in large deal FreightWaves",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1158,7 +1158,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0t0eE9yUFVfcDRpdVY3aGtfTlpxV1VYdUltQjNMSUZaUFBtWU5MUWp6QXh1QmxHX1lnTm55X0FxX1c2azZvcFA4MkJLNktFRml0MnVQTlo5eTNHSmlCRmdLbXBiQngtTTZEcndhZi1jM2h1T1Q4T0VadDFVOGhTSmFBbUdwUTFwT21zRjdHd3RFNTd4RlFqSDV5VkJ1SXhQWkZ3T3puaHNEMnZmVGM4a21KZUhvMkFLdlNJaWxkcGh6a2ZHeGhCZQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlN0MHZ5ZDhfVFQtUm9xdUJFcTRldFdSLU15OVhvRGNmcVZCNFNpeU5vck1sZHVLY2JSRDNyV29uSTZXeXBXWVg0Y09EdG1Hb1ZGZXJXLWlpZGwzV3lIc0ttYVpnd3p2MklLSFBoNGJIQW1maVExMk04ZWNVc0FGVTRsRFFrLUhmZzNfZDBLY2xsT2YyRjVqbENMeVRBUm9sUGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,12 +1201,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-194289c418f8",
+    "id": "news-9a40cea62442",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T12:59:08+00:00",
-    "acquirer": "Stord",
-    "target": "e-commerce competitor AMS Fulfillment in large deal",
-    "headline": "Stord acquires e-commerce competitor AMS Fulfillment in large deal",
+    "publishedISO": "2026-10-21T09:15:00+00:00",
+    "acquirer": "ICE Profiteers Trying To",
+    "target": "the Senate",
+    "headline": "ICE Profiteers Trying To Buy the Senate for Republicans",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FreightWaves",
-    "summary": "Stord acquires e-commerce competitor AMS Fulfillment in large deal FreightWaves",
+    "sourceName": "The American Prospect",
+    "summary": "ICE Profiteers Trying To Buy the Senate for Republicans The American Prospect",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1233,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlN0MHZ5ZDhfVFQtUm9xdUJFcTRldFdSLU15OVhvRGNmcVZCNFNpeU5vck1sZHVLY2JSRDNyV29uSTZXeXBXWVg0Y09EdG1Hb1ZGZXJXLWlpZGwzV3lIc0ttYVpnd3p2MklLSFBoNGJIQW1maVExMk04ZWNVc0FGVTRsRFFrLUhmZzNfZDBLY2xsT2YyRjVqbENMeVRBUm9sUGc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXItQjNPbDZtV0JnUzcwYXM4cElCY1EweDBhTDZTR2Z1Z0E4d2RvWk05T1JhLUMxT0JxLUNRcFB0UXBzbzE5SjhUMjJjak8xTTUwdkVndjJjanNBOWdOWE5RMG5zcVdXeTFmbkp4aWVPYmViVTIwUk9YV3YwcFYwMHMxVHlRUm5VaGk4R05mbw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,12 +1576,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d3c18c0f0421",
+    "id": "news-a737e57eb4af",
     "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T18:03:41+00:00",
-    "acquirer": "OpenAI",
-    "target": "Orchestra Bio",
-    "headline": "OpenAI acquires Orchestra Bio",
+    "publishedISO": "2026-10-20T13:54:58+00:00",
+    "acquirer": "CBRE",
+    "target": "data center services firm Onnec",
+    "headline": "CBRE acquires data center services firm Onnec",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1590,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "OpenAI",
-    "summary": "OpenAI acquires Orchestra Bio OpenAI",
+    "sourceName": "Data Center Dynamics",
+    "summary": "CBRE acquires data center services firm Onnec Data Center Dynamics",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1608,7 +1608,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUxQOGwyQzZIRzluN2hFVUFoc1RYd29jMEhDTzc1YW5RWnBWN3VVUG5Hdnl3SmRJRnlaZVhyR1FRNElWTEQ0SnlZcHVaX0MtVm40U1hhYzFmQkdvWTJtcEpVMmRnTm83aVNxbUUtSndocnBoalUzLVRjenBGRmNqNDl4Wlo2SHAyQnYzN295ZkNCVEU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,13 +1651,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a737e57eb4af",
+    "id": "news-14b05328881f",
     "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T13:54:58+00:00",
-    "acquirer": "CBRE",
-    "target": "data center services firm Onnec",
-    "headline": "CBRE acquires data center services firm Onnec",
-    "valueBillions": null,
+    "publishedISO": "2026-10-20T12:44:00+00:00",
+    "acquirer": "Salesforce to",
+    "target": "Customer-Engagement Platform",
+    "headline": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion",
+    "valueBillions": 5.7,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Data Center Dynamics",
-    "summary": "CBRE acquires data center services firm Onnec Data Center Dynamics",
+    "sourceName": "WSJ",
+    "summary": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1683,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUxQOGwyQzZIRzluN2hFVUFoc1RYd29jMEhDTzc1YW5RWnBWN3VVUG5Hdnl3SmRJRnlaZVhyR1FRNElWTEQ0SnlZcHVaX0MtVm40U1hhYzFmQkdvWTJtcEpVMmRnTm83aVNxbUUtSndocnBoalUzLVRjenBGRmNqNDl4Wlo2SHAyQnYzN295ZkNCVEU?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVm9JQ3VzOXEwMFRKaXF3ekhnekdUUjNhcUNjT3AtS0lEWnE5Wno5dFFZOWYySWlQMnNIa0VBdDR6Q2hhNk9jTFpDVS1PT01rZDVxa3hNeHhyYUQ2eTBkclpyWXFmazhTa2pYaURKaFc5OUNSSjNVRW1faXcyYzlyOVU1MERCWHVyQTJtUmRzeFNuQU1YQXNHWl80bF9PUEE2czVVUUdta3lxZnB6TXRvQVlPNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
