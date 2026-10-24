@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-b65d29bf4541",
+    "date": "October 24, 2026",
+    "publishedISO": "2026-10-24T15:30:26+00:00",
+    "acquirer": "Exclusive: Meta",
+    "target": "AI data platform Sundial",
+    "headline": "Exclusive: Meta acquires AI data platform Sundial",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "Exclusive: Meta acquires AI data platform Sundial Axios",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yaUIwQVJsYmpVanBJTkF0M1g4RWZDeGh3X1NYbzVINFY4M2wxTUtTWmRZdkYtY0tlU2dBcXNXY1JxU1JNeUJsZTc5c2czQzFwX0ZOcndNekd0WE5XQXc0QzVjWHdWek9nbXZkZUZXNA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-1ec0837daf22",
     "date": "October 24, 2026",
     "publishedISO": "2026-10-24T10:49:43+00:00",
@@ -109,81 +184,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVk9zQUt1bDVvN1RmQzhCLXVCZV8xTFpOYlFIRENha0hjbTdob0ZtYk81NUstMTdhUzFteDNHb3owY2VwajlWQk4xeXVXWHVlcEt1TGdDNTJKeWxmTkdrRjhUYkIyR052SjlDYnE4cmVyRHJ5REZHdlBhOHBJMmFyaU9TY1dINHdRdUFQWkZPa3ZQV3lWZ293X29CdkkxVm1PWDFUNzNnVFk3dlBRSXQ3NzZJRFUxZzRm?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b65d29bf4541",
-    "date": "October 23, 2026",
-    "publishedISO": "2026-10-23T21:28:49+00:00",
-    "acquirer": "Exclusive: Meta",
-    "target": "AI data platform Sundial",
-    "headline": "Exclusive: Meta acquires AI data platform Sundial",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Exclusive: Meta acquires AI data platform Sundial Axios",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yaUIwQVJsYmpVanBJTkF0M1g4RWZDeGh3X1NYbzVINFY4M2wxTUtTWmRZdkYtY0tlU2dBcXNXY1JxU1JNeUJsZTc5c2czQzFwX0ZOcndNekd0WE5XQXc0QzVjWHdWek9nbXZkZUZXNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1009,6 +1009,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUF4RzVUTFhCekJXV1o0dlpRWTZEeEwtTlpoeW9hX21UdWs5alM1bGNLbVNMUGpELXhHSlU0RzY2UzQ3SjVkbDd3bXFrekRLSmtKMTFQRkozTDF5UkVNLUE0aWE4b1RHS3kzb2E0MEZ6VndFUVd5Q25xbXBPbkNrZzdYbXlKSW96eWdXeFF5bFBkd2FKWnlCWkQtUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7f2f4531f979",
+    "date": "October 21, 2026",
+    "publishedISO": "2026-10-21T16:43:42+00:00",
+    "acquirer": "Cross River to",
+    "target": "customer-loyalty specialist Accrue",
+    "headline": "Cross River to acquire customer-loyalty specialist Accrue",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Banking Dive",
+    "summary": "Cross River to acquire customer-loyalty specialist Accrue Banking Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3Q1c2N0Z1l5c292ejNEYVpMS3ZPMlY3bE9OS28ySC14SzZGbVNQNTNkSVJQMHNmdWp6anpaSHdWUmxaRzRjV180UVBkbV9yWGUyMjM1WjNpYWFibTBOX2JPNEFvRTlSVnoxYWczU2k3dVhGa1hNbDU5cHAwQng3TG1qV1BiOU5vOWc4RjExM1plenRoWDNVekk1QnNZTnVOUGwyZg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1984,81 +2059,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGx1UnU3dGVlTklBS0ZIMFlZZnpwbUJoWnlPVW1RR1JtdVRqZm4wVHBFa19mOHNGeEt0SU9hXzJtWWVyV0ZIZ3RtWnlNNHltRUhabjJhcjVVWGNNcmZPR1VDUC1tRkZ0YWZSX1I0LXFpcGpXWW5fQXplOVpnOUhzTm5WTjJobnotMFNHWkhrZDnSAZYBQVVfeXFMTTRRUEl3Z2hLYy1oNnlsMGt1ZEVRN0R4eGRhNU9VV2ZJQVl0N29kN3ZMWHFBbFNUeTZHaXk1THVHOE1CNFNjZExVODVQd3ZoOHA5REZjWmhvOS1zcWd0cndycFJ6dzZfNHFMcUJaeFB1eThFV1FsaUdkdjJtWlI1R1dEZlpqbnctZlRBeDVqMEVuY2NaQ2xn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8f8f3ced77ff",
-    "date": "October 19, 2026",
-    "publishedISO": "2026-10-19T07:00:00+00:00",
-    "acquirer": "SoftBank in Early Talks to",
-    "target": "Allied Universal",
-    "headline": "SoftBank in Early Talks to Buy Allied Universal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "SoftBank in Early Talks to Buy Allied Universal WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JpejBhSm55eU5zM18zZldFMFd1b1hUYWNUQUt2NVY3SEdpZUE0eDZLVjIydHVaVVZ2d2NUSElQeGFPbDFSWGJFRUl6dlpfbk03cVFtTnVmdnJfSWJ0ZFByUkFLRTg2NUprZUZ3OWZzQTl6LS1sSTdTSld1NXBCZm1xem9EYTJ5UzdITE05SllwaktXcGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
