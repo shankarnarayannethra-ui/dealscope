@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-1e507a8c091c",
     "date": "October 25, 2026",
-    "publishedISO": "2026-10-25T00:33:50+00:00",
+    "publishedISO": "2026-10-25T10:24:01+00:00",
     "acquirer": "I didn’t move to Mexico to save money. I moved to",
     "target": "back my future",
     "headline": "I didn’t move to Mexico to save money. I moved to buy back my future",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-04f5cec9c2b8",
+    "id": "news-46a8e0f0c0b3",
     "date": "October 24, 2026",
     "publishedISO": "2026-10-24T22:48:00+00:00",
-    "acquirer": "Keselowski denied in bid to",
+    "acquirer": "Keselowski was denied in bid to",
     "target": "RFK Racing - RACER",
-    "headline": "Keselowski denied in bid to buy RFK Racing - RACER",
+    "headline": "Keselowski was denied in bid to buy RFK Racing - RACER",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -91,7 +91,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Racing News",
-    "summary": "Keselowski denied in bid to buy RFK Racing RACER - Racing News",
+    "summary": "Keselowski was denied in bid to buy RFK Racing RACER - Racing News",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -376,6 +376,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-7b49bcee2559",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T20:27:00+00:00",
+    "acquirer": "Cone Health",
+    "target": "3 Reidsville pharmacies",
+    "headline": "Cone Health plans to buy 3 Reidsville pharmacies",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WFDD",
+    "summary": "Cone Health plans to buy 3 Reidsville pharmacies WFDD",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2tCck4wMEV0QnhnX1pvaXhvM1JadjJTQXdkYmIzeU5mSVVxNTdVY0hMYmVFeTJMSnNlVmdUc2pNMi1zSGstTFJNdE5FUTJTa05BWnpmT3JaVUtHWWpzclgtaUExekdSOTMtQzI2T2hici1FM0EwMTc5emVvTnh6bHBrellsQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-d1aef72e97c8",
     "date": "October 23, 2026",
     "publishedISO": "2026-10-23T12:23:15+00:00",
@@ -601,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-16a7087285c2",
+    "id": "news-69a5d6a97750",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T18:33:39+00:00",
-    "acquirer": "EQT to",
-    "target": "Qiagen",
-    "headline": "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private",
+    "publishedISO": "2026-10-22T16:45:57+00:00",
+    "acquirer": "Risant Health to",
+    "target": "Oklahoma system Integris Health",
+    "headline": "Risant Health to acquire Oklahoma system Integris Health",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Genetic Engineering and Biotechnology News",
-    "summary": "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private Genetic Engineering and Biotechnology News",
+    "sourceName": "Healthcare Dive",
+    "summary": "Risant Health to acquire Oklahoma system Integris Health Healthcare Dive",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORE51N0EzdGxYYXVoYVh2ZjNfamhtRlcwZ2g2QXRZem9tU3AxMWk3ZVFrTXlVbGlPcm96WTZMUmFJSUo1VEd2TXpHT0hSZ1VKc3cyWTI5dW9zREhPR0FQd3J5b1kwMmVzWGJScnlpRTRkTTVWNU94bWl5UklYc3AxMDNBdnE0TXJONmlEblJRb2ROVFRBUXpnS0lBY0xYUE02bEdRdEw5X1JIdG5aNUtKM3pqSExxUl8yM2E5N0hMQVZvX2xwbXVPcA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVldLdmNoalhEeEFUQkFDZElSTzlRc3ltNDJZaFU4U0lNZzU2ZkhRbkJYNUNnSG5TQWVCdXJjMkw3RTRkdTBZRDZzaWxtbFZWUXBKSlVtSVBtc3c4WW9aYlpHWVdfRjJ1Rmg2VG5HR094dk5Qa1hEa01lTWRJXzdpYUJaWTVnZWlQYkNRQk43TDVmVVRiOVZqcW12V0J6UQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1084,81 +1159,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHkyNW5pTXVNT2J0VFpZaGVHcW95Q3lkRWZ0clJYMVdva0M4b3BDUkwzQkNnRk41T2x3M1E1bDlxUUlCYTI5cVFHc093UU5rYndOcGRpa2FjSHBreml6WGJrbHFBSXhmaTB3QUozeDVQRERJMkhpTDFCUy1zZHk0aWIxcEhpdnJjTUd3bERiNmZleEM1enEyQlpuUDNYekE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-08edba78d912",
-    "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T20:33:00+00:00",
-    "acquirer": "CentraCare healthcare system to",
-    "target": "Stellis Health in merger of central Minnesota providers",
-    "headline": "CentraCare healthcare system to acquire Stellis Health in merger of central Minnesota providers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MPR News",
-    "summary": "CentraCare healthcare system to acquire Stellis Health in merger of central Minnesota providers MPR News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUF4RzVUTFhCekJXV1o0dlpRWTZEeEwtTlpoeW9hX21UdWs5alM1bGNLbVNMUGpELXhHSlU0RzY2UzQ3SjVkbDd3bXFrekRLSmtKMTFQRkozTDF5UkVNLUE0aWE4b1RHS3kzb2E0MEZ6VndFUVd5Q25xbXBPbkNrZzdYbXlKSW96eWdXeFF5bFBkd2FKWnlCWkQtUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
