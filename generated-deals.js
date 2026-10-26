@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-1e507a8c091c",
     "date": "October 25, 2026",
-    "publishedISO": "2026-10-25T10:33:50+00:00",
+    "publishedISO": "2026-10-25T14:26:44+00:00",
     "acquirer": "I didn’t move to Mexico to save money. I moved to",
     "target": "back my future",
     "headline": "I didn’t move to Mexico to save money. I moved to buy back my future",
@@ -39,81 +39,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-46a8e0f0c0b3",
-    "date": "October 24, 2026",
-    "publishedISO": "2026-10-24T22:48:00+00:00",
-    "acquirer": "Keselowski was denied in bid to",
-    "target": "RFK Racing - RACER",
-    "headline": "Keselowski was denied in bid to buy RFK Racing - RACER",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Racing News",
-    "summary": "Keselowski was denied in bid to buy RFK Racing RACER - Racing News",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BV0pEaWROXzFZd0VBek5VNDhJOGQydnRSeFNSNWJuYU9IellhM2tKZzZQOHpYZUllcGFadHNyRkh2YndfTW0xSEpvQ2lscEpENU14VUNRVElXRzZNcTA2d3VSRWRNNTNQUW41LUZuRHdyNzFLYmVJTEVMQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 24, 2026"
       },
       {
         "stage": "Terms verified",
@@ -409,6 +334,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2tCck4wMEV0QnhnX1pvaXhvM1JadjJTQXdkYmIzeU5mSVVxNTdVY0hMYmVFeTJMSnNlVmdUc2pNMi1zSGstTFJNdE5FUTJTa05BWnpmT3JaVUtHWWpzclgtaUExekdSOTMtQzI2T2hici1FM0EwMTc5emVvTnh6bHBrellsQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c81255bbd083",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T12:54:37+00:00",
+    "acquirer": "Dumarey to",
+    "target": "former Renault engine facility",
+    "headline": "Dumarey to acquire former Renault engine facility",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Racecar Engineering",
+    "summary": "Dumarey to acquire former Renault engine facility Racecar Engineering",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzVPS1hTWWREQ3ZOMkRUVzVibnNRNVFVRWlmN1FkdXl1WkowX2R5V2p3Yjl2clZCOUNNd3RmdlpjMko5R3BJNlpZUWlWdUVyUG9KcVhfY2dTb1ZwMW9YOV9sd2lHVF81ckdkMFlJQTNhZC1LYTN6d0h0Tzh4d0NPWDVhWXFGNDRtbElOZWpsWDZOaFhqbzJyQk5nLTRtdVJMQzFmNXNYQWxvYVZiZXQ4?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,6 +1501,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-31345cf10363",
+    "date": "October 21, 2026",
+    "publishedISO": "2026-10-21T09:15:00+00:00",
+    "acquirer": "ICE Profiteers Trying to",
+    "target": "the Senate",
+    "headline": "ICE Profiteers Trying to Buy the Senate for Republicans",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The American Prospect",
+    "summary": "ICE Profiteers Trying to Buy the Senate for Republicans The American Prospect",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXItQjNPbDZtV0JnUzcwYXM4cElCY1EweDBhTDZTR2Z1Z0E4d2RvWk05T1JhLUMxT0JxLUNRcFB0UXBzbzE5SjhUMjJjak8xTTUwdkVndjJjanNBOWdOWE5RMG5zcVdXeTFmbkp4aWVPYmViVTIwUk9YV3YwcFYwMHMxVHlRUm5VaGk4R05mbw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-399ae4681d4b",
     "date": "October 20, 2026",
     "publishedISO": "2026-10-20T20:35:10+00:00",
@@ -1890,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Crain's Detroit",
-    "summary": "DFCU Financial to acquire Florida bank Crain's Detroit",
+    "sourceName": "Crain's Detroit Business",
+    "summary": "DFCU Financial to acquire Florida bank Crain's Detroit Business",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOGdHdWRSZlNXX21MUWxvbGVWZmJyYndHZDgxZG05N3R0bjl1YVJQcDJXa0RGdGh2SWNyMFJSd0pFMHhiU2pXYWZnNWxaeXRSd1BZcThzeTl4Q095b3RyYUVhajBZamJaN0ZlUl9DSXVDMlhkTEhRYVEwRE4xNDFTaXFhY1hXbXdJWmdaZmg2eHk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-21bcf930a9bd",
-    "date": "October 19, 2026",
-    "publishedISO": "2026-10-19T02:52:48+00:00",
-    "acquirer": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to",
-    "target": "Minnesota Wild vs Columbus Blue Jackets Tickets Online",
-    "headline": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to Buy Minnesota Wild vs Columbus Blue Jackets Tickets Online",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Universidad de Córdoba (UCO)",
-    "summary": "[𝐒𝐓𝐑𝐄𝐀𝐌 𝐓𝐎𝐃𝐀𝐘]*How to Buy Minnesota Wild vs Columbus Blue Jackets Tickets Online Universidad de Córdoba (UCO)",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSWdkTFA2ZGtZbDVUMnJ1UzRkdVM1Y1FDTkVKZVl1dEh3WTBNWG1Iek1hZkNVX2RkSC1OSkpxR1h3U3BScnlmVUR0WmF0RXpIeld0MElkWmczRU84Uk5vV1ZXQjQ0TUhEMGk0cUt6TjczMmRlRlBkLW5NcWhWWmJIVFY3ck9lRGgwVUlOYUJnZDNSNExKTDNNUjFSSGY2Z1Q2VDRMeVdGTUROckFmaVV5ckxNcVBVSGVPLVVqMmZKbjA1YzZkQzNPR3ktNURlY25wTkRDTnJodHNheWx5d3Y4bFJhUTNOTTR3UFZjT1lhcVRHU0lMZkV1QzVONGhnTEhqZ21xb3lRcy05ZWVsSG95a1pEMVpiOHRxQW1DM0pSNkZZOHFhLV9tMkszWER2RzRkcEM2anMyY3ZhX1doVVJfeFg5WQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
