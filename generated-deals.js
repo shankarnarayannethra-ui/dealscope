@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-7669133f014f",
+    "date": "October 27, 2026",
+    "publishedISO": "2026-10-27T10:26:00+00:00",
+    "acquirer": "Ares Private-Credit Fund to",
+    "target": "Competitor From Apollo",
+    "headline": "Ares Private-Credit Fund to Buy Competitor From Apollo",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Ares Private-Credit Fund to Buy Competitor From Apollo WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlZwZ1FEMW04cEtxdzdaV1RaNm9ZUXl3NlNEQmRuMk1qT0p5aXRNTEZ6RS1qdjJURFdVUzhGRWV6QmZKdUNmZklVaW95T0c0R2llRWdnckJEYy1IN1lxMk5aRzAtU24zbkkwb3cwRzc0NXJqb1A4WXo1QXl4QUZwOExVSThLY2o0MFA0Q1lQZG03ZDVLckgyeGlZbjFGZzVUMVB3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-faf55a8503be",
+    "date": "October 27, 2026",
+    "publishedISO": "2026-10-27T08:06:05+00:00",
+    "acquirer": "CVC DIF",
+    "target": "majority stake in Cernaval",
+    "headline": "CVC DIF completes acquisition of majority stake in Cernaval",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CVC Capital Partners",
+    "summary": "CVC DIF completes acquisition of majority stake in Cernaval CVC Capital Partners",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTI3am15QzdSRTM0SW5SMHZ3dTliN1A2Tl8wQWNtTXE3THl3UjA5X1VqNWxrbmlZSHAzTnp5MDZ0ZWt3WGlCV2xMazhoMG1lVkZEcC1LVDZMS3AzUFhwUGNCUXFEQUdlYWZsRlVDbUpmbG5mX2x4Z3QtXzNtZ0ZjWTlkZXFDQjVONlpOWnZNQTNJajlONWthWmdSQno?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e6aa5202c7cf",
     "date": "October 26, 2026",
     "publishedISO": "2026-10-26T21:47:43+00:00",
@@ -76,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1468519e2ef0",
+    "id": "news-feecc5cee48e",
     "date": "October 26, 2026",
-    "publishedISO": "2026-10-26T21:28:00+00:00",
+    "publishedISO": "2026-10-26T21:30:04+00:00",
     "acquirer": "DoorDash Circles Deal to",
-    "target": "Instacart | What’s News",
-    "headline": "DoorDash Circles Deal to Buy Instacart | What’s News for Oct. 26",
+    "target": "Instacart",
+    "headline": "DoorDash Circles Deal to Buy Instacart",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -91,7 +241,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "WSJ",
-    "summary": "DoorDash Circles Deal to Buy Instacart | What’s News for Oct. 26 WSJ",
+    "summary": "DoorDash Circles Deal to Buy Instacart WSJ",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -303,7 +453,7 @@ window.generatedDeals = [
   {
     "id": "news-bb9a3ae71883",
     "date": "October 26, 2026",
-    "publishedISO": "2026-10-26T19:52:00+00:00",
+    "publishedISO": "2026-10-26T19:58:42+00:00",
     "acquirer": "Exclusive | DoorDash Is in Advanced Talks to",
     "target": "Delivery Rival Instacart",
     "headline": "Exclusive | DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
@@ -784,81 +934,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BV0pEaWROXzFZd0VBek5VNDhJOGQydnRSeFNSNWJuYU9IellhM2tKZzZQOHpYZUllcGFadHNyRkh2YndfTW0xSEpvQ2lscEpENU14VUNRVElXRzZNcTA2d3VSRWRNNTNQUW41LUZuRHdyNzFLYmVJTEVMQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1ec0837daf22",
-    "date": "October 24, 2026",
-    "publishedISO": "2026-10-24T10:49:43+00:00",
-    "acquirer": "MPS investor Norges to oppose Monte dei Paschi's bids to",
-    "target": "Banco BPM and Banca Generali",
-    "headline": "MPS investor Norges to oppose Monte dei Paschi's bids to buy Banco BPM and Banca Generali",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "MPS investor Norges to oppose Monte dei Paschi's bids to buy Banco BPM and Banca Generali Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZnBhQ0IzY3BEbkp2elJrNGR6NnVGZ29vY2tRQlo1dGxDUERnb2o4U3N5WTNTeEp5aXp3SERqWklUa0M5Rzg3QWI3MVdPcTUyUC1TS0loTTVPV25HSDVYMDZDcVJmbGtjUnBSUEg1V2FDY0VyUWZ4M2Jvc3VZeXl5VzYzazEyWmpjVUdhVkEtbHNPRDFFY2E4V0ZPeWxYV0JYS1NVZDR1bXZ2SW1DZ29XbmpTR3FlM2tMYS1xaEVVQURhMzJuVVpSV0gyOEJyMW8?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,13 +1726,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-07e2a776b2b1",
+    "id": "news-e7f6420cfe95",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T15:00:00+00:00",
+    "publishedISO": "2026-10-21T16:02:38+00:00",
     "acquirer": "Cencora to",
-    "target": "majority stake in $2.4B American Oncology Network",
-    "headline": "Cencora to acquire majority stake in $2.4B American Oncology Network",
-    "valueBillions": null,
+    "target": "American Oncology Network in $2.4 billion deal",
+    "headline": "Cencora to buy American Oncology Network in $2.4 billion deal",
+    "valueBillions": 2.4,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "Cencora to acquire majority stake in $2.4B American Oncology Network Fierce Healthcare",
+    "sourceName": "Reuters",
+    "summary": "Cencora to buy American Oncology Network in $2.4 billion deal Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1758,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWUxR1N3LWFNMG10NGZfc0lxbkd5S2d1NU81SUlLVVpOakh2TEFwanE3cUtkcTQyYk9rWTNFOTZRWmJ3c2c0SVY3NmlCakN4VExzWVR2SGlpcl95NHBPQThMMnF3U095ek9ZX19yWnpOWTRxUUF0MkJsdEMyNGFQZkxmMkZRSXdDN3paZDd3YlJyTzZhYmduNlJyTTJYTXRkMXJv?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0t0eE9yUFVfcDRpdVY3aGtfTlpxV1VYdUltQjNMSUZaUFBtWU5MUWp6QXh1QmxHX1lnTm55X0FxX1c2azZvcFA4MkJLNktFRml0MnVQTlo5eTNHSmlCRmdLbXBiQngtTTZEcndhZi1jM2h1T1Q4T0VadDFVOGhTSmFBbUdwUTFwT21zRjdHd3RFNTd4RlFqSDV5VkJ1SXhQWkZ3T3puaHNEMnZmVGM4a21KZUhvMkFLdlNJaWxkcGh6a2ZHeGhCZQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVm9JQ3VzOXEwMFRKaXF3ekhnekdUUjNhcUNjT3AtS0lEWnE5Wno5dFFZOWYySWlQMnNIa0VBdDR6Q2hhNk9jTFpDVS1PT01rZDVxa3hNeHhyYUQ2eTBkclpyWXFmazhTa2pYaURKaFc5OUNSSjNVRW1faXcyYzlyOVU1MERCWHVyQTJtUmRzeFNuQU1YQXNHWl80bF9PUEE2czVVUUdta3lxZnB6TXRvQVlPNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fe9e3709c54a",
-    "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T12:03:58+00:00",
-    "acquirer": "Salesforce Signs Definitive Agreement to",
-    "target": "Braze",
-    "headline": "Salesforce Signs Definitive Agreement to Acquire Braze",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Salesforce",
-    "summary": "Salesforce Signs Definitive Agreement to Acquire Braze Salesforce",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNXhmdXRROEJ5N1RhZGJZU2t1WG52UWRYSmZ0VDNmZmFmNWtDRHlqcC1Ha2RNbW1RVkdQb2w3eFhQcXRIcXVxaUs2bHZOVzhEeWZZNWNsNEEtdUZJb29fODllOTQ4S1RiSThzOEN2a2VuUGQ3dTJFOUlycUpwNWpjWExYRVhSN2tXUHNmbG5QVF81MWNYVHJ3cTRfYjRCRmhzam1lM0lwYkhQMnJBZkFRNk1qYw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
