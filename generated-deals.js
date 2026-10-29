@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-f26da7f21ada",
     "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T22:18:45+00:00",
+    "publishedISO": "2026-10-28T22:25:08+00:00",
     "acquirer": "Seattle Social Housing Developer",
     "target": "Youngstown Flats, Adding 195 Homes to Portfolio",
     "headline": "Seattle Social Housing Developer Acquires Youngstown Flats, Adding 195 Homes to Portfolio",
@@ -34,6 +34,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2Y4a25PWERkVXRONUlVMHh5aVJNLW0tNVhqSmZjZU1TVzkwN01wR1NZRzBGMlJOaF9ReWJWeXhKNmZZNEdOZUFTQUQ0TnVYTmg2RHVQZV9uaEtvOHNfU0lyc2FyNENsZUtMZmtoaWJsU3dEM056d19iMVUwaHpJeDExdEFORmF1MkJxWUFIMlQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-066ee9269cd1",
+    "date": "October 28, 2026",
+    "publishedISO": "2026-10-28T21:16:37+00:00",
+    "acquirer": "CoStar to",
+    "target": "aerial imagery company",
+    "headline": "CoStar to acquire aerial imagery company for $730M",
+    "valueBillions": 0.73,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Virginia Business",
+    "summary": "CoStar to acquire aerial imagery company for $730M Virginia Business",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHdCRzAxa1I5UU1yTGFWMVZWTVYtWmx3TlE2ODlpdnNadlMtb08xdFAtX3lYNW50WDZyOFVua2RhMzFzV3k5RTlpdkdyODhIaEU4eVZIRHpFM2FzdXB5NE1SQlM3Sjc0WnNQd0Z2cnRjdTIwQmNzNmdsMkdNQU1qOXN3NWhoZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Intel to Buy Quantum Startup Classiq for About $2.3 Billion Bloomberg.com",
+    "sourceName": "Bloomberg",
+    "summary": "Intel to Buy Quantum Startup Classiq for About $2.3 Billion Bloomberg",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -753,7 +828,7 @@ window.generatedDeals = [
   {
     "id": "news-7669133f014f",
     "date": "October 27, 2026",
-    "publishedISO": "2026-10-27T10:58:20+00:00",
+    "publishedISO": "2026-10-27T10:26:00+00:00",
     "acquirer": "Ares Private-Credit Fund to",
     "target": "Competitor From Apollo",
     "headline": "Ares Private-Credit Fund to Buy Competitor From Apollo",
@@ -934,81 +1009,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZvRlVFSjNDTHZIeTlnUWhXdjdyTkVZQk1rV0xtTmdjT3VBN05YeVI3cUpGLUlBRC1KaTdKVzMtekd4emZ5TU1nclhrajVLV0VlbmhfRGVOVHpCRG83RmdkOElvOHhyUkRKVkd6VU1LajNUa1JvcUdjdnlVLXBreF9nV3dhOHYzWnJLSm5XVVhmVnlHS0dJRmpxMWpEY2hBMl9Fd1pCNFpiZzBRaWRwcHlEZ1I1Zw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2f75890de8db",
-    "date": "October 26, 2026",
-    "publishedISO": "2026-10-26T19:28:45+00:00",
-    "acquirer": "Stagwell",
-    "target": "publisher ad tech company Freestar",
-    "headline": "Stagwell acquires publisher ad tech company Freestar",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Stagwell acquires publisher ad tech company Freestar Axios",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55MmxoaUtQN3l4VGZsRWo3OEhodmk4T051VGFra0ZoMGFtN1lmRzR6RU4wNkE0dXVQOVlNUVNNb2d4YnUwdEo0SjZNLVhpUGlaS1hMblNfb1pEeXE0QUhTeWNGeElIRGVhWEFVNHk3aXMxUGRwZ1p3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2026,6 +2026,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-4b22861b8fba",
+    "date": "October 22, 2026",
+    "publishedISO": "2026-10-22T09:01:05+00:00",
+    "acquirer": "How to",
+    "target": "a House With a Gig-Economy Income",
+    "headline": "How to Buy a House With a Gig-Economy Income",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The New York Times",
+    "summary": "How to Buy a House With a Gig-Economy Income The New York Times",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUktZLVI2bVNRS2drNFJZc2ZvcF9xWFdzczdGLVlvNzR0UFhSVmhIZzkxdldmV244STB0UGxOV3QwY2xYalB4cGpNX3RIbHpfV29wT3NHXzd3ODEtT1JnRHZ2OXpEUkdaV2U3SDlUQkdqMTA1Z3FFUDNLMVE0RFlUS0JCNkxLVjZWM0I1bmk0dEJxWUo4RlFnZXZyWThkV0V3TWZNTw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9c0f4171b36c",
     "date": "October 22, 2026",
     "publishedISO": "2026-10-22T06:55:00+00:00",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c569d58940eb",
-    "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T22:48:21+00:00",
-    "acquirer": "EQT to",
-    "target": "molecular testing firm Qiagen",
-    "headline": "EQT to buy molecular testing firm Qiagen for $10.8 billion",
-    "valueBillions": 10.8,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EQT to buy molecular testing firm Qiagen for $10.8 billion Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHkyNW5pTXVNT2J0VFpZaGVHcW95Q3lkRWZ0clJYMVdva0M4b3BDUkwzQkNnRk41T2x3M1E1bDlxUUlCYTI5cVFHc093UU5rYndOcGRpa2FjSHBreml6WGJrbHFBSXhmaTB3QUozeDVQRERJMkhpTDFCUy1zZHk0aWIxcEhpdnJjTUd3bERiNmZleEM1enEyQlpuUDNYekE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 21, 2026"
       },
       {
         "stage": "Terms verified",
