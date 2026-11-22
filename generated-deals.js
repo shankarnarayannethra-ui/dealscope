@@ -1,6 +1,381 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-e8717eda766b",
+    "date": "November 22, 2026",
+    "publishedISO": "2026-11-22T14:21:33+00:00",
+    "acquirer": "5 Best American Stocks to",
+    "target": "for 2027",
+    "headline": "5 Best American Stocks to Buy for 2027",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "5 Best American Stocks to Buy for 2027 Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTk5OdHFHTDdZOTl3NzU1THhCQ19ZRWxqcmxqQk1OOHlPWVlELTEtTXRXZkNSNERrMi03N0sxVWQxanlCQkZ5ZGhTR1hneUpGTkJTdExKcFhTWkdFaXphSDJIUkVGaHR6TEdIZlFIbEJkZ3VFMlB1WXJyZktFVGkyMEc0QjVOYXdzU3dlRzZ2Yzg2Tk83LXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-46bea59a9f98",
+    "date": "November 22, 2026",
+    "publishedISO": "2026-11-22T14:16:43+00:00",
+    "acquirer": "Taking on credit card debt to",
+    "target": "food",
+    "headline": "Taking on credit card debt to buy food",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CBS News",
+    "summary": "Taking on credit card debt to buy food CBS News",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUdzRaN05jOGtXUHMwVzFSNmIydHpvWHUwdzVjMF9MVjloY0xhSnltR0hEVzdFUnRmQ1ZIMk5mdmNha29ycXZ6N2JqVklPalFuN1pBcGF5TDcxOTIwUnVpWEx1ZmxMRWxtMHZUUFYweVBuLTd4U0E4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-dcef79c6813f",
+    "date": "November 22, 2026",
+    "publishedISO": "2026-11-22T13:12:11+00:00",
+    "acquirer": "Indigenous-led group",
+    "target": "land overlooking Cape Cod beach that shaped history",
+    "headline": "Indigenous-led group acquires land overlooking Cape Cod beach that shaped history",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NPR",
+    "summary": "Indigenous-led group acquires land overlooking Cape Cod beach that shaped history NPR",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa2pneUJWTzJGekp1MFdkSHkwNVVLaC1xMl91aXp2N1B5UUp4bFBSRzNOZVhhSzA1Y1BvTDAtYzQycGlBMGZHMTRNdTlObnV6eGdxX1R0WndKTkxCbW4yVkFKVmZ1RDJtWUtXem9LRFZmWGgxa0RjWlZMeThsSUFPMnhWd3RaSGgzVGNkZHdLTHhPek1YczFMSWZ5UE1YQzU2cTdYTTltaDI0T2VVOGxPNUQ2eWFrZGRZVnlnd2dXVU0xYUxT?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ac7446d3c52b",
+    "date": "November 22, 2026",
+    "publishedISO": "2026-11-22T12:36:00+00:00",
+    "acquirer": "Palo Alto in talks to",
+    "target": "Israeli AI cyber startup Terra in deal that could exceed $500 million",
+    "headline": "Palo Alto in talks to acquire Israeli AI cyber startup Terra in deal that could exceed $500 million",
+    "valueBillions": 0.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CTech",
+    "summary": "Palo Alto in talks to acquire Israeli AI cyber startup Terra in deal that could exceed $500 million CTech",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RMERTdEdfbE1PZTBHbVRhVE02bGpBbWFManZRd2dPckJfQ3FjU0ZpMFFMNXV6bnVLcno1YXc0ekFKZDd2SmJCXzE5cHcxSldPUUxpV2l3TS1GYkZzS2xBQ2FCeTFNMU0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c58b01a52929",
+    "date": "November 22, 2026",
+    "publishedISO": "2026-11-22T06:54:00+00:00",
+    "acquirer": "1 Reason to",
+    "target": "e.l.f. Beauty Stock",
+    "headline": "1 Reason to Buy e.l.f. Beauty Stock",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "1 Reason to Buy e.l.f. Beauty Stock Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFBhU2FrUGxkZVhSVHp2eFBudmtGQ1BYNE15MG9PLURMSmhKMTl4RzlLS1FGcXdRWDBnZ0NQeXlUb0hTNGpTRkxGQnh5NjYwYWZNaXBwUTZPcS1Tb3cycFJLcGFLTnI3SlZUbkxwOWpuM1Z5ajBwaURCVGNpbXFzUGJLc2tXRnlW?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-dab69e25af04",
     "date": "November 22, 2026",
     "publishedISO": "2026-11-22T01:53:00+00:00",
@@ -226,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8496fced3fb2",
+    "id": "news-7dd731da3b76",
     "date": "November 21, 2026",
-    "publishedISO": "2026-11-21T15:30:00+00:00",
-    "acquirer": "Feds approve BlackRock company",
-    "target": "AES Indiana parent company",
-    "headline": "Feds approve BlackRock company’s acquisition of AES Indiana parent company",
+    "publishedISO": "2026-11-21T13:04:17+00:00",
+    "acquirer": "The five best stocks to",
+    "target": "before year-end, according to Bank of America",
+    "headline": "The five best stocks to buy before year-end, according to Bank of America",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Daily Journal",
-    "summary": "Feds approve BlackRock company’s acquisition of AES Indiana parent company Daily Journal",
+    "sourceName": "CNBC",
+    "summary": "The five best stocks to buy before year-end, according to Bank of America CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeU9zZ3Q5LUxhYWZHOTFwdXJhR2gtdi1fRGRpVEw0aFZUNVZMYkhCel9kRDNTY2hQM015bzY3VXFvRjJ2SjFCdTlLMkwyY3ZGQnhqSExEZ1ZrRVNZYnB6MVlMOUNXMlBDZHVpMUpIT01VM1FQWTdOOGdWR1B0NzdoV0RSVjJmaWJNcXA5YVpYZWJjUktreXMtY09EYWlpT1BGaHdmZ2otbkg5OUstQWZN?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTlRSjRHN0hZTlExejduNl9jNUZfZ0xGMllObkFNTmJ5MHlCU3dqVWhKa05sWklObklaelVMaWVwMEdhT29kV2RrSkM5LUNfa19YbnZ3VVM1N2dRQ08xSlJWRVdEeUZ4bElYZ25ucHpsY1NseS1lTG0za1drTkJJTmRpaE5adHRpeGRrNXFhT2NSa28tblRoRHJwVDhlZ2cwR0QxOGFEd3A?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,81 +826,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e81a5036bfbe",
-    "date": "November 21, 2026",
-    "publishedISO": "2026-11-21T04:01:20+00:00",
-    "acquirer": "3 arrested for elder abuse after man is sent to",
-    "target": "$100,000 in gold",
-    "headline": "3 arrested for elder abuse after man is sent to buy $100,000 in gold",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "KTLA",
-    "summary": "3 arrested for elder abuse after man is sent to buy $100,000 in gold KTLA",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkl5S0tiMVA0ZHgtN2ZzdjFOVUlUemsySmxVUFpUM0huYXoxaW1BSUpMVlUyMTVHc0RpY1FHbGdBVHhzVTF2Y0pHLWtJTXFyX0lEcHNoZDhWZlNtT1RnbzBjeEZCSTBUWGx6bmo3cUplVmtvNW9BVmk4WjlpaVVhWHVIXzVqckF0TmZIdFZNXzFwc3hqU3g5UmZ6cmZYWV9ISXfSAacBQVVfeXFMTlBmVXlMU3F2TVV1TXNnSVN2ZWRCaXQzMVNVeXBWREJ1VDQ5bmUwQVp0ZFFZWkZLTFdNTUM0R01JR2lQM3ZINU1YVDN4QXhjSGJwRFlsRTBzSmd3aXlXTTZUNVUyU0V5dUIxWnBtNkRFU1Y5dFk1WXRlLVk4dkU3dVFxWTNzNHV4N1hhZUVuQ2FTUVVaQU9RbTJCMkNyRGlTLTAyVm9iaU0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-05f5d6e7ea71",
     "date": "November 21, 2026",
     "publishedISO": "2026-11-21T02:29:00+00:00",
@@ -676,81 +976,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c927a8824c75",
-    "date": "November 20, 2026",
-    "publishedISO": "2026-11-20T23:33:00+00:00",
-    "acquirer": "Kauaʻi County to",
-    "target": "155 acres",
-    "headline": "Kauaʻi County to buy 155 acres for affordable housing in Līhuʻe",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Hawaii Public Radio",
-    "summary": "Kauaʻi County to buy 155 acres for affordable housing in Līhuʻe Hawaii Public Radio",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVVteVJqZ09fMGhUZFVURXllaGR0MU9Wdmp2R3JiekxKNmp3TFZjMExjbWp6THFCOWhNRUprS3ppTE9nVVBmRTlNYTJ0Ri1rbXEydzBjS0xPMTJzYUtvMEEzUUxrRmJCVFlTbUJDZnZjZzVKU0ZzNnQ2MTZkalVGcHBJTnptN2p0QVd6dk9EVzRnLVRjSDJTUTFSYjJQRk5jM09YeDIyWnZkdWZZN2xFdVdINVNWS0h5NlMzT2Q0Vy0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b249a7ac6be3",
     "date": "November 20, 2026",
     "publishedISO": "2026-11-20T22:31:25+00:00",
@@ -826,12 +1051,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b51db82cd1ab",
+    "id": "news-b06e187cfe9e",
     "date": "November 20, 2026",
-    "publishedISO": "2026-11-20T21:57:53+00:00",
-    "acquirer": "Watch CrowdStrike Said in Talks to",
-    "target": "Cybersecurity Firm Zscaler",
-    "headline": "Watch CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler",
+    "publishedISO": "2026-11-20T21:11:32+00:00",
+    "acquirer": "Zscaler stock jumps 18% on report that CrowdStrike in talks to",
+    "target": "security vendor",
+    "headline": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Watch CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler Bloomberg.com",
+    "sourceName": "CNBC",
+    "summary": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor CNBC",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +1083,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzJrQmFKeEJoWFV2QUxEakp0WTVUUmtaWkZmOFBOTXZudVFsN1dyTTVvcjVieFQxZVF1c2k3RUU2WDBDVkNIMUlzM1QyV2tScldGWFlWanVDMTJqbS1aSndtS1h1UVhuUVVBOTNzc3hXWTN1ZFl3OFUzRWFkWGNHOGVicVdjbkx5dUpacGV6akZQUGloSUdoUTh6bw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbG40b2dZUnJ5anJZeTMyRklTamZPSGJERV9WMURmc084Sm1hWkpzSGJlbllnUUN6X0NfZWt3SURiTVA2dzYySUxvS3ZGcXdaRU9ldjhJeWVrWmZKU3dSQU5xMHJ4MEZSbEx0alFn0gFzQVVfeXFMTkE5VXlxajNUVW9MczFVNnBSNGFnbGIxVVctMGlKc3lBei1xbkZ5R1VmME04eXhRU1duZlZYa0hoa1ZiVVV1WFpSUTlRSHM5SHQwUkQyZzZMNnF2TUtfRU5BN0ZaMFNtdVhMQVluZENNeVl0cw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,12 +1126,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b06e187cfe9e",
+    "id": "news-c762a8ac922d",
     "date": "November 20, 2026",
-    "publishedISO": "2026-11-20T21:11:32+00:00",
-    "acquirer": "Zscaler stock jumps 18% on report that CrowdStrike in talks to",
-    "target": "security vendor",
-    "headline": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+    "publishedISO": "2026-11-20T21:06:09+00:00",
+    "acquirer": "Verlinvest to",
+    "target": "China Resources' stake in oat milk maker Oatly",
+    "headline": "Verlinvest to buy China Resources' stake in oat milk maker Oatly",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -915,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor CNBC",
+    "sourceName": "Reuters",
+    "summary": "Verlinvest to buy China Resources' stake in oat milk maker Oatly Reuters",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,7 +1158,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbG40b2dZUnJ5anJZeTMyRklTamZPSGJERV9WMURmc084Sm1hWkpzSGJlbllnUUN6X0NfZWt3SURiTVA2dzYySUxvS3ZGcXdaRU9ldjhJeWVrWmZKU3dSQU5xMHJ4MEZSbEx0alFn0gFzQVVfeXFMTkE5VXlxajNUVW9MczFVNnBSNGFnbGIxVVctMGlKc3lBei1xbkZ5R1VmME04eXhRU1duZlZYa0hoa1ZiVVV1WFpSUTlRSHM5SHQwUkQyZzZMNnF2TUtfRU5BN0ZaMFNtdVhMQVluZENNeVl0cw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVJPc1hnN2xlZmpNNklFMnRZWG5Nd0tQbzhXV2Fwcjdwb2I5ZVY5SFFNYldSbGZiRU5oUFd4eUFUb1BJeHVHUDhRQ2N5TU5pSEVrOEZtNzJ0RmhmeXBvM3ZtY1ZqSUo1bVpDTGtiTXdFWEJHTmtjb3RkQTkxZHJRdFJhN2MxRlhBNUE1dEN0SWdrMmtUd3VGRDZCYnY1YTlRa1JZa21ac3dEMlhRR0VxZTJnOGZwZ2NUUlE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,13 +1651,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fb948d1111dc",
+    "id": "news-1e158de9bae8",
     "date": "November 19, 2026",
-    "publishedISO": "2026-11-19T19:06:50+00:00",
-    "acquirer": "Kraken parent",
-    "target": "Tribe Capital flags new chapter in evolution of crypto exchanges",
-    "headline": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
-    "valueBillions": null,
+    "publishedISO": "2026-11-19T03:25:23+00:00",
+    "acquirer": "Palo Alto Networks to",
+    "target": "AI Startup Applied Compute",
+    "headline": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+    "valueBillions": 4.5,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1440,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges CNBC",
+    "sourceName": "SecurityWeek",
+    "summary": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion SecurityWeek",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1458,157 +1683,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGk3eExFVEUydW8yeUMxV3FyU1Q5dFJuUUM3VHhfS0ZNX01CclpDVnY0cTdfVmF3RUZuUEhCaVRuclFiRGYybzlSYmM5clpSclg2UjUtVHVhelR5aDRUQmwtVkFyT0FtN3NXX1pjcmNoWVNacFhfclBZQ19udEZrbW01OWs5YllpMTVlRXE2VG1LVEtQWlNYSkRyQ2JGaU9aZWFnYXJ1eFpsSnYtTHNkZWRzM1VxUE3SAbwBQVVfeXFMTTlKWDNiUUIzMjJ4U3E3UW12YTc3b3JZcFNiOVk3QzZlOFBydW9xYmE1UnZObUVrcWNUX3BJV0wwZEJocmpId3dOdXYtYUIxLTNmenFkQTlYaTFPUG5EamRoclI0LXJTR3VYSFptQW5rY256MjZCREdOdU9oR2huSkVsbGQ4emdzd3duelRWUVNOcld3VVN6VWh0SDVFallKaWxVQ3NQSkdBdmtYdUFqLUpwMUZ5LWNpWUFhMkE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-cbd6b0101c6c",
-    "date": "November 19, 2026",
-    "publishedISO": "2026-11-19T14:46:04+00:00",
-    "acquirer": "What To",
-    "target": "For A Golfer Who’s Tired of Getting Golf Stuff",
-    "headline": "What To Buy For A Golfer Who’s Tired of Getting Golf Stuff for Christmas",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MyGolfSpy",
-    "summary": "What To Buy For A Golfer Who’s Tired of Getting Golf Stuff for Christmas MyGolfSpy",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xMmxMb1VfZ2x6RTF0dndNWHN2X1FLNVl6UUYyaFNsdmh3WW9RdW91Wm5BNUI0OXNZcXFvajI5dDhsZnhZMVRsbktyN29mSm80QVZ4SFlJY3hsQ09mb3UtNzhBc3hBekNWTjVtbjBjbTAwMkFIN2o0dnFYU2ZXUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e773bc16e2a7",
-    "date": "November 19, 2026",
-    "publishedISO": "2026-11-19T08:00:00+00:00",
-    "acquirer": "ADP",
-    "target": "ZenBusiness",
-    "headline": "ADP Acquires ZenBusiness",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Paul, Weiss",
-    "summary": "ADP Acquires ZenBusiness Paul, Weiss",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52U2o5dmF5OWNuQjdnamcyWVFiVW9xNnJvcUlYVi1rWlZoTm5Hclh5OVNZNkxGeUU3ejB2VHpQMmh6WjF0RXN1MjJKXzRWcUE0ZW1BNThEalh4Z0xCX0dsejdnQ0VLbnFmZFBFZDN4NDljOC1vdUxBNlpzQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdG9XdTZlU1VkQjZQOUdWZG9tX2pCRUk1dTRoVEhtTEhDUmNrREw0UzFhcTdIYWdDOThGbXNtNWd0c1hjbmdPclpuUFZQc243UVp0ajJRS20wZUpXZFVTbC1sX01JLS1CTkdVN3lLb2dWY0IyTWlmMFNWQkhUNW9TRDFGQlNUWGlGNVJPaVIwdWNteS1jWkw2eFlKR0FMcmM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1728,7 +1803,7 @@ window.generatedDeals = [
   {
     "id": "news-684ff60293f7",
     "date": "November 18, 2026",
-    "publishedISO": "2026-11-18T21:01:21+00:00",
+    "publishedISO": "2026-11-18T21:00:00+00:00",
     "acquirer": "Exclusive | Palo Alto Networks to",
     "target": "AI-Startup Applied Compute",
     "headline": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aUXljcTFDUHFGc0w5b3QtdEZqSlBRTTAydFVwZEdFaFdsamwxcEJSSVZuUXk5Nmk3WHl3VzJuQ1RiV0RQM3BybVpKd2NmUmdDaFpJbXhWc2s4MDhXRkZ6Y0NDRXhKaGFiejhIa1Qxa2hJc0J3eWc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-25653eaed3b0",
-    "date": "November 16, 2026",
-    "publishedISO": "2026-11-16T13:48:49+00:00",
-    "acquirer": "Diamondback",
-    "target": "Double Eagle Assets",
-    "headline": "Diamondback Agrees to Buy Double Eagle Assets for $5 Billion",
-    "valueBillions": 5.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "Diamondback Agrees to Buy Double Eagle Assets for $5 Billion Bloomberg",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPak5qVG9xemYzbWdyN0pwZFNadmtCSEZWcWZZUTNhSmp4UG9yTGhvWDZLZ2RLV2cwWFBUR0g4SmFXdmpTeDVnaVNqLXlBYUJTazB6bEttckdyVFgyREdQdmY4amNyOXdDRklWTW85UFBsWTVuNEZNdzBhZFAzTEdjQW5kUzd6bjhzOU92M09WdmR6VVJXLXRDQ1gyWXNTdzlpdHltc0RnMlBJUXhSdEVMN2dpQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
