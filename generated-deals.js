@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-71c51bb80f61",
-    "date": "November 21, 2026",
-    "publishedISO": "2026-11-21T17:21:36+00:00",
-    "acquirer": "Amazon closes in on $7.5bn deal to",
-    "target": "AI start-up Decart",
-    "headline": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
-    "valueBillions": 7.5,
+    "id": "news-dab69e25af04",
+    "date": "November 22, 2026",
+    "publishedISO": "2026-11-22T01:53:00+00:00",
+    "acquirer": "3 Stocks I'm Ready to",
+    "target": "if the Market Crashes",
+    "headline": "3 Stocks I'm Ready to Buy if the Market Crashes",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Financial Times",
-    "summary": "Amazon closes in on $7.5bn deal to buy AI start-up Decart Financial Times",
+    "sourceName": "Yahoo Finance",
+    "summary": "3 Stocks I'm Ready to Buy if the Market Crashes Yahoo Finance",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,232 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEZMRnZJRzBGUGRqQ3lhYVdRSy1DMmVoYUhBX0JIRENxTDdjSU5ob1l6SXJQMEVhbHI5TjNzbm5tTF9TVkRHaG1RODd6SnVkQWRTQnNsek5CeFZwa292cHJSSHl2UmsxdlFOV253LTRHanFiRU96bHp1aXlyR3Zfc1N6UFNWNVpCQjQ3RUZKUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-518cd9812dfc",
+    "date": "November 22, 2026",
+    "publishedISO": "2026-11-22T00:20:00+00:00",
+    "acquirer": "The Ultimate Growth Stock to",
+    "target": "With $1,000 Before the End of November",
+    "headline": "The Ultimate Growth Stock to Buy With $1,000 Before the End of November",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "The Ultimate Growth Stock to Buy With $1,000 Before the End of November Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3pSUDFVT1p0QldNLTlfcWQwdV8tTElsQzVqcEMydlVTRjhzeTA4a1lFdzNsXzNwb1lFeG5mblBBazh3cVBfWGl5OElwOUItS1oycE9hUmo5ckJaYkQ1NlNwdkhDZzJBeGxwUHRtaHotVHdNZUhhVk0tTXJRbDlKWWFtTUhEekFwQUYyN2tROW1lZ1FTLVdB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-01a0cb4e63b5",
+    "date": "November 21, 2026",
+    "publishedISO": "2026-11-21T20:05:02+00:00",
+    "acquirer": "1 Compelling Reason to",
+    "target": "Vistra Stock Before November Ends",
+    "headline": "1 Compelling Reason to Buy Vistra Stock Before November Ends",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "1 Compelling Reason to Buy Vistra Stock Before November Ends Yahoo Finance",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdzYtcFktUE1tSHZqd0xhSkdhVnFBTHotdFFweGhxNUZCM2pNVUNWcmdVVGh1elBSRDJKbTJIR1FfVk5hRVZvOHhhU1RtUzNiTk9lalRyRHRwNXpwbGp4cVVLeXljSWZKdGpld1hjd2thbEtWZ2k0Wkg3WnI2dWR5a0pxc3hXWkdxcjQ5cmhCMzR2aUdVdloxSFBNUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8496fced3fb2",
+    "date": "November 21, 2026",
+    "publishedISO": "2026-11-21T15:30:00+00:00",
+    "acquirer": "Feds approve BlackRock company",
+    "target": "AES Indiana parent company",
+    "headline": "Feds approve BlackRock company’s acquisition of AES Indiana parent company",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Daily Journal",
+    "summary": "Feds approve BlackRock company’s acquisition of AES Indiana parent company Daily Journal",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeU9zZ3Q5LUxhYWZHOTFwdXJhR2gtdi1fRGRpVEw0aFZUNVZMYkhCel9kRDNTY2hQM015bzY3VXFvRjJ2SjFCdTlLMkwyY3ZGQnhqSExEZ1ZrRVNZYnB6MVlMOUNXMlBDZHVpMUpIT01VM1FQWTdOOGdWR1B0NzdoV0RSVjJmaWJNcXA5YVpYZWJjUktreXMtY09EYWlpT1BGaHdmZ2otbkg5OUstQWZN?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,6 +826,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b51db82cd1ab",
+    "date": "November 20, 2026",
+    "publishedISO": "2026-11-20T21:57:53+00:00",
+    "acquirer": "Watch CrowdStrike Said in Talks to",
+    "target": "Cybersecurity Firm Zscaler",
+    "headline": "Watch CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg.com",
+    "summary": "Watch CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler Bloomberg.com",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzJrQmFKeEJoWFV2QUxEakp0WTVUUmtaWkZmOFBOTXZudVFsN1dyTTVvcjVieFQxZVF1c2k3RUU2WDBDVkNIMUlzM1QyV2tScldGWFlWanVDMTJqbS1aSndtS1h1UVhuUVVBOTNzc3hXWTN1ZFl3OFUzRWFkWGNHOGVicVdjbkx5dUpacGV6akZQUGloSUdoUTh6bw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b06e187cfe9e",
     "date": "November 20, 2026",
     "publishedISO": "2026-11-20T21:11:32+00:00",
@@ -634,231 +934,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbG40b2dZUnJ5anJZeTMyRklTamZPSGJERV9WMURmc084Sm1hWkpzSGJlbllnUUN6X0NfZWt3SURiTVA2dzYySUxvS3ZGcXdaRU9ldjhJeWVrWmZKU3dSQU5xMHJ4MEZSbEx0alFn0gFzQVVfeXFMTkE5VXlxajNUVW9MczFVNnBSNGFnbGIxVVctMGlKc3lBei1xbkZ5R1VmME04eXhRU1duZlZYa0hoa1ZiVVV1WFpSUTlRSHM5SHQwUkQyZzZMNnF2TUtfRU5BN0ZaMFNtdVhMQVluZENNeVl0cw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c5419319a8a1",
-    "date": "November 20, 2026",
-    "publishedISO": "2026-11-20T21:07:40+00:00",
-    "acquirer": "Sugar River Bank to",
-    "target": "Bank of New Hampshire’s Claremont branch",
-    "headline": "Sugar River Bank to acquire Bank of New Hampshire’s Claremont branch",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "NH Business Review",
-    "summary": "Sugar River Bank to acquire Bank of New Hampshire’s Claremont branch NH Business Review",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd3NPR0N0TkVyUkdKeVZiVHdSdUpsOGlzMDltOTNOTVVTd0Q1Ymtwbi1MalBOUml5UkppZUpaQlhUcDFMNVdJWlVSWjNpTHp2b1FsVEN5TUxvdnljdERUM0FQbVpnRnBCbk1OREhkNVFlbjVQT1BvZ3JNLXB4dVF0WDNNNXAwYWp3Yl81Yl9KZnVIclU?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c762a8ac922d",
-    "date": "November 20, 2026",
-    "publishedISO": "2026-11-20T21:06:09+00:00",
-    "acquirer": "Verlinvest to",
-    "target": "China Resources' stake in oat milk maker Oatly",
-    "headline": "Verlinvest to buy China Resources' stake in oat milk maker Oatly",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Verlinvest to buy China Resources' stake in oat milk maker Oatly Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVJPc1hnN2xlZmpNNklFMnRZWG5Nd0tQbzhXV2Fwcjdwb2I5ZVY5SFFNYldSbGZiRU5oUFd4eUFUb1BJeHVHUDhRQ2N5TU5pSEVrOEZtNzJ0RmhmeXBvM3ZtY1ZqSUo1bVpDTGtiTXdFWEJHTmtjb3RkQTkxZHJRdFJhN2MxRlhBNUE1dEN0SWdrMmtUd3VGRDZCYnY1YTlRa1JZa21ac3dEMlhRR0VxZTJnOGZwZ2NUUlE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7e5e86a56322",
-    "date": "November 20, 2026",
-    "publishedISO": "2026-11-20T20:23:02+00:00",
-    "acquirer": "John Deere",
-    "target": "Orchard AI to Expand Precision Tools",
-    "headline": "John Deere Acquires Orchard AI to Expand Precision Tools for Specialty Crops",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Successful Farming",
-    "summary": "John Deere Acquires Orchard AI to Expand Precision Tools for Specialty Crops Successful Farming",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDJyejdCWTcwaTZVdVBxYjk5RE1jNEpFTW9vekQ1UHBCWXJTV2lfVF9TX0p2MWprS0FhRzhaQVhpQnpRTmw1VmpGckV3WS1NaXd4c0gtRjZ3bi1WbWdTUlc0aGh2VVBHNk5mWWxLTDY3YlNILUFBZEVXcDBNbXdZNUFLQmdSWDhWalFqakl0SG9WUkcyNHlhQzVLVXpyMC1DeHZVM3kxMjhEeGxGU1c3elloVQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1051,12 +1126,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-270fca17f91e",
+    "id": "news-ce2b84c8be92",
     "date": "November 20, 2026",
-    "publishedISO": "2026-11-20T09:11:18+00:00",
-    "acquirer": "US DOJ antitrust division closes probe of NextEra Energy",
-    "target": "Dominion Energy",
-    "headline": "US DOJ antitrust division closes probe of NextEra Energy's acquisition of Dominion Energy",
+    "publishedISO": "2026-11-20T11:58:00+00:00",
+    "acquirer": "MasTec Enters into Definitive Agreement to",
+    "target": "Murphy Corporation, a Leading Mechanical Contractor Serving Mission-Critical End Markets",
+    "headline": "MasTec Enters into Definitive Agreement to Acquire Murphy Corporation, a Leading Mechanical Contractor Serving Mission-Critical End Markets",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1065,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "US DOJ antitrust division closes probe of NextEra Energy's acquisition of Dominion Energy Reuters",
+    "sourceName": "Yahoo Finance",
+    "summary": "MasTec Enters into Definitive Agreement to Acquire Murphy Corporation, a Leading Mechanical Contractor Serving Mission-Critical End Markets Yahoo Finance",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1083,7 +1158,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjRNSGtBUmZzOEREQ3RfT2FxNXZ6Nk45VV8tUDEwRjg1RkxuY19qZW55R0xNVW1tcERwT3V1V09ySDdkVm4zS3lxZmQwZGZqZHVzSnpicHdqWmVVaVpHeTZKcV9IYkFXWEY3RndiTE1FM096RjFKZ3RxNF92M0pxaGFPSHM0NmJRVS1rYW1YM1BIUGN3Y0dmbTlOYnFNaVdDSl9TRmNTUDBtdnUxcGg1VUFRdW10THpP?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUswakl2Q3FKWXFPbVlZRXJIU1lDUjBKUzM0Q090UVcyVzZLWlYtMk42azlZeFA1NzRlaU1ZS1BrRlI5ZzFjUEhuRDRQR2hyTDN4MGRmVHhGUVkwMmtpOWpxMDB0OXlkc1JHd0NMUnljNWwwaEdrM1lBc0EwZ1MzbUg4YW02cGFrZEd3MFZQN3luV0pILThHRV9JTkh0ZUtXSU5DclpwRzJRcFU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1159,81 +1234,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xVGJTVFV2WVFNQ2hDdFYwRzVYUFRNNU1QLVRMYjBlNzY2cGN0U1ZyRkxsaVlJUXAzclh5a3lsdmRQSm1fYU1MWnhxeHRSOWt5ZldEbkI4eE9IM0hCU3pTWk55QlF4dUFBZFY1TE50U09zcFZXSVdSbEliSDl5UQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-75ca0940b9a9",
-    "date": "November 20, 2026",
-    "publishedISO": "2026-11-20T02:04:15+00:00",
-    "acquirer": "What To",
-    "target": "At Madewell Right Now: Our Current Favorites",
-    "headline": "What To Buy At Madewell Right Now: Our Current Favorites",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Mom Edit",
-    "summary": "What To Buy At Madewell Right Now: Our Current Favorites The Mom Edit",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oT3ZMV2UxNVU3dFdOTzUtZHpmZDlWZWFiWExBUERudUxMSzlLcDlRYjFWeVRoZVptY1daMTNyUkJfaEZxS04yRUxKSFlfVzZ6eXJDYnNrODE0UEQ1cGNaa2hweFhTRXZGbTNCc20zRQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1384,81 +1384,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVd6RkhzTmt0Rm9mYXN5OThOM2FEVU00bDhQclA2M1JWS2ZFenZsTENGN21zUHBVQWM1NVN6blRKc3VIbmRnLWpRWXZSNnQ3cjRaWV90VTRYdEY2LWpiYm9yWFpPczZLblVpdWQ2SXFmVWZ0N1dOQUtuM1cyU2k3QlctWVJFRlItVlpNQ2pXZEJUZ3pnRUJYOHJSOXNvb0xBMk4tejFCTFhBcWdfai1R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7b84a44c754c",
-    "date": "November 19, 2026",
-    "publishedISO": "2026-11-19T20:45:02+00:00",
-    "acquirer": "3 Dividend Kings to",
-    "target": "in November and Never Sell",
-    "headline": "3 Dividend Kings to Buy in November and Never Sell",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Motley Fool",
-    "summary": "3 Dividend Kings to Buy in November and Never Sell The Motley Fool",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVFsendHSVpKLXRlZmp4VnowcUUzYzZ0R19ydk1MN0FqTUFDSDZOendmS0t3LXp5d1M4UV81OGxqTmFwalhqV2ZzTUpVWlBrcWRSVWRZcDhkYTdaSWwxWlNTd1dqdEhVZjF1X0k1T3NWZ2hlUjRWNjB2VjNJQkhFSXdXcjB3eHVFZG9EQV9kNmxnRy1kcEdDdw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1803,7 +1728,7 @@ window.generatedDeals = [
   {
     "id": "news-684ff60293f7",
     "date": "November 18, 2026",
-    "publishedISO": "2026-11-18T21:00:00+00:00",
+    "publishedISO": "2026-11-18T21:01:21+00:00",
     "acquirer": "Exclusive | Palo Alto Networks to",
     "target": "AI-Startup Applied Compute",
     "headline": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
@@ -2209,6 +2134,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aUXljcTFDUHFGc0w5b3QtdEZqSlBRTTAydFVwZEdFaFdsamwxcEJSSVZuUXk5Nmk3WHl3VzJuQ1RiV0RQM3BybVpKd2NmUmdDaFpJbXhWc2s4MDhXRkZ6Y0NDRXhKaGFiejhIa1Qxa2hJc0J3eWc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-25653eaed3b0",
+    "date": "November 16, 2026",
+    "publishedISO": "2026-11-16T13:48:49+00:00",
+    "acquirer": "Diamondback",
+    "target": "Double Eagle Assets",
+    "headline": "Diamondback Agrees to Buy Double Eagle Assets for $5 Billion",
+    "valueBillions": 5.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg",
+    "summary": "Diamondback Agrees to Buy Double Eagle Assets for $5 Billion Bloomberg",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPak5qVG9xemYzbWdyN0pwZFNadmtCSEZWcWZZUTNhSmp4UG9yTGhvWDZLZ2RLV2cwWFBUR0g4SmFXdmpTeDVnaVNqLXlBYUJTazB6bEttckdyVFgyREdQdmY4amNyOXdDRklWTW85UFBsWTVuNEZNdzBhZFAzTEdjQW5kUzd6bjhzOU92M09WdmR6VVJXLXRDQ1gyWXNTdzlpdHltc0RnMlBJUXhSdEVMN2dpQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
