@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-60c622c3a1f5",
-    "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T21:13:00+00:00",
-    "acquirer": "Families rush to",
-    "target": "Christmas trees now that Thanksgiving is over",
-    "headline": "Families rush to buy Christmas trees now that Thanksgiving is over",
+    "id": "news-9181eeca51d7",
+    "date": "November 28, 2026",
+    "publishedISO": "2026-11-28T13:01:18+00:00",
+    "acquirer": "Where to",
+    "target": "Christmas trees in Lake Oswego, West Linn and Wilsonville",
+    "headline": "Where to buy Christmas trees in Lake Oswego, West Linn and Wilsonville",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NBC Connecticut",
-    "summary": "Families rush to buy Christmas trees now that Thanksgiving is over NBC Connecticut",
+    "sourceName": "Wilsonville Spokesman",
+    "summary": "Where to buy Christmas trees in Lake Oswego, West Linn and Wilsonville Wilsonville Spokesman",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORjFHU29vZjQ5UDg5bmJ3Rl9TZW1rel96aDgxZlM2WGFjZE93dm5NcEd4YzJwbUhOVG5YZ3EzNTVFR0ZWcGM1d0dCd3pqZm5zT2hkWk1JMUhyRjhmREZ2T3ZoSjNZNkNyMUhOdXd5cXVDWERLdVdUYi1tMWRvNkY0TTU0X2RMLXBIQTBpMFE2dWl4bTROdkxqUTVBaWh5TjlaZzFkQkYxYmVVOFlCLWxQUHZ6Mk9PeWczVEU2Qk8yQmbSAcgBQVVfeXFMTld0VFFZeHpuTzBoT19WLVF0YzRZWl9qUHJVb2lPbkpFV28xQUt0UFRBcUJ5QVFuOGRPM3BfR3YydzFGT05hUWhBSEVscGNVRFpnMExHSHlMZlFraENFNF9SUE01RGVPQzNrMzdJMGpDdXRFeEF1RmpYbkJPY0xMMlM1RTdaaGtqMUFlYzBGVkFZOXN3ZEVISHBtUXIyYlNrNEdBeXhIbWpYMlZIdGlITHdCU3haU1ZRN2lfMlpnVkR1bW9qREJob0s?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXV5bk9WZWQtSUttdTBUYjc3YklFSGdZVmZoUC1kTDhFUFpqakZVTjFJV2gxNzFHdHFzR0xsRERXd3NsZmo0YzN6ZzB0Tl81YVdFcUtiOGNKYTZLR1QxY2I4YUlTakJJenNBS252Ykc3YVllSTlDQUJhb2l6dWJhdmdfYkVuWWFnZHJVSUFaa0h1dmh2ZW4tbnFfTXR0MnZZSnRQcmJqa19fU0FkcXpXNDZSbFo?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Nov 27, 2026"
+        "date": "Nov 28, 2026"
       },
       {
         "stage": "Terms verified",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7e8fc75db1fa",
-    "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T20:15:00+00:00",
-    "acquirer": "Shopapalooza organizers urge shoppers to",
-    "target": "local this weekend",
-    "headline": "Shopapalooza organizers urge shoppers to buy local this weekend",
+    "id": "news-e9ed25495de5",
+    "date": "November 28, 2026",
+    "publishedISO": "2026-11-28T11:10:32+00:00",
+    "acquirer": "Medicube Owner APR Corp",
+    "target": "Dr. Melaxin",
+    "headline": "Medicube Owner APR Corp Acquires Dr. Melaxin",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bay News 9",
-    "summary": "Shopapalooza organizers urge shoppers to buy local this weekend Bay News 9",
+    "sourceName": "The Business of Fashion",
+    "summary": "Medicube Owner APR Corp Acquires Dr. Melaxin The Business of Fashion",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWIwUWU5V19fT2p5YUxTcWt2cGwyX0dTZEdYdzV0Q3RoYk9TelVjeFdwQnVtclVKLTI2ang2aF90NTF4dkR4OVpHT2dqLWhTNGU4UC1IN25JTzFXdnhnR0hTUW1maGtDUDRaamM2ZElOMENuSzdxQ2szZmlkTjI5NmhWWkFRSnFqZm9vRWx2cHhGa01FRzRQc3FwSDBNdzhOZzJTdVlqMzIwS2d6RTJDODRkYjUwcGlBdFdtOEE3VHpPMDg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0M0Qk1zNTBJZnBSeUVReXk2akU1VVZSSGVqUWpWQ0VEX2lvRkFYQTJNdkZDdldjQ3FZdS00VEhWRGJ4Q0NiZVhfeHFWdlozRmFrSjdPZ0RNY2taWi0zVmdPNHJETjhhM2c3QmszcFF2Q3NUbndHMERLeFlNd1JjUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-60c622c3a1f5",
+    "date": "November 27, 2026",
+    "publishedISO": "2026-11-27T21:13:00+00:00",
+    "acquirer": "Families rush to",
+    "target": "Christmas trees now that Thanksgiving is over",
+    "headline": "Families rush to buy Christmas trees now that Thanksgiving is over",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NBC Connecticut",
+    "summary": "Families rush to buy Christmas trees now that Thanksgiving is over NBC Connecticut",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORjFHU29vZjQ5UDg5bmJ3Rl9TZW1rel96aDgxZlM2WGFjZE93dm5NcEd4YzJwbUhOVG5YZ3EzNTVFR0ZWcGM1d0dCd3pqZm5zT2hkWk1JMUhyRjhmREZ2T3ZoSjNZNkNyMUhOdXd5cXVDWERLdVdUYi1tMWRvNkY0TTU0X2RMLXBIQTBpMFE2dWl4bTROdkxqUTVBaWh5TjlaZzFkQkYxYmVVOFlCLWxQUHZ6Mk9PeWczVEU2Qk8yQmbSAcgBQVVfeXFMTld0VFFZeHpuTzBoT19WLVF0YzRZWl9qUHJVb2lPbkpFV28xQUt0UFRBcUJ5QVFuOGRPM3BfR3YydzFGT05hUWhBSEVscGNVRFpnMExHSHlMZlFraENFNF9SUE01RGVPQzNrMzdJMGpDdXRFeEF1RmpYbkJPY0xMMlM1RTdaaGtqMUFlYzBGVkFZOXN3ZEVISHBtUXIyYlNrNEdBeXhIbWpYMlZIdGlITHdCU3haU1ZRN2lfMlpnVkR1bW9qREJob0s?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a6945137effa",
+    "id": "news-18a878d777d3",
     "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T20:03:50+00:00",
-    "acquirer": "Puig to",
-    "target": "Parfums de Marly owner from Advent in €1.2 billion deal",
-    "headline": "Puig to buy Parfums de Marly owner from Advent in €1.2 billion deal",
+    "publishedISO": "2026-11-27T17:56:30+00:00",
+    "acquirer": "Doncic: I Told Lakers I Wanted Them To",
+    "target": "Kessler",
+    "headline": "Doncic: I Told Lakers I Wanted Them To Acquire Kessler",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Puig to buy Parfums de Marly owner from Advent in €1.2 billion deal Reuters",
+    "sourceName": "Hoops Rumors",
+    "summary": "Doncic: I Told Lakers I Wanted Them To Acquire Kessler Hoops Rumors",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0hlSDU3ZzhTM1JDY2MxREZMRjM2NFhQTm5fSG14Zmp0SFQwUFhSSTRtS25rQllOU29QZy1fZ2tmcGlGZU1rOC1FQUkteE8teXg5UUoxTmdCLXM0LUNtT2dZT29CQ1VVMkFianB6SFhQZnFDN0dhaFJ1WU5vTW5Cd0ZrZnpwOFRxQ1c2blJhRkZMcDE0X08wOFlqWllOR3lxdkxqLUM3T1kyM2syUFA2cTFPOThMamtsVmc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbkZhd3FBQzQydThNemloMGNPUE9qOHZxRHpqUzlUNEFFQkpnUzdtOXJMam1KclQ3RTd6NHRuSlZhQnhONGRGZUZqNmtCRi1sTUJzMzd6VHZjX1l0UFIxUWh0Y0Y4RkVzLVlXaUhHcVVZS0E3STNHVC00WVQyUGJCN2ZnWG5zTlQ4NzBwX2FBanJ5RzRZem1NaG13?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-603e82f2ac04",
+    "id": "news-12bacd67abe8",
     "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T17:57:02+00:00",
-    "acquirer": "The Best 3 Stocks to",
-    "target": "in December to Hold Into 2027",
-    "headline": "The Best 3 Stocks to Buy in December to Hold Into 2027",
+    "publishedISO": "2026-11-27T15:53:40+00:00",
+    "acquirer": "MDA SPACE",
+    "target": "BLUE CANYON TECHNOLOGIES",
+    "headline": "MDA SPACE COMPLETES ACQUISITION OF BLUE CANYON TECHNOLOGIES",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "The Best 3 Stocks to Buy in December to Hold Into 2027 Yahoo Finance",
+    "sourceName": "MDA Space",
+    "summary": "MDA SPACE COMPLETES ACQUISITION OF BLUE CANYON TECHNOLOGIES MDA Space",
     "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,82 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGRkVnQ2OUUwQXFyQmhiVEprRDFyN1RUUm8ydUNFRXp6Tm9sbDhKaHVCZDJtN3RTS2dpQjBVS3JrVjZxZUFlVHJrcnNtTmcxQU9QZVYzWUoyMzFhTkRFQlo3V3FBci11aHczS3lTZlY4RzNvWDBZTjBkQkF1a2JvcDZrM0s1U2YyTWVvcWFJdzJHT2FQdnc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-54ab40be2471",
-    "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T15:51:23+00:00",
-    "acquirer": "REV Exploration",
-    "target": "Forty Mile helium property, building Alberta-Montana portfolio",
-    "headline": "REV Exploration acquires Forty Mile helium property, building Alberta-Montana portfolio",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "gasworld",
-    "summary": "REV Exploration acquires Forty Mile helium property, building Alberta-Montana portfolio gasworld",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVVRQWUxQUUVneEtOdE5hVFB0S2tvcWVCVkZHSV9paFBhNUNYSlRsZE5aaGRsNHlnUi0zMlNkS3ZzOE5kMXhyNDJldnFOT3dqX3JCbEVTcnBGNWVZQzQ3QWJUcl9YajFocnE4dWQtaGNQb0RpMC1DUDI3ZjRzMnAtOVpya1VURjBzczhwZG9WQVB2R0pVQmJOVi1EVVZUaWpHRkJCZVB0Ym1Hbl9GaThpcHBZZ09rbXZNUUh2TEtZYUVEaml3YjNpTF9vdzZFZWs?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkhDcm5OdUhpZzBMX3NqTjNadkFqWGJnQUxqRjhZN0FTdFVxYnhNU0pIclJ3amVndDM2cnEzOHV0YUtQd04yNDRSZTJ1bVU2MjFUZXRkazV0NGswY0txLWFCNlN2UXN5S05TSmQ4cFdiemJoMXFpcFlDX1pydWsxT1dYR0lrcUxpQlJDNjZR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-efc9fd2094fd",
-    "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T14:30:59+00:00",
-    "acquirer": "10 Best Strong",
-    "target": "Stocks to Buy and Hold",
-    "headline": "10 Best Strong Buy Stocks to Buy and Hold For the Next 5 Years",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "10 Best Strong Buy Stocks to Buy and Hold For the Next 5 Years Yahoo Finance",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2ZZRUhyTHpZcUI3aWR0VlJaMFBZbmVQZ2dna1JzQl9lR01Bc3Y1NGttd19hRExDc0szU0RSOTRKWlV6Wm9IM3V1dHVYXzlkUzBHSUlDNHplQW5CdlJRTVRDeFN5UmUtcnhfVUZMb0dfdk5PeVFZQTZCeWJ0dVJzT1N0SEV2dzJJN0ZoZkg4V2taSlBu?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-28694c356f8d",
     "date": "November 27, 2026",
     "publishedISO": "2026-11-27T10:13:51+00:00",
@@ -634,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3Z3REp5RGw2dXhwWEtJNEw2dHh6OUNsX2thc0llSTdDR0kyWUtrVENkOHdJSVhEZThnaC1DdHNvblJXX3BjQWdRTVJfWlMtbUM2U0UwaXFqdmR0QXhwei1tX1VIX0dhZkVkLU1CaEVZQ0xJenZpLU54LTFjNEszT3pJYkREMzI3TjA4RWNPZ1oyQ0FXQXlhTE8ySFQ4bUpzS3h3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5d90eaf69aab",
-    "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T06:28:00+00:00",
-    "acquirer": "Thales in talks to",
-    "target": "controlling Lumibird stake to secure access to laser tech",
-    "headline": "Thales in talks to buy controlling Lumibird stake to secure access to laser tech",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Thales in talks to buy controlling Lumibird stake to secure access to laser tech Reuters",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWx3OUFLZDNDa1BWeXNvS0tMSFZoQlB0RExSRWstOXprSjRNRmljd0w4NlF2M202RUNsTlhuTjJpc3o1RmtrcmdVRnppaUQ2UWdFb0tQdC1DZ1EtYmk2Nk1teVVnZEtlTXhuM2N1cjdkVHNtNGtzOGdVcl9nbVdGSVdOd3J3MnBjWHdabHBXMmFHNjc3Q2pKZFI0OXdCaHF6cm1DNWVkXzlqWnIxX3lKYi1OU2t0TTlTU29CT1gxLXZvRWlTRWhTcEhXbFc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1126,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5119ba6a8492",
+    "date": "November 25, 2026",
+    "publishedISO": "2026-11-25T15:34:41+00:00",
+    "acquirer": "Alabama’s Family Savings Credit Union to",
+    "target": "in-state bank",
+    "headline": "Alabama’s Family Savings Credit Union to buy in-state bank",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Banking Dive",
+    "summary": "Alabama’s Family Savings Credit Union to buy in-state bank Banking Dive",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPczU4blRVaDdiUDg0bEdsVS0wV3F3VlNEWEZKZFdIRlItdnQxYzVwRVVoLXIwYzNObTRSYk54aTYtcnVlYmpCZTBjQWFTNVZ4bXAzMnQ0aFl6Z3F1bVVBTHE3VTRaSkltWGtEc0I1U0lwaUpfR3NFNi0ycHdxWEt6cDVQODdJT1J3ODZBSzNqYzJuWWlxWXRjRDVB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 25, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5c862b86e486",
     "date": "November 25, 2026",
     "publishedISO": "2026-11-25T15:22:50+00:00",
@@ -1234,81 +1159,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY21QaDlQTTVfZjZLNDFwSWpuTFFPVFJsZE52b3kxeGhQNk9kdUF6OEQ3UGU5S192azM5WVZaSjhEeHZIMmJxT04xVGdUU3ZESEhPdmJkUmJlWWltWGNoUzc0azdOa2UtZkFZcmJQbFN1eE5KbHNONG1ubDJXRXkzY0Rn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-69fd12304e5f",
-    "date": "November 25, 2026",
-    "publishedISO": "2026-11-25T08:00:00+00:00",
-    "acquirer": "Sanofi Strikes $41 Billion Deal to",
-    "target": "U.S. Drugmaker Insmed",
-    "headline": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
-    "valueBillions": 41.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed WSJ",
-    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBfakx5WUY1dzBVU0lscUpnMDNrd19fN25wcFpwMU9Wb2ZxdUpOZVJSX2I4NV9sWXlKY2lUeTduMjdLdURsaVVwc2U5dEtQblVuUS12S2RPWl80SjBYdDMzQlpKcTctOFg1SzdRdi1QSWsyakx3ZDFtWWxxSU9DdzRQclZTUHhL?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1726,6 +1576,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-69fd12304e5f",
+    "date": "November 24, 2026",
+    "publishedISO": "2026-11-24T09:39:00+00:00",
+    "acquirer": "Sanofi Strikes $41 Billion Deal to",
+    "target": "U.S. Drugmaker Insmed",
+    "headline": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
+    "valueBillions": 41.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed WSJ",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBfakx5WUY1dzBVU0lscUpnMDNrd19fN25wcFpwMU9Wb2ZxdUpOZVJSX2I4NV9sWXlKY2lUeTduMjdLdURsaVVwc2U5dEtQblVuUS12S2RPWl80SjBYdDMzQlpKcTctOFg1SzdRdi1QSWsyakx3ZDFtWWxxSU9DdzRQclZTUHhL?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-2d0827f26962",
     "date": "November 24, 2026",
     "publishedISO": "2026-11-24T06:34:11+00:00",
@@ -1764,6 +1689,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Nov 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-429f22a35d17",
+    "date": "November 23, 2026",
+    "publishedISO": "2026-11-23T23:40:36+00:00",
+    "acquirer": "5 Surprising Stocks to",
+    "target": "Before Year-End",
+    "headline": "5 Surprising Stocks to Buy Before Year-End",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Morningstar",
+    "summary": "5 Surprising Stocks to Buy Before Year-End Morningstar",
+    "intent": "Automatically detected from a transaction-shaped headline. Verify the original reporting before relying on the terms or rationale.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value is shown only when a clear U.S.-dollar amount appears in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTJQWHF6V0J5RXhsLTRuak5HTjlRZUJ6TmJjcEVrUHQxSm5zdWNURWp4QVZ0MEtxSS1fcHBPMTYxS0Q4SlpVaENTdTlnLXRwbDQydjl1R2I1R2lwMEtoZ2djeGtTWDZRUFh4WUFrU0QwVmI0b3ZOVTY4N1hMNFk5Nk1pOUtSSWxlWGZmWlAxbzlkLVdPb0N1SEt0Yw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 23, 2026"
       },
       {
         "stage": "Terms verified",
